@@ -7,22 +7,28 @@
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Segoe UI',Arial,sans-serif;background:#f0f4ff;color:#222}
-header{background:#1a237e;color:#fff;padding:16px 24px;text-align:center}
-header h1{font-size:20px}
-header p{font-size:12px;opacity:.75;margin-top:3px}
-.wrap{max-width:660px;margin:20px auto;padding:0 12px}
+header{background:#1a237e;color:#fff;padding:14px 20px;text-align:center}
+header h1{font-size:19px}
+header p{font-size:11px;opacity:.7;margin-top:2px}
+.wrap{max-width:680px;margin:18px auto;padding:0 12px}
 .card{background:#fff;border-radius:10px;padding:18px;margin-bottom:14px;box-shadow:0 2px 8px rgba(0,0,0,.1)}
-.card h2{font-size:14px;font-weight:700;color:#1a237e;margin-bottom:10px;display:flex;align-items:center;gap:7px}
+.card-title{font-size:14px;font-weight:700;color:#1a237e;margin-bottom:10px;display:flex;align-items:center;gap:8px}
 .num{background:#1a237e;color:#fff;border-radius:50%;width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0}
 
-/* book list */
-.book-list{list-style:none;max-height:240px;overflow-y:auto;border:1px solid #dde;border-radius:6px}
-.book-list li{display:flex;align-items:center;gap:9px;padding:8px 11px;border-bottom:1px solid #f0f0f0;cursor:pointer}
-.book-list li:last-child{border-bottom:none}
-.book-list li:hover{background:#f0f4ff}
-.book-list input[type=checkbox]{width:16px;height:16px;accent-color:#1a237e;cursor:pointer;flex-shrink:0}
+/* tree */
+.tree{list-style:none;max-height:280px;overflow-y:auto;border:1px solid #dde;border-radius:6px}
+.tree ul{list-style:none;padding-right:18px;border-top:1px solid #f0f0f0}
+.tree-row{display:flex;align-items:center;gap:7px;padding:7px 10px;border-bottom:1px solid #f0f0f0;cursor:default}
+.tree-row:hover{background:#f0f4ff}
+.expander{width:18px;height:18px;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;color:#555;font-size:10px;flex-shrink:0;border-radius:3px;user-select:none}
+.expander:hover{background:#e0e4ff}
+.expander.leaf{cursor:default;color:transparent}
+.tree-row input[type=checkbox]{width:15px;height:15px;accent-color:#1a237e;cursor:pointer;flex-shrink:0}
 .bname{flex:1;font-size:13px}
 .bsize{font-size:11px;color:#aaa;white-space:nowrap}
+.tree-row.depth-1 .bname{font-size:12px;color:#444}
+.tree-row.depth-2 .bname{font-size:12px;color:#666}
+.tree-row.depth-3 .bname{font-size:11px;color:#777}
 .sel-all{font-size:12px;color:#1a237e;cursor:pointer;text-decoration:underline;margin-bottom:6px;display:none}
 
 /* folder */
@@ -30,52 +36,52 @@ header p{font-size:12px;opacity:.75;margin-top:3px}
 .fname{flex:1;font-size:12px;color:#555;background:#f5f5f5;padding:6px 10px;border-radius:5px;min-height:30px;word-break:break-all}
 
 /* buttons */
-btn,button{padding:9px 20px;border:none;border-radius:7px;cursor:pointer;font-size:13px;font-family:inherit}
+button{padding:8px 18px;border:none;border-radius:7px;cursor:pointer;font-size:13px;font-family:inherit}
 .b-blue{background:#1a237e;color:#fff}
 .b-blue:hover{opacity:.88}
 .b-blue:disabled{background:#b0bbd8;cursor:not-allowed}
 .b-gray{background:#e8eaf6;color:#1a237e}
 .b-gray:hover{background:#c5cae9}
+.b-green{background:#2e7d32;color:#fff;font-size:15px;padding:12px 28px;width:100%;margin-top:12px}
+.b-green:hover{opacity:.88}
+
+/* extract panel */
+#extractPanel{display:none;margin-top:14px;padding:16px;background:#e8f5e9;border-radius:8px;border:2px solid #4caf50;text-align:center}
+#extractPanel p{font-size:13px;color:#1b5e20;margin-bottom:10px;line-height:1.7}
+#extractPanel strong{font-size:14px}
 
 /* drop zone */
-#dropZone{display:none;margin-top:14px;border:2px dashed #7986cb;border-radius:10px;padding:24px 16px;text-align:center;background:#f3f4fc;cursor:pointer;transition:background .2s}
-#dropZone.over{background:#dce0f8;border-color:#3949ab}
-#dropZone .dz-icon{font-size:36px;margin-bottom:8px}
-#dropZone .dz-main{font-size:15px;font-weight:600;color:#1a237e;margin-bottom:6px}
-#dropZone .dz-sub{font-size:12px;color:#888}
-#dropZone .dz-pick{color:#1a237e;text-decoration:underline;cursor:pointer}
+#dropZone{border:2px dashed #81c784;border-radius:8px;padding:14px;margin-top:10px;text-align:center;background:#f1f8e9;cursor:pointer;transition:background .2s;font-size:12px;color:#555}
+#dropZone.over{background:#dcedc8;border-color:#388e3c}
 
 /* progress */
 .prog{list-style:none;margin-top:12px}
-.prog li{display:flex;align-items:center;gap:9px;padding:8px 11px;border-radius:7px;margin-bottom:5px;font-size:13px;background:#f5f5f5}
+.prog li{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:7px;margin-bottom:5px;font-size:12px;background:#f5f5f5}
 .prog li.wait{background:#fff8e1}
 .prog li.work{background:#e3f2fd}
 .prog li.done{background:#e8f5e9}
 .prog li.fail{background:#ffebee}
 .prog-bar-wrap{height:5px;background:#ddd;border-radius:3px;margin-top:8px;overflow:hidden;display:none}
-.prog-bar{height:5px;background:#1a237e;border-radius:3px;transition:width .3s;width:0}
-
-/* info banner */
-.info{font-size:12px;color:#555;background:#e8eaf6;padding:8px 12px;border-radius:6px;margin-bottom:10px;line-height:1.6}
+.prog-bar{height:5px;background:#4caf50;border-radius:3px;transition:width .3s;width:0}
 </style>
 </head>
 <body>
 <header>
   <h1>📚 הורדת ספרי אוצריא</h1>
-  <p>בחר ספרים, בחר תיקייה — ואחרי ההורדה גרור לכאן לחילוץ אוטומטי</p>
+  <p>בחר תיקיות, בחר יעד, הורד — ואחר כך בחר את הקבצים לחילוץ אוטומטי</p>
 </header>
 <div class="wrap">
 
   <div class="card">
-    <h2><span class="num">1</span> בחירת ספרים</h2>
+    <div class="card-title"><span class="num">1</span> בחירת ספרים</div>
     <span class="sel-all" id="selAll" onclick="toggleAll()">✔ בחר הכל / בטל הכל</span>
     <div id="loading" style="color:#888;font-size:13px">טוען רשימה...</div>
-    <ul class="book-list" id="bookList" style="display:none"></ul>
+    <ul class="tree" id="tree" style="display:none"></ul>
   </div>
 
   <div class="card">
-    <h2><span class="num">2</span> תיקיית יעד לחילוץ</h2>
-    <p style="font-size:12px;color:#666;margin-bottom:8px">בחר את תיקיית הספרייה של אוצריא — הספרים יחולצו ישירות לתוכה</p>
+    <div class="card-title"><span class="num">2</span> תיקיית יעד לחילוץ</div>
+    <p style="font-size:12px;color:#666;margin-bottom:8px">בחר את תיקיית הספרייה של אוצריא — הקבצים יחולצו ישירות לתוכה</p>
     <div class="frow">
       <button class="b-gray" onclick="pickFolder()">📁 בחר תיקייה...</button>
       <div class="fname" id="folderName">לא נבחרה עדיין</div>
@@ -83,17 +89,18 @@ btn,button{padding:9px 20px;border:none;border-radius:7px;cursor:pointer;font-si
   </div>
 
   <div class="card">
-    <h2><span class="num">3</span> הורדה וחילוץ</h2>
-    <div class="info" id="dlInfo" style="display:none">
-      ⬇️ הספרים הורדו לתיקיית ההורדות של הדפדפן.<br>
-      כשכל קובץ יסיים — <strong>גרור אותו מסרגל ההורדות לתוך הריבוע הכחול למטה</strong> לחילוץ אוטומטי.
-    </div>
+    <div class="card-title"><span class="num">3</span> הורדה וחילוץ</div>
     <button class="b-blue" id="btnDl" onclick="startDownloads()" disabled>⬇️ התחל הורדות</button>
 
-    <div id="dropZone" ondragover="dzOver(event)" ondragleave="dzLeave()" ondrop="dzDrop(event)" onclick="pickFiles()">
-      <div class="dz-icon">📦</div>
-      <div class="dz-main">גרור לכאן קובץ ZIP שהורדת</div>
-      <div class="dz-sub">או <span class="dz-pick">לחץ לבחירה ידנית</span></div>
+    <div id="extractPanel">
+      <p>
+        ✅ <strong>ההורדות החלו לתיקיית ההורדות של הדפדפן</strong><br>
+        המתן להשלמת ההורדות, ואז לחץ את הכפתור הירוק כדי לבחור אותן ולחלץ אוטומטית:
+      </p>
+      <button class="b-green" onclick="pickAndExtract()">📂 בחר את קבצי ה-ZIP לחילוץ</button>
+      <div id="dropZone" ondragover="dzOver(event)" ondragleave="dzLeave()" ondrop="dzDrop(event)">
+        או גרור קבצי ZIP לכאן ישירות
+      </div>
     </div>
 
     <div class="prog-bar-wrap" id="barWrap"><div class="prog-bar" id="bar"></div></div>
@@ -108,75 +115,147 @@ const REPO     = 'Open-Otzarya-Projects/Otzarya-Unofficial-Books';
 const MANIFEST = `https://raw.githubusercontent.com/${REPO}/main/manifest.json`;
 const DL_BASE  = `https://github.com/${REPO}/releases/latest/download`;
 
-let books = [], dirHandle = null, allChecked = false;
+let allItems = [], dirHandle = null, allChecked = false;
 let totalItems = 0, doneItems = 0;
 
-/* ── load manifest ── */
+/* ── init ── */
 async function init() {
   try {
     const r = await fetch(MANIFEST);
-    const data = await r.json();
-    books = data.filter(b => b.depth === 0).sort((a,b) => a.label.localeCompare(b.label,'he'));
-    renderBooks();
+    allItems = await r.json();
+    buildTree();
   } catch(e) {
     document.getElementById('loading').textContent = 'שגיאה: ' + e.message;
   }
 }
 
-function renderBooks() {
-  const ul = document.getElementById('bookList');
+/* ── tree builder ── */
+function buildTree() {
+  const byPath = {};
+  allItems.forEach(it => byPath[it.path] = { ...it, children: [] });
+  allItems.forEach(it => {
+    if (it.parent && byPath[it.parent]) byPath[it.parent].children.push(byPath[it.path]);
+  });
+  const roots = allItems.filter(b => b.depth === 0)
+    .sort((a,b) => a.label.localeCompare(b.label,'he'))
+    .map(b => byPath[b.path]);
+
   document.getElementById('loading').style.display = 'none';
   document.getElementById('selAll').style.display = 'inline';
-  ul.style.display = 'block';
-  books.forEach((b,i) => {
-    const li = document.createElement('li');
-    li.onclick = () => { const cb=document.getElementById('c'+i); cb.checked=!cb.checked; chk(); };
-    li.innerHTML = `<input type="checkbox" id="c${i}" onclick="event.stopPropagation()" onchange="chk()">
-      <span class="bname">${b.label}</span><span class="bsize">${b.size}</span>`;
-    ul.appendChild(li);
-  });
+  const treeEl = document.getElementById('tree');
+  treeEl.style.display = 'block';
+  roots.forEach(node => treeEl.appendChild(makeNode(node)));
+}
+
+let cbIdx = 0;
+function makeNode(node) {
+  const li = document.createElement('li');
+  const id = 'cb' + (cbIdx++);
+  const hasChildren = node.children && node.children.length > 0;
+
+  const row = document.createElement('div');
+  row.className = 'tree-row depth-' + node.depth;
+  row.dataset.zip = node.zip;
+  row.dataset.path = node.path;
+
+  const exp = document.createElement('span');
+  exp.className = 'expander' + (hasChildren ? '' : ' leaf');
+  exp.textContent = hasChildren ? '▶' : '';
+  row.appendChild(exp);
+
+  const cb = document.createElement('input');
+  cb.type = 'checkbox'; cb.id = id;
+  cb.onchange = chk;
+  row.appendChild(cb);
+
+  const lbl = document.createElement('label');
+  lbl.htmlFor = id;
+  lbl.className = 'bname';
+  lbl.textContent = node.label;
+  row.appendChild(lbl);
+
+  const sz = document.createElement('span');
+  sz.className = 'bsize';
+  sz.textContent = node.size || '';
+  row.appendChild(sz);
+
+  li.appendChild(row);
+
+  if (hasChildren) {
+    const ul = document.createElement('ul');
+    ul.style.display = 'none';
+    node.children
+      .sort((a,b) => a.label.localeCompare(b.label,'he'))
+      .forEach(child => ul.appendChild(makeNode(child)));
+    li.appendChild(ul);
+
+    exp.onclick = () => {
+      const open = ul.style.display !== 'none';
+      ul.style.display = open ? 'none' : 'block';
+      exp.textContent = open ? '▶' : '▼';
+    };
+    row.querySelector('label').ondblclick = () => exp.onclick();
+  }
+  return li;
 }
 
 function toggleAll() {
   allChecked = !allChecked;
-  document.querySelectorAll('#bookList input').forEach(c=>c.checked=allChecked);
+  document.querySelectorAll('#tree input[type=checkbox]').forEach(c => c.checked = allChecked);
   chk();
 }
 function chk() {
-  const any = [...document.querySelectorAll('#bookList input')].some(c=>c.checked);
+  const any = [...document.querySelectorAll('#tree input[type=checkbox]')].some(c => c.checked);
   document.getElementById('btnDl').disabled = !(any && dirHandle);
 }
 function selected() {
-  return [...document.querySelectorAll('#bookList input')].map((c,i)=>c.checked?books[i]:null).filter(Boolean);
+  return [...document.querySelectorAll('#tree .tree-row')].filter(row => {
+    const cb = row.querySelector('input[type=checkbox]');
+    return cb && cb.checked && row.dataset.zip;
+  }).map(row => allItems.find(it => it.path === row.dataset.path)).filter(Boolean);
 }
 
 /* ── folder picker ── */
 async function pickFolder() {
   try {
-    dirHandle = await window.showDirectoryPicker({ mode:'readwrite' });
+    dirHandle = await window.showDirectoryPicker({ mode: 'readwrite' });
     document.getElementById('folderName').textContent = '📁 ' + dirHandle.name;
     chk();
   } catch(e) {
-    if (e.name!=='AbortError') document.getElementById('folderName').textContent = 'שגיאה: '+e.message;
+    if (e.name !== 'AbortError') document.getElementById('folderName').textContent = 'שגיאה: ' + e.message;
   }
 }
 
-/* ── trigger browser downloads ── */
-function startDownloads() {
+/* ── start downloads ── */
+async function startDownloads() {
   const sel = selected();
   if (!sel.length || !dirHandle) return;
   document.getElementById('progList').innerHTML = '';
-  document.getElementById('dlInfo').style.display = 'block';
-  document.getElementById('dropZone').style.display = 'block';
   document.getElementById('barWrap').style.display = 'block';
-  totalItems = sel.length; doneItems = 0;
-  updBar();
-  sel.forEach(b => {
+  document.getElementById('extractPanel').style.display = 'block';
+  totalItems = sel.length; doneItems = 0; updBar();
+
+  for (let i = 0; i < sel.length; i++) {
+    const b = sel[i];
     const a = document.createElement('a');
     a.href = `${DL_BASE}/${b.zip}`; a.download = b.zip;
     document.body.appendChild(a); a.click(); document.body.removeChild(a);
-    addLi(b.zip, 'wait', '⏳', `ממתין: ${b.label} — גרור לכאן אחרי ההורדה`);
-  });
+    addLi(b.zip, 'wait', '⏳', `ממתין לחילוץ: ${b.label}`);
+    await new Promise(r => setTimeout(r, 300));
+  }
+}
+
+/* ── file picker + extract ── */
+async function pickAndExtract() {
+  if (!dirHandle) { alert('בחר תחילה תיקיית יעד (שלב 2)'); return; }
+  let handles;
+  try {
+    handles = await window.showOpenFilePicker({
+      multiple: true,
+      types: [{ description: 'ZIP files', accept: { 'application/zip': ['.zip'] } }]
+    });
+  } catch { return; }
+  for (const h of handles) await handleZip(await h.getFile());
 }
 
 /* ── drag & drop ── */
@@ -189,51 +268,37 @@ async function dzDrop(e) {
   }
 }
 
-/* ── manual file pick ── */
-async function pickFiles() {
-  if (!dirHandle) { alert('בחר תחילה תיקיית יעד (שלב 2)'); return; }
-  try {
-    const handles = await window.showOpenFilePicker({
-      multiple: true,
-      types: [{ description:'ZIP', accept:{'application/zip':['.zip']} }]
-    });
-    for (const h of handles) await handleZip(await h.getFile());
-  } catch {}
-}
-
-/* ── process one zip file ── */
+/* ── extract one zip ── */
 async function handleZip(file) {
   if (!dirHandle) { alert('בחר תחילה תיקיית יעד (שלב 2)'); return; }
-  const book = books.find(b => b.zip === file.name) || { label: file.name, path:'' };
-  const li = getLiByZip(file.name) || addLi(file.name,'work','⚙️',`מחלץ: ${book.label}...`);
-  setLi(li,'work','⚙️',`מחלץ: ${book.label}...`);
+  const item = allItems.find(it => it.zip === file.name) || { label: file.name, path: '' };
+  const li = getLiByZip(file.name) || addLi(file.name, 'work', '⚙️', `מחלץ: ${item.label}...`);
+  setLi(li, 'work', '⚙️', `מחלץ: ${item.label}...`);
   try {
-    const buf = await file.arrayBuffer();
-    const zip = await JSZip.loadAsync(buf);
-    const parts = book.path ? book.path.split('/').filter(Boolean) : [];
+    const zip = await JSZip.loadAsync(await file.arrayBuffer());
+    const parts = item.path ? item.path.split('/').filter(Boolean) : [];
     let cur = dirHandle;
-    for (const p of parts) cur = await cur.getDirectoryHandle(p, {create:true});
+    for (const p of parts) cur = await cur.getDirectoryHandle(p, { create: true });
     for (const [name, entry] of Object.entries(zip.files)) {
       if (entry.dir) continue;
       const segs = name.split('/'); const fname = segs.pop();
       let d = cur;
-      for (const s of segs) d = await d.getDirectoryHandle(s, {create:true});
-      const fh = await d.getFileHandle(fname, {create:true});
+      for (const s of segs) d = await d.getDirectoryHandle(s, { create: true });
+      const fh = await d.getFileHandle(fname, { create: true });
       const wr = await fh.createWritable();
       await wr.write(await entry.async('blob'));
       await wr.close();
     }
-    setLi(li,'done','✅',`הושלם: ${book.label}`);
+    setLi(li, 'done', '✅', `הושלם: ${item.label}`);
     doneItems++; updBar();
   } catch(e) {
-    setLi(li,'fail','❌',`שגיאה — ${book.label}: ${e.message}`);
+    setLi(li, 'fail', '❌', `שגיאה — ${item.label}: ${e.message}`);
   }
 }
 
-/* ── progress helpers ── */
 function updBar() {
   if (!totalItems) return;
-  document.getElementById('bar').style.width = `${Math.round(doneItems/totalItems*100)}%`;
+  document.getElementById('bar').style.width = `${Math.round(doneItems / totalItems * 100)}%`;
 }
 function getLiByZip(zip) {
   return [...document.querySelectorAll('#progList li')].find(li => li.dataset.zip === zip);
