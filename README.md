@@ -1,6 +1,6 @@
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/1fb565c5-d159-455d-a892-ca0f73035b5e" />
 
-# OtzarLib
+# Otzarya-Unofficial-Books
 מאגר ספרים מותאמים לתוכנת אוצריא
 
 מאגר זה מכיל קובצי TXT שעברו התאמה טכנית לשימוש בתוכנת אוצריא.
@@ -8,9 +8,8 @@
 
 ## הורדת המאגר
 מכיוון שהמאגר מכיל קבצים גדולים, הורדה רגילה דרך כפתור ה-"Download ZIP" הירוק של GitHub עלולה לשבש את הקבצים. 
-
-**מומלץ להוריד את המאגר המלא מכאן:**
-# [לחצו כאן להורדת המאגר המלא (ZIP)](https://github.com/Otzarya-Org/Otzarya-Library/releases/latest/download/full-library.zip)
+## ניתן להוריד את הספרים דרך התוסף הייעודי לכך
+- ניתן להתקינו באוצריא - דרך חנות התוספים, למעבר - לחצו (כאן)[https://otzaria.org/plugins/6a0081ae54ae49eaed8d6a73]
 
 הבהרה חשובה:
 **הקבצים מיועדים לשימוש פרטי בלבד ואינם חלק מההפצה הרשמית של התוכנה.**
