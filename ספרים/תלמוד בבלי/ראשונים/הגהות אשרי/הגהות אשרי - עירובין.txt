@@ -1,0 +1,323 @@
+<img src="data:image/png;base64,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" >
+<h1> הגהות אשר"י - עירובין</h1>
+<h2>פרק א</h2>
+<h3>סימן א</h3>
+<b>*</b> וכן פסק מיימוני [פרק י"ז מהל' שבת הל' יד] ע"כ:
+** ומהרי"ח פסק כרב ע"כ:
+<b>***</b> או שיש ציור או כיור בקורה עד שיהיו הכל מסתכלין בה. א"ז מהרמ"ק:
+<h3>סימן ג</h3>
+<b>*</b> ואצבע שמשערים בו בכל מקום הוא רוחב אגודל של יד והטפח ד' אצבעות. א"ז בספ"ק:
+<h3>סימן ד</h3>
+<b>*</b> חוקק ד' אמות על ד' אמות כן פסק המיימוני (שם הל' ט"ז) וכן נראה למור"ם. מרדכי מהרמ"ק ע"כ:
+** ובא"ז פסק כאביי בתרוייהו וכן מיימוני עד כאן:
+<b>***</b> ור"ת פירש דלא קי"ל כאביי בלחי העומד מאליו. מרדכי מהרמ"ק:
+<h3>סימן ה</h3>
+<b>*</b> ואע"פ שלא הועמד לכך סמכינן עלי' ד' אמות צריך לחי אחר להתירו ואם מתחילה הועמד לשם לחי מותר והמשוך לאורך המבוי שאין סותם את הפתח צריך לחי אחר א"ז מהרמ"ק ע"כ:
+<h3>סימן ו</h3>
+<b>*</b> ופסק מוהר"ם דאפילו יש בעקמומית יותר מעשר סגי בלחי אפי' לרב מיבעי למעבד צ"ה בשני ראשים דכאילו הוא מפולש פירוש שנתפשט כזה דאז לא הוי בעי מידי בעקמומיתו וה"נ בעינן לחי כדי שיראהו מכאן ומכאן. מרדכי מהרמ"ק ע"כ:
+<h3>סימן ז</h3>
+<b>*</b> והא דקאמר רב חנן בר אבא בעשר מיירי שנפרץ למקום מטונף או מקולקל בטיט ואין דרך רה"ר לעבור באותה פרצה והיכא דאיכא גדודי לכולי עלמא לא אסור עד שיהא יותר מעשר. מהרי"ח:
+<h3>סימן ח</h3>
+<b>*</b> הלכה כת"ק וסגי בצ"ה ודוקא דליכא בקיעה אלא מבני מבוי אבל אם בקעי כל בני העיר מכאן ומכאן דרך אותו מבוי המפולש שאורך אותו מבוי כנגד הסרטיא והפלטיא או שהאורך מכאן נגד שערי העיר מכאן ומכאן אז לא סגי בצ"ה דאתו רבים ומבטלי מחיצתא ואף ע"ג דלא הוי אלא י' והר"ם מאיבר"א אומר לא סגי בדלת אא"כ ננעלת בלילה ואפילו לפירוש רש"י דלא הוי רה"ר אלא בבקיעת ס' רבוא ה"מ לענין חיובא אבל לענין איסור טלטול לא ואפילו בפחות מי'. הגה"ה סמ"ק מהרמ"ק:
+<b>**</b> וכן משמע פרק קמא דשבת (דף ו ב) דבעי ס' רבוא דקאמר התם כאן בזמן שישראל שרויים במדבר. מרדכי מהרמ"ק ע"כ:
+<b>***</b> והא דלא עבדינן כתרי חומרי היינו דוקא דסתרו אהדדי אבל לא סתרו אהדדי אף על גב דהאי בין למר בין למר שרי יכול לאסור אותו כתרי חומרי כיון דלאו חד טעמא הוא. פר"י מהרי"ח:
+<b>****</b> ובנפרצה מבעוד יום א"נ נפרצה בשבת ולא אמרינן הואיל והותרה אלא דוקא בכותל שבין שתי חצרות דחד תשמישא הוי אבל מבוי וחצר לא. מרדכי מהרמ"ק ע"כ:
+<h3>סימן ט</h3>
+<b>*</b> לחי או מחיצה דאי נשיב ביה זיקא לא מצי קאי לא חשיב לחי והוא הדין מחיצה. פר"י מהרי"ח:
+<b>**</b> בערוך וכן המיימוני [פי"ז מהל' שבת הלכה ה] פסק דאין חוששין שמא יעלה הים שרטון אבל מהר"ם פסק כרב נחמן דאומר חכמים אוסרין. מהרמ"ק ע"כ:
+<b>***</b> וכן אם המבוי הגדול סתום ומבואות קטנים פתוחים לו מימין ומשמאל ואויר מבוי קטן זה כנגד סתימת מבוי קטן האחר. ולפרשב"ם דאית ליה אפילו אויר זה כנגד זה. א"ז מהרמ"ק ע"כ:
+<h3>סימן י</h3>
+<b>*</b> ואם יש צ"ה מניח באלכסון וכן ראיתי רבותי נוהגין. אגודה ע"כ:
+<b>**</b> פתוח לרשות הרבים ואין בלחיים ארבעה על ארבעה. א"ז בע"כ:
+<h3>סימן יא</h3>
+<b>*</b> מבוי שרצפו בלחיים בפחות משלשה והוי משך רצופה ד' אמות באורך המבוי צריך לחי אחר להתיר מבוי זה שבין לחיים אבל מלחי הפנימי ואילך מיהא שריא לרבינו שלמה ונראה בעיני אפי' מלחי הפנימי ולפנים אין ניתר. מא"ז:
+<b>**</b> ואם נכנסין כותלי קטנה לגדולה והפליג הכניסות מכותלי אורך הגדולה טפי משלשה טפחים משני הצדדין גדולה מותרת וקטנה אסורה. מא"ז:
+<h3>סימן יב</h3>
+<b>*</b> ופס ג' דקעביד אין צריך פס שלם אלא קנים קנים פחות מג' דכלבוד דמי. מרדכי ע"כ:
+<b>**</b> ואי שביק פתחא רבה ועייל בפתחא זוטא בטל כל תיקון המבוי ואי עבדי צ"ה לזוטא לא בטל. מא"ז:
+<h3>סימן יג</h3>
+* וכן מיימוני:
+<h3>סימן יד</h3>
+<b>*</b> צ"ה מהני בעשר בכל ד' רוחות ובה"ג כתב צ"ע משום דרב יוסף ובהלכות סוכה כתב בס"ה ובסמ"ק דאם יתר מי' לא מהני צ"ה אלא בעינן שיהא גם עומד מרובה. מהרמ"ק ע"כ:
+<b>**</b> ולא שיהא תחוב בין שניהם מזה לזה באמצעיתן. א"ז מהרמ"ק:
+<b>***</b> לא נהגו העולם לעשות היכר ציר וסומכים על המבוי הנעשה בעיר נרבונ"א שלא היה בו היכר ציר. סמ"ק והביאו בהגהות מיימון מהרמ"ק:
+<b>****</b> ונראה דאפי' יש ביניהם יותר מג' שריא פחות מג' רב ששת מודה. מרדכי מהרמ"ק:
+<b>*****</b> פסק מהר"ם בתשובה על לחי המרוחק למעלה מן הקורה דאין שוה מטעמא דצ"ה שעשאה מן הצד ואע"פ שהקורה מונחת על הלחי השני כראוי צריך מזה ומזה שיהו הלחיים תחת הקורה. הג"ה פט"ז מהרמ"ק:
+<h3>סימן טו</h3>
+* מבוי שהתרנו בלחי וקורה ע"י שיתוף דוקא. מא"ז מהרמ"ק:
+<b>**</b> והמפולש אפי' מפולש לבקעה או למבוי אחר עושה צ"ה מכאן ולחי או קורה מכאן. מרדכי:
+<b>***</b> וכן א"ז. והרמב"ם כתב מבוי פחות מג' אין צריך כלום דפחות מג' כלבוד מכלל דפחות מד' צריך ושמא מספקא ליה אי הלכתא כרב אחלי אי לא מיהו נראה לי כמו שכתבתי. לשון ר"מ מרדכי מהרמ"ק:
+<h3>סימן טז</h3>
+* [אשפה שבחצר] ומחלון שעל גביו זורקין ושופכין לו בשבת:
+<h3>סימן יז</h3>
+<b>*</b> נראה למור"ם דניתר בשני טפחין משהו מכאן ומשהו מכאן. מרדכי וכן בא"ז מהרמ"ק:
+<b>**</b> ואינה צריכה בתים וחצירות פתוחים לתוכה וכ"ת מ"ש ממבוי י"ל דמבוי קרוב לרה"ר לכך הצריכו תרתי אבל חצר דרחוק מר"ה לא צריך והשתא מבואות שלנו דקרובים לרה"ר צריכין ב' לחיים ואע"ג דאורכן יותר על רחבן כיון דליכא חצרות פתוחות לתוכו ואף ע"ג דאין לנו רה"ר גמורה מ"מ מיחלף שאין בתים וחצרות פתוחים לתוכו או שאין ברחבו ד' אמות אינו ניתר אלא בב' לחיים או בפס ד'. סמ"ק מהרמ"ק. וכן ס"ה:
+*** בא"ז כתב בית לכל חצר. מהרמ"ק:
+<h3>סימן יח</h3>
+<b>*</b> פסק מור"ם הלכתא רחבה אע"פ שאינה בריאה כדברי המיקל ודלא כרב אלפס מהרמ"ק וכן בא"ז רחבה אע"פ שאינה בריאה מהרמ"ק כשהכשר המבוי בצ"ה לא בעינן קורה טפח אלא קנה כל שהוא ובלבד שלא יהא ניטל ברוח ומה שעושים לחיים בסיד מחוי או צ"ה יפה עושין וממני יצאו בכולם +כולם+ כי בתחלה בעיר ווירצבורג היו הנכרים עוקרים אותם אמרתי לעשותם בסיד מחוי או בגפסי' שמדביקין אותם אצל החומה כעובי אצבע וחזק יותר מחוט הסרבל או קנה וכשהקורה ע"ג יש בה כח לקבל קורה ואריח ושלום העלוב מאיר ב"ב מרבי מהרמ"ק:
+** וכן בא"ז כרב חסדא וכן סה"ק. מהרמ"ק:
+*** וצריך שיהו שוות. א"ז מהרמ"ק:
+<b>****</b> נראה למוהר"ם דוקא בנוגעות אבל אין נוגעות אפי' בפחות משלשה לא אמרי' לבוד ודעת המיימוני אינו כן הג"ה פי' מהרמ"ק:
+***** מעשרה גרס בגרמא:
+<h3>סימן יט</h3>
+* וכ"ש הילמי דמותר. מרדכי מהרמ"ק:
+<h3>סימן כ</h3>
+<b>*</b> כגון שלא היה שם לחי אחר אע"פ שלא סמכו על זה בפירוש מאתמול הוי לחי. מא"ז מהרי"ח:
+<b>**</b> וכפי' זה הוא הדין במבוי שצדו אחד ארוך וצדו אחד קצר דפחות מד' אמות מניח את הקורה באלכסון דכיון דלחי משום מחיצה קורה נמי משום מחיצה לפי' דמפרש דהא דמסיק הכא אביי לטעמיה דאמר לחי משום מחיצה היינו לטעמיה דלעיל גבי היה גבוה מעשרים אמה ובא למעטו בכמה רב יוסף אמר טפח אביי אמר ארבע ומפרש דטעמיה דאביי דקורה [משום] מחיצה והיינו לטעמיה מיהו לפי' ר"ח דלא גרס הכא אביי לטעמיה דאפשר קי"ל דקורה משום היכר ולפר"ת נמי דלא קי"ל הכא כאביי א"כ מניח הקורה כנגד הקצר כדפי' לעיל. מא"ז:
+<h3>סימן כא</h3>
+<b>*</b> והראב"ד כתב דעושה לחי אפי' באיסורי הנאה. בכל עושין קורה אבל לא באשירה לפי שיש ברחב הקורה שיעור וכל השיעור אסור משום אשירה. מא"ז:
+** אפי' קטנות מעשר. מא"ז:
+<b>***</b> בין במבוי בין בחצר ואם הפרצות פחותות מג' אפי' ברובה שרי דכלבוד דמי אין הפרצות עשר [אין] אוסרות לא בחצר ולא במבוי אלא א"כ הוי מלואה דכותל ופרצה ד' אוסרת בקרן זוית. מא"ז:
+**** קי"ל אפשר לצמצם אפי' בידי שמים. א"ז:
+<h3>סימן כג</h3>
+<b>*</b> שיריים הן ד' טפחים ודבר מועט אינו מגיע לרוחב שני שלישי אצבע. א"ז:
+<b>**</b> וכן שתי חצירות וכותל ביניהם ועירבו זו לעצמה וזו לעצמה ונפל הכותל שביניהם בשבת זה מטלטל עד עיקרו של מחיצה וזה מטלטל עד עיקר המחיצה אבל חצר או בית שנפרץ משתי רוחות בשבת וכן מבוי שניטלו קורותיו או לחייו בשבת אסורין לאותו שבת ולא אמרי' הואיל והותרה הותרה כיון דליתנהו למחיצות וכן פירש רש"י לעיל גבי לחי העומד מאיליו דקאמר היכא דלא סמכי' עליה מאתמול כולי עלמא לא פליגי דלא הוי לחי ופירש"י כגון שהיה שם לחי אחר ונפל בשבת והשתא אי אמרי' גבי שבת הואיל והותרה הותרה מה לנו ללחי אחר. מא"ז:
+<b>***</b> אוירא דהאי גיסא ודהאי גיסא מבטלי מחיצתא היכא שכל אחד ואחד בפני עצמו רחב יותר מן המחיצה ועומד גמור מרובה על הפרוץ משתי רוחות הוי עומד אבל אם אלו עומדים פרוצים הם אלא שעושין עומדים ע"י לבוד לא הוי עומד. האצבע שמשערים בה בכל מקום היא רחב אגודל של יד והטפח ד' אצבעות. מא"ז:
+<h3>סימן כד</h3>
+<b>*</b> וקיימא לן עירובי תחומין דרנן ושיירא שחנתה בבקעה והקיפוה אלו ואלו ומחיצה ביניהם ויש שם פתח צריכין לערב עירובי חצירות וגם עירובי תחומין אי בעי למיזל חוץ לאלפים אמה. מא"ז:
+<b>**</b> ובפרק בכל מערבין חשבינן לה אין לו עיקר מן התורה מיהו י"ל כיון שאין כתובה בפי' חשיב לה אין לו עיקר כדי שלא יחלוק תלמודנו על הירושלמי אבי"ה מרדכי מהרמ"ק:
+ 
+<h2>פרק ב</h2>
+<h3>סימן א</h3>
+* והלכה כרבי יהודה. א"ז מהרמ"ק:
+<b>**</b> בהמה העומדת בבית וחלונות פתוחים לרה"ר ואיבוס מתוקן לפניה גבוה עשרה ורחב ד' דהוי רה"י וראש האיבוס נכנס לבין הפסין לא ימלא מן הבור ויגביה הדלי על ראש האיבוס ויוליכנו אל הבהמה. וכן אם הבהמה אצל בין הפסין ואוכלת בו לא ימלא הדלי ויתן בראש האיבוס של בין הפסין ויאחזנו והיא שותה ואפילו נקיט מנא ונקיט לה לא סגי בראשה ורובה אלא ממלא ושופך המים בכלי והוא שותה מאליה. תל המתלקט י' מתוך ד' נידון משום דיומד חצר שראשה נכנסת לבין הפסין מותר לטלטל מתוכה לבין הפסין ומבין הפסין לתוכה שתים אסורות ואם ערבו מותרות. יבשו המים בשבת אסור חזרו בשבת חזרו להיתרן. קירב הפסין לבור שאין ראשה ורובה של פרה נכנסת שם אסור אפי' לגדי קטן להשקות כל היכא דאיכא ב' מחיצות מעלייתא אפי' רחב ט"ז אמה ובקעי ס' רבוא לא אמרינן אתו רבים ומבטלי מחיצתא וכן בשל ד' מחיצות כמו פסי ביראות. א"ז מהרמ"ק:
+<b>***</b> ואם הבאר רחב שאין אדם יכול לטפס ולירד בו ולשתות הותר גם לאדם. מא"ז:
+**** לא יאריך בדיומדין אלא מפיש פשוטין. א"ז מהרמ"ק:
+<b>*****</b> והוא דקאזיל לדבר מצוה או לרגל. מא"ז: ואפי' בחוצה לארץ התירו פסי ביראות כגון דקאזיל ללמוד תורה או לכיוצא בו לדבר מצוה וכגון שצריכין מי גשמים דאיכא דחק של מים דלא שכיחי מיא. מא"ז:
+<h3>סימן ב</h3>
+<b>*</b> אבל גינה וקרפף שהקיפום בגדר גבוה עשרה טפחים ויש שם שומירה דהיינו סוכת שומרים או בית דירה או שתהא סמוכה לעיר דהואיל וקרובה לביתו דעתו עליה להשתמש בה תדיר וכהוקף לדירה דמי אפי' גדולים הרבה שרי. מא"ז:
+<h3>סימן ג</h3>
+* וכן המיימון פי"ו מהלכות שבת הלכה ה'. מהרמ"ק:
+<h3>סימן ד</h3>
+<b>*</b> מבוי שכלה לרחבה יתירה על בית סאתים ולא הוקפה לדירה וחד גיסא [פתוח למתא וחד] דרחבה פתוח לשביל של כרמים דסליק לגודא דנהרא ושפת הגודא גבוה עשרה דהוי מחיצה ליעבד לחי אפומא דרחבה בסוף המבוי וצ"ה בראשו האחר של מבוי הפתוח לרה"ר ויטלטל במתא וברחבה וממתא לרחבה ושביל גופיה אסור ואפומא דשביל לא עבדינן לחי שלא יאמרו לחי מועיל לשביל מפולש דליכא גודא. מא"ז:
+<b>**</b> אבל בא"ז פסק כרבה בר שימי דמתני לקולא והלכה כרבה:
+*** וכן המיימון שם הלכה ז' ובא"ז פסק כרבה. מהרמ"ק:
+<b>****</b> ולחצר איכא גיפופי ואין הפרצה יותר מעשרה ואי הוה איפכא תרוייהו שרי דכרבי שמעון סבירא לן דכולן רשות אחת הן דיתורא בקרפף ליכא שהרי איכא גיפופי. מא"ז:
+<h3>סימן ה</h3>
+<b>*</b> היכא שנפל גודא דקרפף שממנו היה פתח הבית פתוח לתוכו ומזה הפתח היה מוקף לדירה לא סמכי' אמחיצות גווייתא דבית. מהרמ"ק:
+<h3>סימן ו</h3>
+<b>*</b> ופרדס גדול שלא הוקף לדירה סמוך לבית ובנה בו בית יעשה שביל בקנים פחות משלשה מפתח ביתו לפתח הבית שבנה ויטלטל דרך השביל. מא"ז:
+<h3>סימן ז</h3>
+<b>*</b> נראה דהל' כרבנן מדקאמר ובקשתי לי חבר וכו' ואין שייך לומר הלכה כדברי המיקל בעירוב כיון דאיכא חומרא במילתיה דר' אלעאי דלדידיה אין מבטלין וחוזרין ומבטלין. מרדכי מהרמ"ק:
+ 
+<h2>פרק ג</h2>
+<h3>סימן א</h3>
+<b>*</b> לא כפירוש רש"י דפי' עירובי חצירות ותחומין דעירובי חצירות דוקא בפת כדאמרי' לקמן דף עא א מרדכי מהרמ"ק:
+<b>**</b> מערבין בכשות ושיעורן מלא יד ובחזיז הגדל בגינה ושיעורו מלא תרמילו של רועה בקר מערבין בתרדין חיין אבל לא בבשיל ולא בשיל ורש"י סובר דמערבין בתבלין עוכלא היינו משקל ט' דינרין פחות רביע מערבין בקב תמרים או בקב גרוגרות או במנה דבילה ובשתיתא ושיעורן ב' תרוודין ובקליות ושיעורן ב' מדות דפומבדיתא. א"ז. וכן המיימוני [פ"א מהל'   הל' יא] הזכיר עוכלא תבלין וכתב בהגה"ה דמשמע בספר בפירוש דאין מערבין בו דפריך ותבלין לאו בני אכילה נינהו וכן שאלתי למורי והודה לדברי. הגה"ה פי"ו ומהרמ"ק:
+*** ורבינו שמשון אומר דוקא בנתן לתוכן שמן. מא"ז:
+**** תפוחי יער קאמר דגריעי מ"ר. מהרמ"ק:
+<b>*****</b> ושאר כל הפירות כדי שימכור ויקח בהן מזון שתי סעודות וחומץ כדי לטבל בו ירק או בשר הנאכל בשתי סעודות עם הפת. מערבין בשכר ושיעורו בתרי כסי דשתי איניש חד מינייהו לכל סעודתא מערבין לחולה ולזקן כדי מזונו ולרעבתן כבינוני של כל אדם. מא"ז:
+<h3>סימן ב</h3>
+* וכן בא"ז:
+<b>**</b> וכתב המיימון (פ"ו מהלכות   הל' י"ז) דבבית הקברות אף לישראל אינו עירוב. מהרמ"ק:
+<h3>סימן ד</h3>
+<b>*</b> ויש אורך עשרה ורחב ארבעה בזקיפתו או שהוא סתום למטה שאין הגדיים בוקעים בו ואפילו אין אורך עשרה בזקיפתו א"ז:
+<b>**</b> נתנו בכלכלה שאין בה רחב ארבעה ותלאו באילן גבוה י' ואין בו רחב ד' והעירוב נתון בשולי הכלכלה תוך ג' לגב האילן שפיר חשיב עירוב מונח על מקום ד' דחוקקין להשלים ולא הוי רה"י כיון שאין רחב ד' מתחיל תוך ג' סמוך לקרקע ואפילו לרבי יוסי ב"ר יהודה כיון דלא הדרן מחיצות ואם האילן גבוה י' ורחב ד' ותלה הכלכלה בו אף על גב דחורי רה"י כרה"י אם הכלכלה ארוכה שיכול לנטות ראש הא' ולהביא תוך עשרה וליטול את עירובו עירובו עירוב. נתכוין לשבות ברה"ר והניח עירובו בכותל למעלה מי' עירובו עירוב בראש המגדל העומד אצל הכותל נתכוין לשבות והניח עירובו בכותל למעלה מעשרה עירובו עירוב אבל נתנו בטפח תשיעי ורבים מכתפים עליו והמגדל מסומר שאין יכול לנטותו למטה מי' אם הוא ארוך שאם יטהו למטה מי' אזיל ראשו חוץ לד' אמות אין עירובו עירוב ואם יש חלון במגדל כנגד מקום שהעירוב שם ויש חבל בידו וקשור החבל בעירוב מבעוד יום עירובו עירוב. א"ז מהרמ"ק:
+<b>***</b> וקנים הרכים דהוו כירק מותר להשתמש בהן אע"פ שהן מחוברין לקרקע דבירק לא הזכירו חכמים שבות. מא"ז:
+<b>****</b> וכן פר"י דלהוליכו פחות פחות מד' אמות נמי גזרו בין השמשות מר' מהרמ"ק:
+<h3>סימן ה</h3>
+<b>*</b> וא"ז פסק דאין בנין וסתירה בכלים והכא איירי במגדל שהוא אהל ומוקי לה אביי ורבא כגון דבעי סכינא למיפסקיה ויכול לטלטל הסכין לכך אע"ג דאין עיקר תשמישו לכך אין זה סתירה גמורה אלא פתיחת דלת בעלמא ואע"ג דהאי מגדל אהל הוא אינו אלא שבות ובין השמשות לא גזרו עליו מא"ז. עי' פ' חבית בהגה"ה:
+<b>**</b> נתנו בבית המובלע תוך אלפים אפילו נתנו בסוף הבית שהוא רחוק חוץ לאלפים קנה עירוב. מהרמ"ק:
+*** עין פרק במה מדליקין בסופו:
+**** ספק עירוב כשר היכא דאיכא למימר אוקמא אחזקתיה. מהרמ"ק:
+<h3>סימן ו</h3>
+<b>*</b> וקי"ל דיש ברירה בין בדאורייתא בין בדרבנן. כתב ר"ת אמר לחמשה הריני מערב על איזה מכם שארצה רציתי ילך לא רציתי לא ילך רצה אפילו משחשיכה ילך דקי"ל יש ברירה: מור"ם כתב אע"ג דקי"ל בכל התלמוד אין ברירה בתחומין דרבנן קי"ל יש ברירה. מר' מהרמ"ק:
+<h3>סימן ז</h3>
+<b>*</b> מערב אדם לשבתות של כל השנה כלומר מניח פת לסוף אלפים במקום המשתמר על כל השנה ובאיזה שבת שירצה ילך על סמך עירוב זה וכשלא ירצה הרי הוא כבני עירו. מא"ז:
+<b>**</b> וכתב בפר התרומה מכאן דשירי פתילה ושירי מדורה שכבו בשבת אסור להדליקן ביו"ט שלאחריו. וכן בשני ימים טובים של ר"ה כבו בראשון אסור להדליקן בשני וה"ר ישעיה מתיר דאין זה קרוי הכנה. מא"ז: וכן נראה לראבי"ה דאסור לטלטלן כמו ביצה וראייתו מן הירושלמי דהכא ודספ"ג ד  וכן רשב"ט פסק בהו באיסור וכן בסה"ת ואור"י דנהגו להדליק וסמכו דתלמוד שלנו לא חשיב זה הכנה מרדכי פ"ק דביצה ע"ש. מהרמ"ק:
+<b>***</b> היה לפניו ב' ככרות אחת טמאה ואחת טהורה ואמר עירבו לי בטהורה כל מקום שהיא והניח שתיהם בסוף התחום אינו עירוב אמר ככר זה היום חול ולמחר קדש ואמר עירבו לי בה הוי עירוב היום קדש ולמחר יהא מחולל על מעות שיש לי בבית אינו עירוב קי"ל תחלת היום קונה עירוב. א"ז מהרמ"ק: והכנה היא דאורייתא ואפיה ובשול הויא הכנה וכן צ"ל בחול מכאן אני אוכל למחר ביו"ט שחל להיות ע"ש אין מערבין לא עירובי חצרות ולא עירובי תחומין מניח אדם עירובי תבשילין ועירובי חצרות מיו"ט לחבירו ומתנה ולא עירובי תחומין. מא"ז:
+<b>****</b> יש לנו לסמוך מכאן דמי שבא בספינה מחוץ לתחום ביו"ט שחל להיות בערב שבת דמותר לו בשבת לצאת ממנו ולהכנס לעיר ולהלך את כל העיר כד' אמות אע"ג דקניית שביתה מיו"ט לשבת קרי הכנה כדקתני אי אתה מודה שאין מערבין לכתחלה וכו' הני מילי שהולך ומערב בפת דהויא הכנה דקרי ליה שם עירוב וכן מערב ברגליו דבעי למימר שביתתי במקומי דבדבור מכין אבל הכא לא קאמר ולא מידי ולא הויא הכנה. מא"ז: ובעיו"ט אומר עירובי של מזרח יקנה לי היום לצורך מחר שהוא יום ראשון ועירובי של מערב יקנה לי לי בין השמשות דלמחר לצורך יום שני. א"ז מהרמ"ק: (שייך לעיל אחר הגה"ה היו לפניו) מכאן משמע שמותר לאכול העירוב מיד משחשיכה וכן מנהגו של מהר"ם שהיה עושה תמיד עירובי חצירות בכל ערב שבת ואוכל ככר העירוב מיד משחשיכה. הגה"ה פ"ו מהרמ"ק:
+<h3>סימן ח</h3>
+* וה"ה בכל עירובי חצירות ותחומין ותבשילין. מר' מהרמ"ק:
+<b>**</b> דבר הניצוד והנלקט מן המחובר ביו"ט ראשון של גליות רש"י מתיר ביום טוב שני אחר שהמתין בכדי שיעשו וכן רבינו גרשון מאור הגולה וכן רבינו קלונימוס איש רומי וה"ג ור"י אוסרין עד מוצאי י"ט שני בכדי שיעשו ורבי' יואל כתב ושמא אין צריך להמתין כ"א כדי שילקט או שיצוד ולא כדי שיביאו ממקום שלקטו או צדו אבל דבר הנצוד או נלקט ממילא או בשביל נכרי אין צריך כלל להמתין בכדי שיעשו ומותר ביו"ט שני לכ"ע ואפילו אם אחר צידתו נמלך והביאו לישראל כיון שלא צדו בשביל ישראל אין צריך להמתין בכדי שיעשו רבי' יואל. מא"ז:
+<h3>סימן ט</h3>
+<b>*</b> ולאותו ישראל אסור אפילו לערב עד כדי שיבואו ממקום שהובאו משם והתסו' לא פסקו כך ואפילו אם הוא רחוק הרבה וספק אם הלילה עולה וכו' וכל הפסק כתוב מס' ביצה. יש גאונים שאומרים דהא דתנן הולך אדם אצל חנווני הרגיל אצלו ביו"ט ואומר לו תן לי אגוזים ואפרסקין וכו' זהו דוקא בחנווני ישראל ולא בחנווני אחר. מא"ז:
+<b>**</b> אבל אם היום נתלש מעיקרו אסור אע"ג דאדעתא דנכרים אתא וטעמא משום מוקצה ואפילו לר"ש דלית ליה מוקצה דדמי לגרוגרות וצמוקים ועוד האריך בתוס'. מא"ז:
+<h3>סימן י</h3>
+<b>*</b> דפשיטא דבראייה רשות בעלמא לא חובה היא מהר"י ול"נ לפרש רשות לא קמבעיא לי דפשיטא דרשות מדקאמר אנא אפילו אקרא וכו' משמע אני מחמיר על עצמי. מר' מהרמ"ק:
+<b>**</b> וכן כתב רש"י וראבי"ה ור"י בן אליעזר וה"ר מאיר בשם ר' יוסף טוב עלם אבל ר"י בר' יהודה לא חייב לומר זמן אלא בליל ראשון ורבינו שמואל בשם רבי' ש"י אומר שיש לומר זמן גם ביום שני אתקיעת שופר ורבינו ניסים גאון השיב לרב מבורך גאון דזמן סוכה שהוא דאורייתא פוטר את הלולב ואין זמן של ר"ה שהוא דרבנן פוטר את השופר מלומר עליו זמן [המקדש טועם מלא לוגמיו אור"ת דלאו דוקא מלא לוגמיו דהא הוי טפי מרביעית כו' מהרמ"ק] והמתענה בע"ש מתענה ומשלים אם ירצה ואם לא השלים עדיף טפי. מא"ז:
+<b>***</b> ואומר יום הזכרון הזה ואם רוצה שלא להזכיר מקראות של מוספין כגון שאומר מפי כבודך ושותק הרשות בידו ואם התחיל כאמור יאמר ובראשי חדשיכם וגו' ונאמר ובחדש השביעי וגו' רש"י ורבינו מאיר ורבינו שמואל וכן הנהיג רבינו יצחק סגן לוויה ור"ת היה מתפלל כך ובחדש השביעי באחד לחדש וכו' עד כבשים בני שנה שבעה תמימים מלבד עולת החדש ומנחתה [ועולת התמיד ומנחתה] ונסכיהם כמשפטם לריח ניחוח כו' עד עשרון לכבש ויין כנסכו ושני שעירים לכפר ושני תמידין כהלכתן ובערוך [ערך חדש] כתב שאין מזכיר בר"ה ובראשי חדשיכם לא בתפלה ולא בזולתה היינו שאין אומרים אחר ההפטרה על יום ר"ח גם שאין אומרים בקרבנות ובראשי חדשיכם בסדר המיימוני כתוב מלבד עולת החדש ואין כתוב בו ובראשי חדשיכם. מא"ז:
+ 
+<h2>פרק ד</h2>
+<h3>סימן א</h3>
+<b>*</b> הוליכוהו לעיר אחרת פרש"י שמוקפת מחיצות וכן הביא ר"י ראיה מפ"ב דר"ה (דף כג ב) דבאינה מוקפת מחיצות לא חשיבא כד' אמות להלך את כולה ולפי זה צריך ליזהר בדבר הבא מחוץ לתחום אפילו בא בשביל ישראל זה דמותר לישראל אחר או הבא בשביל נכרי שלא יטלטלוהו חוץ לארבע אמות בעיר שאינה מוקפת מחיצות ואפילו אם היא מוקפת מחיצות צריך שתהא מוקפת לדירה ישבה ולבסוף הוקפה וסתם עיירות הם מוקפות לדירה אבל מבצרים סתמייהו הוקפו ולבסוף ישבו עכ"ד התוס' וכן התיר רבינו יואל ספינה הבאה מחוץ לתחום בשבת לעיר שהוקפה לדירה דכל העיר להם כד' אמות וכן פרש"י הבא לעיר שיש לה מחיצות כדיר וסהר ורבי' אפרים ב"ר יצחק אסר דעיר לא הוי רשות היחיד ממש לטלטל בתוכה כמו דיר וסהר ואפלו אם יש עיר שהיא רה"י אין להתיר אא"כ באה הספינה לתוך שער העיר ובקשתי להתיר מפני כבוד הבריות דכשיושב כל היום נצרך לנקביו ואז כיון דעל על לעיר ומסתפינא מחברייא ורבי' יואל התיר אפילו בשלא נכנסה אלא לנמל וכתב אי לאו דמסתפינא מחברייא הוה אמינא אפלו היקף אין צריך כו'. ורבינו אפרים מבונא כתב דעיר הוי כדיר וסהר כרבינו יואל אבל כשנכנסה לנמל לא התיר אלא א"כ גדול הנהר ונכנס לתוך פנימית הבנין על שפת הנהר ממש וכתב שבענין אחר לא מצינו גאון שהתיר ונהגו איסור ואין להקל מסברת רבי' אפרי' מבונא ז"ל. מרדכי לקמן מהרמ"ק:
+<b>**</b> וכן מי שבא בספינה לתחום בשבת או בי"ט והוצרך לנקביו יוצא וממשמש את נקביו ואי פיקח הוא נכנס לתחום ונכנס לעיר והויא ליה כל העיר כד' אמות וחוצה לה אלפים. מא"ז:
+<h3>סימן ב</h3>
+<b>*</b> בשוגג יאכלו במקום שהם שם ואם חזרו אפילו במזיד לא הפסידו את מקומן ומותרים אפילו לאותו ישראל שהחזירם לצורכו משום דהני פירות קנו שביתה ממש בין השמשות בזאת העיר ולא דמי לדבר הבא מחוץ לתחום דאסור משום דעבד בהן איסורא מיהו אותו שהחזיר במזיד לדידיה אסור הואיל ועשה בהן איסור שהביאם מחוץ לתחום מא"ז. והתוס' מתירים אפלו לאותו שהחזירם:
+** ע"כ במרדכי מהרמ"ק:
+<b>***</b> ולמורי רבי' נראה דלישראל אחר מותר וכן משמע בתוס' לקמן [דף מז ב ד"ה דכולא] גבי הנהו דיכרי וכו' דבתוך ארבע אמות מותר לישראל אחר ולא חיישינן דלמא מפיק להו. מרדכי מהרמ"ק:
+**** ואסור לפסוע יותר מאמה בשבת היכא דאפשר. מא"ז:
+<b>*****</b> וטלטול כי אורחיה אסור אפילו תוך אלפים דפרוץ הוא במלואו למקום האסור לו לענין טלטול. מהרי"ח: ובא"ז פסק דשרי תוך אלפים:
+<b>******</b> ר"ח פסק כרבי יהושע אבל המיימוני פסק כמו האלפס. א"ז: וכן פי' התוס' ורש"י כר"ג. מהרמ"ק:
+<b>*******</b> וכן פסק מהרי"ח אבל אם יצא לדעת אפילו הוא בדיר וסהר אין לו אלא ד' אמות לפיכך הבא בספינה מחוץ לתחום בעוד שהספינה מהלכת לא קנה ד' אמות לפי שהספינה מהלכת ובכל קפיצה קופצת יותר מד' אמות ונמצא שאין לו תורת ד' אמות כלל שלא עמד פסיעה אחת לתוך ד' אמות הלכך לא קני ליה בד' אמות כלל ואפ"ה בעמדה מהלך את כולה ולא אמרי' מחיצות להבריח מים עשויות. מא"ז:
+<h3>סימן ג</h3>
+<b>*</b> ואותם בני אדם שמדליקין נרות בספינה בערב שבת ואוכלין שם ופורשין בשבת לא יפה עושים. אגודה וכן התוס' בשם ר"י:
+<b>**</b> ר"י אוסר ליכנס בספינה בשבת אפילו אינו רוצה לצאת חוץ לתחום ואם עבר ונכנס ויצאה חוץ לתחום מהלך את כולה ורשב"ם מתיר ליכנס בה ואם יצאה חוץ לתחום אין לו אלא ארבע אמות וכן סובר אבא מורי דאין לו אלא ד' אמות. א"ז מהרמ"ק:
+<b>***</b> ואם עבר ונכנס לספינה בשבת והפליגה אומר ר"ת דלא שרינן בדיר וסהר להלך את כולה אלא כשהכניסוהו נכרים אבל זה שבאיסור נכנס על מנת להפליג נראה דאין לו אלא ד' אמות. דמה לי שנכנס לתוך השדה במזיד מה לי שנכנס לתך הבית או לתוך הספינה. מהרי"ח:
+<b>****</b> אי אפשר לקנות שביתה בספינה בשום ענין אם לא שיכנוס בה בעצמו קודם בין השמשות וישב שם בהש"מ ולאחר בהש"מ ילך לביתו ויאכל וישוב לספינה אחר אכילתו בלילה או למחר ביום. ואם נפחתו דופני הספינה למחר אף על פי ששבת באוירו אין לו אלא ד' אמות: נראה למור"ם דאין שייך בה קניית שביתה אפילו להלך את כולה במה שמניח סעודתו לשם כיון שנסעה משם. מרדכי בפ"ק דשבת. מהרמ"ק: וכן מהר"מ. מהרמ"ק:
+<b>*****</b> וכן פסק מהרי"ח ובא"ז פסק דאין תחומין למעלה הואיל ופרישית לעיל דקיימא לן תחומין דרבנן. מהרי"ח מא"ז:
+<h3>סימן ד</h3>
+<b>*</b> וכן א"ז. וכן אם עירבו בני רה"ר עם בני רה"י ונפלה המחיצה בשבת עושים מחיצה של בני אדם אבל לא היתה שם מחיצה מע"ש לא יכנסו. א"ז מהרמ"ק:
+<b>**</b> הוו כלדעת מכאן מדקדק מור"ם דבני אדם שעשאן פעם אחת מחיצה אין לעשותן עוד מחיצה אע"ג דהוו שלא לדעת שמא ירגישו ואם נעשו לצורך אדם אחר שלא לדעת רפיא בידי. מרדכי מהרמ"ק:
+<b>***</b> יצא מחוץ לתחום לדבר הרשות אפילו אמה אחת לא יכנס ואם יצא לדבר מצוה כגון לעדות החודש או חכמה הבאה לילד או להציל מן הגייס או מן הנהר ואמרו לו כבר נעשה מעשה ואינך צריך לילך יש לו אלפים אמה לכל רוח. א"ז:
+**** וכן אור זרוע:
+<h3>סימן ו</h3>
+<b>*</b> ובזמן הזה אם באו שוללים על עסקי ממון יוצאין עליהן בכלי זיין ומחללין עליהן את השבת וכן מותר לכבות את הדליקה בזמן הזה מפני שיש שדרים בין קצת אומות [כשיש דליקה באים] ושוללים והורגים ולא גרע מעיר הסמוכה לספר. מא"ז:
+** וכן פירש האלפס והמיימון. מהרמ"ק:
+<h3>סימן ח</h3>
+<b>*</b> אלא הרי הן כרגלי המוציא ואפילו אם נתנן לחבירו מ"מ הם כרגלי הראשון וכן גשמים שירדו בין בעי"ט בין ביו"ט וכן נהרות המושכין ומעיינות ואפילו מים מכונסים של כל בני אדם הרי הן כרגלי הממלא. מהרי"ח:
+<b>**</b> וכן באבל קי"ל כדברי המיקל ואפילו יחיד במקום רבים ואפילו לענין יום ראשון שהוא דאורייתא כפי' ה"ג כגון שאם מת התינוק ביום שלשים דפטור מאבילות אפילו ביום ראשון כדאיתא פ' יש בכור (דף מט א) וזהו לשון הלכות גדולות דאם מת לו מת ביום ראשון של מועד או בחולו של מועד אין נוהג אבילות וגם אין עולה לו למנין רק יו"ט האחרון שהוא דרבנן עולה אע"פ שאינו נוהג בו אבילות כלל ואם מת לו מת ביום אחרון נוהג אבילות בו ביום דהוי יום ראשון דאורייתא ויו"ט דרבנן. מהרי"ח:
+<h3>סימן ט</h3>
+<b>*</b> מכאן דהא דהלכה כדברי המיקל בעירוב ובאבל דוקא בתנאי אבל באמוראי לא מיהו בתוס' פ' הדר (דף סו. ד"ה יפה) גבי פונדק דאתא נכרי בשבת דאפילו באמוראי אית להו כללא ואין נראה לי כדפרישית. מהרמ"ק:
+<h3>סימן י</h3>
+<b>*</b> והמשאיל כלי לנכרי והחזירו לו הנכרי ביו"ט או בשבת הרי הוא כרגלי הנכרי ואם עירב הישראל למזרח או למערב אינו יכול להוציאו מאלפים אלו אבל כל העיר לו כד' אמות וגם יש להם אלפים אמה לכל רוח. מא"ז:
+<b>**</b> מיהו אם הביאו לתוך הבית כל הבית נעשה לו כד' אמות ר"י מהרי"ח. לא אמר שיהא חשוב כד' אמות אלא בית סאתים ומוקפת מחיצות או יותר מבית סאתים והוקף לדירת בני אדם ואם יש סביב העיר חפירה שהתל שלה גבוה עשרה טפחים הרי היא מוקפת מחיצה וכלים ששבתו בתוך התחום אם שבתו סמוך לעיר הרבה הרי הן כרגלי העיר ואם ברחוק לעיר כגון בסוף התחום יש לו אלפים אמה ממקומו. מא"ז:
+<h3>סימן יא</h3>
+<b>*</b> ודוקא במוכנסין ובעומדין בין שני תחומי שבת אבל מים הנובעין מתחום זה לתחום זה אפילו הן של יחיד הרי אלו מותרין דכיון דניידי לא קנו שביתה מא"ז ומהרי"ח דהכא אין צריך אפילו מחיצה של קנים להפסיקו אלא אלו ממלאין מתחום שלהן ואלו משלהן דחפצי הפקר אין קונין שביתה ואפי' הן תוך התחום הרי הן כרגלי הממלאן. מא"ז:
+<h3>סימן יב</h3>
+<b>*</b> וכגון שנתנה האמצעית עירובה בזו ועירובה בזו אבל אם נתנו החיצונות עירובן באמצע בבית אחד הוי להו חדא ושרו כל שלשתן לכ"ע. מהרי"ח:
+<h3>סימן יג</h3>
+<b>*</b> ורש"י פי' למ"ד משום קנין קטן אין נעשה שליח. הגה"ה פי"ו מהרמ"ק:
+<b>**</b> בית שמניחין בו את העירוב אינו צריך לתת פת ואע"פ שאין פת בבית כלל שפיר דמי אין מערבין עירובי חצרות אלא בפת ואפילו אין בו שוה פרוטה ובכל מיני פת מערבין ומשתתפין במבוי בכל מין חוץ מן המים ומלח דשתוף דמבוי אינו אלא לשתף רשות החצרות שבמבוי ולא רשות הבתים וחצר לאו דירה. ככר שלם אפילו כאיסר מערבין לו בה ובלבד שיהא שם ככרות הרבה עד שיהא כגרוגרת לכל אחד ואפי' מאפה סאה והיא פרוסה אין מערבין לו בה משום איבה שבאין לידי מחלוקת אני נותן שלם ואתה פרוסה וכולהו בפרוסות נמי לא שמא יחזור הדבר לקלקולו שזה יתן פרוסה וזה שלם ואיכא איבה. ככר שנפרסה ותפרה בקיסם ואין מקום תפירתה ניכר מערבין בה אין מערבין בפת דוחן מערבין בפת עדשים ובלד שלא יהו בה משאר מינים הגרועים. מא"ז:
+<b>***</b> ונעשה תחתיו חמר גמל ואם האילן רחב ח' אמות לא יזוז ממקומו ורבי' שב"ט ז"ל אומר דאפי' ברחב ח' אמות ויותר קונה שביתה. א"ז: אלפים וד' אמות יהבי רבנן ובין ד' אמות דחוץ לתחום בין אלפים כולהו בעינן מרובעות. א"ז מהרמ"ק:
+**** וכן המיימוני וס"ה:
+<h3>סימן טז</h3>
+<b>*</b> והמודד ממקום שביתתו אלפים אמה וכלה מדתו בעיר או במערה אין יכול לצאת מהאלפים שלו. מיהו לפי הירו' דמפרש ההוא דשבת בבקעה והקיפוה נכרים אינו מהלך אלא אלפים דאתיא כרבי יהושע א"כ לדידן דקיימא לן כר"ג היה מותר להלך כל תוך המחיצה אפילו טפי מאלפים. וכן כלה מדתו בעיר או במערה מהלך את כולה. מהרי"ח:
+ 
+<h2>פרק ה</h2>
+<h3>סימן א</h3>
+<b>*</b> נפשות לא בעו בית דירה דסתמא לדירת שומר הקבר עבידי כדפי' רש"י וכל הנך דמתני' דמתעברין בעו ד' אמות על ד' אמות והא דלא קתני גבייהו משום דכיון דתנא שיש בהן בית מסתמא הוה ד' אמות על ארבע אמות דבציר מהכי לא חזי לדירה. מ"ר מהרמ"ק:
+<h3>סימן ג</h3>
+<b>*</b> יושבי צריפין כיושבי קברים ועל בנותיהם הוא אומר וכו' מפני שמרגישין זה בזה בטבילה ונ"ל בשביל זה נהגו הנשים להיות צנועות בליל טבילתן שלא לילך במהומה. אגודה:
+<b>**</b> והמיימון [פרק כ"ח מהל' שבת הל' א'] פסק כחכמים. הרמ"ק:
+<h3>סימן ו</h3>
+<b>*</b> האלפס נקט לישנא בתרא דלקולא אבל מור"ם כתב נראה דהל' כלישנא קמא דלא שנו אלא במתלקט י' מתוך ארבע דסתמא דתלמודא מתני לה. מרדכי מהרמ"ק:
+<h3>סימן ט</h3>
+* וכן בא"ז:
+<b>**</b> והיכא שכל הקהל רגילין לערב יחד אינן רשאין ליחלק. א"ז מהרמ"ק:
+<b>***</b> וצ"ע אם יש לו לגמרי דין עיר של יחיד ואין מערבין אותה לחצאין או אין דינו ומערבין לחצאין וכו'. מר' מהרמ"ק:
+<h3>סימן יא</h3>
+* ולפרשב"ם ג' חצירות של שני בתים. א"ז:
+<b>**</b> וקנה שביתה בביתו רש"י ורב אחאי גאון ורשב"ט פי' דאין לו אלא ארבע אמות. א"ז מהרמ"ק:
+<h3>סימן יג</h3>
+<b>*</b> והמיימון פירש שיעמדו על הדקה וישתמשו בנחל מודדין להם אלפים משפת הנחל השני ואם אין דקה הנחל נמדד מאלפים שלהן וכן פירש מהמ"ן משמו. מהרמ"ק:
+<b>**</b> וכן פסק המיימוני [פ"ו מה'   הל' ד] פסק כרבי אלעזר דאמר אחד שובת ואחד מניח מהלך את כולה וכו' דהלכה כדברי המיקל בעירוב אפילו בכהאי גונא וכן לעיל פסק כרב הונא בהר המתלקט ולב מהר"ם מהסס בדבר דהא תלמודא מקשה הכל לר"א אע"ג דמשני להו ואנן אשנויי דחיקי ניקום וניסמוך. מרדכי מהרמ"ק:
+ 
+<h2>פרק ו</h2>
+<h3>סימן א</h3>
+<b>*</b> חצירות [של נכרים] כדיר בהמה מותר להכניס ולהוציא הישראל המתארח שם ואם יש שם ישראל אחר אסור לאורח להוציא מבתי ישראל לחצר אבל האורח אינו אוסר עליו. מרדכי:
+<b>**</b> ובא"ז פסק +וכן [פסק] ר"ב ממרגניי' פרק קמא דחולין דצריך. מר' מהרמ"ק+ דצריך להשכיר מן הנכרי בכל שבת ושבת ולא מצי למיגר בפעם אחת לשבתות הרבה דמידי הוא טעמא אלא כדי שיצא מן החצר ולא ילמד ממעשיו ואי פעם אחת שוכר ודיו אמאי יצא והלא שוכר אפי' בפחות משוה פרוטה. וכן ישראל הדר עם הנכרי בעל ביתו בבית אחד אע"פ שנותן לו שכר דירה צריך לשכור ממנו בכל שבת כדי לטלטל כדי להטריח על ישראל שיצא משם ואם יש שם מבעלי הבתים נכרים אפילו עשרה ודרים כולם עמו בבית צריך למיגר רשות מכולהו. מא"ז מהרמ"ק:
+<b>***</b> פסק ר"מ בשני יהודים הדרים בכרך אחד שאין די בזה שקונים רשות מן השר אלא ישכרו מבני העיר מכל א' לבדו אכן אם יש בעלי בתים מן הנכרים שמקבלים פרס מן השר לאותן די שישכרו מן השר כדאמר האחין שאוכלים משל אביהן אין צריכין לערב. מרדכי:
+**** וכן א"ז:
+<b>*****</b> בתוספות כתוב ודלתותיהם נעולות בלילה ואין נראה למהר"ם. מרדכי מהרמ"ק:
+<h3>סימן ב</h3>
+<b>*</b> ספ"ק דמגילה (דף י"ד ב) וילך אחיקם אל חולדה הנביאה ובמקום ירמיה היה ואומר הספר משום דקרובה שביק לה ירמיה מכאן שיכולין להורות במקום דידוע דלא קפיד רבו. וקצת גמגום יש:
+<h3>סימן ד</h3>
+* וכן בהגהות מיימון מסיק דלא כר"ת. מהרמ"ק:
+<b>**</b> היו חמשה שכירו ולקיטו דרים בחדרים ובעליות אם אחד לא נתן עירובו אין אוסר דלהחמיר לא שוינהו כבעלים. מא"ז:
+<h3>סימן ה</h3>
+<b>*</b> דרך מיל ושינה כל שהוא מפיגין את היין. וכגון שלא שתה אלא רביעית אבל שתה יותר מרביעית כל שכן שהשינה משכרתו ודרך מטרדתו. ודוקא שהולך ברגל אבל רכוב אין מטרדתו וגם אם לא שתה אלא רביעית דאמר דרך מיל מפיג היין רכוב שאני ובעי שלש מילין. והא דאמר רב נחמן מתירין נדרים בין עומד בין מהלך פרק נערה המאורסה (דף ע"ז ב) מסיים בה עומד יחידי בלילה וגם בקרובים אמר התם דמפירים: כל הנודר ראוי לדוקרו בחרב פ"ב דנדרים (דף כב א) אמר דלא פתחינן בהכי דמתוך יראה יאמר אדעתא דהכי לא נדרינא אף על פי שהוא משקר ועוד פסק התם הלכה דפותחים בחרטה. פר"י מהרי"ח: וה"ג סברי אין פותחין בחרטה אבל קי"ל דפותחין בחרטה פירש ר"ת והיינו שאין צריך פתח וטעם לדבר מדוע נתחרט עתה אלא בלא שום טעם שעתה מתחרט למפרע והוה ניחא ליה שלא נדר נדר זה מעולם מתירים לו מיד ואין צ"ל אדעתא דהכי מי נדרת מיהו מי שמתחרט על הנדר מכאן ואילך אין מועיל עד שיתחרט למפרע והוה ניחא מעיקרא שמעכשיו ברצונו לא היה חל בנדר זה מעולם אבל מי שמתחרט מעכשיו ולהבא אין מועיל. פר"י מהרי"ח:
+<h3>סימן ז</h3>
+<b>*</b> רב ששת מסר שינתיה לשמעיה פירש בקונטרס דרבי חנינא לית ליה דרב ששת ואסור להתפלל עד שיעור מאליו ואפילו עובר זמן תפלה לא יתפלל דשכור או שתוי חשבינן ליה עד שיעור מאליו ומיהו אין נראה דהלכה כרב ששת. פר"י: כל שאין דעתו מיושבת עליו אל יתפלל ובעידנא דרתח אל יתפלל שנאמר בצר אל יורה ובירושלמי גריס כל המיצר אסור להתפלל ותפלה והוראה שוין: לא איברי ליליא אלא לשינתא ודוקא בתקופת תמוז. פר"י: הבא בדרך אל יתפלל ג' ימים אבוה דשמואל כי הוה אתי באורחא לא הוה מצלי ג' ימים. שמואל לא הוה מצלי בביתא דאית ביה שיכרא שריח השכר משכרתו. מהרי"ח: הני שמעתתא אין אנו נזהרין דבלאו הכי אין אנו מתכוונים בתפלה מיהו בשכור צריך לחזור ולהתפלל וכן במצא צואה כנגדו ומיהו משום מי רגלים אין צריך לחזור וכו'. מרדכי מהרמ"ק:
+<h3>סימן ח</h3>
+<b>*</b> פירש רש"י והיו יריאים פן יבא נכרי בשבת ר"ל אבל אם לא היה בא לא היה אוסר היינו כר' יהודה דתנן בפ' כיצד משתתפין (דף פז א) המניח ביתו והלך לשבות בעיר אחרת אחד ישראל ואחד נכרי אוסר רבי יהודה אומר אינו אוסר כו' ואע"ג דפסקינן בפרק מי שהוציאוהו (דף מז א) דהלכה כרבי שמעון דאמר אפילו הניח את ביתו והלך לשבות אצל בתו באותה העיר אינו אוסר לא בא ר"ש להחמיר בנכרי יותר מרבי יהודה אלא לגמרי בא להקל ולהתיר בישראל טפי מרבי יהודה דאפילו באותה העיר שרי שכבר הסיח דעתו ועוד דכרבי יהושע בן לוי קי"ל דפסק כדברי המיקל בעירוב. מהרי"ח: ישראל ונכרי בחצר פנימית וישראל בחיצונה והפנימית אין להם שום דרך רק דרך החיצונה ישראל הפנימי מותר בפנימית דהוי יחיד במקום נכרי אע"ג דשכיח דדייר כי האי גוונא דנכרי מירת משום ישראל הדר בחיצונה לא פלוג רבנן כיון דרוב פעמים לא שכיח יחיד במקום נכרי אבל בחיצונה אסור אפילו עירבו לרבי עקיבא דאמר רגל המותרת במקומה אוסרת שלא במקומה דהוה ליה שני ישראלים (אז) אוסרים זה על זה והנכרי אוסר עליהם אבל לרבנן דאמרי רגל המותרת במקומה אינה אוסרת שלא במקומה גם החיצונה מותרת אפי' אם לא עירבו ואם עירבו שרי לטלטולי מזו לזו ואין הנכרי אוסר עליהם אף ע"ג דשכיח דדייר דמירתת נכרי לא פלוג רבנן בין שכיח שדרים בין לא שכיח דבכולהו יחיד במקום נכרי שרי. פר"י: והוא הדין דישראל בפנימית וישראל ונכרי בחיצונה דלר"ע אסירי. מהרי"ח:
+<h3>סימן ט</h3>
+<b>*</b> ודוקא כשהאדון אין רוצה להשכיר אבל אם האדון חפץ להשכיר אין שוכר אלא מן האדון ולא משכירו ולקיטו: ואשתו של אדם מערבת לו שלא מדעתו אם הוא אוסר על בני מבוי אבל אם אין אוסר כגון חצר שבין שני מבואות ובאחד מהן אינה רגילה שם אינה מערבת אלא מדעתו. מא"ז:
+<b>**</b> מיהו היכא דשכח אחד מהם ולמחר ביטל רשותו לא בטל עירוב שלהן מה שעשו בלא ממנו כיון דמאתמול חזו כולהו לעירוב. פר"י מהרי"ח:
+*** וכן נראה למור"ם וכן המיימון. מהרמ"ק:
+<b>****</b> וכל שכן הוא אם הנכרי [לא] השכיר דלא יועיל בטול. פר"י מהרי"ח:
+<b>*****</b> בירושלמי אומר ישראל ונכרי שהיו דרים בבית אחד צריך ישראל לבטל או לערב וגם מן הנכרי להשכיר ולא חשיב ישראל שכירו ולקיטו היינו כששניהם שותפין בבית אי נמי אם ייחד הנכרי לישראל שהוא שכירו ולקיטו חדר אחד שלא יוכל הנכרי להשתמש בו דהוי השתא הנכרי מסולק לגמרי מישראל ואין יכול לסלק את ישראל בכי האי גוונא לא אמר נותן עירובו ודיו ובכי האי גוונא איירי האי דירושלמי. פר"י מהרי"ח:
+<b>******</b> ואפי' לא אסרי אהדדי כגון שתי חצירות הפתוחות זו לזו וכל אחת יש להם פתח למבוי מבטלין וחוזרין ומבטלין. שנים הדרים בחצר אחת ולא עירבו מבטל זה רשות לזה עד שיעשה צרכיו ויחזור זה ויבטל לזה. מא"ז:
+******* ההוא ינוקא עי' פרק רבי אליעזר דמילה. מהרמ"ק:
+<b>********</b> ורש"י פירש דאם הוקף לדירה אפילו יותר מבית סאתים לא אסר על המבוי. מהרי"ח:
+<h3>סימן יא</h3>
+<b>*</b> סומכין על שתוף מבוי להתיר אף בחצירות אע"פ שלא עירבו כר' יוחנן דלקמן בפירקין (דף עב א) דאמר נהגו כר"מ דאמר בעינן תרתי עירוב ושיתוף אבל לכתחלה לא עבדינן כוותיה. פר"י מהרי"ח:
+<b>**</b> ודוקא לצורך מצות מילה דהיא גופא דחיא שבת התירו אמירה לנכרי אבל לצורך מצוה אחרת כגון להביא ס"ת לקרות בו לא. ודוקא באיסורא דרבנן אבל לומר לנכרי לחמם לו חמין דאיסורא דאורייתא אפילו לצורך מילה לא התירו אע"ג דהתירו לומר לנכרי לכתוב שטר משום ישוב ארץ ישראל. מיהו בה"ג שרי אמירה לנכרי ואפי' בדאורייתא לצורך מילה אפי' בלא אגב האם. מיהו ע"י ישראל אסור להרבות חמין אגב האם אע"פ שיולדת תוך ז' מחללינן עליה שבת דאמר המבשל לחולה אסור לבריא גזירה שמא ירבה בשבילו. א"נ משום מצות מילה דוקא שרי להרבות אפי' ישראל. מיהו אחר המילה תוך ג' ימים דמסוכן שרי אפילו ישראל להחם אפי' בלא אימי'. פר"י מהרי"ח:
+<b>***</b> מכאן משמע דמצוה לערב דלא ליתו לידי איסור. מרדכי מהרמ"ק:
+<b>****</b> וא"כ צריכין ליזהר כשאדם עושה עירוב בבית בעל ביתו מדעתו שלא לערב מדבר שבעל הבית מקפיד עליו כגון אותן דברים שתקן לכבוד שבת פשטיד"א או ככר נאה של סולת וכיוצא בו. מא"ז:
+<h3>סימן יג</h3>
+* וכן המיימון (פ"ב מהלכות   הלכה טז):
+<h3>סימן יד</h3>
+<b>*</b> והיוצא מפר"י דבחד זימנא לא הוי מומר ואפילו בשבת זו בשאר מלאכות בר מהוצאה והכנסה. מר' וכן בהג"ה במיימון. מהרמ"ק:
+<b>**</b> אבל אם הוא משמר שבת וכל הלכותיה אפי' בדרבנן אפי' הוא מומר דאורייתא בשאר מילי מבטל רשות וכל מי שאינו מודה בעירוב אין מערבין עמו. מא"ז:
+<h3>סימן טז</h3>
+<b>*</b> כל שהותר למקצת שבת הותר לכל השבת כולה כגון עירב דרך הפתח ונסתם הפתח וכל לרבות מבוי שניטלה קורתו או לחייו: כל שנאסר למקצת שבת נאסר לכל השבת כגון שני בתים משני צידי רה"ר והקיפו נכרים מחיצה בשבת וכל לאתויי מת נכרי בשבת וכגון דאתא בשבת ומת בשבת איירי הכא אבל אתא נכרי מע"ש לכולי עלמא מבטלין ואם הנכרי חי שוכרים ממנו ומבטלין פר"י. ישראל ונכרי ששרויין בחצר אחת ויש שם עוד בתי ישראל ומת נכרי מבעוד יום אע"פ שלא החזיק ישראל מבעו"י אלא משחשכה והוי כבר הותרו למקצת שבת אעפ"כ צריך לבטל רשותו כיון דה"ל להחזיק מבעוד יום והוי ההוא רשות מיתלא תלי לא חשיב הותר. מת משחשכה דלא הוה ליה להחזיק מבעוד יום ולא הוי ההוא רשות מיתלא תלי דלא מת עד אחר חשכה הרי הותר למקצת שבת וכגון שעירב עם בני החצר. מהרי"ח:
+** והלכה כרבי יהודה. מהרמ"ק:
+<b>***</b> וההיא דבפרק הזורק בגיטין (דף עז ב) דאמר תיזיל איהי ותיחוד ותפתח ותקני רשותא התם משום שכיב מרע התירו כדי שלא תטרוף דעתו עליו ורשב"ם נמי פסק דאפילו מתנת ש"מ במקצת דבעי קנין קונין ממנו בשבת. פר"י מהרי"ח:
+<h3>סימן יז</h3>
+<b>*</b> וכן הגהת מיי' פ"א משם מהר"ם דאף לכתחילה סומכין על זה במקום זה אך המיי' כתב בפרק ה' (הלכה יד) דאין מתירין לו דבר זה אלא מדוחק וכן הא"ז וע"ש:
+** והשר מקוצי מצריך להן עירוב בלא ברכה:
+<b>***</b> או תפיסת יד וכתב בהג"ה וצ"ע אם מצריך אפילו בפתח אחד לרה"ר דהא משמע דלא מהני פתח א' לרה"ר כ"א להחשיב החיצונות בית שער וכן נהגו בבירה גדולה שמשכירין לכל אחד חדר ואין להם אלא פתח אחד לרשות הרבים ואפילו הכי נהגו לערב. סה"ק מהרמ"ק:
+<h3>סימן יט</h3>
+* וכן א"ז:
+** ואפי' בחצר אחרת אין צריכין לערב. מא"ז:
+<b>***</b> פסק מוהר"ם על בני מבוי שנשתתפו ונשברה הקורה שכל החצירות הפתוחות לחצר שהשיתוף מונח בו מותרות אבל שאין פתוחות לה אסורות דליתיה לעירובן גבייהו דלא מצו לאייתויה דרך מבוי אע"ג דנאסרו מקצתן לא אסרי אינך וכו'. הגה' פ"ד ד  מהרמ"ק:
+<b>****</b> והלכה כדברי ר"מ מיהו במקום מצוה לא בעינן תרתי כדמוכח גבי ההוא ינוקא דקאמר אביי והא לא ערבינן אמר ליה נסמוך אשיתוף וקודם מילה היה וכן אם נשתתפו בפת סומכין אשיתוף במקום עירוב דאיכא מאן דאמר דבפת כולי עלמא לא פליגי דבחדא סגי. מא"ז:
+<h3>סימן כ</h3>
+* ובא"ז פסק כרב:
+<h3>סימן כא</h3>
+<b>*</b> תשובת מור"ם וחלון שבין חצר של ישראל ושל נכרי למעלה מי' אם מותר לטלטל מזה לזה או דרך הכותל בלא שכירות אם יש שני ישראלים אוסרין זה על זה במבוי ולא עירבו ולא תיקנו המבוי אז שכיחי דדיירי וצריך לשכור מן הנכרי ואם אין חצר הנכרי פתוח למבוי או לחצר הישראל כלל ליכא למיחש שמא ילמוד ממעשיו אז לא בעי שכירות ומותר לטלטל דרך חלון למעלה מי' או דרך כותל. מרדכי מהרמ"ק:
+<b>**</b> והוו מצי לערובי וגם לשכור אי נמי חשיבי כאילו דרים בבית אחד אי נמי כיון דליכא במבוי אלא חד חצר לא אסר שהמבוי לחצירות כחצירות לבתים. מרדכי מהרמ"ק:
+<b>***</b> מבוי שלא נשתתפו בו אם עירבו חצירות עם הבתים אין מטלטלים בו אלא בד' אמות ככרמלית מאחר שעירבו חצירות עם הבתים נעשה המבוי כאלו אינו פתוח לו אלא בתים בלבד בלא חצירות ואם לא עירבו אנשי החצירות מטלטלין בכולו כלים ששבתו בתוכו כחצר שלא עירבו בה. מיי' פ"ה (הל' טו):
+ 
+<h2>פרק ז</h2>
+<h3>סימן א</h3>
+<b>*</b> פירש ר"י בר שמואל דוקא כשאין אלו החצירות יכולות לערב יחד שאין פתח ביניהם אבל אם יש פתח בכותל שבין ב' החצירות שיוכלו לערב יחד ועירבו לא מתסר להוריד למטה פירות שעל גבי כותל ואתיא מתניתין אפילו כרבי שמעון דהלכתא כוותיה ומאי למטה דקתני למטה מבתים דמודה ר"ש דבתים וחצירות לאו רשות אחת הן אבל לחצר מותר להוריד מן הכותל. מא"ז:
+<b>**</b> וצדו אחד שוה לארץ נותנין לזה וכו' תימה איך נותנין הא הוי גדוד חמשה ומחיצה ה' שאין מצטרפין וא"כ נפרצה במלואה במקום האסור. וי"ל דנותנים לזה פירוש לטלטל בתוך ד' אמות אבל זו שתשמישה בקשה אפילו בתוך ארבע לא אי נמי אחד שוה לארץ עד י' אמות דהשתא חשיב כפתח. מרדכי מהרמ"ק:
+<b>***</b> הני תרי שמעתתא דכותל וחריץ בחצר שלא עירבו אבל בחצר שעירבו תרוייהו שרי. מא"ז:
+<h3>סימן ג</h3>
+<b>*</b> סולם ששליבותיו כעין מדרגות עצים שלנו ולא של אבנים ויש חלל ואויר בין שליבה לשליבה וכל שליבה היא ד' על ד' אם יש בשליבה התחתונה ד' אי נמי אין בתחתונה ארבעה ויש בעליונה ד' על ד' ואין בין זה לזה שלשה ממעט וכן גבי איצטבא בעי ד' על ד' וההיא דלקמן שהסולם מגיע לראש הכותל פחות מג' לא בעי ד' על ד' אלא שיהא אורך השליבות ד' ויש פירש שכתב ושליבה התחתונה נמי כשאין מובדלת מן הקרקע ג' ולא איתברר. מא"ז:
+<h3>סימן ד</h3>
+<b>*</b> וכגון שאין חווקי הסולם מרוחקים שלשה ואז הוי כמו דרגא לזיז. מא"ז:
+<b>**</b> כותל י"ט צריך זיז באמצעיתו להתירו על ידי סולם כל שהוא. אמר רבה אמר ר' חייא פסקי דקלי שבבבל אף על גב דדבר הניטל הוא דתורת כלי עליהן דראויין למושב אין צריך לקובען בקרקע וממעטין דכבידן קובען. אמר רב יוסף אמר רבי אושעיא וכן סולמות שבבבל. מא"ז:
+<b>***</b> ופירש רשב"ם מכל הני שמעתתא שמעינן דכל סולם דשמעתין בעי שיהא ברחבו ארבעה. מא"ז:
+<b>****</b> פירוש צריך להשלים ברוחב בגובה הכותל ואע"ג דגבוה כותל טובא לית לן בה רק שיגיע הסולם לראש הכותל ורבינו תם פי' דבעינן שלא ישאר מן הסולם עד ראש הכותל עשרה. מא"ז:
+<b>*****</b> והרמב"ם [פ"ג מהל'   הל' ח] פסק דאילן מותר ואשירה אסור. מא"ז:
+<h3>סימן ה</h3>
+<b>*</b> ואפילו תבן וקש אי ביטלם בפי' ואמר לא שקילנא ליה מהכא בטיל ומערבין אחד ולא שנים ואם מילא פירות אפילו סתמא בטלי להו הואיל ודרך לעשות מהן אוצר והואיל וכן הוא אסור להסתפק מהן בשבת אם לא נסתפק מהם בע"ש דאין מתחילין באוצר מתחילה בשבת. מא"ז:
+<h3>סימן ו</h3>
+<b>*</b> עמוד ברשות הרבים גבוה עשרה ורוחב ארבעה דהוי רשות היחיד אם נעץ בו יתד לא מיעטו ואפילו מלאו כולו ביתדות לא נתמעט רחבו בכך והוי רשות היחיד. מא"ז:
+<h3>סימן ח</h3>
+<b>*</b> (וכן) המיימון והאלפס ורשב"ם פסקו כשמואל אבל ר"ת פסק כרבי יוחנן ואין לזכות ומהר"מ לא כתב אלא דברי ר"ת. הגה"ה פ"ב מהרמ"ק:
+<b>**</b> מיהו לאחר שנשא לא מהניא סמיכות על שולחנו ויכול לזכות. סה"ק מהרמ"ק:
+<b>***</b> ורבינו שמשון הזקן אמר דבבנו הגדול אפילו סמוך על שולחנו מזכה על ידו דלא אמר רבי יוחנן לא גדול גדול ממש אלא במציאה אבל בעירוב גדול גדול ממש דגמרא שלנו וכן הירושלמי לא מייתי מילתא דרבי יוחנן אלא אמציאה בכל מקום. מא"ז:
+<b>****</b> ואומר זכיתי לכם וכשהוא מערב משלהם צריך להודיע אם חפצים בכך שמא מקפידים הם ואמר שמואל המקפיד על עירובו אינו עירוב אבל משלו אין צריך להודיעם דזכין לאדם שלא מדעתו. מא"ז:
+ 
+<h2>פרק ח</h2>
+<h3>סימן א</h3>
+<b>*</b> פירוש אם הודיעוהו מבעו"י אפילו לא נתרצה אלא משתחשך קנה דבדרבנן יש ברירה ומשחשכה היינו שהודיעוהו משחשכה. מא"ז:
+<b>**</b> לכאורה הלכה כרבא דמערבין אפילו לדבר הרשות כדמוכח באורך ואי איתא לדברי רב יוסף דאין מערבין אלא לדבר מצוה אם עירב לדבר הרשות אפילו דיעבד אין עירובו עירוב והיכא שעירב לדבר מצוה משמע מלשון רש"י דאסור לצאת לדבר הרשות ושמא הוא מותר. וכן מתיר בסה"ק מהרמ"ק: והר"מ בר' מיימון [פ"ו מה'   הל' ו] כתב דאם עירב בדיעבד לדבר הרשות עירובו עירוב. מא"ז:
+<h3>סימן ב</h3>
+<b>*</b> וזה לשון מהרי"ח אין מערבין וכו' וכיון דאי אפשר להם להניח בניהם יכול לערב גם בשבילם ואיכא נמי כדי לחנכן ואם עירב עליו האב לדרום ואמו לצפון אפילו בן שש אחר אמו גרירא. מהרי"ח. והרמב"ם כתב דבן שש יוצא בעירוב אמו אפילו איתיה לאבוה במתא. מא"ז:
+<h3>סימן ג</h3>
+<b>*</b> וכגון ששניהם שותפין בו אבל אם הוא של אחד מהן אע"פ שחבירו משתמש בו לא אסר עליה כיון דיש מחיצה גבוה י' טפחים מיהו אם יש ביניהם גבוה י' טפחים ואין משתמש שם אלא על ידי אויר אין אוסרין זה על זה ואפילו לזה בשלשול ולזה בזריקה ובשלשול שניהם כגון בור עמוק י' ויש מחיצות גבוהין י' סביב שבני החצר משתמשין לתוך הבור ע"י זריקה ושלשול ובני עלייה משתמשין בו ע"י שלשול גרידא אוסרין זה על זה ואפילו אם הבור מלא פירות ומגיע סמוך לעלייה אוסרין כיון דאם חסיר אסירי מליא נמי אסירי מיהו אם מילא בדבר שאין ניטל בשבת בני עלייה משתמשין שם דכל לזה בפתח ולזה בזריקה או בשלשול נותנים אותו לזה שבפתח וכל דבר שאין גבוה י' טפחים קרוי פתח. מהרי"ח:
+<b>**</b> שלולית שבין שתי חצירות ואין דיורין פתוחין לאותה שלולית אף על פי שהיא מופלגת מכותל זה ארבעה טפחים ומכותל זה ארבעה טפחים ממלאין הימנה דרך חלונות הפתוחים לשלולית זו ואין צריך להוציא זיזין על גבה שאין אדם אוסר על חבירו דרך אויר ורש"י פירש דאי אין מופלגת מכותל ארבעה טפחים וכן מזה רשות שניהם שולטת בה דהוי כבור שחציה בחצר זו וחציה בחצר זו וזה אוסר על זה עד שיערבו או עד שיעשה מחיצה תלויה בבור ור"י פירש כגון שזה הבור מושך כל אורך החצר ומפסיק בין [ארבעה הסמוכין לחצר זו ובין ארבעה] הסמוכין לחצר זו [א"נ] כגון שאותה הפסקה שבין ב' חצירות שהבור שם לא הוי רה"י אלא רה"ר או כרמלית ומחיצות הבור גבוהים י' דכשממלאים מן הבור לחצר מביאין למעלה מי' דהוי מקום פטור. מא"ז:
+<h3>סימן ו</h3>
+<b>*</b> לפי' רש"י גם משום עירוב ולפר"י דוקא משום עירוב. מא"ז:
+<b>**</b> ור"י אומר דוקא בחצר שבמבוי ובית שאין בו ד' על ד' אין מניחין בו את העירוב אבל מניחין בו את השיתוף. מא"ז:
+<b>***</b> מה שרש"י פירש שהיה משאיל בתים שבחצר לאחרים לאו דוקא משאיל אלא הוא הדין משכיר דהואיל ויש לו תפיסת יד בכל בית נעשו הכל כאורחים וכן כתב הרמב"ם. מא"ז:
+<b>****</b> גג הסמוך לרשות הרבים גבוה י' צריך סולם קבוע להתירו דאי לאו סולם אסרי ליה בני רשות הרבים דמשתמשין בכומתא וסודרא ואע"ג דליכא מרפסת תוך עשרה לרה"ר ואי אינו גבוה עשרה אי נמי גבוה עשרה ויש מרפסת תוך עשרה אע"פ שיש מחיצה גבוה י' ופתוחה לרשות הרבים אסור ואפילו סולם קבוע אין מועיל. ר"י ופרש"י. אך רבינו תם פירש שאין גבוה עשרה כיון שתוכו רה"י לא הוי כרמלית ומועיל לו סולם קבוע. משמע שר"ל אם היה גבוה עשרה אפילו סולם לא היה צריך. ומבוי קטן שבין חצירות ואין חצר פתוח לו רק דרך חלון משתמשין בו כל אחד לחצירו אוסרים זה על זה אע"פ שרחוקות זו מזו רש"י ור"י גבי בור שבין שתי רשויות מופלג מכותל זה ד' ומכותל זה ד' צריך זיז כל שהוא למלא ממנו ולרב אפי' זיז לא צריך אך צריך שאותו בור הולך לכל אורך המבוי או שעומד ברשות הרבים ויש לו מחיצות גבוהות עשרה מותר למלאות ממנו דרך חלון למעלה מעשרה. מהרי"ח:
+<h3>סימן ז</h3>
+<b>*</b> אבל בור שבין חצר לכרמלית או שבין חצר לרה"ר לא בעי מידי כדאמר בפ' בתרא [צט ב] בור ברה"ר וכו'. אבי"ה הג"ה פ"ג מהל'  . מהרמ"ק:
+<b>**</b> ואומר מהר"מ דאם הצואה נופלת על דף ומשם למים ברה"ר אין צריך לעשות שום תיקון לא למטה במים ולא סביב הנקב ואין דף מתירו אפי' מטעם גדול כבוד הבריות כמו שהתירו אבנים מקורזלות ואם המים רגילים להתייבש השיב רשב"א דכשיש היכר מחיצה מתרת כשיש מים אבל כשאין מים אין מחיצה תלויה מתרת בחורבה ואין נראה להחשיב צואה במקום פטור דלדידן דלית לן אלא כרמלית מצא מין את מינו וניעור ובית הכסא שבין ב' בתים אם יש פתח שיכולין לערב מערבין ואם לאו אסור דלזה בטלטול ולזה בשלשול וכו' ואפי' את"ל דצואה מקום פטור ברה"ר ברשויות דרבנן לא אשכחן דין מקום פטור. הג"ה פט"ו מהרמ"ק:
+*** וכן פסקו התוס' והמיימון. מהרמ"ק:
+<h3>סימן ח</h3>
+<b>*</b> וכן פסק המיימון (פרק טו מהל' שבת הל' יא) ורבינו תם מפרש דאיירי באמת המים ויש בהן כרמלית ועוברין לפני חלון ובעי קורה ארבעה שיהא מונח למעלה על שני [זיזין היוצאין מן] הכותל וחודו החיצון יורד וסותם וכיון דלא אזיל דלי לאידך גיסא דאין דלי מהלך יותר מארבעה לעירובי מיא תחת הקורה לא חיישינן דקל הוא שהקילו חכמים במים אבל בבין שתי חצירות לא איצטריך להאי טעמא דאין צריך כותל אלא משום דלא עירבו ודאי בהיכרא פורתא סגיא ובאורך בארתי כל הצורך. מא"ז: וכגון שיש בגובהה עשרה טפחים ברוחב ארבעה או יותר על כן עד י' אמות ואם אין בגובהה עשרה או שאין ברחבה ארבעה ממלאין הימנה בלא מחיצה היה ברחבה יותר מי' אמות אע"פ שאין בגובהה עשרה אין ממלאין הימנה עד שיעשה מחיצה שכל יותר על עשר פירצה היא ומפסדת המחיצות ומיהו לטלטל בכל החצר אם נשאר לצד הפירצה פס מכאן ופס מכאן בכל שהוא או פס ד' טפחים מרוח אחת מותר לטלטל בכל החצר ואין אסור אלא למלאות מן האמה בלבד אבל אם לא נשאר פס כלל אסור לטלטל בכל החצר שהרי נפרצה חצר לים שהוא כרמלית עכ"ל והיאך מעמיד המחיצות כדפירש לעיל גבי בור שבין שתי חצירות. מא"ז:
+<h3>סימן ט</h3>
+<b>*</b> והמיימוני (פרק טו מהל' שבת הל' טז) פסק כחכמים לגבי ראב"י. מהרמ"ק:
+<b>**</b> והוא חצי אמה על חצי אמה ברום שלשה חומשי אמה. מיימון [שם]:
+ 
+<h2>פרק ט</h2>
+<h3>סימן ג</h3>
+* ולשבת אחרת ודאי אסור ועיין בא"ז:
+<h3>סימן ד</h3>
+* ובהגה"ה בסה"ק פסק כשמואל ומוקי לה בפתוח לכרמלית. מהרמ"ק:
+ 
+<h2>פרק י</h2>
+<h3>סימן ה</h3>
+<b>*</b> המיימון כתב אם יש בעליון רוחב ד' על ארבעה אסור להשתמש עליו מפני שהוא רשות בפני עצמו והזיז שתחתיו רשות אחרת ואוסרין זה על זה. מהרמ"ק:
+<h3>סימן יח</h3>
+<b>*</b> והטעם משום גזירה אטו להוציא דם אמנם בזבחים [דף יט א] מפרש עלה הא קמ"ל דגמי מסי. ומותר להניח צלצול בגד על גבי מכתו בשבת שהוא רך ורחב ואין מוציא דם. ס"ה מהרמ"ק:
+<h3>סימן כ</h3>
+<b>*</b> וכן פסק המיימון (פכ"ג מהל' שבת הל' ד) כרב אלפס ודלא כעולא דאוסר להקיש על הדלת ואף ע"ג דבירושלמי דביצה איתא לאסור רבא ואמימר ידעי גם הם הירושלמי וידעו שאין הלכה כן וכ"פ הסמ"ג אכן ר"ח פסק כעולא. והא לך תשובת מהר"ם וששאלת על הטבעת שיש בו אבן או עופרת המשמיע קול אם מותר להניח בשבת רב אלפס פסק כרבא דלא אסרו אלא קול של שיר ואפילו לפר"י דפסק כעולא הנ"מ דבעי לקלא כגון ההוא דטרף אבבא דבעי שישמעו ויפתחו לו וכן נשים המשחקין באגוזים שמכין זה בזה והקול נשמע שהרויח ולמלאות מן הבור נמי אפשר שיש צורך בקול אי נמי התם אוושא מלתא אבל קול של טבעת חלול פשיטא דשרי וכן משמע פרק במה אשה הזוג שבכסותו אע"ג דאית ליה ענבל שרי. ושלום מאיר ב"ב הג"ה פכ"ג מהרמ"ק:
+** וכן א"ז:
