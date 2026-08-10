@@ -53,6 +53,12 @@ def get_changed_books():
     after_sha = (os.environ.get("AFTER_SHA") or "").strip()
 
     if before_sha and after_sha and before_sha != "0000000000000000000000000000000000000000":
+        # SHA שגוי לא יפול בשקט לטווח אחר — עדיף להיכשל מיד
+        for sha in (before_sha, after_sha):
+            if subprocess.call(["git", "cat-file", "-e", f"{sha}^{{commit}}"],
+                               stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL) != 0:
+                print(f"שגיאה: הקומיט {sha} לא קיים במאגר.")
+                sys.exit(1)
         git_cmd = ["git", "diff", "--name-status", "-M90", before_sha, after_sha]
     else:
         # workflow_dispatch או ריצה ראשונה: מצא את ה-commit האחרון שאינו אוטומטי
