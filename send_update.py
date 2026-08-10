@@ -1,11 +1,16 @@
 import os
 import subprocess
+import sys
+import time
 import requests
 from collections import defaultdict
 
 # --- הגדרות ---
 TOPIC_ID = "437"
 FORUM_URL = "https://otzaria.org/forum"
+
+MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגין + פרסום)
+RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
 
 INCOMPATIBLE_FOLDER = "ספרים שאינם מותאמים לאוצריא"
 
@@ -155,57 +160,90 @@ def get_changed_books():
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
 
-def post_to_nodebb(message):
-    username = os.environ.get("USER_NAME")
-    password = os.environ.get("PASSWORD")
+class ForumError(Exception):
+    """שגיאה בתקשורת עם הפורום. retryable=True → כדאי לנסות שוב."""
+    def __init__(self, message, retryable):
+        super().__init__(message)
+        self.retryable = retryable
 
-    if not username or not password:
-        print("שגיאה: חסרים שם משתמש או סיסמה בסודות של גיטאב.")
-        return
 
+def _try_post_to_nodebb(message, username, password):
     session = requests.Session()
     session.headers.update({
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept': 'application/json'
     })
 
+    def request(method, url, **kwargs):
+        try:
+            return session.request(method, url, timeout=60, **kwargs)
+        except requests.RequestException as e:
+            # תקלות רשת/TLS/timeout הן כמעט תמיד רגעיות
+            raise ForumError(f"תקלת תקשורת: {e}", retryable=True)
+
+    print(f"1. מתחבר ל-{FORUM_URL} כדי למשוך CSRF Token...")
+    config_res = request('GET', f"{FORUM_URL}/api/config")
+    if config_res.status_code != 200:
+        # 5xx (כולל 502/503/525 של Cloudflare) ו-429 — תקלות שרת רגעיות
+        retryable = config_res.status_code >= 500 or config_res.status_code == 429
+        raise ForumError(f"שגיאה בגישה לשרת ({config_res.status_code})", retryable=retryable)
+
     try:
-        print(f"1. מתחבר ל-{FORUM_URL} כדי למשוך CSRF Token...")
-        config_res = session.get(f"{FORUM_URL}/api/config")
-        if config_res.status_code != 200:
-            print(f"שגיאה בגישה לשרת ({config_res.status_code})")
-            return
-
         csrf_token = config_res.json().get('csrf_token')
-        if not csrf_token:
-            print("לא נמצא אסימון אבטחה!")
-            return
+    except ValueError:
+        raise ForumError("תשובת /api/config אינה JSON תקין", retryable=True)
+    if not csrf_token:
+        raise ForumError("לא נמצא אסימון אבטחה!", retryable=True)
 
-        print("2. מבצע לוגין עם השם והסיסמה של הבוט...")
-        session.headers.update({'x-csrf-token': csrf_token})
-        login_res = session.post(f"{FORUM_URL}/login", data={
-            'username': username,
-            'password': password,
-            '_csrf': csrf_token
-        })
+    print("2. מבצע לוגין עם השם והסיסמה של הבוט...")
+    session.headers.update({'x-csrf-token': csrf_token})
+    login_res = request('POST', f"{FORUM_URL}/login", data={
+        'username': username,
+        'password': password,
+        '_csrf': csrf_token
+    })
 
-        if login_res.status_code != 200:
-            print(f"שגיאת התחברות (סטטוס {login_res.status_code}).")
-            return
+    if login_res.status_code != 200:
+        # 401/403 = פרטי התחברות שגויים → אין טעם לנסות שוב
+        retryable = login_res.status_code >= 500 or login_res.status_code == 429
+        raise ForumError(f"שגיאת התחברות (סטטוס {login_res.status_code}).", retryable=retryable)
 
-        print(f"3. שולח את העדכון לנושא {TOPIC_ID}...")
-        post_res = session.post(
-            f"{FORUM_URL}/api/v3/topics/{TOPIC_ID}",
-            json={"content": message}
+    print(f"3. שולח את העדכון לנושא {TOPIC_ID}...")
+    post_res = request('POST', f"{FORUM_URL}/api/v3/topics/{TOPIC_ID}", json={"content": message})
+
+    if post_res.status_code != 200:
+        retryable = post_res.status_code >= 500 or post_res.status_code == 429
+        raise ForumError(
+            f"שגיאה בעת פרסום ההודעה (סטטוס {post_res.status_code}): {post_res.text[:500]}",
+            retryable=retryable
         )
 
-        if post_res.status_code == 200:
-            print("ההודעה פורסמה בהצלחה בפורום אוצריא!")
-        else:
-            print(f"שגיאה בעת פרסום ההודעה (סטטוס {post_res.status_code}): {post_res.text}")
+    print("ההודעה פורסמה בהצלחה בפורום אוצריא!")
 
-    except Exception as e:
-        print(f"שגיאה בתקשורת עם שרת הפורום: {e}")
+
+def post_to_nodebb(message):
+    """מפרסם את ההודעה בפורום. זורק ForumError אם כל הנסיונות נכשלו."""
+    username = os.environ.get("USER_NAME")
+    password = os.environ.get("PASSWORD")
+
+    if not username or not password:
+        raise ForumError("חסרים שם משתמש או סיסמה בסודות של גיטאב.", retryable=False)
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        if attempt > 1:
+            print(f"\n--- נסיון {attempt} מתוך {MAX_ATTEMPTS} ---")
+        try:
+            _try_post_to_nodebb(message, username, password)
+            return
+        except ForumError as e:
+            print(f"נסיון {attempt} נכשל: {e}")
+            if not e.retryable:
+                raise
+            if attempt == MAX_ATTEMPTS:
+                raise
+            delay = RETRY_DELAYS[min(attempt - 1, len(RETRY_DELAYS) - 1)]
+            print(f"ממתין {delay} שניות ומנסה שוב...")
+            time.sleep(delay)
 
 
 if __name__ == "__main__":
@@ -214,8 +252,8 @@ if __name__ == "__main__":
     changes_text = get_changed_books()
 
     if changes_text is None:
-        print("לא הצלחתי לקבל רשימת שינויים - לא מפרסם פוסט.")
-        exit(0)
+        print("שגיאה: לא הצלחתי לקבל רשימת שינויים - לא מפרסם פוסט.")
+        sys.exit(1)
 
     if "לא נמצאו שינויים ישירים בספרים" not in changes_text:
         final_post = (
@@ -224,6 +262,10 @@ if __name__ == "__main__":
             + f'או מ-[עמוד ה-Releases](https://github.com/{repo}/releases/latest).\n\n'
             + '**פוסט זה נכתב ע"י בוט**'
         )
-        post_to_nodebb(final_post)
+        try:
+            post_to_nodebb(final_post)
+        except ForumError as e:
+            print(f"\n::error::הפוסט לא פורסם בפורום: {e}")
+            sys.exit(1)
     else:
         print("הריצה הסתיימה: לא זוהו שינויים בקבצי הספרים, לכן לא פורסם פוסט בפורום.")
