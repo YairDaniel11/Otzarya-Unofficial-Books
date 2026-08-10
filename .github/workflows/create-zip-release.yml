@@ -11,6 +11,14 @@ on:
         description: 'פרסום הפוסט בפורום בלבד (בלי בנייה מחדש של הזיפים והרילים)'
         type: boolean
         default: false
+      before_sha:
+        description: 'טווח לדיווח: הקומיט שלפני (ריק = הקומיט האחרון שנגע בספרים)'
+        type: string
+        default: ''
+      after_sha:
+        description: 'טווח לדיווח: הקומיט שאחרי (ריק = הקומיט האחרון שנגע בספרים)'
+        type: string
+        default: ''
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -315,8 +323,8 @@ jobs:
 
       - name: Run Update Script
         env:
-          BEFORE_SHA: ${{ github.event.before }}
-          AFTER_SHA:  ${{ github.event.after }}
+          BEFORE_SHA: ${{ inputs.before_sha || github.event.before }}
+          AFTER_SHA:  ${{ inputs.after_sha || github.event.after }}
           USER_NAME:  ${{ secrets.USER_NAME }}
           PASSWORD:   ${{ secrets.PASSWORD }}
           TAG: latest

@@ -17,9 +17,14 @@ INCOMPATIBLE_FOLDER = "ספרים שאינם מותאמים לאוצריא"
 def book_name(filepath):
     return os.path.splitext(os.path.basename(filepath))[0]
 
+ROOT_LABEL = "תיקייה ראשית"
+
+
 def folder_of(filepath):
+    """המסלול המלא של התיקייה מתוך 'ספרים/' — כדי שלא ימוזגו תיקיות
+    שונות בעלות אותו שם (למשל 'בבא מציעא' של שני מחברים)."""
     parts = filepath[len("ספרים/"):].split('/')
-    return parts[-2] if len(parts) >= 2 else "תיקייה ראשית"
+    return '/'.join(parts[:-1]) if len(parts) >= 2 else ROOT_LABEL
 
 def is_incompatible(filepath):
     parts = filepath[len("ספרים/"):].split('/')
@@ -67,6 +72,7 @@ def get_changed_books():
     added = defaultdict(list)       # folder -> [(name, incompatible)]
     modified = defaultdict(list)
     deleted = defaultdict(list)
+    renamed = defaultdict(list)     # folder -> [(old_name, new_name, incompatible)]
     moved = []                       # [(name, old_folder, new_folder, incompatible)]
 
     for line in output.strip().split('\n'):
@@ -87,8 +93,8 @@ def get_changed_books():
             if old_folder != new_folder:
                 moved.append((name, old_folder, new_folder, inc))
             else:
-                # שינוי שם בתוך אותה תיקייה — מחשיבים כ"עודכן"
-                modified[new_folder].append((name, inc))
+                # שינוי שם בתוך אותה תיקייה — סעיף נפרד, התוכן לא השתנה
+                renamed[new_folder].append((book_name(old_path), name, inc))
             continue
 
         if len(parts) < 2:
@@ -108,27 +114,51 @@ def get_changed_books():
         elif status.startswith('D'):
             deleted[folder].append((name, inc))
 
-    def format_book_list(books_dict):
-        compatible = {f: [b for b, i in books if not i] for f, books in books_dict.items()}
-        incompatible = {f: [b for b, i in books if i] for f, books in books_dict.items()}
-        compatible   = {f: bs for f, bs in compatible.items() if bs}
-        incompatible = {f: bs for f, bs in incompatible.items() if bs}
+    LEAVES = '\0leaves'   # מפתח פנימי לעץ; לא יכול להתנגש בשם תיקייה
 
+    def build_tree(by_folder):
+        """הופך {מסלול תיקייה: [שורות]} לעץ מקונן לפי רמות."""
+        tree = {}
+        for folder, leaves in by_folder.items():
+            node = tree
+            if folder != ROOT_LABEL:
+                for part in folder.split('/'):
+                    node = node.setdefault(part, {})
+            node.setdefault(LEAVES, []).extend(leaves)
+        return tree
+
+    def render_tree(node, depth=0):
+        indent = "  " * depth
         lines = ""
-        for label, group in [("(ספרים מותאמים לאוצריא)", compatible), ("(ספרים שאינם מותאמים לאוצריא)", incompatible)]:
+        for leaf in sorted(node.get(LEAVES, [])):
+            lines += f"{indent}- {leaf}\n"
+        for name in sorted(k for k in node if k != LEAVES):
+            lines += f"{indent}- {name}\n"
+            lines += render_tree(node[name], depth + 1)
+        return lines
+
+    def format_groups(by_folder_compatible, by_folder_incompatible):
+        lines = ""
+        for label, group in [("(ספרים מותאמים לאוצריא)", by_folder_compatible),
+                             ("(ספרים שאינם מותאמים לאוצריא)", by_folder_incompatible)]:
             if not group:
                 continue
             lines += f"**{label}**\n"
-            for folder, books in sorted(group.items()):
-                if folder == "תיקייה ראשית":
-                    for b in books:
-                        lines += f"- {b}\n"
-                else:
-                    lines += f"- {folder}:\n"
-                    for b in sorted(books):
-                        lines += f"  - {b}\n"
+            lines += render_tree(build_tree(group))
             lines += "\n"
         return lines
+
+    def format_book_list(books_dict):
+        compatible   = {f: [b for b, i in books if not i] for f, books in books_dict.items()}
+        incompatible = {f: [b for b, i in books if i]     for f, books in books_dict.items()}
+        return format_groups({f: bs for f, bs in compatible.items() if bs},
+                             {f: bs for f, bs in incompatible.items() if bs})
+
+    def format_renamed(renamed_dict):
+        compatible   = {f: [f"{old} ← {new}" for old, new, i in items if not i] for f, items in renamed_dict.items()}
+        incompatible = {f: [f"{old} ← {new}" for old, new, i in items if i]     for f, items in renamed_dict.items()}
+        return format_groups({f: bs for f, bs in compatible.items() if bs},
+                             {f: bs for f, bs in incompatible.items() if bs})
 
     def format_moved(moved_list):
         compatible   = [(n, o, nf) for n, o, nf, i in moved_list if not i]
@@ -150,6 +180,9 @@ def get_changed_books():
     if moved:
         msg += "### **הועבר בין תיקיות**\n"
         msg += format_moved(moved)
+    if renamed:
+        msg += "### **שונה שם הקובץ**\n"
+        msg += format_renamed(renamed)
     if modified:
         msg += "### **עודכן במאגר**\n"
         msg += format_book_list(modified)
