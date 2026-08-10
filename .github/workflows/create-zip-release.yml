@@ -6,6 +6,11 @@ on:
     paths:
       - 'ספרים/**'
   workflow_dispatch:
+    inputs:
+      post_only:
+        description: 'פרסום הפוסט בפורום בלבד (בלי בנייה מחדש של הזיפים והרילים)'
+        type: boolean
+        default: false
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -20,7 +25,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          lfs: true
+          lfs: ${{ !inputs.post_only }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -34,6 +39,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Build ZIPs and Manifest
+        if: ${{ !inputs.post_only }}
         env:
           COMMITS_JSON: ${{ toJson(github.event.commits) }}
         run: |
@@ -200,6 +206,7 @@ jobs:
           PYEOF
 
       - name: Commit manifest to repo
+        if: ${{ !inputs.post_only }}
         run: |
           cp dist/manifest.json manifest.json
           cp dist/books_data.js books_data.js
@@ -211,6 +218,7 @@ jobs:
           git push
 
       - name: Create or Update Release
+        if: ${{ !inputs.post_only }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -224,6 +232,7 @@ jobs:
             --latest
 
       - name: Upload Assets
+        if: ${{ !inputs.post_only }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -292,6 +301,7 @@ jobs:
           PYEOF
 
       - name: Cleanup Old Releases
+        if: ${{ !inputs.post_only }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
