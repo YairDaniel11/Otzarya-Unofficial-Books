@@ -179,22 +179,24 @@ def get_changed_books():
             lines += "\n"
         return lines
 
+    def section(title, body):
+        """כותרת + הפירוט המלא בתוך ספויילר (שורה ריקה לפניו, || לפני ואחרי התוכן)."""
+        body = body.strip()
+        if not body:
+            return ""
+        return f"### **{title}**\nפירוט בספויילר\n\n||\n{body}\n||\n\n"
+
     msg = ""
     if added:
-        msg += "### **נוסף למאגר**\n"
-        msg += format_book_list(added)
+        msg += section("נוסף למאגר", format_book_list(added))
     if moved:
-        msg += "### **הועבר בין תיקיות**\n"
-        msg += format_moved(moved)
+        msg += section("הועבר בין תיקיות", format_moved(moved))
     if renamed:
-        msg += "### **שונה שם הקובץ**\n"
-        msg += format_renamed(renamed)
+        msg += section("שונה שם הקובץ", format_renamed(renamed))
     if modified:
-        msg += "### **עודכן במאגר**\n"
-        msg += format_book_list(modified)
+        msg += section("עודכן במאגר", format_book_list(modified))
     if deleted:
-        msg += "### **הוסר מהמאגר**\n"
-        msg += format_book_list(deleted)
+        msg += section("הוסר מהמאגר", format_book_list(deleted))
 
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
