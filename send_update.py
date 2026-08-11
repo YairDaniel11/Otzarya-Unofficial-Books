@@ -9,11 +9,9 @@ from collections import defaultdict
 TOPIC_ID = "437"
 FORUM_URL = "https://otzaria.org/forum"
 
-# סימני רשימה: בתוך ספויילר אי אפשר להשתמש ברשימות Markdown ("- "),
-# ולכן כל שורה מתחילה באימוג'י וההזחה נעשית ברווחים קשיחים.
-FOLDER_MARK = "▪️"
+# בתוך ספויילר אי אפשר להשתמש ברשימות Markdown ("- ") — הן שוברות אותו,
+# ולכן כל שורת ספר נפתחת באימוג'י. שם התיקייה מוצג כמסלול מלא בסוגריים.
 BOOK_MARK = "▫️"
-INDENT = "\u00a0" * 3   # רווח קשיח — רווח רגיל נבלע ברינדור
 
 MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגין + פרסום)
 RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
@@ -126,27 +124,15 @@ def get_changed_books():
         elif status.startswith('D'):
             deleted[folder].append((name, inc))
 
-    LEAVES = '\0leaves'   # מפתח פנימי לעץ; לא יכול להתנגש בשם תיקייה
-
-    def build_tree(by_folder):
-        """הופך {מסלול תיקייה: [שורות]} לעץ מקונן לפי רמות."""
-        tree = {}
-        for folder, leaves in by_folder.items():
-            node = tree
-            if folder != ROOT_LABEL:
-                for part in folder.split('/'):
-                    node = node.setdefault(part, {})
-            node.setdefault(LEAVES, []).extend(leaves)
-        return tree
-
-    def render_tree(node, depth=0):
-        indent = INDENT * depth
+    def render_folders(by_folder):
+        """מסלול התיקייה המלא בסוגריים, ומתחתיו הקבצים שבתוכה —
+        בלי שורה נפרדת לכל תת-תיקייה בדרך."""
         lines = ""
-        for leaf in sorted(node.get(LEAVES, [])):
-            lines += f"{indent}{BOOK_MARK} {leaf}\n"
-        for name in sorted(k for k in node if k != LEAVES):
-            lines += f"{indent}{FOLDER_MARK} {name}\n"
-            lines += render_tree(node[name], depth + 1)
+        for folder in sorted(by_folder):
+            if folder != ROOT_LABEL:
+                lines += f"({folder})\n"
+            for leaf in sorted(by_folder[folder]):
+                lines += f"{BOOK_MARK} {leaf}\n"
         return lines
 
     def format_groups(by_folder_compatible, by_folder_incompatible):
@@ -156,7 +142,7 @@ def get_changed_books():
             if not group:
                 continue
             lines += f"**{label}**\n"
-            lines += render_tree(build_tree(group))
+            lines += render_folders(group)
             lines += "\n"
         return lines
 
