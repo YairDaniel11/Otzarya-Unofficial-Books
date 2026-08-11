@@ -11,7 +11,9 @@ FORUM_URL = "https://otzaria.org/forum"
 
 # בתוך ספויילר אי אפשר להשתמש ברשימות Markdown ("- ") — הן שוברות אותו,
 # ולכן כל שורת ספר נפתחת באימוג'י. שם התיקייה מוצג כמסלול מלא בסוגריים.
-BOOK_MARK = "▫️"
+MARK = "▫️"          # אותו סימן לתיקייה ולקבצים; התיקייה מודגשת ועם נתיב
+FOLDER_MARK = MARK
+BOOK_MARK = MARK
 
 MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגין + פרסום)
 RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
@@ -125,12 +127,14 @@ def get_changed_books():
             deleted[folder].append((name, inc))
 
     def render_folders(by_folder):
-        """מסלול התיקייה המלא בסוגריים, ומתחתיו הקבצים שבתוכה —
-        בלי שורה נפרדת לכל תת-תיקייה בדרך."""
+        """שם התיקייה שבה הקבצים ככותרת מודגשת, הנתיב אליה בסוגריים,
+        ומתחתיה הקבצים שבתוכה."""
         lines = ""
         for folder in sorted(by_folder):
             if folder != ROOT_LABEL:
-                lines += f"({folder})\n"
+                parts = folder.split('/')
+                name, path = parts[-1], '/'.join(parts[:-1])
+                lines += f"{FOLDER_MARK} **{name}**" + (f" ({path})" if path else "") + "\n"
             for leaf in sorted(by_folder[folder]):
                 lines += f"{BOOK_MARK} {leaf}\n"
         return lines
