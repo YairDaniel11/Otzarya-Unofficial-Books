@@ -179,24 +179,36 @@ def get_changed_books():
             lines += "\n"
         return lines
 
+    def count_of(books_dict):
+        return sum(len(v) for v in books_dict.values())
+
+    def amount(n, singular, plural):
+        return f"{singular} אחד" if n == 1 else f"{n} {plural}"
+
     def section(title, body):
-        """כותרת + הפירוט המלא בתוך ספויילר (שורה ריקה לפניו, || לפני ואחרי התוכן)."""
+        """כותרת עם מספרים + הפירוט המלא בתוך ספויילר
+        (שורה ריקה לפניו, || לפני התוכן ו-|| אחריו)."""
         body = body.strip()
         if not body:
             return ""
-        return f"### **{title}**\nפירוט בספויילר\n\n||\n{body}\n||\n\n"
+        return f"### **{title}**\nהפירוט המלא בספויילר\n\n||\n{body}\n||\n\n"
 
     msg = ""
     if added:
-        msg += section("נוסף למאגר", format_book_list(added))
+        msg += section(f"נוספו למאגר - {amount(count_of(added), 'ספר', 'ספרים')}",
+                       format_book_list(added))
     if moved:
-        msg += section("הועבר בין תיקיות", format_moved(moved))
+        msg += section(f"הועברו בין תיקיות - {amount(len(moved), 'קובץ', 'קבצים')}",
+                       format_moved(moved))
     if renamed:
-        msg += section("שונה שם הקובץ", format_renamed(renamed))
+        msg += section(f"שונה שם - {amount(count_of(renamed), 'קובץ', 'קבצים')}",
+                       format_renamed(renamed))
     if modified:
-        msg += section("עודכן במאגר", format_book_list(modified))
+        msg += section(f"עודכנו במאגר - {amount(count_of(modified), 'ספר', 'ספרים')}",
+                       format_book_list(modified))
     if deleted:
-        msg += section("הוסר מהמאגר", format_book_list(deleted))
+        msg += section(f"הוסרו מהמאגר - {amount(count_of(deleted), 'ספר', 'ספרים')}",
+                       format_book_list(deleted))
 
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
