@@ -9,6 +9,12 @@ from collections import defaultdict
 TOPIC_ID = "437"
 FORUM_URL = "https://otzaria.org/forum"
 
+# סימני רשימה: בתוך ספויילר אי אפשר להשתמש ברשימות Markdown ("- "),
+# ולכן כל שורה מתחילה באימוג'י וההזחה נעשית ברווחים קשיחים.
+FOLDER_MARK = "▪️"
+BOOK_MARK = "▫️"
+INDENT = "\u00a0" * 3   # רווח קשיח — רווח רגיל נבלע ברינדור
+
 MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגין + פרסום)
 RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
 
@@ -134,12 +140,12 @@ def get_changed_books():
         return tree
 
     def render_tree(node, depth=0):
-        indent = "  " * depth
+        indent = INDENT * depth
         lines = ""
         for leaf in sorted(node.get(LEAVES, [])):
-            lines += f"{indent}- {leaf}\n"
+            lines += f"{indent}{BOOK_MARK} {leaf}\n"
         for name in sorted(k for k in node if k != LEAVES):
-            lines += f"{indent}- {name}\n"
+            lines += f"{indent}{FOLDER_MARK} {name}\n"
             lines += render_tree(node[name], depth + 1)
         return lines
 
@@ -175,7 +181,7 @@ def get_changed_books():
                 continue
             lines += f"**{label}**\n"
             for name, old_f, new_f in sorted(group):
-                lines += f"- {name}: {old_f} ← {new_f}\n"
+                lines += f"{BOOK_MARK} {name}: {old_f} ← {new_f}\n"
             lines += "\n"
         return lines
 
