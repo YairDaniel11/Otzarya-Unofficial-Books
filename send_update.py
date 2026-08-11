@@ -134,7 +134,9 @@ def get_changed_books():
             if folder != ROOT_LABEL:
                 parts = folder.split('/')
                 name, path = parts[-1], '/'.join(parts[:-1])
-                lines += f"{FOLDER_MARK} **{name}**" + (f" ({path})" if path else "") + "\n"
+                if path:
+                    lines += f"({path})\n"
+                lines += f"{FOLDER_MARK} **{name}**\n"
             for leaf in sorted(by_folder[folder]):
                 lines += f"{BOOK_MARK} {leaf}\n"
         return lines
