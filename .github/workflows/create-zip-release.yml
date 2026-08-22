@@ -91,13 +91,24 @@ jobs:
               if b >= 1 << 10: return f"{b / (1 << 10):.0f} KB"
               return f"{b} B"
 
+          # ה-ZIP חייב לצאת זהה בית-בית עבור תוכן זהה: ה-hash שלו הוא מה
+          # שקובע אצל המשתמש אם יש עדכון. זמן השינוי של קובץ ב-checkout הוא
+          # זמן הריצה, ולכן בלי קיבועו כל בנייה מחדש הייתה משנה את ה-hash
+          # ומאלצת את כל המשתמשים להוריד שוב אוסף שלא השתנה בו דבר.
+          ZIP_EPOCH = (1980, 1, 1, 0, 0, 0)
+
           def make_zip(src_dir, zip_path):
               with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
                   for dp, dns, fns in os.walk(src_dir):
                       dns.sort()
                       for fn in sorted(fns):
-                          fp = os.path.join(dp, fn)
-                          zf.write(fp, os.path.relpath(fp, src_dir))
+                          fp  = os.path.join(dp, fn)
+                          arc = os.path.relpath(fp, src_dir).replace('\\', '/')
+                          info = zipfile.ZipInfo(arc, date_time=ZIP_EPOCH)
+                          info.compress_type = zipfile.ZIP_DEFLATED
+                          info.external_attr = 0o644 << 16
+                          with open(fp, 'rb') as src:
+                              zf.writestr(info, src.read())
 
           def has_files(path):
               return any(fns for _, _, fns in os.walk(path))
