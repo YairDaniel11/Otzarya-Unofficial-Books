@@ -46,10 +46,39 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Build ZIPs and Manifest
+      # רשימת הקבצים שהשתנו נגזרת מ-git ולא ממטען ה-push.
+      # `github.event.commits` מחזיר רשימת קבצים ריקה עבור קומיט מיזוג, וגם
+      # נחתך ב-20 קומיטים; בשני המקרים יצא "0 קבצים השתנו", כל הזיפים דולגו
+      # וה-hash-ים ב-books_data.js נשארו ישנים — כך שהתוסף הציג "הכל מעודכן"
+      # למרות שנוספו ושונו ספרים. git diff על טווח ה-push מדויק בשני המקרים.
+      - name: Detect changed files
         if: ${{ !inputs.post_only }}
         env:
-          COMMITS_JSON: ${{ toJson(github.event.commits) }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA:  ${{ github.event.after }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          set -uo pipefail
+          # ריק = בנייה מלאה (workflow_dispatch, ריצה ראשונה, force-push)
+          : > changed_files.txt
+          if [ "$EVENT_NAME" != "push" ]; then
+            echo "FULL_BUILD=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          if [ -z "${BEFORE_SHA:-}" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ] \
+             || ! git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null \
+             || ! git cat-file -e "$AFTER_SHA^{commit}" 2>/dev/null; then
+            echo "טווח ה-push אינו זמין — בנייה מלאה"
+            echo "FULL_BUILD=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          # -z: שמות עם תווים לא-ASCII (עברית) יוצאים כמות שהם, בלי escaping
+          git -c core.quotePath=false diff --name-only -z "$BEFORE_SHA" "$AFTER_SHA" \
+            | tr '\0' '\n' > changed_files.txt
+          echo "קבצים שהשתנו: $(wc -l < changed_files.txt)"
+
+      - name: Build ZIPs and Manifest
+        if: ${{ !inputs.post_only }}
         run: |
           python3 - <<'PYEOF'
           import os, json, zipfile, hashlib
@@ -76,22 +105,23 @@ jobs:
           if not os.path.isdir('ספרים'):
               raise SystemExit("תיקיית 'ספרים' לא נמצאה!")
 
-          # קביעת אילו קבצים השתנו מתוך נתוני ה-push
-          commits_raw = os.environ.get('COMMITS_JSON', '[]')
-          try:
-              commits = json.loads(commits_raw)
-          except:
-              commits = []
-
-          if commits:
-              changed_files = set()
-              for commit in commits:
-                  for f in commit.get('added', []) + commit.get('modified', []) + commit.get('removed', []):
-                      changed_files.add(f)
-              print(f"קבצים שהשתנו: {len(changed_files)}")
+          # קביעת אילו קבצים השתנו — מ-changed_files.txt שחושב ב-git diff.
+          # changed_files = None משמעו "בנה הכל".
+          if os.environ.get('FULL_BUILD'):
+              changed_files = None
+              print("בנייה מלאה (workflow_dispatch / טווח push לא זמין)")
           else:
-              changed_files = None  # workflow_dispatch או ריצה ראשונה → בנה הכל
-              print("בנייה מלאה (workflow_dispatch או ריצה ראשונה)")
+              with open('changed_files.txt', encoding='utf-8') as f:
+                  changed_files = set(line.strip() for line in f if line.strip())
+              print(f"קבצים שהשתנו: {len(changed_files)}")
+              books_changed = {f for f in changed_files if f.startswith('ספרים/')}
+              print(f"מתוכם תחת 'ספרים/': {len(books_changed)}")
+              # רשת ביטחון: הוורקפלואו רץ רק כשנדחפו שינויים תחת 'ספרים/',
+              # ולכן רשימה ריקה כאן פירושה שהזיהוי נכשל — עדיף לבנות הכל
+              # מלבנות כלום ולהשאיר את המשתמשים עם hash-ים ישנים.
+              if not books_changed:
+                  print("לא זוהו שינויים תחת 'ספרים/' — נופלים לבנייה מלאה")
+                  changed_files = None
 
           def is_folder_changed(folder_rel_path):
               """ZIP של תיקייה צריך להיבנות מחדש אם כל קובץ בתוכה (כולל תת-תיקיות) השתנה."""
