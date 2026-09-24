@@ -1,4 +1,4 @@
-<h1>רש"י על ירמיהו</h1>
+﻿<h1>רש"י על ירמיהו</h1>
 <h2>פרק א</h2>
 <h3>פסוק א</h3>
 <b><small>[</small></b> <b><small>דברי</small></b> <b><small>ירמיהו</small></b> <small>-</small> <b><small>'ליתי</small></b> <b><small>בר</small></b> <b><small>קלקלתא</small></b><b><small>,</small></b> <b><small>דתקנן</small></b> <b><small>עובדוהי'</small></b> <b><small>-</small></b> <b><small>ירמיה</small></b> <b><small>בא</small></b> <b><small>מרחב</small></b> <b><small>הזונה</small></b><b><small>,</small></b> <b><small>'ולוכח</small></b> <b><small>בר</small></b> <b><small>מתקנתא</small></b><b><small>,</small></b> <b><small>דמקלקלן</small></b> <b><small>עובדוהי'</small></b> <b><small>-</small></b> <b><small>אלו</small></b> <b><small>ישראל</small></b> <b><small>שקלקלו</small></b> <b><small>מעשיהן</small></b><b><small>,</small></b> <b><small>שבאו</small></b> <b><small>מזרע</small></b> <b><small>כשר</small></b> <b><small>(ראה</small></b> <b><small>פר"כ</small></b> <b><small>יג</small></b><b><small>,</small></b> <b><small>ד).]</small></b>
@@ -1569,5 +1569,3 @@
 <b>בעשרים</b> <b>וחמשה</b> <b>לחדש</b> - ובמקום אחר אומר "בעשרים ושבעה לחדש" (מ"ב כה, כז)!? - <b>בעשרים</b> <b>וחמשה</b> מת נבוכד נצר, ובעשרים וששה נקבר והוציאוֹ <b>אויל</b> <b>מרודך</b> מקברו, ובעשרים ושבעה מלך ונשא <b>את</b> <b>ראש</b> <b>יהויכין</b> (ראה סע"ר כח). <b><small>[</small></b> <b><small>נשא</small></b> <small>-</small> <b><small>נשאוֹ</small></b> <b><small>וגדלוֹ.</small></b> <b><small>לישנא</small></b> <b><small>אחרינא:</small></b> <b><small>מנאו</small></b> <b><small>עם</small></b> <b><small>שאר</small></b> <b><small>המלכים;</small></b> <b><small>כמו</small></b> <b><small>"שא</small></b> <b><small>את</small></b> <b><small>ראש</small></b> <b><small>בני</small></b> <b><small>ישראל"</small></b> <b><small>(צירוף</small></b> <b><small>של</small></b> <b><small>במ'</small></b> <b><small>לא</small></b><b><small>,</small></b> <b><small>כו</small></b> <b><small>ושמ'</small></b> <b><small>ל</small></b><b><small>,</small></b> <b><small>יב).]</small></b>
 <h3>פסוק לד</h3>
 <b>ארוחתו</b> - נוטל פרס מבית <b>המלך</b> לכל צרכיו (ראה תנח' מסעי יב).
-
-מתוך אתר מקראות גדולות הכתר (mgketer.org), מהדורת פרופ׳ מנחם כהן, אוניברסיטת בר-אילן. הועתק לצורכי לימוד בהתאם לתנאי השימוש שבאתר; הטקסט לא שונה.

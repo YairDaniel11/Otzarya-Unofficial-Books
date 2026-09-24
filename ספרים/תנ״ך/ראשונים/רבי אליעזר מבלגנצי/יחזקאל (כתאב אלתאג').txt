@@ -1,4 +1,4 @@
-<h1>ר' אליעזר מבלגנצי על יחזקאל</h1>
+﻿<h1>ר' אליעזר מבלגנצי על יחזקאל</h1>
 <h2>פרק א</h2>
 <h3>פסוק א</h3>
 <b>ברביעי</b> - לשנת <b>שלשים.</b> <b>נפתחו</b> <b>השמים</b> - לא בחזיון וחלומות, אלא כדניאל (י, ד ואילך): <b>ואראה</b> <b>מראות</b> <b>אלהים</b>, "והנה רוח סערה" (להלן, ד) - לא היו דברי יחזקאל מתחלתן יותר, ואף שמו לא פירש, לפי שענין ספרו יפרשנו למטה, כגון "והיה יחזקאל לכם למופת" (יח' כד, כד), ועל זה סמך לקצר, כאשר אמרתי לך (בפתיחה) על שנת <b>שלשים</b>, שענין ספרו יוכיח עליו; אבל הסופר שכתב כל דבריו יחד הוסיף לפרש מה שסתם וקיצר בשני מקראות הללו.
@@ -1751,5 +1751,3 @@
 <b>נחלה</b> - נחל מצרים.
 <h3>פסוק לה</h3>
 <b>סביב</b> - כל היקף העיר. <b>ושם</b> <b>העיר</b> <b>מיום</b> - בנינה ויישובה שאמרנו (לעיל, טו - יז). <b>יי'</b> <b>שמה</b> - חידוש שֵׁם הוא על מקדשה. <small>לחונן</small> <small>הדעת</small><small>,</small> <small>שפתי</small> <small>מבעת</small><small>,</small> <small>תהלה</small> <small>נשמעת</small><small>,</small> <small>עלי</small> <small>בירור</small> <small>מלים.</small> <small>אליעזר</small> <small>עבדו</small><small>,</small> <small>ישורר</small> <small>על</small> <small>חסדו</small><small>,</small> <small>אשר</small> <small>גמר</small> <small>בעדו</small><small>,</small> <small>חסין</small> <small>יה</small> <small>באלים.</small> <small>אשר</small> <small>גלהו</small> <small>אות</small><small>,</small> <small>להבין</small> <small>נפלאות</small><small>,</small> <small>במראות</small> <small>ונבואות</small><small>,</small> <small>יחזקאל</small> <small>רב</small> <small>פעלים.</small> <small>במרכבת</small> <small>קדש</small><small>,</small> <small>והבית</small> <small>קדש</small><small>,</small> <small>וקרבנות</small> <small>חדש</small><small>,</small> <small>ומדת</small> <small>הגבולים.</small>
-
-מתוך אתר מקראות גדולות הכתר (mgketer.org), מהדורת פרופ׳ מנחם כהן, אוניברסיטת בר-אילן. הועתק לצורכי לימוד בהתאם לתנאי השימוש שבאתר; הטקסט לא שונה.
