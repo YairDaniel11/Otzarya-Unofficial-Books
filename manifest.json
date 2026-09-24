@@ -5,9 +5,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "3.5 MB",
+    "size": "11.3 MB",
     "depth": 0,
-    "hash": "13fdffca11ba7694d8b0e74e4f6402c2"
+    "hash": "604b7ad08cee30d92220197fad13fb44"
   },
   {
     "name": "מדרש",
@@ -85,9 +85,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "40.8 MB",
+    "size": "43.6 MB",
     "depth": 0,
-    "hash": "0d2d9d9086dc9286f17ee0f383acc187"
+    "hash": "35d1d03cbda5a1b8967281dfb1492d1e"
   },
   {
     "name": "תלמוד בבלי",
@@ -105,9 +105,9 @@
     "zip": "folder_0251.zip",
     "label": "תנ״ך",
     "parent": "",
-    "size": "17.7 MB",
+    "size": "17.6 MB",
     "depth": 0,
-    "hash": "d0468e46fd4bc4e93dfc665b0a889b52"
+    "hash": "8d6f905ec7eeb1ad65658d23321044a6"
   },
   {
     "name": "אחרונים",
@@ -125,9 +125,9 @@
     "zip": "folder_0062.zip",
     "label": "מחברי זמננו",
     "parent": "הלכה",
-    "size": "966 KB",
+    "size": "8.8 MB",
     "depth": 1,
-    "hash": "a06a4e774ce77d2380c71f7eadd7ae8b"
+    "hash": "20bb336d3b47cbc9a9dc539f894bba90"
   },
   {
     "name": "משנה תורה",
@@ -315,9 +315,9 @@
     "zip": "folder_0139.zip",
     "label": "מחברי זמננו",
     "parent": "שו״ת",
-    "size": "18.3 MB",
+    "size": "21.0 MB",
     "depth": 1,
-    "hash": "2b384f80d8603c52d72553dabed58ede"
+    "hash": "91f89b1c12dbd11076940d8c8e3d78b2"
   },
   {
     "name": "ראשונים",
@@ -385,9 +385,9 @@
     "zip": "folder_0252.zip",
     "label": "כתובים",
     "parent": "תנ״ך",
-    "size": "431 KB",
+    "size": "429 KB",
     "depth": 1,
-    "hash": "09c984983449b42a056336fe251d8b73"
+    "hash": "04cf7105240e90a9e554ec5ce77b418c"
   },
   {
     "name": "מסורה",
@@ -397,7 +397,7 @@
     "parent": "תנ״ך",
     "size": "1.5 MB",
     "depth": 1,
-    "hash": "aff1881325c2add1754666d7d25eeb8a"
+    "hash": "6e4e6c9c362aadc3ec4106e69ec75afe"
   },
   {
     "name": "נביאים",
@@ -405,9 +405,9 @@
     "zip": "folder_0254.zip",
     "label": "נביאים",
     "parent": "תנ״ך",
-    "size": "666 KB",
+    "size": "662 KB",
     "depth": 1,
-    "hash": "6f8b04dc0e2ac27675d75037ff503a95"
+    "hash": "3529e65470ce8526e4848a9c01f1f6f0"
   },
   {
     "name": "ראשונים",
@@ -415,9 +415,9 @@
     "zip": "folder_0255.zip",
     "label": "ראשונים",
     "parent": "תנ״ך",
-    "size": "13.8 MB",
+    "size": "13.7 MB",
     "depth": 1,
-    "hash": "7fbc9773d3a7b9c03b5dfed87382f752"
+    "hash": "b3f3251158a0741863d0c636e8fab61e"
   },
   {
     "name": "תורה",
@@ -425,9 +425,9 @@
     "zip": "folder_0256.zip",
     "label": "תורה",
     "parent": "תנ״ך",
-    "size": "341 KB",
+    "size": "340 KB",
     "depth": 1,
-    "hash": "e0ba7fa6a3674b650f7ac2cf79e3b9b0"
+    "hash": "c5e75f7f7e80cbd661f0c05af9264144"
   },
   {
     "name": "תרגומים",
@@ -435,9 +435,19 @@
     "zip": "folder_0257.zip",
     "label": "תרגומים",
     "parent": "תנ״ך",
-    "size": "1011 KB",
+    "size": "1006 KB",
     "depth": 1,
-    "hash": "611bd4e71941e5209453ba661a98decc"
+    "hash": "18a2acfda1c0023ec153cc1e29434d18"
+  },
+  {
+    "name": "חזון עובדיה",
+    "path": "הלכה/מחברי זמננו/חזון עובדיה",
+    "zip": "folder_0326.zip",
+    "label": "חזון עובדיה",
+    "parent": "הלכה/מחברי זמננו",
+    "size": "7.8 MB",
+    "depth": 2,
+    "hash": "d5a2e2067c7480023e6e6e548ed2c9d3"
   },
   {
     "name": "שונה הלכות",
@@ -695,9 +705,9 @@
     "zip": "folder_0143.zip",
     "label": "יביע אומר",
     "parent": "שו״ת/מחברי זמננו",
-    "size": "8.4 MB",
+    "size": "11.1 MB",
     "depth": 2,
-    "hash": "a8f968c1df4b4b44974eac2e69a58405"
+    "hash": "afffe0037febc97cd54e329bf493186f"
   },
   {
     "name": "יחווה דעת",
@@ -945,9 +955,9 @@
     "zip": "folder_0258.zip",
     "label": "מסורה גדולה",
     "parent": "תנ״ך/מסורה",
-    "size": "263 KB",
+    "size": "258 KB",
     "depth": 2,
-    "hash": "8f254e298868afc152ffb3b2bc340c48"
+    "hash": "1af479fac83ca557b4c49a91d7dcc39c"
   },
   {
     "name": "מסורה קטנה",
@@ -955,9 +965,9 @@
     "zip": "folder_0259.zip",
     "label": "מסורה קטנה",
     "parent": "תנ״ך/מסורה",
-    "size": "327 KB",
+    "size": "322 KB",
     "depth": 2,
-    "hash": "47258febdff8fd29ff80d0986b464ece"
+    "hash": "e95e7e572f35da8a5bebf0c468ff89f3"
   },
   {
     "name": "עין המסורה",
@@ -965,9 +975,9 @@
     "zip": "folder_0260.zip",
     "label": "עין המסורה",
     "parent": "תנ״ך/מסורה",
-    "size": "930 KB",
+    "size": "925 KB",
     "depth": 2,
-    "hash": "796e26069530948772402d50dce2cd55"
+    "hash": "dc4f88d4d4860d01740781c33573f5d3"
   },
   {
     "name": "מיוחס לרש״י",
@@ -977,7 +987,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "144 KB",
     "depth": 2,
-    "hash": "d97303676d1adfd7884681a94067dd18"
+    "hash": "c3e8fb367106b9942b8d5b9e0e672e3f"
   },
   {
     "name": "פרשן צרפתי עלום שם",
@@ -987,7 +997,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "9 KB",
     "depth": 2,
-    "hash": "b44732f6b7763d97614089a640342ed5"
+    "hash": "6f5d83766689991011a7e0c1a47f3b4b"
   },
   {
     "name": "רבי אברהם אבן עזרא",
@@ -997,7 +1007,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "1.4 MB",
     "depth": 2,
-    "hash": "6909994cd96427f5955040ca55b55c88"
+    "hash": "3bdd3891bf9a8c6e3f0f5b4d0ab7a80f"
   },
   {
     "name": "רבי אליעזר מבלגנצי",
@@ -1005,9 +1015,9 @@
     "zip": "folder_0264.zip",
     "label": "רבי אליעזר מבלגנצי",
     "parent": "תנ״ך/ראשונים",
-    "size": "426 KB",
+    "size": "424 KB",
     "depth": 2,
-    "hash": "57a12b165b3f30a1f9b54bc9eadcf75e"
+    "hash": "2b38ce33892ec7e17bdb05457d699a3b"
   },
   {
     "name": "רבי יוסף בכור שור",
@@ -1017,7 +1027,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "459 KB",
     "depth": 2,
-    "hash": "6ce1ace868965196c2c5bd5938901c78"
+    "hash": "9fbb31901d5289041e41e201c3f3a3ec"
   },
   {
     "name": "רבי יוסף כספי",
@@ -1025,9 +1035,9 @@
     "zip": "folder_0266.zip",
     "label": "רבי יוסף כספי",
     "parent": "תנ״ך/ראשונים",
-    "size": "606 KB",
+    "size": "602 KB",
     "depth": 2,
-    "hash": "ecdf5c9891bdacd1bd8bd5b44a2d6e44"
+    "hash": "a3388b9fffb13f9f876005fc955e4c33"
   },
   {
     "name": "רבי יוסף קמחי",
@@ -1037,7 +1047,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "101 KB",
     "depth": 2,
-    "hash": "84793491099e54038dee28236ffae214"
+    "hash": "7fd0b8e2d89fd17cb343d8a159060d78"
   },
   {
     "name": "רבי יוסף קרא",
@@ -1047,7 +1057,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "1.0 MB",
     "depth": 2,
-    "hash": "6858035a4e9242d537d3f8a769d639b7"
+    "hash": "34eab2bc2f2ef2677624ff4a3543ccfb"
   },
   {
     "name": "רבי ישעיה מטראני",
@@ -1055,9 +1065,9 @@
     "zip": "folder_0269.zip",
     "label": "רבי ישעיה מטראני",
     "parent": "תנ״ך/ראשונים",
-    "size": "590 KB",
+    "size": "587 KB",
     "depth": 2,
-    "hash": "5026749dfff28abefecebcf21c74e82e"
+    "hash": "3767d3ea2716f47ac42f18833793e0cf"
   },
   {
     "name": "רבי לוי בן גרשום",
@@ -1067,7 +1077,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "2.2 MB",
     "depth": 2,
-    "hash": "735780eb52890bd2a11005e4377e536c"
+    "hash": "28d14375ce7f9f154e2add3b226feb1f"
   },
   {
     "name": "רבי מנחם בן שמעון",
@@ -1077,7 +1087,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "332 KB",
     "depth": 2,
-    "hash": "17a19966d3931d3a66cd61d152451b33"
+    "hash": "8e4902172456c62bef430aa67d3b81aa"
   },
   {
     "name": "רבי מנחם המאירי",
@@ -1085,9 +1095,9 @@
     "zip": "folder_0272.zip",
     "label": "רבי מנחם המאירי",
     "parent": "תנ״ך/ראשונים",
-    "size": "685 KB",
+    "size": "684 KB",
     "depth": 2,
-    "hash": "b9f643dd0c3f73881a3783a2be96d5b4"
+    "hash": "6fa1007f0f57b7554870a1eea72b7b67"
   },
   {
     "name": "רבי משה בן נחמן",
@@ -1097,7 +1107,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "1.1 MB",
     "depth": 2,
-    "hash": "9fa5e086236c3d01c507b41d67351c3c"
+    "hash": "563bc41ea03f44af964d168bc8a3534d"
   },
   {
     "name": "רבי משה קמחי",
@@ -1105,9 +1115,9 @@
     "zip": "folder_0274.zip",
     "label": "רבי משה קמחי",
     "parent": "תנ״ך/ראשונים",
-    "size": "224 KB",
+    "size": "223 KB",
     "depth": 2,
-    "hash": "bdb029e212057cfa69086fb9d135d2f3"
+    "hash": "7e6847f2313d3933d16852ad830f2ce1"
   },
   {
     "name": "רבי סעדיה גאון",
@@ -1117,7 +1127,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "34 KB",
     "depth": 2,
-    "hash": "69ea96452f4e5abcff6fd2800fb25322"
+    "hash": "89291f2a9902615cdec56e8277f14ca3"
   },
   {
     "name": "רבנו תם",
@@ -1127,7 +1137,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "54 KB",
     "depth": 2,
-    "hash": "fab4aee19f513bb78e6470eafc7edb5c"
+    "hash": "42d4abfc0cef09f978db5cde25660054"
   },
   {
     "name": "רד״ק",
@@ -1137,7 +1147,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "2.4 MB",
     "depth": 2,
-    "hash": "7d8b3a063e8209aaf05faa8b69e29dba"
+    "hash": "ea8802b3af9526722d711f3681e9935d"
   },
   {
     "name": "רשב״ם",
@@ -1145,9 +1155,9 @@
     "zip": "folder_0278.zip",
     "label": "רשב״ם",
     "parent": "תנ״ך/ראשונים",
-    "size": "323 KB",
+    "size": "321 KB",
     "depth": 2,
-    "hash": "1a73d385a22db7a227e7d0120c79b335"
+    "hash": "a3d6614cfce91c50db3ce61f5be3369d"
   },
   {
     "name": "רש״י",
@@ -1157,7 +1167,7 @@
     "parent": "תנ״ך/ראשונים",
     "size": "1.6 MB",
     "depth": 2,
-    "hash": "0493776a50dbb3fdb7d946992197e54f"
+    "hash": "98b0e85baf5969710ebca380d043423c"
   },
   {
     "name": "תלמיד של רבי ישעיה מטראני",
@@ -1165,9 +1175,9 @@
     "zip": "folder_0280.zip",
     "label": "תלמיד של רבי ישעיה מטראני",
     "parent": "תנ״ך/ראשונים",
-    "size": "42 KB",
+    "size": "41 KB",
     "depth": 2,
-    "hash": "7e91fe240ac37aee3d496a98017673fc"
+    "hash": "328c2ba373e8445df99a0b554b57d9e4"
   },
   {
     "name": "תרגום",
@@ -1175,9 +1185,9 @@
     "zip": "folder_0281.zip",
     "label": "תרגום",
     "parent": "תנ״ך/תרגומים",
-    "size": "239 KB",
+    "size": "238 KB",
     "depth": 2,
-    "hash": "83c6a14ced0978a63b0d8c1ac0e65a90"
+    "hash": "de16a85e2bbc00e113f3d9a4ee00cda7"
   },
   {
     "name": "תרגום אונקלוס",
@@ -1185,9 +1195,9 @@
     "zip": "folder_0282.zip",
     "label": "תרגום אונקלוס",
     "parent": "תנ״ך/תרגומים",
-    "size": "246 KB",
+    "size": "245 KB",
     "depth": 2,
-    "hash": "1da10b5258fb80704791020b29b59727"
+    "hash": "5dc2663cf4a40198ca03122ec9d52f80"
   },
   {
     "name": "תרגום יונתן",
@@ -1195,9 +1205,9 @@
     "zip": "folder_0283.zip",
     "label": "תרגום יונתן",
     "parent": "תנ״ך/תרגומים",
-    "size": "526 KB",
+    "size": "522 KB",
     "depth": 2,
-    "hash": "9b326548f4859a678efa7981d04957cd"
+    "hash": "55d03231abf1400b04ed1cbfbb3834e8"
   },
   {
     "name": "links",
@@ -1507,7 +1517,7 @@
     "parent": "תנ״ך/ראשונים/מיוחס לרש״י",
     "size": "110 KB",
     "depth": 3,
-    "hash": "d65748db53d52d1a412350f35805ac55"
+    "hash": "08284ab6d4dc6fd04b7643d37e11ee44"
   },
   {
     "name": "מיוחס לרש״י נחמיה",
@@ -1517,7 +1527,7 @@
     "parent": "תנ״ך/ראשונים/מיוחס לרש״י",
     "size": "17 KB",
     "depth": 3,
-    "hash": "7d7190631acf70314c3a01f3bfbb2ecc"
+    "hash": "c87f9be883032b69aa17b043da126c0d"
   },
   {
     "name": "מיוחס לרש״י עזרא",
@@ -1525,9 +1535,9 @@
     "zip": "folder_0286.zip",
     "label": "מיוחס לרש״י עזרא",
     "parent": "תנ״ך/ראשונים/מיוחס לרש״י",
-    "size": "17 KB",
+    "size": "16 KB",
     "depth": 3,
-    "hash": "080f02637257a521f2134be0202ba7cc"
+    "hash": "1eae9723e35dd4bf85a01259aab5f7cd"
   },
   {
     "name": "ראב״ע",
@@ -1535,9 +1545,9 @@
     "zip": "folder_0287.zip",
     "label": "ראב״ע",
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
-    "size": "558 KB",
+    "size": "556 KB",
     "depth": 3,
-    "hash": "ed3606a95f4ba07edd6e0c83d2a93ce4"
+    "hash": "5697d502db1f8a9aebeae6a2917de95b"
   },
   {
     "name": "ראב״ע איכה דקדוק המלים",
@@ -1547,7 +1557,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "7 KB",
     "depth": 3,
-    "hash": "6cc1307f2aed8b39785ff7522108af81"
+    "hash": "fcff87ddaf20a269e2752fcda92a837d"
   },
   {
     "name": "ראב״ע איכה הפירוש",
@@ -1557,7 +1567,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "9 KB",
     "depth": 3,
-    "hash": "9250dc38df0030f3ab50151e6a2ebdd2"
+    "hash": "f1faeb89c8c8b255fa33f147dc61be67"
   },
   {
     "name": "ראב״ע אסתר פירוש א",
@@ -1567,7 +1577,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "14 KB",
     "depth": 3,
-    "hash": "564d650a4ea978782bdec99cd31ef4af"
+    "hash": "18f9be887be90906eb46367375885f8a"
   },
   {
     "name": "ראב״ע אסתר פירוש ב",
@@ -1577,7 +1587,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "20 KB",
     "depth": 3,
-    "hash": "21db1a1bd239caaf7393cdd96d75db12"
+    "hash": "3f334f2cdf32277d016d779dabdbcfc0"
   },
   {
     "name": "ראב״ע דניאל פירוש א",
@@ -1587,7 +1597,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "44 KB",
     "depth": 3,
-    "hash": "70046ecc33de404e0aa33cd738537eeb"
+    "hash": "23ab29264b97049a2306ee99ae77025d"
   },
   {
     "name": "ראב״ע דניאל פירוש ב",
@@ -1597,7 +1607,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "20 KB",
     "depth": 3,
-    "hash": "002bca2852dcf132c9c9bf2b84b04923"
+    "hash": "3c6a44d253b3edb49ed754c3aba3d736"
   },
   {
     "name": "ראב״ע פירוש א - הקצר",
@@ -1607,7 +1617,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "207 KB",
     "depth": 3,
-    "hash": "0bf5215e45b6cbbfb917c1c721652980"
+    "hash": "d34f0bd79a8b2fef914938cc1bb45c39"
   },
   {
     "name": "ראב״ע פירוש א הפעם הראשונה - דקדוק",
@@ -1617,7 +1627,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "6 KB",
     "depth": 3,
-    "hash": "c4a52d9b0f77032fa5db4614db219c7c"
+    "hash": "c70f3db5918d5b36649aee96e5e9865c"
   },
   {
     "name": "ראב״ע פירוש א הפעם השלישית - דרש",
@@ -1627,7 +1637,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "8 KB",
     "depth": 3,
-    "hash": "8283620add9b12d41730c7aef630c9c8"
+    "hash": "43d3e60561323f4d923c17f6588466bf"
   },
   {
     "name": "ראב״ע פירוש א הפעם השניה - פשט",
@@ -1635,9 +1645,9 @@
     "zip": "folder_0297.zip",
     "label": "ראב״ע פירוש א הפעם השניה - פשט",
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
-    "size": "6 KB",
+    "size": "5 KB",
     "depth": 3,
-    "hash": "2c161e6b8eb1c8b7dfff877c2aeeb250"
+    "hash": "f9b0c761913dec951ae9560678f090f4"
   },
   {
     "name": "ראב״ע פירוש ב - הארוך",
@@ -1647,7 +1657,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "200 KB",
     "depth": 3,
-    "hash": "1de9b34b82c34d676e13ce874b152753"
+    "hash": "686bf6ec0b29325d652f3704e7e3b42f"
   },
   {
     "name": "ראב״ע פירוש ב - הארוך - דקדוק המלים",
@@ -1657,7 +1667,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "14 KB",
     "depth": 3,
-    "hash": "a35b03324941a125df2e4e4dcc45ca5f"
+    "hash": "39a1906c07554e41377e4ed48fc4aaac"
   },
   {
     "name": "ראב״ע פירוש ב - הארוך - הפירוש",
@@ -1667,7 +1677,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "36 KB",
     "depth": 3,
-    "hash": "b3cb44cd650d76e387a7646c8a46c4e8"
+    "hash": "d2f64d09de3fa03a5a8f9048b438b252"
   },
   {
     "name": "ראב״ע פירוש ב הפעם הראשונה - דקדוק",
@@ -1677,7 +1687,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "7 KB",
     "depth": 3,
-    "hash": "ed0d4ff46bef6706fdc986f8197c71a7"
+    "hash": "000fd370c0dee9c05fe53ae391d8abd7"
   },
   {
     "name": "ראב״ע פירוש ב הפעם השלישית - דרש",
@@ -1687,7 +1697,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "8 KB",
     "depth": 3,
-    "hash": "ac9cb6edeac5b02839660ca75b43df29"
+    "hash": "ec840dbdd1e1efc88babdc2faedb7475"
   },
   {
     "name": "ראב״ע פירוש ב הפעם השניה - פשט",
@@ -1697,7 +1707,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "7 KB",
     "depth": 3,
-    "hash": "b9a4c523f39211985e51751acf175044"
+    "hash": "30b4360f3dd05fba2bc0de9bd0b82af7"
   },
   {
     "name": "ראב״ע פירוש בעל פה שנמסר לתלמיד",
@@ -1705,9 +1715,9 @@
     "zip": "folder_0304.zip",
     "label": "ראב״ע פירוש בעל פה שנמסר לתלמיד",
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
-    "size": "68 KB",
+    "size": "66 KB",
     "depth": 3,
-    "hash": "2641ade40c49b1ffd8512d175b228491"
+    "hash": "4372a546a751895dd8d3d335184e5b65"
   },
   {
     "name": "ראב״ע תהלים פירוש א",
@@ -1717,7 +1727,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "218 KB",
     "depth": 3,
-    "hash": "37f278a4d272705fdd36f1d02ea0161b"
+    "hash": "85c99c323e4fdecddc501ec6647f8a2f"
   },
   {
     "name": "ראב״ע תהלים פירוש ב",
@@ -1727,7 +1737,7 @@
     "parent": "תנ״ך/ראשונים/רבי אברהם אבן עזרא",
     "size": "2 KB",
     "depth": 3,
-    "hash": "0ec148fc6fa2b6a71f3b3ef5b6d7ddde"
+    "hash": "2cc7e7e82ed6303a4f3b2db00010b447"
   },
   {
     "name": "ר' יוסף כספי",
@@ -1735,9 +1745,9 @@
     "zip": "folder_0307.zip",
     "label": "ר' יוסף כספי",
     "parent": "תנ״ך/ראשונים/רבי יוסף כספי",
-    "size": "547 KB",
+    "size": "544 KB",
     "depth": 3,
-    "hash": "0a2af1811a161300015267f1f50d344e"
+    "hash": "8eb767a9cd893ea3b55d1706ba5a84d2"
   },
   {
     "name": "ר' יוסף כספי - מעשה המרכבה",
@@ -1747,7 +1757,7 @@
     "parent": "תנ״ך/ראשונים/רבי יוסף כספי",
     "size": "13 KB",
     "depth": 3,
-    "hash": "0f74893a5898dd939d4fbb18f324be5d"
+    "hash": "e19387c373993f587c47576672f459c7"
   },
   {
     "name": "ר' יוסף כספי - פירוש נוסף",
@@ -1757,7 +1767,7 @@
     "parent": "תנ״ך/ראשונים/רבי יוסף כספי",
     "size": "45 KB",
     "depth": 3,
-    "hash": "bdf0f17437023873d55c74ec36218db7"
+    "hash": "f320142ea8c6fabddb75a4344a7c0b94"
   },
   {
     "name": "ר' יוסף קרא",
@@ -1765,9 +1775,9 @@
     "zip": "folder_0310.zip",
     "label": "ר' יוסף קרא",
     "parent": "תנ״ך/ראשונים/רבי יוסף קרא",
-    "size": "945 KB",
+    "size": "942 KB",
     "depth": 3,
-    "hash": "0e7c9a0d5cb675eaaa5885d49cec4546"
+    "hash": "74ac0c978e049b4d3b4b92e3a40b8357"
   },
   {
     "name": "ר' יוסף קרא - נוסח ראשון",
@@ -1777,7 +1787,7 @@
     "parent": "תנ״ך/ראשונים/רבי יוסף קרא",
     "size": "45 KB",
     "depth": 3,
-    "hash": "9657147ec0f94e3ed4f94d5e3472e08a"
+    "hash": "5040b3426f877d253faeed76410a2d1d"
   },
   {
     "name": "ר' יוסף קרא - נוסח שני",
@@ -1785,9 +1795,9 @@
     "zip": "folder_0312.zip",
     "label": "ר' יוסף קרא - נוסח שני",
     "parent": "תנ״ך/ראשונים/רבי יוסף קרא",
-    "size": "47 KB",
+    "size": "46 KB",
     "depth": 3,
-    "hash": "98c3cdad9ad76d7d313c4b12aa80bca4"
+    "hash": "a430cf7c984669a64705a09b283c9b6e"
   },
   {
     "name": "רלב״ג",
@@ -1797,7 +1807,7 @@
     "parent": "תנ״ך/ראשונים/רבי לוי בן גרשום",
     "size": "1.2 MB",
     "depth": 3,
-    "hash": "c5a0b7594e3952faafb29a5008f44af6"
+    "hash": "6941c0a71848e97bfdc1e2dd374e0596"
   },
   {
     "name": "רלב״ג - ביאור המילות",
@@ -1805,9 +1815,9 @@
     "zip": "folder_0314.zip",
     "label": "רלב״ג - ביאור המילות",
     "parent": "תנ״ך/ראשונים/רבי לוי בן גרשום",
-    "size": "181 KB",
+    "size": "180 KB",
     "depth": 3,
-    "hash": "d44446adcb54104d8abfb95534d7c37c"
+    "hash": "29f0b196a17d8480aee98cf9d1e44a89"
   },
   {
     "name": "רלב״ג - ביאור הפרשה",
@@ -1817,7 +1827,7 @@
     "parent": "תנ״ך/ראשונים/רבי לוי בן גרשום",
     "size": "430 KB",
     "depth": 3,
-    "hash": "e07447ad066b6db795ce4e23f384f956"
+    "hash": "e20ad9d9f74a0e387d082b1b5aea7cb4"
   },
   {
     "name": "תועלות לרלב״ג",
@@ -1825,9 +1835,9 @@
     "zip": "folder_0316.zip",
     "label": "תועלות לרלב״ג",
     "parent": "תנ״ך/ראשונים/רבי לוי בן גרשום",
-    "size": "471 KB",
+    "size": "468 KB",
     "depth": 3,
-    "hash": "c13c1f40a30419a7d99286fbe21e9dbc"
+    "hash": "d669f299989d29e5c60b1b59b84a6518"
   },
   {
     "name": "רמב״ן",
@@ -1837,7 +1847,7 @@
     "parent": "תנ״ך/ראשונים/רבי משה בן נחמן",
     "size": "1.1 MB",
     "depth": 3,
-    "hash": "43224fef76708a2df9f48e531f89a06e"
+    "hash": "2cf21d27d4ac019bbb1f2f1bee6341e0"
   },
   {
     "name": "רמב״ן איוב פירוש המילות",
@@ -1847,7 +1857,7 @@
     "parent": "תנ״ך/ראשונים/רבי משה בן נחמן",
     "size": "2 KB",
     "depth": 3,
-    "hash": "f7e2ce648b2646930447f914f6c7c38c"
+    "hash": "038c8c7fcb3f29ff218411bf6676b006"
   },
   {
     "name": "ר' משה קמחי",
@@ -1857,7 +1867,7 @@
     "parent": "תנ״ך/ראשונים/רבי משה קמחי",
     "size": "120 KB",
     "depth": 3,
-    "hash": "f98db88ec89c0b327cfe6446fa377d13"
+    "hash": "83d59e9e4f77e73a2f357eddc4a770e0"
   },
   {
     "name": "ר' משה קמחי - דקדוק המענה",
@@ -1867,7 +1877,7 @@
     "parent": "תנ״ך/ראשונים/רבי משה קמחי",
     "size": "27 KB",
     "depth": 3,
-    "hash": "c5e3ec4d47111e1dd3feddcf74d1cca6"
+    "hash": "96ab6e8ff8892d33457ebfc7a31156ae"
   },
   {
     "name": "ר' משה קמחי - פירוש המענה",
@@ -1877,7 +1887,7 @@
     "parent": "תנ״ך/ראשונים/רבי משה קמחי",
     "size": "76 KB",
     "depth": 3,
-    "hash": "49f59da51f8aca4af1c6d1b4068e75fc"
+    "hash": "fd80e4347273386ad61b7069e152b3a9"
   },
   {
     "name": "תרגום אונקלוס - הכתר",
@@ -1885,9 +1895,9 @@
     "zip": "folder_0322.zip",
     "label": "תרגום אונקלוס - הכתר",
     "parent": "תנ״ך/תרגומים/תרגום אונקלוס",
-    "size": "245 KB",
+    "size": "244 KB",
     "depth": 3,
-    "hash": "d0268f2138c49988497a689775c6f7dc"
+    "hash": "07ab00e64f00ea495d6cfc0b98ff77b1"
   },
   {
     "name": "נביאים",
@@ -1895,9 +1905,9 @@
     "zip": "folder_0323.zip",
     "label": "נביאים",
     "parent": "תנ״ך/תרגומים/תרגום יונתן",
-    "size": "525 KB",
+    "size": "521 KB",
     "depth": 3,
-    "hash": "35db0c0bc6548c461d1f84f6140d541f"
+    "hash": "f7f17eb99bacecbedfc406b19a3a12ba"
   },
   {
     "name": "כתובים",
@@ -1905,9 +1915,9 @@
     "zip": "folder_0324.zip",
     "label": "כתובים",
     "parent": "תנ״ך/תרגומים/תרגום",
-    "size": "239 KB",
+    "size": "238 KB",
     "depth": 3,
-    "hash": "cd86a066d977554748c74f45c9a1c585"
+    "hash": "726526f53b137c8e46af58948e7a0344"
   },
   {
     "name": "דמאי ביכורים",
@@ -2125,8 +2135,8 @@
     "zip": "folder_0325.zip",
     "label": "תרגום יונתן - הכתר",
     "parent": "תנ״ך/תרגומים/תרגום יונתן/נביאים",
-    "size": "524 KB",
+    "size": "520 KB",
     "depth": 4,
-    "hash": "dc5c8a407e07b0b007467ab56d2d7790"
+    "hash": "8700ed778015328fe4a49763e72d6b96"
   }
 ]
