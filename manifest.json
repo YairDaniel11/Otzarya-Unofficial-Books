@@ -5,9 +5,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "11.3 MB",
+    "size": "14.2 MB",
     "depth": 0,
-    "hash": "604b7ad08cee30d92220197fad13fb44"
+    "hash": "9ce78e887ef912539a0c5d54b7e228d3"
   },
   {
     "name": "מדרש",
@@ -30,6 +30,16 @@
     "hash": "f7c4d7b45b18758e9e5db7731eec33b1"
   },
   {
+    "name": "משנה",
+    "path": "משנה",
+    "zip": "folder_0327.zip",
+    "label": "משנה",
+    "parent": "",
+    "size": "483 KB",
+    "depth": 0,
+    "hash": "c9588a7d39bcbfa107d2a316e56bc425"
+  },
+  {
     "name": "סדר התפילה",
     "path": "סדר התפילה",
     "zip": "folder_0057.zip",
@@ -45,9 +55,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "291 KB",
+    "size": "329 KB",
     "depth": 0,
-    "hash": "befa00daf5035d7ec5f74ab8f8364491"
+    "hash": "a9a9e911b5e5ad123413d62d4f48613c"
   },
   {
     "name": "ספרי מוסר",
@@ -125,9 +135,19 @@
     "zip": "folder_0062.zip",
     "label": "מחברי זמננו",
     "parent": "הלכה",
-    "size": "8.8 MB",
+    "size": "11.4 MB",
     "depth": 1,
-    "hash": "20bb336d3b47cbc9a9dc539f894bba90"
+    "hash": "3e1b193868dcd44befaf76a8a3e2f74d"
+  },
+  {
+    "name": "מפרשים",
+    "path": "הלכה/מפרשים",
+    "zip": "folder_0328.zip",
+    "label": "מפרשים",
+    "parent": "הלכה",
+    "size": "224 KB",
+    "depth": 1,
+    "hash": "e9e897f33b87b148adadfb5b8a8a91b0"
   },
   {
     "name": "משנה תורה",
@@ -180,6 +200,16 @@
     "hash": "7c7dbb1ee7cbddc1014ac10a23312ccf"
   },
   {
+    "name": "מחברי זמננו",
+    "path": "משנה/מחברי זמננו",
+    "zip": "folder_0329.zip",
+    "label": "מחברי זמננו",
+    "parent": "משנה",
+    "size": "483 KB",
+    "depth": 1,
+    "hash": "0adedc785a6a0cc0263044357bb04337"
+  },
+  {
     "name": "הגדה",
     "path": "סדר התפילה/הגדה",
     "zip": "folder_0068.zip",
@@ -188,6 +218,16 @@
     "size": "27 KB",
     "depth": 1,
     "hash": "0a507e7e5a30d1bab9f3554d44523ad4"
+  },
+  {
+    "name": "כללי השס",
+    "path": "ספרות עזר/כללי השס",
+    "zip": "folder_0330.zip",
+    "label": "כללי השס",
+    "parent": "ספרות עזר",
+    "size": "38 KB",
+    "depth": 1,
+    "hash": "f0305dcced67dfeb4e211b7c483ff5a7"
   },
   {
     "name": "שירה ופיוט",
@@ -438,6 +478,16 @@
     "size": "1006 KB",
     "depth": 1,
     "hash": "18a2acfda1c0023ec153cc1e29434d18"
+  },
+  {
+    "name": "הליכות עולם",
+    "path": "הלכה/מחברי זמננו/הליכות עולם",
+    "zip": "folder_0331.zip",
+    "label": "הליכות עולם",
+    "parent": "הלכה/מחברי זמננו",
+    "size": "2.7 MB",
+    "depth": 2,
+    "hash": "1144a1c9b84979aa4d907b83a7bce5cf"
   },
   {
     "name": "חזון עובדיה",
