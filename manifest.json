@@ -87,7 +87,7 @@
     "parent": "",
     "size": "51.9 MB",
     "depth": 0,
-    "hash": "18eed3013c29413fe4a1c304e20eafd6"
+    "hash": "74c513f923703ab5c21050b9694c70ba"
   },
   {
     "name": "שו״ת",
@@ -260,24 +260,14 @@
     "hash": "fbf21dcd4a99a206a27e20aca9f139c4"
   },
   {
-    "name": "אחרונים",
-    "path": "ספרים שאינם מותאמים לאוצריא/אחרונים",
-    "zip": "folder_0016.zip",
-    "label": "אחרונים",
-    "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "965 KB",
-    "depth": 1,
-    "hash": "071afc1768dfec1df853df38fab24edf"
-  },
-  {
     "name": "הלכה",
     "path": "ספרים שאינם מותאמים לאוצריא/הלכה",
     "zip": "folder_0203.zip",
     "label": "הלכה",
     "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "8.3 MB",
+    "size": "8.7 MB",
     "depth": 1,
-    "hash": "e614d0cbd00c3baf6e5a3a3e23376b03"
+    "hash": "4a9a97470477a21debe664d5af022474"
   },
   {
     "name": "סדר התפילה",
@@ -615,9 +605,9 @@
     "zip": "folder_0215.zip",
     "label": "ראשונים",
     "parent": "ספרים שאינם מותאמים לאוצריא/הלכה",
-    "size": "8.0 MB",
+    "size": "8.3 MB",
     "depth": 2,
-    "hash": "c61bb6db226081707f124215bfd364fc"
+    "hash": "358ad321ecba928e27f11a999dc8ecde"
   },
   {
     "name": "שו״ע",
