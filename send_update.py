@@ -6,7 +6,7 @@ import requests
 from collections import defaultdict
 
 # --- הגדרות ---
-TOPIC_ID = "437"
+TOPIC_ID = "2518"
 FORUM_URL = "https://otzaria.org/forum"
 
 # בתוך ספויילר אי אפשר להשתמש ברשימות Markdown ("- ") — הן שוברות אותו,
