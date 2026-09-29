@@ -19,6 +19,7 @@ MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגי�
 RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
 
 INCOMPATIBLE_FOLDER = "ספרים שאינם מותאמים לאוצריא"
+MAX_NAMES_CHARS = 2000    # אורך מקסימלי לשורת שמות הספרים שמעל הספויילר
 
 def book_name(filepath):
     return os.path.splitext(os.path.basename(filepath))[0]
@@ -183,30 +184,52 @@ def get_changed_books():
     def amount(n, singular, plural):
         return f"{singular} אחד" if n == 1 else f"{n} {plural}"
 
-    def section(title, body):
-        """כותרת עם מספרים + הפירוט המלא בתוך ספויילר
-        (שורה ריקה לפניו, || לפני התוכן ו-|| אחריו)."""
+    def names_line(names):
+        """שמות הספרים (ללא כפילויות) בשורה אחת, מקוצרת אם היא ארוכה מדי."""
+        uniq = list(dict.fromkeys(n for n in names if n))
+        out, total = [], 0
+        for k, n in enumerate(uniq):
+            if out and total + len(n) + 2 > MAX_NAMES_CHARS:
+                out.append(f"ועוד {len(uniq) - k}")
+                break
+            out.append(n)
+            total += len(n) + 2
+        return ", ".join(out)
+
+    def section(title, body, names):
+        """כותרת עם מספרים, מתחתיה (ברמת כותרת אחת פחות) שמות הספרים,
+        והפירוט המלא בתוך ספויילר (שורה ריקה לפניו, || לפני התוכן ו-|| אחריו)."""
         body = body.strip()
         if not body:
             return ""
-        return f"### **{title}**\nהפירוט המלא בספויילר\n\n||\n{body}\n||\n\n"
+        names_md = names_line(names)
+        if names_md:
+            names_md = f"#### {names_md}\n"
+        return f"### **{title}**\n{names_md}הפירוט המלא בספויילר\n\n||\n{body}\n||\n\n"
+
+    def folder_name(folder, root_name):
+        """שם התיקייה הישירה (בלי הנתיב). קובץ שאינו בתוך תיקייה מיוצג בשמו."""
+        return root_name if folder == ROOT_LABEL else folder.split('/')[-1]
+
+    def names_of(books_dict):
+        return [folder_name(f, name) for f, books in books_dict.items() for name, _ in books]
 
     msg = ""
     if added:
         msg += section(f"נוספו למאגר - {amount(count_of(added), 'ספר', 'ספרים')}",
-                       format_book_list(added))
+                       format_book_list(added), names_of(added))
     if moved:
         msg += section(f"הועברו בין תיקיות - {amount(len(moved), 'קובץ', 'קבצים')}",
-                       format_moved(moved))
+                       format_moved(moved), [folder_name(nf, n) for n, _, nf, _ in moved])
     if renamed:
         msg += section(f"שונה שם - {amount(count_of(renamed), 'קובץ', 'קבצים')}",
-                       format_renamed(renamed))
+                       format_renamed(renamed), [folder_name(f, items[0][1]) for f, items in renamed.items()])
     if modified:
         msg += section(f"עודכנו במאגר - {amount(count_of(modified), 'ספר', 'ספרים')}",
-                       format_book_list(modified))
+                       format_book_list(modified), names_of(modified))
     if deleted:
         msg += section(f"הוסרו מהמאגר - {amount(count_of(deleted), 'ספר', 'ספרים')}",
-                       format_book_list(deleted))
+                       format_book_list(deleted), names_of(deleted))
 
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
