@@ -55,9 +55,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "329 KB",
+    "size": "512 KB",
     "depth": 0,
-    "hash": "a9a9e911b5e5ad123413d62d4f48613c"
+    "hash": "4cc22a39071189a1b4e98002876cd6c2"
   },
   {
     "name": "ספרי מוסר",
@@ -245,9 +245,9 @@
     "zip": "folder_0130.zip",
     "label": "תולדות עם ישראל",
     "parent": "ספרות עזר",
-    "size": "232 KB",
+    "size": "415 KB",
     "depth": 1,
-    "hash": "6827a36e33ac2c723a9cb00e5d67ba0f"
+    "hash": "08c5e7631221e05fd8d14b6bcedd0af9"
   },
   {
     "name": "מחברי זמננו",
