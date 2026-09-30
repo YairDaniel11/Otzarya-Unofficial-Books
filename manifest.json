@@ -65,9 +65,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "703 KB",
+    "size": "3.1 MB",
     "depth": 0,
-    "hash": "27c1737b302cdf037550ff57e82b4e34"
+    "hash": "af87f2275f71273982aa0af324af5494"
   },
   {
     "name": "ספרים - ריבית",
@@ -255,9 +255,9 @@
     "zip": "folder_0069.zip",
     "label": "מחברי זמננו",
     "parent": "ספרי מוסר",
-    "size": "703 KB",
+    "size": "3.1 MB",
     "depth": 1,
-    "hash": "fbf21dcd4a99a206a27e20aca9f139c4"
+    "hash": "d5d2c23fe2f22bc37b69ed6cc52abd27"
   },
   {
     "name": "הלכה",
@@ -578,6 +578,16 @@
     "size": "702 KB",
     "depth": 2,
     "hash": "a8a07bd06bbeb0fe12d15786896d79fa"
+  },
+  {
+    "name": "ספרי דעת של הרב שלוסברג",
+    "path": "ספרי מוסר/מחברי זמננו/ספרי דעת של הרב שלוסברג",
+    "zip": "folder_0332.zip",
+    "label": "ספרי דעת של הרב שלוסברג",
+    "parent": "ספרי מוסר/מחברי זמננו",
+    "size": "2.4 MB",
+    "depth": 2,
+    "hash": "2832269a6e5a7e1a50723f22822d6707"
   },
   {
     "name": "משנה תורה",
