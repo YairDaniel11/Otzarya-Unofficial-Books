@@ -85,9 +85,9 @@
     "zip": "folder_0333.zip",
     "label": "ספרים חדשים מותאמים לאוצריא - לבדיקה",
     "parent": "",
-    "size": "216.2 MB",
+    "size": "252.7 MB",
     "depth": 0,
-    "hash": "c6c64ff158ff0df20d95729285bfaea3"
+    "hash": "583ac9c654f5214ac95e48e46a2653dc"
   },
   {
     "name": "ספרים שאינם מותאמים לאוצריא",
@@ -535,9 +535,9 @@
     "zip": "folder_0361.zip",
     "label": "קובץ",
     "parent": "ספרים חדשים מותאמים לאוצריא - לבדיקה",
-    "size": "87.1 MB",
+    "size": "123.5 MB",
     "depth": 1,
-    "hash": "d1d3db1718af6dd362271fdb56105b86"
+    "hash": "ebf657a9ce14dd2a03bc27e600a2ac0f"
   },
   {
     "name": "קובץ מפרשים",
