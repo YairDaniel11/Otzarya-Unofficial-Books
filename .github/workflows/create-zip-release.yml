@@ -59,14 +59,14 @@ jobs:
       - name: Detect changed files
         if: ${{ !inputs.post_only }}
         env:
-          BEFORE_SHA: ${{ github.event.before }}
-          AFTER_SHA:  ${{ github.event.after }}
+          BEFORE_SHA: ${{ inputs.before_sha || github.event.before }}
+          AFTER_SHA:  ${{ inputs.after_sha || github.event.after }}
           EVENT_NAME: ${{ github.event_name }}
         run: |
           set -uo pipefail
           # ריק = בנייה מלאה (workflow_dispatch, ריצה ראשונה, force-push)
           : > changed_files.txt
-          if [ "$EVENT_NAME" != "push" ]; then
+          if [ "$EVENT_NAME" != "push" ] && { [ -z "${BEFORE_SHA:-}" ] || [ -z "${AFTER_SHA:-}" ]; }; then
             echo "FULL_BUILD=1" >> "$GITHUB_ENV"
             exit 0
           fi
