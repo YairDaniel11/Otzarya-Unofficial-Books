@@ -310,9 +310,15 @@ jobs:
               release = json.loads(resp.read())
               release_id = release['id']
 
-          # מחיקה רק של assets שנבנו מחדש + manifest.json
+          with open('dist/manifest.json', encoding='utf-8') as f:
+              manifest_zips = set(i['zip'] for i in json.load(f))
+
+          # מחיקה של assets שנבנו מחדש + manifest.json + ZIPs יתומים
+          # (folder_*.zip שאין להם רשומה ב-manifest, למשל אחרי שינוי שם/העברה של תיקייה)
           for asset in release.get('assets', []):
-              if asset['name'] in rebuilt or asset['name'] == 'manifest.json':
+              name = asset['name']
+              is_orphan = name.startswith('folder_') and name.endswith('.zip') and name not in manifest_zips
+              if name in rebuilt or name == 'manifest.json' or is_orphan:
                   del_req = urllib.request.Request(
                       f"https://api.github.com/repos/{repo}/releases/assets/{asset['id']}",
                       headers={'Authorization': f'token {token}'},
