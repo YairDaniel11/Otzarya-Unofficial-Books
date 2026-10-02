@@ -268,7 +268,7 @@ jobs:
           git config user.name "GitHub Action"
           git add manifest.json books_data.js
           git diff --cached --quiet || git commit -m "Update manifest + books_data [skip ci]"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
 
       - name: Create or Update Release
