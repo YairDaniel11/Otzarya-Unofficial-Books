@@ -5,9 +5,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "14.2 MB",
+    "size": "14.4 MB",
     "depth": 0,
-    "hash": "9ce78e887ef912539a0c5d54b7e228d3"
+    "hash": "e2cc4d98c6a207c6fafa58c58a8aa7f8"
   },
   {
     "name": "מדרש",
@@ -68,16 +68,6 @@
     "size": "3.1 MB",
     "depth": 0,
     "hash": "af87f2275f71273982aa0af324af5494"
-  },
-  {
-    "name": "ספרים - ריבית",
-    "path": "ספרים - ריבית",
-    "zip": "folder_0004.zip",
-    "label": "ספרים - ריבית",
-    "parent": "",
-    "size": "181 KB",
-    "depth": 0,
-    "hash": "1d43b9cd58274b4ab8fa5a32ed76c624"
   },
   {
     "name": "ספרים חדשים מותאמים לאוצריא - לבדיקה",
@@ -185,9 +175,9 @@
     "zip": "folder_0065.zip",
     "label": "שולחן ערוך",
     "parent": "הלכה",
-    "size": "757 KB",
+    "size": "938 KB",
     "depth": 1,
-    "hash": "c3d75851639f68894c4465c5dcdd5642"
+    "hash": "0872a8167455047b9e01a285312d97ed"
   },
   {
     "name": "אגדה",
@@ -585,9 +575,9 @@
     "zip": "folder_0349.zip",
     "label": "עצמות יוסף",
     "parent": "ספרים חדשים מותאמים לאוצריא - לבדיקה",
-    "size": "382 KB",
+    "size": "46 KB",
     "depth": 1,
-    "hash": "4d9337392f0d1ce210bb461d926d12c0"
+    "hash": "ff6d08f0fe89c8070ad17407fccb3518"
   },
   {
     "name": "ערוך לנר",
@@ -1295,9 +1285,9 @@
     "zip": "folder_0083.zip",
     "label": "מפרשים",
     "parent": "הלכה/שולחן ערוך",
-    "size": "757 KB",
+    "size": "938 KB",
     "depth": 2,
-    "hash": "e5155482528cad064164c26e690c373c"
+    "hash": "aee14e7e429638d0ce33a24d82a16da4"
   },
   {
     "name": "בן סירא",
