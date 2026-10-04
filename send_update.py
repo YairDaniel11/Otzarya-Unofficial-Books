@@ -234,6 +234,34 @@ def get_changed_books():
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
 
+MAX_POST_CHARS = 30000    # מגבלת הפורום היא 32767 תווים לפוסט; משאירים מרווח ביטחון
+POST_GAP_SECONDS = 5      # הפסקה בין פוסטים רצופים באותו נושא
+
+
+def split_post(text, limit):
+    """מפצל טקסט ארוך לכמה פוסטים בגבולות שורה. אם החיתוך נופל בתוך ספויילר
+    (||...||), הוא נסגר בסוף החלק ונפתח מחדש בתחילת החלק הבא."""
+    if len(text) <= limit:
+        return [text]
+    chunks, cur, size, in_spoiler = [], [], 0, False
+    for line in text.split('\n'):
+        extra = len(line) + 1
+        closing = in_spoiler and line.strip() == "||"
+        if cur and not closing and size + extra + 3 > limit:
+            if in_spoiler:
+                cur.append("||")
+            chunks.append('\n'.join(cur).strip())
+            cur = ["||"] if in_spoiler else []
+            size = sum(len(l) + 1 for l in cur)
+        cur.append(line)
+        size += extra
+        if line.strip() == "||":
+            in_spoiler = not in_spoiler
+    if cur:
+        chunks.append('\n'.join(cur).strip())
+    return chunks
+
+
 class ForumError(Exception):
     """שגיאה בתקשורת עם הפורום. retryable=True → כדאי לנסות שוב."""
     def __init__(self, message, retryable):
@@ -330,14 +358,24 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if "לא נמצאו שינויים ישירים בספרים" not in changes_text:
-        final_post = (
-            changes_text
-            + '\n\n---\nניתן להוריד באמצעות התוסף "[הורדת מאגר גיטאב](https://otzaria.org/plugins/6a0081ae54ae49eaed8d6a73)"\n'
+        footer = (
+            '\n\n---\nניתן להוריד באמצעות התוסף "[הורדת מאגר גיטאב](https://otzaria.org/plugins/6a0081ae54ae49eaed8d6a73)"\n'
             + f'או מ-[עמוד ה-Releases](https://github.com/{repo}/releases/latest).\n\n'
             + '**פוסט זה נכתב ע"י בוט**'
         )
+        # הפוסט הארוך מפוצל לכמה פוסטים; משאירים מקום לכותרת "חלק X מתוך Y" ולתחתית
+        parts = split_post(changes_text, MAX_POST_CHARS - len(footer) - 100)
+        posts = []
+        for i, part in enumerate(parts, 1):
+            head = f"**חלק {i} מתוך {len(parts)}**\n\n" if len(parts) > 1 else ""
+            posts.append(head + part + footer)
         try:
-            post_to_nodebb(final_post)
+            for i, post in enumerate(posts):
+                if i:
+                    time.sleep(POST_GAP_SECONDS)
+                if len(posts) > 1:
+                    print(f"\n=== מפרסם פוסט {i + 1} מתוך {len(posts)} ({len(post)} תווים) ===")
+                post_to_nodebb(post)
         except ForumError as e:
             print(f"\n::error::הפוסט לא פורסם בפורום: {e}")
             sys.exit(1)
