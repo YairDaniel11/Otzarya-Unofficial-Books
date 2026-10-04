@@ -252,6 +252,31 @@ jobs:
           with open('dist/books_data.js', 'w', encoding='utf-8') as f:
               f.write(books_js)
 
+          # קבצים בודדים בלי zip (כרגע: דורות.csv), כדי שהתוסף יוכל לסמן "מעודכן"/"יש עדכון"
+          # גם לשורה "סדר הדורות בלבד". נכתב לקובץ נפרד ולא ל-manifest/books_data:
+          #  - גרסאות ישנות של התוסף מניחות zip לכל רשומה שם ויישברו מרשומה בלי zip
+          #  - רשומה כזו לא צריכה מספר folder_NNNN ולא נכנסת לניקוי ה-zips היתומים
+          # ה-hash הוא MD5 של תוכן הקובץ עצמו (לא של zip).
+          LINKS_DIR = 'קבצי קישורים וסדר הדורות'
+          files_data = []
+          dorot_path = os.path.join('ספרים', LINKS_DIR, 'דורות.csv')
+          if os.path.isfile(dorot_path):
+              with open(dorot_path, 'rb') as f:
+                  dorot_bytes = f.read()
+              files_data.append({
+                  "name":   "דורות.csv",
+                  "path":   f"{LINKS_DIR}/דורות.csv",
+                  "parent": LINKS_DIR,
+                  "size":   fmt_size(len(dorot_bytes)),
+                  "depth":  1,
+                  "file":   True,
+                  "hash":   hashlib.md5(dorot_bytes).hexdigest()
+              })
+          else:
+              print("אזהרה: דורות.csv לא נמצא — files_data.json ייווצר ריק")
+          with open('dist/files_data.json', 'w', encoding='utf-8') as f:
+              json.dump(files_data, f, ensure_ascii=False, indent=2)
+
           with open('dist/rebuilt_zips.txt', 'w') as f:
               f.write('\n'.join(rebuilt_zips))
 
@@ -264,9 +289,10 @@ jobs:
         run: |
           cp dist/manifest.json manifest.json
           cp dist/books_data.js books_data.js
+          cp dist/files_data.json files_data.json
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git add manifest.json books_data.js
+          git add manifest.json books_data.js files_data.json
           git diff --cached --quiet || git commit -m "Update manifest + books_data [skip ci]"
           git pull --rebase -X theirs origin main
           git push
