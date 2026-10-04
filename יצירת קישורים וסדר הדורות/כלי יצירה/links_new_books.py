@@ -13,21 +13,22 @@
               (כמו שנעשה לפירושים על הש"ס בהרצה המקורית).
 
 הרצה:
-  python -X utf8 links_new_books.py            # ניסוי יבש: מדפיס סיכום וכותב דוח בדיקה, לא נוגע בקבצים
-  python -X utf8 links_new_books.py --apply    # כותב את links.csv (שומר BOM ו-CRLF)
+  python -X utf8 links_new_books.py --base "<תיקיית ספרים>"            # ניסוי יבש: סיכום ודוח בדיקה, לא נוגע בקבצים
+  python -X utf8 links_new_books.py --base "<תיקיית ספרים>" --apply    # כותב את links.csv (שומר BOM ו-CRLF)
 
-תנאים: seforim.db זמין לקריאה (רק לבדיקת קיום הדפים במסכת היעד).
-לפני הרצה על מחשב אחר: לערוך את הנתיבים בראש הקובץ.
+תנאים: seforim.db זמין לקריאה (רק לבדיקת קיום הדפים במסכת היעד). לפירוט ההגדרות: config.py.
 """
 import csv, io, os, re, sqlite3, sys, glob, collections
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE = r'C:\Users\HP\Desktop\מאגרי גיטאב\אוצריא\מאגר ספרים - גיטאב\ספרים'
-LINKS_DIR = os.path.join(BASE, 'קבצי קישורים וסדר הדורות')
-OUT_DIR = os.path.join(LINKS_DIR, 'קישורים', '13')
-REPORT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'links_new_books_report.csv')
-SEF = 'file:C:/Users/HP/AppData/Roaming/io.github.kdroidfilter.seforimapp/databases/seforim.db?mode=ro'
+import config
+
+BASE = config.BASE
+LINKS_DIR = config.LINKS_DIR
+OUT_DIR = os.path.join(LINKS_DIR, 'קישורים', '13')  # תיקיית הקישורים שהכלי כותב אליה
+REPORT = os.path.join(config.OUT_DIR, 'links_new_books_report.csv')
+SEF = config.SEF_URI
 
 # ספר מקור (שם קובץ בלי סיומת) -> יעד
 JOBS = [
