@@ -15,9 +15,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "14.6 MB",
+    "size": "15.2 MB",
     "depth": 0,
-    "hash": "eb7fb89e96e5c41edc20ae09f5766dd8"
+    "hash": "383eed5ee5e50279e9028ee45e8fae39"
   },
   {
     "name": "מדרש",
@@ -25,9 +25,9 @@
     "zip": "folder_0201.zip",
     "label": "מדרש",
     "parent": "",
-    "size": "156 KB",
+    "size": "220 KB",
     "depth": 0,
-    "hash": "8ebe14e4432c6865476f35fd12db8680"
+    "hash": "1ecab2da0c3947643d29eb1a40c3abb5"
   },
   {
     "name": "מחשבת ישראל",
@@ -35,9 +35,9 @@
     "zip": "folder_0415.zip",
     "label": "מחשבת ישראל",
     "parent": "",
-    "size": "3.2 MB",
+    "size": "3.9 MB",
     "depth": 0,
-    "hash": "fd0c546eb9db2de1459e657635fa71d0"
+    "hash": "3cb36dda11ffbac5379f5db1306660d5"
   },
   {
     "name": "מילונים וספרי יעץ",
@@ -75,9 +75,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "512 KB",
+    "size": "403 KB",
     "depth": 0,
-    "hash": "4cc22a39071189a1b4e98002876cd6c2"
+    "hash": "48c4931ed60d3954fc0b64b142cee035"
   },
   {
     "name": "ספרי מוסר",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.1 MB",
     "depth": 0,
-    "hash": "3ef8d69122d3cdf59214e412562de9e2"
+    "hash": "4e49859e9df37720bd5b0698a6a9b631"
   },
   {
     "name": "שו״ת",
@@ -115,9 +115,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "45.0 MB",
+    "size": "45.2 MB",
     "depth": 0,
-    "hash": "71626a533db8c045cbf5c4be866aa8d9"
+    "hash": "12a29c6ad9e5b048aab2b6146d8a95fd"
   },
   {
     "name": "תלמוד בבלי",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "921.8 MB",
+    "size": "923.3 MB",
     "depth": 0,
-    "hash": "221c5815ff29dc48efdad47513171cdb"
+    "hash": "ad96b7b107f7c943eb515ffe2e36d449"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -195,9 +195,9 @@
     "zip": "folder_0063.zip",
     "label": "משנה תורה",
     "parent": "הלכה",
-    "size": "11 KB",
+    "size": "660 KB",
     "depth": 1,
-    "hash": "24ae1afdb25a293743172f04c2358af5"
+    "hash": "4d79b2bc73f95581a3c79c5ed4f917c9"
   },
   {
     "name": "ראשונים",
@@ -225,9 +225,9 @@
     "zip": "folder_0202.zip",
     "label": "אגדה",
     "parent": "מדרש",
-    "size": "156 KB",
+    "size": "220 KB",
     "depth": 1,
-    "hash": "e1b7520ec8e73e70d1051992681ff581"
+    "hash": "ae8181b7d1f59107eb92db59b3538a52"
   },
   {
     "name": "אחרונים",
@@ -235,9 +235,9 @@
     "zip": "folder_0524.zip",
     "label": "אחרונים",
     "parent": "מחשבת ישראל",
-    "size": "1.6 MB",
+    "size": "2.3 MB",
     "depth": 1,
-    "hash": "88a4edd07b401bfb736aa003f484cf9a"
+    "hash": "715eefdd68b69976efac800b224243d8"
   },
   {
     "name": "מאמרי השקפה",
@@ -285,9 +285,9 @@
     "zip": "folder_0330.zip",
     "label": "כללי השס",
     "parent": "ספרות עזר",
-    "size": "38 KB",
+    "size": "112 KB",
     "depth": 1,
-    "hash": "f0305dcced67dfeb4e211b7c483ff5a7"
+    "hash": "236b9b47f2503744b95a9406abaf85ce"
   },
   {
     "name": "שירה ופיוט",
@@ -425,9 +425,9 @@
     "zip": "folder_0139.zip",
     "label": "מחברי זמננו",
     "parent": "שו״ת",
-    "size": "22.6 MB",
+    "size": "22.7 MB",
     "depth": 1,
-    "hash": "61fa1e105efe7376992e6c2ef949ae37"
+    "hash": "75d0f189ba15972b09ea90d75da3c7d5"
   },
   {
     "name": "ראשונים",
@@ -455,9 +455,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "46.6 MB",
+    "size": "48.1 MB",
     "depth": 1,
-    "hash": "927a1f76020e2e4e8c26f82351739588"
+    "hash": "bf23d39321b56c6f57b6b4aeba4fae6d"
   },
   {
     "name": "מערכות ועניינים",
@@ -605,9 +605,9 @@
     "zip": "folder_0081.zip",
     "label": "מפרשים",
     "parent": "הלכה/משנה תורה",
-    "size": "11 KB",
+    "size": "659 KB",
     "depth": 2,
-    "hash": "f9a417bbf4f88b6d349586f69c849db2"
+    "hash": "ba8b9784e6c074b8ad391c77bbd01ed4"
   },
   {
     "name": "הלכות בכורות וחלה לרמב״ן",
@@ -1285,9 +1285,9 @@
     "zip": "folder_0143.zip",
     "label": "יביע אומר",
     "parent": "שו״ת/מחברי זמננו",
-    "size": "11.1 MB",
+    "size": "11.2 MB",
     "depth": 2,
-    "hash": "afffe0037febc97cd54e329bf493186f"
+    "hash": "ec844ae73047918ce136bfb634f8b736"
   },
   {
     "name": "יחווה דעת",
@@ -1728,6 +1728,16 @@
     "size": "10.4 MB",
     "depth": 2,
     "hash": "de08ebba177f6197118f4827c0cf67aa"
+  },
+  {
+    "name": "מאור ישראל על הש״ס",
+    "path": "תלמוד בבלי/מחברי זמננו/מאור ישראל על הש״ס",
+    "zip": "folder_0537.zip",
+    "label": "מאור ישראל על הש״ס",
+    "parent": "תלמוד בבלי/מחברי זמננו",
+    "size": "1.5 MB",
+    "depth": 2,
+    "hash": "605faa4a55e9c0df63199e8f3921b91f"
   },
   {
     "name": "שיעורי הגרמ״ד סאלאווציק - מנחות",
