@@ -284,15 +284,27 @@ jobs:
           print(f"נבנו מחדש: {len(rebuilt_zips)} ZIPs (מתוך {len(manifest)} סה\"כ)")
           PYEOF
 
+      # הנתיבים שהוסרו/הועברו במאגר, כדי שהתוסף "הורדת ספרים" ימחק אותם אצל המשתמשים
+      # (הוא מחלץ zip מעל התיקייה ולא מוחק קבצים ישנים). נגזר מהיסטוריית git (fetch-depth: 0).
+      # כשל כאן לא עוצר את הפרסום: בלי הקובץ פשוט אין ניקוי אצל המשתמשים.
+      - name: Build removed_files.json
+        if: ${{ !inputs.post_only }}
+        continue-on-error: true
+        run: |
+          python3 -m unittest discover -s .github/scripts -p "test_*.py" -v
+          python3 .github/scripts/build_removed_files.py dist/removed_files.json .
+
       - name: Commit manifest to repo
         if: ${{ !inputs.post_only }}
         run: |
           cp dist/manifest.json manifest.json
           cp dist/books_data.js books_data.js
           cp dist/files_data.json files_data.json
+          [ -f dist/removed_files.json ] && cp dist/removed_files.json removed_files.json || true
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add manifest.json books_data.js files_data.json
+          [ -f removed_files.json ] && git add removed_files.json || true
           git diff --cached --quiet || git commit -m "Update manifest + books_data [skip ci]"
           git pull --rebase -X theirs origin main
           git push
