@@ -15,9 +15,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "15.2 MB",
+    "size": "17.1 MB",
     "depth": 0,
-    "hash": "383eed5ee5e50279e9028ee45e8fae39"
+    "hash": "ec4c820bba8eb5214db52960cc7b6c74"
   },
   {
     "name": "מדרש",
@@ -95,9 +95,9 @@
     "zip": "folder_0005.zip",
     "label": "ספרים שאינם מותאמים לאוצריא",
     "parent": "",
-    "size": "46.8 MB",
+    "size": "43.2 MB",
     "depth": 0,
-    "hash": "060e54bce0d22b17c20c7f66a393b6a0"
+    "hash": "58c1f1f265f3e5a7467a12aafa988ecd"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.1 MB",
     "depth": 0,
-    "hash": "4e49859e9df37720bd5b0698a6a9b631"
+    "hash": "5d3ccd7149bf557032ccd8a7b32ab99b"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "923.3 MB",
+    "size": "924.2 MB",
     "depth": 0,
-    "hash": "ad96b7b107f7c943eb515ffe2e36d449"
+    "hash": "f850da6e9c215064783f7d3cdb16b756"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -165,9 +165,9 @@
     "zip": "folder_0061.zip",
     "label": "אחרונים",
     "parent": "הלכה",
-    "size": "1.8 MB",
+    "size": "2.8 MB",
     "depth": 1,
-    "hash": "ce8931a045720addcf50e874ac7ba126"
+    "hash": "7278b1350b96725bc00acbbca47f3704"
   },
   {
     "name": "מחברי זמננו",
@@ -205,9 +205,9 @@
     "zip": "folder_0064.zip",
     "label": "ראשונים",
     "parent": "הלכה",
-    "size": "534 KB",
+    "size": "1.1 MB",
     "depth": 1,
-    "hash": "58cc890d0f7fb54b073e8314e50afe0d"
+    "hash": "da943c6893af550716f9cbc8b50bd18a"
   },
   {
     "name": "שולחן ערוך",
@@ -375,9 +375,9 @@
     "zip": "folder_0071.zip",
     "label": "תלמוד בבלי",
     "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "8.6 MB",
+    "size": "6.9 MB",
     "depth": 1,
-    "hash": "5538ce1a0ab34d38c48524ae38f1382b"
+    "hash": "7af826345bcb89807f70530d7b3b8772"
   },
   {
     "name": "תנ״ך",
@@ -445,9 +445,9 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "24.0 MB",
+    "size": "24.8 MB",
     "depth": 1,
-    "hash": "833148b63decd0eeae735b5f67e27a24"
+    "hash": "612677d1d5502a28a3cf6f1c6805aad2"
   },
   {
     "name": "מחברי זמננו",
@@ -805,9 +805,9 @@
     "zip": "folder_0087.zip",
     "label": "אחרונים",
     "parent": "ספרים שאינם מותאמים לאוצריא/תלמוד בבלי",
-    "size": "2.1 MB",
+    "size": "316 KB",
     "depth": 2,
-    "hash": "25227043a7b5785097141b854b17a4ac"
+    "hash": "b28f36ee328369a9912dbe95e7ba0e28"
   },
   {
     "name": "ראשונים",
@@ -1458,6 +1458,16 @@
     "size": "1.6 MB",
     "depth": 2,
     "hash": "15145c86e73a13c25aedcbbab9232e1f"
+  },
+  {
+    "name": "חידושי רבי שמעון שקאפ",
+    "path": "תלמוד בבלי/אחרונים/חידושי רבי שמעון שקאפ",
+    "zip": "folder_0538.zip",
+    "label": "חידושי רבי שמעון שקאפ",
+    "parent": "תלמוד בבלי/אחרונים",
+    "size": "860 KB",
+    "depth": 2,
+    "hash": "a5e950ca1095e15412660e4422183f4d"
   },
   {
     "name": "חפץ ה'",
