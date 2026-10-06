@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.1 MB",
     "depth": 0,
-    "hash": "cc7f4869bd12d2b2b60d2d7c45da9240"
+    "hash": "5d3ccd7149bf557032ccd8a7b32ab99b"
   },
   {
     "name": "שו״ת",
@@ -305,9 +305,9 @@
     "zip": "folder_0130.zip",
     "label": "תולדות עם ישראל",
     "parent": "ספרות עזר",
-    "size": "415 KB",
+    "size": "232 KB",
     "depth": 1,
-    "hash": "08c5e7631221e05fd8d14b6bcedd0af9"
+    "hash": "6827a36e33ac2c723a9cb00e5d67ba0f"
   },
   {
     "name": "מחברי זמננו",
@@ -325,9 +325,9 @@
     "zip": "folder_0203.zip",
     "label": "הלכה",
     "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "8.7 MB",
+    "size": "6.8 MB",
     "depth": 1,
-    "hash": "63058016c7f996ec68b52d91412edd09"
+    "hash": "0154311c5f9bdf345b32b1d7b104d8ce"
   },
   {
     "name": "סדר התפילה",
@@ -388,16 +388,6 @@
     "size": "253 KB",
     "depth": 1,
     "hash": "53de2d8919aa21fb8208b10caea36a6e"
-  },
-  {
-    "name": "כלי יצירה",
-    "path": "קבצי קישורים וסדר הדורות/כלי יצירה",
-    "zip": "folder_0539.zip",
-    "label": "כלי יצירה",
-    "parent": "קבצי קישורים וסדר הדורות",
-    "size": "5 KB",
-    "depth": 1,
-    "hash": "0d64afa32443a04adf89b98a79bd4d78"
   },
   {
     "name": "קישורים",
@@ -725,9 +715,9 @@
     "zip": "folder_0215.zip",
     "label": "ראשונים",
     "parent": "ספרים שאינם מותאמים לאוצריא/הלכה",
-    "size": "8.3 MB",
+    "size": "6.5 MB",
     "depth": 2,
-    "hash": "d5722778473f45aaa2f2c53a01e0ace0"
+    "hash": "35b05b2fb4fdb19c85c1d89f4551dde2"
   },
   {
     "name": "שו״ע",
