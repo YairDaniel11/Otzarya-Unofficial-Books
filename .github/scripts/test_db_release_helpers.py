@@ -142,6 +142,62 @@ class Fetch(unittest.TestCase):
                 H.fetch_full(t / "m.json", t / "out2.db", t / "w", fetch=fake)
 
 
+class PlainAsset(unittest.TestCase):
+    def _setup(self, t, raw=b"sqlite-bytes" * 100):
+        t = Path(t)
+        (t / "new.db").write_bytes(raw)
+        m = {"full": {"size": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}}
+        (t / "m.json").write_text(json.dumps(m), encoding="utf-8")
+        return t, raw
+
+    def test_name(self):
+        self.assertEqual(H.plain_asset_name(12), "otzarya-unofficial-books-12.db")
+
+    def test_ok(self):
+        with tempfile.TemporaryDirectory() as t:
+            t, raw = self._setup(t)
+            r = H.prepare_plain_asset(t / "m.json", t / "new.db", t / "asset", 7)
+            self.assertEqual(r["sha256"], hashlib.sha256(raw).hexdigest())
+            self.assertEqual(Path(r["path"]).name, "otzarya-unofficial-books-7.db")
+            self.assertEqual(Path(r["path"]).read_bytes(), raw)
+            self.assertTrue((t / "new.db").exists())
+
+    def test_too_big_skips(self):
+        with tempfile.TemporaryDirectory() as t:
+            t, raw = self._setup(t)
+            r = H.prepare_plain_asset(t / "m.json", t / "new.db", t / "asset", 7, max_bytes=len(raw) - 1)
+            self.assertIsNone(r["path"])
+            self.assertFalse((t / "asset").exists())
+            r = H.prepare_plain_asset(t / "m.json", t / "new.db", t / "asset", 7, max_bytes=len(raw))
+            self.assertIsNotNone(r["path"])
+
+    def test_mismatch_fails(self):
+        with tempfile.TemporaryDirectory() as t:
+            t, raw = self._setup(t)
+            (t / "new.db").write_bytes(raw[:-1] + b"X")
+            with self.assertRaises(H.HelperError):
+                H.prepare_plain_asset(t / "m.json", t / "new.db", t / "asset", 7)
+
+    def test_limit_below_2gib(self):
+        self.assertLess(H.PLAIN_ASSET_MAX, 2 * (1 << 30))
+        self.assertGreater(H.PLAIN_ASSET_MAX, int(1.85 * (1 << 30)))
+
+    def test_cli(self):
+        with tempfile.TemporaryDirectory() as t:
+            t, raw = self._setup(t)
+            rc = H.main(["plain-asset", str(t / "m.json"), str(t / "new.db"), "--dest-dir", str(t / "a"), "--version", "3"])
+            self.assertEqual(rc, 0)
+            self.assertTrue((t / "a" / "otzarya-unofficial-books-3.db").exists())
+
+    def test_workflow_wiring(self):
+        text = (Path(__file__).resolve().parents[1] / "workflows" / "build-db.yml").read_text(encoding="utf-8")
+        self.assertIn("plain-asset", text)
+        self.assertIn("::warning", text)
+        # הנכס מועלה ב-db-v לפני עדכון המניפסט ב-release db
+        self.assertLess(text.index("PLAIN_ASSET"), text.index("Update rolling 'db' release"))
+        self.assertLess(text.index('gh release upload "$TAG" "$f"'), text.index("Update rolling 'db' release"))
+
+
 class Summary(unittest.TestCase):
     def test_summary(self):
         with tempfile.TemporaryDirectory() as t:

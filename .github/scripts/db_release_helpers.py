@@ -9,6 +9,7 @@
   prune-tags      --tags ... --keep N      -> תגי db-vK למחיקה
   check-lfs       ROOT                     -> נכשל אם נותרו קבצי-מצביע של git-lfs
   fetch-full      MANIFEST OUT             -> מוריד את ה-full של המניפסט ומפענח ל-OUT
+  plain-asset     MANIFEST DB --dest-dir D --version N -> מאמת את ה-DB מול full.sha256 ויוצר otzarya-unofficial-books-N.db
   summary         --out DIR ...            -> טבלת markdown ל-GITHUB_STEP_SUMMARY
 """
 import argparse
@@ -173,6 +174,46 @@ def fetch_full(manifest_path, out, workdir, zstd="zstd", fetch=download):
     return out
 
 
+# ---------- נכס DB רגיל (לא דחוס) ל-Release ----------
+# התוסף 'הורדת ספרים' אינו יכול לפרוס zstd, ולכן מעלים גם את ה-DB הסופי כפי שהוא.
+# מגבלת נכס ב-GitHub Release היא 2GiB; משאירים מרווח.
+PLAIN_ASSET_MAX = int(1.9 * (1 << 30))   # 1.9GiB
+
+
+def plain_asset_name(version):
+    return f"otzarya-unofficial-books-{int(version)}.db"
+
+
+def prepare_plain_asset(manifest_path, db, dest_dir, version, max_bytes=PLAIN_ASSET_MAX):
+    """מאמת שה-DB זהה ל-full של המניפסט (size ו-sha256) ויוצר ב-dest_dir את הנכס בשם הסופי.
+
+    מחזיר dict: sha256, size, name, path (None אם גדול מדי: אז לא נוצר קובץ ולא מעלים).
+    ההעתקה היא hardlink (בלי דיסק נוסף); אם אינה אפשרית, העתקה רגילה.
+    """
+    m = json.loads(Path(manifest_path).read_text(encoding="utf-8"))
+    full = m["full"]
+    db = Path(db)
+    size = db.stat().st_size
+    sha = sha256_file(db)
+    if size != full["size"] or sha != full["sha256"]:
+        raise HelperError("ה-DB אינו תואם ל-full.size/sha256 שבמניפסט")
+    name = plain_asset_name(version)
+    res = {"sha256": sha, "size": size, "name": name, "path": None}
+    if size > max_bytes:
+        return res
+    dest = Path(dest_dir)
+    dest.mkdir(parents=True, exist_ok=True)
+    target = dest / name
+    if target.exists():
+        target.unlink()
+    try:
+        os.link(db, target)
+    except OSError:
+        shutil.copyfile(db, target)
+    res["path"] = str(target)
+    return res
+
+
 # ---------- דוח ----------
 def fmt_size(n):
     for unit, div in (("GB", 1 << 30), ("MB", 1 << 20), ("KB", 1 << 10)):
@@ -222,6 +263,9 @@ def main(argv=None):
     a = sub.add_parser("prune-tags"); a.add_argument("--tags", nargs="*", default=[]); a.add_argument("--keep", type=int, default=3)
     a = sub.add_parser("check-lfs"); a.add_argument("root")
     a = sub.add_parser("fetch-full"); a.add_argument("manifest"); a.add_argument("out"); a.add_argument("--workdir", required=True)
+    a = sub.add_parser("plain-asset"); a.add_argument("manifest"); a.add_argument("db")
+    a.add_argument("--dest-dir", required=True); a.add_argument("--version", required=True, type=int)
+    a.add_argument("--max-bytes", type=int, default=PLAIN_ASSET_MAX)
     a = sub.add_parser("summary"); a.add_argument("--out", required=True); a.add_argument("--version", required=True)
     a.add_argument("--timings"); a.add_argument("--extra", nargs="*", default=[])
     args = ap.parse_args(argv)
@@ -247,6 +291,13 @@ def main(argv=None):
         elif args.cmd == "fetch-full":
             fetch_full(args.manifest, args.out, args.workdir)
             print("נוצר:", args.out)
+        elif args.cmd == "plain-asset":
+            # פלט: שורת שורות key=value (path ריק אם דולגו בגלל גודל). הודעות אנושיות ל-stderr.
+            r = prepare_plain_asset(args.manifest, args.db, args.dest_dir, args.version, args.max_bytes)
+            print(f"name={r['name']}")
+            print(f"sha256={r['sha256']}")
+            print(f"size={r['size']}")
+            print(f"path={r['path'] or ''}")
         elif args.cmd == "summary":
             t = Path(args.timings).read_text(encoding="utf-8") if args.timings and Path(args.timings).exists() else ""
             extra = dict(x.split("=", 1) for x in args.extra if "=" in x)

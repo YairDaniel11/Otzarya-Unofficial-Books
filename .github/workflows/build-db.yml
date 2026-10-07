@@ -4,7 +4,9 @@ name: Build Otzaria DB
 # ב-Releases כעדכון מובנה של אוצריא: מניפסט חתום, חלקי zstd ודלתאות.
 # רץ לצד "Auto Zip and Release" (שמפיץ TXT לתוסף הורדת ספרים) ואינו נוגע בו.
 #
-#  - release 'db-v<N>'  : חלקי ה-full והדלתאות של גרסה N (נשמרות 3 אחרונות)
+#  - release 'db-v<N>'  : חלקי ה-full והדלתאות של גרסה N (נשמרות 3 אחרונות), וגם הנכס הרגיל
+#                         otzarya-unofficial-books-<N>.db (ה-DB הסופי, לא דחוס) לתוסף 'הורדת ספרים',
+#                         שאינו יכול לפרוס zstd. מעל 1.9GiB (מגבלת נכס ב-GitHub: 2GiB) הנכס מדולג עם אזהרה.
 #  - release 'db'       : רק manifest.json + manifest.json.sig  (כתובת קבועה שה-DB מכיר)
 #  שניהם עם make_latest=false, כדי שלא יזיזו את 'latest' שהתוסף תלוי בו.
 #
@@ -404,6 +406,38 @@ jobs:
             --db "$WORK/new.db" --public-key "$PUB" --parts "$WORK/out" "${ARGS[@]}"
           echo "verify $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
 
+      # ---- נכס DB רגיל (לא דחוס) ----
+      # אותו קובץ ששווה ל-full.sha256 במניפסט (אחרי הזרקת מפתחות העדכון). hardlink ל-new.db: בלי דיסק נוסף.
+      # ה-sha256 מאומת מול המניפסט (נכשל אם שונה) ומודפס ל-step summary. מעל 1.9GiB: אזהרה ודילוג, בלי כשל.
+      - name: Prepare plain DB asset
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          H=.github/scripts/db_release_helpers.py
+          INFO=$(python3 "$H" plain-asset "$WORK/out/manifest.json" "$WORK/new.db"                    --dest-dir "$WORK/plain" --version "$VERSION")
+          echo "$INFO"
+          PLAIN_NAME=$(echo "$INFO" | sed -n 's/^name=//p')
+          PLAIN_SHA=$(echo "$INFO" | sed -n 's/^sha256=//p')
+          PLAIN_SIZE=$(echo "$INFO" | sed -n 's/^size=//p')
+          PLAIN_PATH=$(echo "$INFO" | sed -n 's/^path=//p')
+          if [ -n "$PLAIN_PATH" ]; then
+            echo "PLAIN_ASSET=$PLAIN_PATH" >> "$GITHUB_ENV"
+            echo "PLAIN_NAME=$PLAIN_NAME" >> "$GITHUB_ENV"
+            {
+              echo "### נכס DB רגיל"
+              echo "- קובץ: \`$PLAIN_NAME\` ($PLAIN_SIZE בתים)"
+              echo "- sha256: \`$PLAIN_SHA\` (תואם ל-full.sha256 במניפסט)"
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "::warning title=Plain DB asset skipped::ה-DB ($PLAIN_SIZE בתים) גדול מ-1.9GiB ולכן לא יועלה כנכס רגיל (מגבלת GitHub: 2GiB לנכס). יש לפצל את המסד כדי שהתוסף יוכל להוריד אותו"
+            {
+              echo "### נכס DB רגיל"
+              echo "- **דולג**: $PLAIN_SIZE בתים, מעל 1.9GiB. יש לפצל את המסד"
+              echo "- sha256: \`$PLAIN_SHA\`"
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+          echo "plain-asset $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
       # ---- פרסום ----
       # make_latest=false: ה-Action הקיים ותוסף ההורדה מזהים את ההפצה שלהם לפי התג 'latest'
       # (gh release view latest / releases/tags/latest, ו-TAG=latest ב-send_update.py),
@@ -424,7 +458,9 @@ jobs:
           printf 'מסד אוצריא אישי, גרסה %s.\n\ninput-fingerprint: %s\n' "$VERSION" "$FINGERPRINT" > "$WORK/notes-v.md"
           gh release create "$TAG" --target "$GITHUB_SHA" --title "מסד אוצריא אישי - גרסה $VERSION" \
             --notes-file "$WORK/notes-v.md" --latest=false
-          for f in "$WORK/out"/*; do
+          FILES=("$WORK/out"/*)
+          [ -z "${PLAIN_ASSET:-}" ] || FILES+=("$PLAIN_ASSET")   # הנכס הרגיל עולה כאן, לפני עדכון המניפסט ב-db
+          for f in "${FILES[@]}"; do
             n=0
             until gh release upload "$TAG" "$f" --clobber; do
               n=$((n + 1)); [ "$n" -lt 3 ] || { echo "::error::העלאה נכשלה: $f"; exit 1; }
@@ -466,6 +502,22 @@ jobs:
             sleep 15
           done
           echo "::error::המניפסט שפורסם אינו זמין/תואם בכתובת הקבועה"
+          exit 1
+
+      # הנכס הרגיל: HEAD על הכתובת (בלי לעקוב אחרי ההפניה לאחסון); 302/200 = קיים
+      - name: Smoke test plain DB asset
+        if: env.PLAIN_ASSET != ''
+        run: |
+          set -euo pipefail
+          URL="$DOWNLOAD_BASE/db-v$VERSION/$PLAIN_NAME"
+          for i in 1 2 3 4 5 6; do
+            if curl -fsS -I -o /dev/null "$URL"; then
+              echo "הנכס קיים: $URL"
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::הנכס הרגיל אינו זמין בכתובת $URL"
           exit 1
 
       - name: Prune old db-v releases (keep 3)
