@@ -17,7 +17,7 @@ import sqlite3
 import sys
 from collections import defaultdict
 
-ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', '..'))
+ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', '..', 'ספרים'))
 LINKS_DIR = os.path.join(ROOT, 'קבצי קישורים וסדר הדורות')
 OFFICIAL_DB = r'C:\ProgramData\otzaria\books\seforim.db'
 BOOK_EXTS = {'.txt'}  # בניסוי: טקסט בלבד (PDF/DOCX דורשים filePath)
@@ -116,11 +116,12 @@ def load_dorot():
 
 
 class Official:
-    """פותר יעד 'ספר + פרק + הלכה' ל-heRef ושורה ב-seforim.db הרשמי."""
+    """פותר יעד 'ספר + פרק [+ הלכה]' או 'מסכת + דף' (ב. / ב:) ל-heRef ושורה ב-seforim.db הרשמי."""
 
     def __init__(self, path):
         self.db = sqlite3.connect(f'file:{path}?mode=ro', uri=True)
         self.cache = {}
+        self.toc = {}  # bookId -> רשומות תוכן עניינים (נטענות פעם אחת לספר)
 
     def resolve(self, title, location):
         key = (title, location)
@@ -128,13 +129,18 @@ class Official:
             return self.cache[key]
         res = None
         b = self.db.execute('SELECT id FROM book WHERE title=?', (title,)).fetchall()
-        m = re.fullmatch(r'(פרק \S+)(?: (הלכה \S+))?', location)
+        # פרק/הלכה, סימן (שו"ע), או דף בתלמוד ('ב.' = עמוד א, 'ב:' = עמוד ב; בתוכן העניינים הרשמי: 'דף ב.')
+        m = re.fullmatch(r'(פרק \S+|סימן \S+|\S+[.:])(?: (הלכה \S+))?', location)
         if len(b) == 1 and m:
             bid = b[0][0]
             chap, hal = m.group(1), m.group(2)
-            ents = self.db.execute(
-                'SELECT e.id,e.parentId,e.level,t.text,e.lineId FROM tocEntry e '
-                'JOIN tocText t ON t.id=e.textId WHERE e.bookId=? ORDER BY e.id', (bid,)).fetchall()
+            if chap[-1] in '.:':
+                chap = 'דף ' + chap
+            if bid not in self.toc:
+                self.toc[bid] = self.db.execute(
+                    'SELECT e.id,e.parentId,e.level,t.text,e.lineId FROM tocEntry e '
+                    'JOIN tocText t ON t.id=e.textId WHERE e.bookId=? ORDER BY e.id', (bid,)).fetchall()
+            ents = self.toc[bid]
             cid = next((e[0] for e in ents if e[2] == 1 and e[3] == chap), None)
             target = None
             if cid is not None:
@@ -307,11 +313,17 @@ def main():
 
     for (src, target, loc, kind), items in pending.items():
         items.sort()
-        verses = official.verses(target, loc) if kind == 'תרגום' else None
+        # כתאב אלתאג' (מקרא): שורה אחת לפסוק, גם כשחלוקת הפסוקים בפרק שונה במעט מהרשמי
+        taj_text = src.endswith(" (כתאב אלתאג')") and not src.startswith('תרגום')
+        verses = official.verses(target, loc) if kind == 'תרגום' or taj_text else None
         if verses and len(verses) == len(items):
             # תרגום שורה-לפסוק: השורה ה-i מקושרת לפסוק ה-i
             items = [(it[0], v[0], v[1]) for it, v in zip(items, verses)]
             stats['verse_aligned'] += len(items)
+        elif verses and taj_text:
+            # מספר פסוקים שונה: השורה ה-i לפסוק ה-i, ועודף שורות נצמד לפסוק האחרון
+            items = [(it[0],) + verses[min(i, len(verses) - 1)] for i, it in enumerate(items)]
+            stats['verse_aligned_clamped'] += len(items)
         for line0, ref, li in items:
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
                        (book_ids[src], line0, 'official', target, ref, li, 'SOURCE'))

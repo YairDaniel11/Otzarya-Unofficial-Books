@@ -106,8 +106,13 @@ def expected_for(rel, b, L):
     """מחזיר (קטגוריה, {שורה: (יעד, מיקום)}) או (None, None) אם הספר לא אמור להיות מקושר."""
     # תנ"ך
     if rel[:1] == ('תנ״ך',) and len(rel) > 1 and rel[1] in ('ראשונים', 'תרגומים'):
-        book = re.sub(r"\s*\(כתאב אלתאג'\)$", '', b.split(' - ')[0])
-        book = re.sub(r'^תרגום (שני )?(על )?', '', book)
+        # שם חדש: "<פרשן> על <ספר>"; ספרי התרגום של כתאב אלתאג' שומרים את הצורה "תרגום <ספר> (כתאב אלתאג')"
+        tail = b.rsplit(' על ', 1)[1] if ' על ' in b else ''
+        if tail and chset({'תהלים': 'תהילים'}.get(tail, tail)):
+            book = tail
+        else:
+            book = re.sub(r"\s*\(כתאב אלתאג'\)$", '', b.split(' - ')[0])
+            book = re.sub(r'^תרגום (שני )?(על )?', '', book)
         book = {'תהלים': 'תהילים'}.get(book, book)
         ch = chset(book)
         if not ch:
