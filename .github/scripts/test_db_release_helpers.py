@@ -84,6 +84,15 @@ class SpacedPathRegression(unittest.TestCase):
             r = subprocess.run([bash, "-c", bad, "x", str(d)], capture_output=True)
             self.assertNotEqual(r.stdout.strip(), b"ok")
 
+    def test_push_without_release_skips_not_fails(self):
+        wf = Path(__file__).resolve().parents[1] / "workflows" / "build-db.yml"
+        text = wf.read_text(encoding="utf-8")
+        i = text.index('"$EVENT_NAME" = "push"')
+        j = text.index("next-version", i)
+        block = text[i:j]
+        self.assertIn("skip=true", block)
+        self.assertIn("exit 0", block)
+
     def test_workflow_has_no_unquoted_R(self):
         wf = Path(__file__).resolve().parents[1] / "workflows" / "build-db.yml"
         text = wf.read_text(encoding="utf-8")

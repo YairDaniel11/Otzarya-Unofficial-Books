@@ -198,6 +198,7 @@ def main():
 
     meta = {'library_id': a.library_id, 'db_version': a.db_version,
             'display_name': a.display_name,
+            'library_name': a.display_name,  # המפתח שאוצריא קוראת בפועל (התיעוד שלה כותב display_name)
             'description': 'ספרים מותאמים לאוצריא, עם קישורים לספרייה הרשמית',
             'author': 'YairDaniel11'}
     db.executemany('INSERT INTO schema_meta VALUES (?,?)', meta.items())

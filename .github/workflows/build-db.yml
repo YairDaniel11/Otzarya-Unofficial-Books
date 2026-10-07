@@ -115,6 +115,21 @@ jobs:
             cat "$ERR"; exit 1
           fi
 
+          # push אוטומטי לפני הבנייה הראשונה: לא כשל (בלי איקס אדום), רק דילוג על build.
+          # workflow_dispatch בלי start_version ובלי release db ממשיך ל-next-version ונכשל בשגיאה ברורה.
+          if [ -z "$PREV" ] && [ -z "$START" ] && [ "$EVENT_NAME" = "push" ]; then
+            echo "::notice::אין release קודם: בנייה ראשונה דורשת הרצה ידנית עם start_version"
+            {
+              echo "version="
+              echo "prev_version="
+              echo "official_tag=$OFFICIAL_TAG"
+              echo "fingerprint="
+              echo "skip=true"
+              echo "orphans="
+            } >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
           VERSION=$(python3 "$H" next-version ${PREV:+--prev "$PREV"} ${START:+--start "$START"})
 
           # טביעת אצבע של הקלט: עץ git של 'ספרים', ה-DB הרשמי, כלי הבנייה, ה-helpers וקובץ ה-workflow
