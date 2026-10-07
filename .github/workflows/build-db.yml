@@ -1,0 +1,483 @@
+name: Build Otzaria DB
+
+# בונה את מסד אוצריא האישי (SQLite) מקבצי ה-TXT, הקישורים והדורות של המאגר, ומפרסם אותו
+# ב-Releases כעדכון מובנה של אוצריא: מניפסט חתום, חלקי zstd ודלתאות.
+# רץ לצד "Auto Zip and Release" (שמפיץ TXT לתוסף הורדת ספרים) ואינו נוגע בו.
+#
+#  - release 'db-v<N>'  : חלקי ה-full והדלתאות של גרסה N (נשמרות 3 אחרונות)
+#  - release 'db'       : רק manifest.json + manifest.json.sig  (כתובת קבועה שה-DB מכיר)
+#  שניהם עם make_latest=false, כדי שלא יזיזו את 'latest' שהתוסף תלוי בו.
+#
+# דרישות חד-פעמיות: ראה את ההערות בסוף הקובץ הזה.
+#
+# הערה חשובה: בזמן הבנייה הראשונה (הרצה ידנית עם start_version) אל תדחפו שינויים ל-main.
+# ריצת push שמתחילה לפני שנוצר release 'db' נכשלת בכוונה (אין גרסה קודמת), וריצות push שמצטברות
+# בתור (ממתינה אחת בלבד לכל קבוצה) מחליפות זו את זו; אחרי שהראשונה מסתיימת, ריצה ממתינה
+# תתכנן מחדש מול ה-release החדש ותבנה גרסה נוספת.
+
+on:
+  push:
+    branches: [main]
+    # קומיטי ה-Action הקיים (manifest.json / books_data.js / files_data.json / removed_files.json)
+    # אינם נוגעים בנתיבים האלה, ובנוסף נדחפים עם [skip ci] ובאמצעות GITHUB_TOKEN (שאינו מפעיל ריצות).
+    paths:
+      - 'ספרים/**'
+      - 'יצירת קישורים וסדר הדורות/כלי יצירה/build_personal_db.py'
+      - 'יצירת קישורים וסדר הדורות/כלי יצירה/compress_personal_db.py'
+      - 'יצירת קישורים וסדר הדורות/כלי יצירה/release_db.py'
+  workflow_dispatch:
+    inputs:
+      start_version:
+        description: 'מספר גרסה מינימלי. חובה בבנייה הראשונה (אין release בשם db); אחר כך משמש רק אם גבוה מהגרסה הבאה'
+        type: string
+        default: ''
+      force:
+        description: 'בנייה גם אם הקלט לא השתנה מאז הגרסה האחרונה, ודריסת release db-v<N> קיים'
+        type: boolean
+        default: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  LANG: C.UTF-8
+  PYTHONUTF8: '1'
+  TOOLS_DIR: 'יצירת קישורים וסדר הדורות/כלי יצירה'
+  OFFICIAL_REPO: Otzaria/SeforimLibrary
+  OFFICIAL_ASSET: seforim-schema6.db.zst
+  DOWNLOAD_BASE: https://github.com/YairDaniel11/Otzarya-Unofficial-Books/releases/download
+  MANIFEST_URL: https://github.com/YairDaniel11/Otzarya-Unofficial-Books/releases/download/db/manifest.json
+
+permissions:
+  contents: write
+
+# ריצה אחת בכל פעם (קבוצה נפרדת מ-zip-release: אחרת ריצה ממתינה אחת של ה-DB
+# הייתה מוחלפת בריצה של ה-Action הקיים ונופלת)
+concurrency:
+  group: build-db
+  cancel-in-progress: false
+
+jobs:
+  # ---- תכנון: גרסה הבאה, ההוצאה הרשמית, והאם בכלל צריך לבנות (בלי דיסק כבד) ----
+  plan:
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    timeout-minutes: 15
+    outputs:
+      version: ${{ steps.plan.outputs.version }}
+      prev_version: ${{ steps.plan.outputs.prev_version }}
+      official_tag: ${{ steps.plan.outputs.official_tag }}
+      fingerprint: ${{ steps.plan.outputs.fingerprint }}
+      skip: ${{ steps.plan.outputs.skip }}
+      orphans: ${{ steps.plan.outputs.orphans }}
+    steps:
+      - name: Checkout (בלי LFS, רק לחישוב טביעת אצבע)
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 1
+
+      - name: Plan
+        id: plan
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          START: ${{ inputs.start_version }}
+          FORCE: ${{ inputs.force }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          set -euo pipefail
+          git config core.quotePath false
+          H=.github/scripts/db_release_helpers.py
+
+          # ה-Action הקיים מוחק בסוף כל release שתגו שונה מ-latest. אם הוא לא עודכן, הוא ימחק גם את ה-DB שלנו.
+          if grep -qF "grep -v '^latest\$'" .github/workflows/create-zip-release.yml; then
+            echo "::warning title=Cleanup Old Releases::create-zip-release.yml מוחק כל release שאינו latest, כולל db ו-db-v*. יש לשנות ל: grep -v -E '^(latest|db|db-v[0-9]+)\$'"
+          fi
+
+          # ההוצאה הרשמית האחרונה עם ה-asset הנכון (לא prerelease, לא vectors/pipeline)
+          gh api "repos/$OFFICIAL_REPO/releases?per_page=100" > "$RUNNER_TEMP/official-releases.json"
+          IFS=$'\t' read -r OFFICIAL_TAG OFFICIAL_URL OFFICIAL_SIZE \
+            < <(python3 "$H" pick-official "$RUNNER_TEMP/official-releases.json" --asset "$OFFICIAL_ASSET")
+          echo "ה-DB הרשמי: $OFFICIAL_TAG ($OFFICIAL_SIZE בתים)"
+
+          # ה-release הקודם שלנו
+          PREV=""
+          PREV_FP=""
+          ERR="$RUNNER_TEMP/gh-err.txt"
+          if gh release view db >/dev/null 2>"$ERR"; then
+            mkdir -p "$RUNNER_TEMP/plan"
+            gh release download db -p manifest.json -D "$RUNNER_TEMP/plan" --clobber
+            PREV=$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))["db_version"])' "$RUNNER_TEMP/plan/manifest.json")
+            PREV_FP=$(gh release view db --json body -q .body | grep -oE 'input-fingerprint: [0-9a-f]{64}' | cut -d' ' -f2 || true)
+          elif grep -q "release not found" "$ERR"; then
+            echo "אין release בשם db: בנייה ראשונה"
+          else
+            cat "$ERR"; exit 1
+          fi
+
+          VERSION=$(python3 "$H" next-version ${PREV:+--prev "$PREV"} ${START:+--start "$START"})
+
+          # טביעת אצבע של הקלט: עץ git של 'ספרים', ה-DB הרשמי, כלי הבנייה, ה-helpers וקובץ ה-workflow
+          TOOLS="$TOOLS_DIR"
+          FP=$( { git rev-parse "HEAD:ספרים"; echo "$OFFICIAL_TAG"; \
+                  sha256sum "$TOOLS/build_personal_db.py" "$TOOLS/compress_personal_db.py" "$TOOLS/release_db.py"                           .github/scripts/db_release_helpers.py .github/workflows/build-db.yml; } \
+                | sha256sum | cut -d' ' -f1)
+
+          SKIP=false
+          if [ "$FORCE" != "true" ] && [ -n "$PREV_FP" ] && [ "$PREV_FP" = "$FP" ]; then
+            SKIP=true
+            echo "הקלט זהה לגרסה $PREV: מדלגים (force=true לבנייה בכל זאת)"
+          fi
+          # release db-v<K> עם K גבוה מ-db_version שבמניפסט 'db' אינו מוצמד לשום מניפסט: שריד של
+          # ריצה שנכשלה באמצע הפרסום. ה-job build מוחק אותו לפני הפרסום (כאן ההרשאה לקריאה בלבד).
+          # בלי release 'db' (בנייה ראשונה) לא מוחקים אוטומטית: db-v<N> קיים דורש force.
+          ORPHANS=""
+          if [ -n "$PREV" ]; then
+            TAGS=$(gh release list --limit 200 --json tagName -q '.[].tagName' | tr '\n' ' ')
+            ORPHANS=$(python3 "$H" orphan-tags --tags $TAGS --pinned "$PREV" | tr '\n' ' ')
+            [ -z "$ORPHANS" ] || echo "::notice::releases יתומים (לא מוצמדים למניפסט) יימחקו: $ORPHANS"
+          elif [ "$SKIP" = false ] && [ "$FORCE" != "true" ] && gh release view "db-v$VERSION" >/dev/null 2>&1; then
+            echo "::error::release db-v$VERSION כבר קיים ואין release db. הפעל ידנית עם force כדי לדרוס"
+            exit 1
+          fi
+
+          {
+            echo "version=$VERSION"
+            echo "prev_version=$PREV"
+            echo "official_tag=$OFFICIAL_TAG"
+            echo "fingerprint=$FP"
+            echo "skip=$SKIP"
+            echo "orphans=${ORPHANS% }"
+          } >> "$GITHUB_OUTPUT"
+          echo "גרסה הבאה: $VERSION (קודמת: ${PREV:-אין}); fingerprint $FP"
+
+  # ---- הבנייה והפרסום ----
+  build:
+    needs: plan
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books' && needs.plan.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      VERSION: ${{ needs.plan.outputs.version }}
+      PREV_VERSION: ${{ needs.plan.outputs.prev_version }}
+      OFFICIAL_TAG: ${{ needs.plan.outputs.official_tag }}
+      FINGERPRINT: ${{ needs.plan.outputs.fingerprint }}
+      FORCE: ${{ inputs.force }}
+      ORPHANS: ${{ needs.plan.outputs.orphans }}
+    steps:
+      # ---- דיסק ----
+      # ב-/ של ה-runner נשארים בדרך כלל כ-14GB פנויים (משתנה בין גרסאות תמונת ה-runner), והתהליך צריך כ-20GB בשיא (מקורות, DB רשמי 3.7GB, DB קודם/ים,
+      # DB חדש לא דחוס 3GB ודחוס 1.1GB, חלקים ודלתאות). בוחרים לפנות מקום ב-/ (מוחקים כלים שלא
+      # בשימוש: dotnet, android, ghc, CodeQL) ולא לעבוד ב-/mnt, כי ה-workspace והקאש נמצאים ב-/,
+      # ו-/mnt קטן יחסית (בדרך כלל כ-14GB) ודורש הפניית נתיבים. בנוסף מנקים בין שלבים (ראה rm בהמשך).
+      - name: Free disk space
+        run: |
+          set -uo pipefail
+          df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup \
+                      /opt/hostedtoolcache/CodeQL /usr/share/swift /usr/local/share/boost || true
+          sudo docker image prune --all --force >/dev/null 2>&1 || true
+          df -h / | tail -1
+          echo "free-disk $SECONDS" >> "$RUNNER_TEMP/timings.txt"
+
+      # LFS: ב-.gitattributes קבצי PDF וכמה TXT בתלמוד בבלי/ראשונים/קובץ (ועוד) הם LFS. קובץ-מצביע
+      # היה נכנס ל-DB כשורות זבל, ולכן מושכים את כל ה-TXT (רק TXT נכנסים ל-DB; PDF לא), ואחר כך בודקים.
+      - name: Checkout (בלי LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 1
+
+      - name: Pull LFS (TXT בלבד) and verify
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          git config core.quotePath false
+          git lfs install --local
+          git lfs pull --include="ספרים/**/*.txt" || true
+          if ! python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"; then
+            echo "::warning::נותרו מצביעי LFS אחרי משיכה ממוקדת; מושכים את כל ה-LFS"
+            git lfs pull
+            python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"
+          fi
+          # עותק האובייקטים ב-.git/lfs מכפיל את נפח ה-TXT; הקבצים בעץ העבודה אמיתיים ולא תלויים בו
+          rm -rf .git/lfs/objects
+          df -h / | tail -1
+          echo "checkout-lfs $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install zstandard pynacl
+          command -v zstd >/dev/null || sudo apt-get install -y zstd
+          zstd --version
+
+      - name: Unit tests
+        run: |
+          set -euo pipefail
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_db_release_helpers.py" -v
+          (cd "$TOOLS_DIR" && python -X utf8 -m unittest test_release_db)
+
+      # ---- מפתח חתימה ----
+      - name: Prepare signing key
+        env:
+          DB_SIGNING_KEY: ${{ secrets.DB_SIGNING_KEY }}
+          DB_PUBLIC_KEY_VAR: ${{ vars.DB_PUBLIC_KEY }}
+        run: |
+          set -euo pipefail
+          if [ -z "${DB_SIGNING_KEY:-}" ]; then
+            echo "::error::הסוד DB_SIGNING_KEY לא מוגדר (seed ב-base64; ראה הוראות ההגדרה)"
+            exit 1
+          fi
+          echo "::add-mask::$DB_SIGNING_KEY"
+          umask 077
+          printf '%s\n' "$DB_SIGNING_KEY" > "$RUNNER_TEMP/db-signing.key"
+          PUB=$(python -X utf8 -c 'import sys; sys.path.insert(0, sys.argv[1]); import release_db; print(release_db.public_key_of(sys.argv[2]))' \
+                "$TOOLS_DIR" "$RUNNER_TEMP/db-signing.key")
+          # משתנה ה-repo DB_PUBLIC_KEY (אופציונלי) משמש כבדיקת שפיות מול הסוד
+          if [ -n "${DB_PUBLIC_KEY_VAR:-}" ] && [ "$DB_PUBLIC_KEY_VAR" != "$PUB" ]; then
+            echo "::error::DB_PUBLIC_KEY אינו תואם למפתח הפרטי ב-DB_SIGNING_KEY"
+            exit 1
+          fi
+          echo "PUB=$PUB" >> "$GITHUB_ENV"
+          echo "KEY_FILE=$RUNNER_TEMP/db-signing.key" >> "$GITHUB_ENV"
+          echo "WORK=$RUNNER_TEMP/work" >> "$GITHUB_ENV"
+          echo "OFFICIAL_DIR=$RUNNER_TEMP/official" >> "$GITHUB_ENV"
+          echo "TMPDIR=$RUNNER_TEMP/tmp" >> "$GITHUB_ENV"
+          mkdir -p "$RUNNER_TEMP/tmp" "$RUNNER_TEMP/work" "$RUNNER_TEMP/official"
+
+      # ---- ה-DB הרשמי: cache לפי תג ההוצאה (הקובץ הדחוס, 1.8GB; מתחת למכסת 10GB של הריפו) ----
+      - name: Restore official DB cache
+        id: official-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/official/seforim-schema6.db.zst
+          key: official-db-${{ needs.plan.outputs.official_tag }}
+
+      - name: Download official DB (cache miss)
+        if: steps.official-cache.outputs.cache-hit != 'true'
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -p "$OFFICIAL_ASSET" -D "$OFFICIAL_DIR" --clobber
+          ls -l "$OFFICIAL_DIR"
+          echo "download-official $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Save official DB cache
+        if: steps.official-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/official/seforim-schema6.db.zst
+          key: official-db-${{ needs.plan.outputs.official_tag }}
+
+      - name: Decompress official DB
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          zstd -q -d --long=31 -f "$OFFICIAL_DIR/$OFFICIAL_ASSET" -o "$OFFICIAL_DIR/seforim.db"
+          rm -f "$OFFICIAL_DIR/$OFFICIAL_ASSET"   # פינוי 1.8GB; הקאש כבר נשמר
+          df -h / | tail -1
+          echo "decompress-official $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      # ---- ה-DB הקודם (מזהים יציבים) ובסיס לדלתאות: עד 2 גרסאות ----
+      - name: Fetch previous DBs
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          H=.github/scripts/db_release_helpers.py
+          R=(python -X utf8 "$TOOLS_DIR/release_db.py")   # מערך: TOOLS_DIR מכיל רווחים
+          : > "$WORK/prev-list.txt"
+          if [ -z "$PREV_VERSION" ]; then
+            echo "אין גרסה קודמת: בנייה ראשונה (בלי מזהים יציבים ובלי דלתאות)"
+          else
+            # הגרסה הקודמת: המניפסט של 'db' (נבדקת חתימה לפני שסומכים עליו)
+            mkdir -p "$WORK/prev1"
+            gh release download db -p manifest.json -p manifest.json.sig -D "$WORK/prev1" --clobber
+            "${R[@]}" verify "$WORK/prev1/manifest.json" --public-key "$PUB"
+            python -X utf8 "$H" fetch-full "$WORK/prev1/manifest.json" "$WORK/prev1.db" --workdir "$WORK/parts"
+            echo "$WORK/prev1.db" >> "$WORK/prev-list.txt"
+
+            # הגרסה שלפניה. מדיניות: אם ה-release שלה נעלם או שאין בו מניפסט, זו אזהרה בלבד (רק בלי
+            # דלתא ממנה). אבל אם המניפסט הורד וכשל באימות חתימה או בהורדת/אימות ה-full, זה כשל קשיח.
+            TAGS=$(gh release list --limit 200 --json tagName -q '.[].tagName' | tr '\n' ' ')
+            OLDER=$(python3 "$H" select-prev --tags $TAGS --current "$PREV_VERSION" --count 1 || true)
+            if [ -n "$OLDER" ]; then
+              mkdir -p "$WORK/prev2"
+              if gh release download "$OLDER" -p manifest.json -p manifest.json.sig -D "$WORK/prev2" --clobber; then
+                "${R[@]}" verify "$WORK/prev2/manifest.json" --public-key "$PUB"
+                python -X utf8 "$H" fetch-full "$WORK/prev2/manifest.json" "$WORK/prev2.db" --workdir "$WORK/parts"
+                echo "$WORK/prev2.db" >> "$WORK/prev-list.txt"
+              else
+                echo "::warning::אין מניפסט ב-$OLDER; ממשיכים בלי דלתא ממנה"
+              fi
+            fi
+          fi
+          df -h / | tail -1
+          echo "fetch-prev $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      # ---- בנייה ----
+      - name: Build personal DB
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          ARGS=()
+          [ -f "$WORK/prev1.db" ] && ARGS+=(--stable-from "$WORK/prev1.db")
+          python -X utf8 "$TOOLS_DIR/build_personal_db.py" "." \
+            --out "$WORK/raw.db" \
+            --official "$OFFICIAL_DIR/seforim.db" \
+            --db-version "$VERSION" \
+            --display-name "מאגר ספרים לא רשמי" \
+            "${ARGS[@]}"
+          rm -f "$OFFICIAL_DIR/seforim.db"      # פינוי 3.7GB: לא נדרש עוד
+          df -h / | tail -1
+          echo "build $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Compress DB
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          python -X utf8 "$TOOLS_DIR/compress_personal_db.py" "$WORK/raw.db" "$WORK/new.db"
+          rm -f "$WORK/raw.db"                  # פינוי ~3GB
+          df -h / | tail -1
+          echo "compress $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Inject update metadata
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          python -X utf8 "$TOOLS_DIR/release_db.py" inject --db "$WORK/new.db" \
+            --db-version "$VERSION" --manifest-url "$MANIFEST_URL" --public-key "$PUB"
+          echo "inject $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Pack (parts and deltas)
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          NOTES="עדכון אוטומטי, גרסה $VERSION, קומיט ${GITHUB_SHA::7}, $(TZ='Asia/Jerusalem' date +'%d.%m.%Y %H:%M')"
+          ARGS=()
+          mapfile -t PREVS < "$WORK/prev-list.txt"
+          [ "${#PREVS[@]}" -gt 0 ] && ARGS+=(--prev-dbs "${PREVS[@]}")
+          python -X utf8 "$TOOLS_DIR/release_db.py" pack --db "$WORK/new.db" --out "$WORK/out" \
+            --url-prefix "$DOWNLOAD_BASE/db-v$VERSION" --notes "$NOTES" "${ARGS[@]}"
+          ls -l "$WORK/out"
+          df -h / | tail -1
+          echo "pack $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Sign manifest
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          python -X utf8 "$TOOLS_DIR/release_db.py" sign "$WORK/out/manifest.json" --key "$KEY_FILE"
+          echo "sign $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      # אימות מלא: חתימה, חלקים, פענוח, והחלת כל דלתא על הבסיס שלה, מול ה-DB החדש
+      - name: Verify
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          mapfile -t PREVS < "$WORK/prev-list.txt"
+          ARGS=()
+          [ "${#PREVS[@]}" -gt 0 ] && ARGS+=(--prev-dbs "${PREVS[@]}")
+          python -X utf8 "$TOOLS_DIR/release_db.py" verify "$WORK/out/manifest.json" \
+            --db "$WORK/new.db" --public-key "$PUB" --parts "$WORK/out" "${ARGS[@]}"
+          echo "verify $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      # ---- פרסום ----
+      # make_latest=false: ה-Action הקיים ותוסף ההורדה מזהים את ההפצה שלהם לפי התג 'latest'
+      # (gh release view latest / releases/tags/latest, ו-TAG=latest ב-send_update.py),
+      # ו-DB לא אמור להפוך ל-"latest" של הריפו. אין prerelease.
+      - name: Publish db-v release
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          TAG="db-v$VERSION"
+          for o in ${ORPHANS:-}; do
+            echo "מוחק release יתום $o"
+            gh release delete "$o" --yes --cleanup-tag || true
+          done
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            [ "$FORCE" = "true" ] || { echo "::error::$TAG כבר קיים"; exit 1; }
+            gh release delete "$TAG" --yes --cleanup-tag
+          fi
+          printf 'מסד אוצריא אישי, גרסה %s.\n\ninput-fingerprint: %s\n' "$VERSION" "$FINGERPRINT" > "$WORK/notes-v.md"
+          gh release create "$TAG" --target "$GITHUB_SHA" --title "מסד אוצריא אישי - גרסה $VERSION" \
+            --notes-file "$WORK/notes-v.md" --latest=false
+          for f in "$WORK/out"/*; do
+            n=0
+            until gh release upload "$TAG" "$f" --clobber; do
+              n=$((n + 1)); [ "$n" -lt 3 ] || { echo "::error::העלאה נכשלה: $f"; exit 1; }
+              sleep 20
+            done
+          done
+          echo "publish-versioned $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      # רק אחרי שכל חלקי הגרסה עלו מעדכנים את המניפסט הקבוע ('db'), כך שהמשתמשים לא רואים גרסה חלקית.
+      # הערה: --clobber ב-gh מוחק את ה-asset הישן ואז מעלה את החדש, ולכן יש חלון קצר (שניות) שבו
+      # המניפסט חסר, ואחריו חלון שבו manifest ו-.sig אינם תואמים. אין סדר העלאה שמבטל זאת (גם חתימה
+      # לפני מניפסט משאירה אי-התאמה). לקוח שפוגש את החלון דוחה את העדכון וינסה שוב בבדיקה הבאה.
+      - name: Update rolling 'db' release (manifest only)
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          printf 'מניפסט העדכון הנוכחי של מסד אוצריא האישי: גרסה %s. הקבצים עצמם ב-db-v%s.\n\ninput-fingerprint: %s\n' \
+            "$VERSION" "$VERSION" "$FINGERPRINT" > "$WORK/notes-db.md"
+          if ! gh release view db >/dev/null 2>&1; then
+            gh release create db --target "$GITHUB_SHA" --title "מניפסט עדכון DB" \
+              --notes-file "$WORK/notes-db.md" --latest=false
+          fi
+          gh release upload db "$WORK/out/manifest.json" "$WORK/out/manifest.json.sig" --clobber
+          gh release edit db --notes-file "$WORK/notes-db.md" --latest=false --prerelease=false
+          echo "publish-manifest $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
+
+      - name: Smoke test published manifest
+        run: |
+          set -euo pipefail
+          mkdir -p "$WORK/smoke"
+          for i in 1 2 3 4 5 6; do
+            if curl -fsSL "$MANIFEST_URL" -o "$WORK/smoke/manifest.json" \
+               && curl -fsSL "$MANIFEST_URL.sig" -o "$WORK/smoke/manifest.json.sig" \
+               && cmp -s "$WORK/smoke/manifest.json" "$WORK/out/manifest.json" \
+               && cmp -s "$WORK/smoke/manifest.json.sig" "$WORK/out/manifest.json.sig"; then
+              python -X utf8 "$TOOLS_DIR/release_db.py" verify "$WORK/smoke/manifest.json" --public-key "$PUB"
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::המניפסט שפורסם אינו זמין/תואם בכתובת הקבועה"
+          exit 1
+
+      - name: Prune old db-v releases (keep 3)
+        run: |
+          set -euo pipefail
+          TAGS=$(gh release list --limit 200 --json tagName -q '.[].tagName' | tr '\n' ' ')
+          for t in $(python3 .github/scripts/db_release_helpers.py prune-tags --tags $TAGS --keep 3); do
+            gh release delete "$t" --yes --cleanup-tag
+          done
+
+      - name: Step summary
+        if: always()
+        run: |
+          [ -d "$WORK/out" ] || exit 0
+          python3 .github/scripts/db_release_helpers.py summary --out "$WORK/out" --version "$VERSION" \
+            --timings "$RUNNER_TEMP/timings.txt" \
+            --extra "ה-DB הרשמי=$OFFICIAL_TAG" "גרסה קודמת=${PREV_VERSION:-אין}" "קומיט=${GITHUB_SHA::7}" \
+            >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Remove signing key
+        if: always()
+        run: rm -f "$RUNNER_TEMP/db-signing.key"
+
+# ----------------------------------------------------------------------------------------------
+# הגדרה חד-פעמית (פעולות ידניות של בעל המאגר, לא נעשות ב-Action):
+#  1. python release_db.py keygen --out db-signing.key  -> שמור את הקובץ מחוץ ל-git; הפלט מדפיס את המפתח הציבורי
+#  2. gh secret set DB_SIGNING_KEY < db-signing.key      (אופציונלי: gh variable set DB_PUBLIC_KEY --body <ציבורי>)
+#  3. ב-create-zip-release.yml, בשלב Cleanup Old Releases, להחריג את התגים db ו-db-v*
+#  4. בנייה ראשונה: Run workflow ידנית עם start_version (למשל 1)
+# ----------------------------------------------------------------------------------------------

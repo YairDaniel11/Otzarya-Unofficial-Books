@@ -404,7 +404,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-          OLD=$(gh release list --limit 100 --json tagName --jq '.[].tagName' | grep -v '^latest$' || true)
+          # שומרים גם את ה-releases של מסד אוצריא (build-db.yml): התג הקבוע db ו-db-vN
+          OLD=$(gh release list --limit 100 --json tagName --jq '.[].tagName' | grep -v -E '^(latest|db|db-v[0-9]+)$' || true)
           if [ -n "$OLD" ]; then
             for tag in $OLD; do
               gh release delete "$tag" --yes --cleanup-tag
