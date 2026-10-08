@@ -17,7 +17,7 @@
     "parent": "",
     "size": "16.9 MB",
     "depth": 0,
-    "hash": "fc15248861dce7cfb80e31835d758ece"
+    "hash": "1b5e9f3d85be8d50a1e405a61f81d92b"
   },
   {
     "name": "מדרש",
@@ -57,7 +57,7 @@
     "parent": "",
     "size": "483 KB",
     "depth": 0,
-    "hash": "6c3ffc9e5cad150d1e53a9ef01ae8f8c"
+    "hash": "66c2e5f2e5825f8ed4099c7afda64fee"
   },
   {
     "name": "סדר התפילה",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.4 MB",
     "depth": 0,
-    "hash": "7ce7a9bd74833a3d7a1d1e9ad82ea61b"
+    "hash": "2069402f54aa09e4cbaf08b2f501afdb"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "832.2 MB",
+    "size": "833.7 MB",
     "depth": 0,
-    "hash": "629b256f265485a8d447e24c84c13970"
+    "hash": "f511b9ea402e691797f514995fc5a9e6"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -177,7 +177,7 @@
     "parent": "הלכה",
     "size": "11.4 MB",
     "depth": 1,
-    "hash": "3e1b193868dcd44befaf76a8a3e2f74d"
+    "hash": "86faef9e2632e51e064d158be78042af"
   },
   {
     "name": "מפרשים",
@@ -197,7 +197,7 @@
     "parent": "הלכה",
     "size": "660 KB",
     "depth": 1,
-    "hash": "c1a026eb59bab22300a188804a0b2d85"
+    "hash": "a192c472e1ed451b8ca4396c0be57328"
   },
   {
     "name": "ראשונים",
@@ -267,7 +267,7 @@
     "parent": "משנה",
     "size": "483 KB",
     "depth": 1,
-    "hash": "457c30991bc5eb7933dc132d381613fb"
+    "hash": "4887da80d51147c0a29ae34f4401f5a9"
   },
   {
     "name": "הגדה",
@@ -397,7 +397,7 @@
     "parent": "קבצי קישורים וסדר הדורות",
     "size": "1.2 MB",
     "depth": 1,
-    "hash": "87143c10c91a8a2186baf0efa7619efb"
+    "hash": "0eb22b1654c9adff632f022bcbe7d803"
   },
   {
     "name": "קישורים - קבצי קובץ (גדולים)",
@@ -455,9 +455,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "45.0 MB",
+    "size": "46.5 MB",
     "depth": 1,
-    "hash": "fa50f7cea74dab9fff0eab0bb67740a5"
+    "hash": "a746a2ea0725655c18662e102e13ac8d"
   },
   {
     "name": "מערכות ועניינים",
@@ -577,7 +577,7 @@
     "parent": "הלכה/מחברי זמננו",
     "size": "7.8 MB",
     "depth": 2,
-    "hash": "d5a2e2067c7480023e6e6e548ed2c9d3"
+    "hash": "bb86910cd22ae6b16af6fdf04db49ea3"
   },
   {
     "name": "שונה הלכות",
@@ -607,7 +607,7 @@
     "parent": "הלכה/משנה תורה",
     "size": "659 KB",
     "depth": 2,
-    "hash": "cee6dc9c9301e56b54a902edb52384a0"
+    "hash": "d0f7138120f9346e7a9eb65db7386008"
   },
   {
     "name": "הלכות בכורות וחלה לרמב״ן",
@@ -1257,7 +1257,7 @@
     "parent": "קבצי קישורים וסדר הדורות/קישורים",
     "size": "38 KB",
     "depth": 2,
-    "hash": "c5df7717f16fcc34b68ed060808f307d"
+    "hash": "169e22efe7b4e5e0b0ed0df4cc12f1f6"
   },
   {
     "name": "14",
@@ -1287,7 +1287,7 @@
     "parent": "קבצי קישורים וסדר הדורות/קישורים",
     "size": "29 KB",
     "depth": 2,
-    "hash": "d56262e4a470e48cb7d0f33d619ab318"
+    "hash": "46ac41446ac4634a117579ccd3d01b12"
   },
   {
     "name": "מהרש״ם",
@@ -1767,7 +1767,17 @@
     "parent": "תלמוד בבלי/מחברי זמננו",
     "size": "10.4 MB",
     "depth": 2,
-    "hash": "7366acd53abb304762271834fcad1d8e"
+    "hash": "e3a2f2e44cf8c40a706b9b0158584015"
+  },
+  {
+    "name": "מאור ישראל על הש״ס",
+    "path": "תלמוד בבלי/מחברי זמננו/מאור ישראל על הש״ס",
+    "zip": "folder_0544.zip",
+    "label": "מאור ישראל על הש״ס",
+    "parent": "תלמוד בבלי/מחברי זמננו",
+    "size": "1.5 MB",
+    "depth": 2,
+    "hash": "f4a90bc5f144c4051061f2cf91fa55a3"
   },
   {
     "name": "שיעורי הגרמ״ד סאלאווציק - מנחות",
