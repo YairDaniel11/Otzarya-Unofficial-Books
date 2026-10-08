@@ -332,27 +332,39 @@ def main():
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
                        (book_ids[src], line0, 'official', target, ref, li, 'SOURCE'))
             stats['links'] += 1
-    # קישורים בין ספרים באותו מסד (<ספר>_links.json): המפרש הוא המקור והבסיס הוא היעד, כמו בקישורי links.csv
+    # קישורים בין ספרים באותו מסד (<ספר>_links.json). מפרש: המפרש הוא המקור והבסיס הוא היעד, כמו בקישורי links.csv.
+    # שאר הסוגים (למשל reference): ספר 1 הוא המקור וספר 2 הוא היעד, כפי שנכתב בקובץ. ייתכן שני הצדדים באותו ספר.
+    # שם הספר ב-path_2 מותאם גם כשהרווחים בו שונים משם הקובץ (למשל אחרי שינוי שם).
+    squash = lambda t: re.sub(r'\s+', '', t)
+    by_squashed = {squash(t): t for t in book_ids}
     json_seen = set()
     for jf in sorted(glob.glob(os.path.join(base, '**', '*_links.json'), recursive=True)):
-        base_title = os.path.basename(jf)[:-len('_links.json')]
-        if base_title not in book_ids:
+        base_title = by_squashed.get(squash(os.path.basename(jf)[:-len('_links.json')]))
+        if base_title is None:
             continue
         with open(jf, encoding='utf-8') as fh:
             entries = json.load(fh)
         for e in entries:
-            src = os.path.splitext(os.path.basename(e['path_2']))[0]
-            if src not in book_ids:
+            other = by_squashed.get(squash(os.path.splitext(os.path.basename(e['path_2']))[0]))
+            if other is None:
                 stats['json_missing_book'] += 1
                 continue
-            sl, tl = int(e['line_index_2']) - 1, int(e['line_index_1']) - 1
-            key = (src, sl, base_title, tl)
-            if sl < 0 or tl < 0 or key in json_seen:
+            l1, l2 = int(e['line_index_1']) - 1, int(e['line_index_2']) - 1
+            if l1 < 0 or l2 < 0:
+                stats['json_dup_or_bad'] += 1
+                continue
+            kind = e.get('Conection Type', e.get('Connection Type', '')).strip().upper() or 'OTHER'
+            if kind == 'COMMENTARY':
+                src, sl, tgt, tl, kind = other, l2, base_title, l1, 'SOURCE'
+            else:
+                src, sl, tgt, tl = base_title, l1, other, l2
+            key = (src, sl, tgt, tl, kind)
+            if key in json_seen:
                 stats['json_dup_or_bad'] += 1
                 continue
             json_seen.add(key)
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
-                       (book_ids[src], sl, a.library_id, base_title, None, tl, 'SOURCE'))
+                       (book_ids[src], sl, a.library_id, tgt, None, tl, kind))
             stats['json_links'] += 1
     db.execute('UPDATE book SET hasSourceConnection=1 WHERE id IN (SELECT DISTINCT sourceBookId FROM external_link)')
     db.commit()
