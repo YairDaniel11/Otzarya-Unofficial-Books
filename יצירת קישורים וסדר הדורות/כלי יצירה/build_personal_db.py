@@ -6,11 +6,14 @@
 - הספרים נכנסים כמות שהם: כל שורת קובץ = שורה ב-DB (lineIndex = מספר שורה בקובץ פחות 1).
 - הדורות והמחברים נלקחים מ-דורות.csv.
 - קישורים מ-links.csv שמקורם בספרי התיקייה נכנסים לטבלה external_link אל הספרייה הרשמית.
+- קישורי <ספר>_links.json (פורמט אוצריא: line_index_1 בבסיס, path_2/line_index_2 במפרש) בין שני ספרים
+  שבתיקייה עצמה נכנסים לאותה טבלה, עם targetSource = ה-library_id של המסד עצמו (למשל אנציקלופדיה תלמודית והערות עליה).
   היעד נפתר מול seforim.db המקומי (לקריאה בלבד): targetRef = heRef מדויק, ו-targetLineIndex כגיבוי.
 """
 import argparse
 import csv
 import glob
+import json
 import os
 import re
 import sqlite3
@@ -329,6 +332,28 @@ def main():
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
                        (book_ids[src], line0, 'official', target, ref, li, 'SOURCE'))
             stats['links'] += 1
+    # קישורים בין ספרים באותו מסד (<ספר>_links.json): המפרש הוא המקור והבסיס הוא היעד, כמו בקישורי links.csv
+    json_seen = set()
+    for jf in sorted(glob.glob(os.path.join(base, '**', '*_links.json'), recursive=True)):
+        base_title = os.path.basename(jf)[:-len('_links.json')]
+        if base_title not in book_ids:
+            continue
+        with open(jf, encoding='utf-8') as fh:
+            entries = json.load(fh)
+        for e in entries:
+            src = os.path.splitext(os.path.basename(e['path_2']))[0]
+            if src not in book_ids:
+                stats['json_missing_book'] += 1
+                continue
+            sl, tl = int(e['line_index_2']) - 1, int(e['line_index_1']) - 1
+            key = (src, sl, base_title, tl)
+            if sl < 0 or tl < 0 or key in json_seen:
+                stats['json_dup_or_bad'] += 1
+                continue
+            json_seen.add(key)
+            db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
+                       (book_ids[src], sl, a.library_id, base_title, None, tl, 'SOURCE'))
+            stats['json_links'] += 1
     db.execute('UPDATE book SET hasSourceConnection=1 WHERE id IN (SELECT DISTINCT sourceBookId FROM external_link)')
     db.commit()
     db.execute('VACUUM')
