@@ -17,7 +17,7 @@
     "parent": "",
     "size": "16.9 MB",
     "depth": 0,
-    "hash": "ae103d2720fbbbb9f21c554a8bf408bb"
+    "hash": "fc15248861dce7cfb80e31835d758ece"
   },
   {
     "name": "מדרש",
@@ -57,7 +57,7 @@
     "parent": "",
     "size": "483 KB",
     "depth": 0,
-    "hash": "c9588a7d39bcbfa107d2a316e56bc425"
+    "hash": "6c3ffc9e5cad150d1e53a9ef01ae8f8c"
   },
   {
     "name": "סדר התפילה",
@@ -95,9 +95,9 @@
     "zip": "folder_0005.zip",
     "label": "ספרים שאינם מותאמים לאוצריא",
     "parent": "",
-    "size": "43.2 MB",
+    "size": "44.3 MB",
     "depth": 0,
-    "hash": "b15ebfb6f7818cccebdd68c47feb3ea1"
+    "hash": "e12aa5034e8f27e4950952f0e620aa6c"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "833.7 MB",
+    "size": "832.2 MB",
     "depth": 0,
-    "hash": "23ef7277257ae4eff16f53237ed2697f"
+    "hash": "629b256f265485a8d447e24c84c13970"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -197,7 +197,7 @@
     "parent": "הלכה",
     "size": "660 KB",
     "depth": 1,
-    "hash": "4d79b2bc73f95581a3c79c5ed4f917c9"
+    "hash": "c1a026eb59bab22300a188804a0b2d85"
   },
   {
     "name": "ראשונים",
@@ -267,7 +267,7 @@
     "parent": "משנה",
     "size": "483 KB",
     "depth": 1,
-    "hash": "0adedc785a6a0cc0263044357bb04337"
+    "hash": "457c30991bc5eb7933dc132d381613fb"
   },
   {
     "name": "הגדה",
@@ -355,9 +355,9 @@
     "zip": "folder_0206.zip",
     "label": "ספרי מוסר",
     "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "3.8 MB",
+    "size": "4.5 MB",
     "depth": 1,
-    "hash": "e7b18ceb6ec1df7f93c89c1e5743da83"
+    "hash": "2d1acadcf87d992a9340bd7b31bda89d"
   },
   {
     "name": "שו״ת",
@@ -375,9 +375,9 @@
     "zip": "folder_0071.zip",
     "label": "תלמוד בבלי",
     "parent": "ספרים שאינם מותאמים לאוצריא",
-    "size": "6.9 MB",
+    "size": "7.3 MB",
     "depth": 1,
-    "hash": "89604f528fcae3e6c35a257dbc471b35"
+    "hash": "611b5e53a24da258431651e65f06cb26"
   },
   {
     "name": "תנ״ך",
@@ -445,9 +445,9 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "24.8 MB",
+    "size": "24.9 MB",
     "depth": 1,
-    "hash": "612677d1d5502a28a3cf6f1c6805aad2"
+    "hash": "75faa68cf3d4bd16556affc3806c9ceb"
   },
   {
     "name": "מחברי זמננו",
@@ -455,9 +455,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "46.5 MB",
+    "size": "45.0 MB",
     "depth": 1,
-    "hash": "67bb1c3e384d338a20c01d6105419809"
+    "hash": "fa50f7cea74dab9fff0eab0bb67740a5"
   },
   {
     "name": "מערכות ועניינים",
@@ -607,7 +607,7 @@
     "parent": "הלכה/משנה תורה",
     "size": "659 KB",
     "depth": 2,
-    "hash": "ba8b9784e6c074b8ad391c77bbd01ed4"
+    "hash": "cee6dc9c9301e56b54a902edb52384a0"
   },
   {
     "name": "הלכות בכורות וחלה לרמב״ן",
@@ -755,9 +755,9 @@
     "zip": "folder_0219.zip",
     "label": "אחרונים",
     "parent": "ספרים שאינם מותאמים לאוצריא/ספרי מוסר",
-    "size": "3.8 MB",
+    "size": "4.5 MB",
     "depth": 2,
-    "hash": "313020319398cb49376d7f5857cb6eee"
+    "hash": "9ae597c57ade5dc3420ec69bb6df5d73"
   },
   {
     "name": "אחרונים",
@@ -815,9 +815,9 @@
     "zip": "folder_0088.zip",
     "label": "ראשונים",
     "parent": "ספרים שאינם מותאמים לאוצריא/תלמוד בבלי",
-    "size": "6.6 MB",
+    "size": "7.0 MB",
     "depth": 2,
-    "hash": "6862e186209898ce05d533f13a4d91e6"
+    "hash": "b6a79b49c8e02638631a801306e2edff"
   },
   {
     "name": "אחרונים",
@@ -1407,7 +1407,7 @@
     "parent": "תלמוד בבלי/אחרונים",
     "size": "1.5 MB",
     "depth": 2,
-    "hash": "64b95c3d8029f8d0b049c46c3dfd4039"
+    "hash": "9e6bc56ae45ddc2bc26e5f1b54f6e2bf"
   },
   {
     "name": "חידושי ברוך טעם",
@@ -1767,17 +1767,7 @@
     "parent": "תלמוד בבלי/מחברי זמננו",
     "size": "10.4 MB",
     "depth": 2,
-    "hash": "de08ebba177f6197118f4827c0cf67aa"
-  },
-  {
-    "name": "מאור ישראל על הש״ס",
-    "path": "תלמוד בבלי/מחברי זמננו/מאור ישראל על הש״ס",
-    "zip": "folder_0537.zip",
-    "label": "מאור ישראל על הש״ס",
-    "parent": "תלמוד בבלי/מחברי זמננו",
-    "size": "1.5 MB",
-    "depth": 2,
-    "hash": "605faa4a55e9c0df63199e8f3921b91f"
+    "hash": "7366acd53abb304762271834fcad1d8e"
   },
   {
     "name": "שיעורי הגרמ״ד סאלאווציק - מנחות",
