@@ -185,6 +185,8 @@ def main():
     ap.add_argument('--display-name', default='מאגר ספרים לא רשמי (אוצריא)')
     ap.add_argument('--stable-from', help='DB קודם: ספרים/קטגוריות/מחברים קיימים שומרים id, חדשים בסוף')
     ap.add_argument('--root', default=ROOT, help='תיקיית ספרים (ברירת מחדל: ספרים של המאגר)')
+    ap.add_argument('--dh-lines', action=argparse.BooleanOptionalAction, default=True,
+                    help='קישור פירוש על הש"ס לשורת הגמרא לפי הד"ה המודגש (ברירת מחדל: פעיל; --no-dh-lines מכבה)')
     a = ap.parse_args()
     root = os.path.normpath(a.root)
 
@@ -198,6 +200,15 @@ def main():
 
     dorot = load_dorot()
     official = Official(a.official)
+    matcher = None
+    if a.dh_lines:
+        try:
+            from dh_lines import DhMatcher, extract_dh, zstandard
+            if zstandard is None:
+                raise ImportError('zstandard')
+            matcher = DhMatcher(official.db)
+        except ImportError as e:
+            print('אזהרה: --dh-lines כבוי (חסר', e, ')', file=sys.stderr)
 
     meta = {'library_id': a.library_id, 'db_version': a.db_version,
             'display_name': a.display_name,
@@ -315,6 +326,32 @@ def main():
                 seen.add(key)
                 pending[(src, r['ספר_יעד'], r['מיקום_יעד'], r['סוג'])].append((line0, ref, li))
 
+    # ד"ה -> שורה בגמרא: לפי סדר שורות המקור בכל ספר (הסמן שומר סדר בין פסקאות), רק ליעד 'מסכת + דף' בתלמוד בבלי
+    dh_map = {}  # (מקור, שורה, יעד, מיקום) -> (heRef, lineIndex)
+    if matcher:
+        work = defaultdict(list)
+        for (src, target, loc, kind), items in pending.items():
+            if re.fullmatch(r'\S+[.:]', loc) and matcher.g.is_gemara(target):
+                for line0, ref, li in items:
+                    work[src].append((line0, target, loc))
+        for src, lst in work.items():
+            cursor = 0
+            for line0, target, loc in sorted(set(lst)):
+                content = db.execute('SELECT content FROM line WHERE bookId=? AND lineIndex=?',
+                                     (book_ids[src], line0)).fetchone()[0]
+                dh = extract_dh(content)
+                if not dh:
+                    stats['dh_no_dh_stays_page'] += 1
+                    continue
+                hit = matcher.match(target, loc, dh, cursor)
+                if hit:
+                    dh_map[(src, line0, target, loc)] = hit[:2]
+                    cursor = hit[1]
+                    stats['dh_to_line'] += 1
+                    stats['dh_' + hit[2]] += 1
+                else:
+                    stats['dh_not_found_stays_page'] += 1
+
     for (src, target, loc, kind), items in pending.items():
         items.sort()
         # כתאב אלתאג' (מקרא): שורה אחת לפסוק, גם כשחלוקת הפסוקים בפרק שונה במעט מהרשמי
@@ -329,6 +366,9 @@ def main():
             items = [(it[0],) + verses[min(i, len(verses) - 1)] for i, it in enumerate(items)]
             stats['verse_aligned_clamped'] += len(items)
         for line0, ref, li in items:
+            hit = dh_map.get((src, line0, target, loc))
+            if hit:
+                ref, li = hit
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
                        (book_ids[src], line0, 'official', target, ref, li, 'SOURCE'))
             stats['links'] += 1
@@ -344,7 +384,11 @@ def main():
             continue
         with open(jf, encoding='utf-8') as fh:
             entries = json.load(fh)
+        if not isinstance(entries, list):  # למשל linker_links: מילון טווחי תווים, לא קישורי ספרים
+            continue
         for e in entries:
+            if not isinstance(e, dict) or 'path_2' not in e:
+                continue
             other = by_squashed.get(squash(os.path.splitext(os.path.basename(e['path_2']))[0]))
             if other is None:
                 stats['json_missing_book'] += 1
