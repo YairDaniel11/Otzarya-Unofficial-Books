@@ -19,6 +19,7 @@ MAX_ATTEMPTS = 5          # מספר נסיונות מלאים (CSRF + לוגי�
 RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון לנסיון
 
 INCOMPATIBLE_FOLDER = "ספרים שאינם מותאמים לאוצריא"
+INCOMPATIBLE_MARK = "✎"
 MAX_NAMES_CHARS = 2000    # אורך מקסימלי לשורת שמות הספרים שמעל הספויילר
 
 def book_name(filepath):
@@ -34,8 +35,10 @@ def folder_of(filepath):
     return '/'.join(parts[:-1]) if len(parts) >= 2 else ROOT_LABEL
 
 def is_incompatible(filepath):
+    """ספר שאינו מותאם מסומן ב-✎ בשם הקובץ (גם כשהוא כבר במיקומו המקורי);
+    התיקייה הישנה נשארת לזיהוי ספרים שעדיין בה."""
     parts = filepath[len("ספרים/"):].split('/')
-    return parts[0] == INCOMPATIBLE_FOLDER
+    return parts[0] == INCOMPATIBLE_FOLDER or INCOMPATIBLE_MARK in parts[-1]
 
 def _find_last_user_diff_cmd():
     """מוצא את ה-commit האחרון שנגע בקבצי ספרים/ ומחזיר פקודת diff עבורו."""
