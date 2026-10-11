@@ -399,16 +399,19 @@ def main():
                 continue
             kind = e.get('Conection Type', e.get('Connection Type', '')).strip().upper() or 'OTHER'
             if kind == 'COMMENTARY':
-                src, sl, tgt, tl, kind = other, l2, base_title, l1, 'SOURCE'
+                # אוצריא לא מחפשת קישור הפוך בתוך אותו מסד, ולכן נכתבים שני הכיוונים:
+                # מהמפרש לבסיס (SOURCE) ומהבסיס למפרש (COMMENTARY), כדי שהמפרש יוצג בבסיס.
+                rows = [(other, l2, base_title, l1, 'SOURCE'), (base_title, l1, other, l2, 'COMMENTARY')]
             else:
-                src, sl, tgt, tl = base_title, l1, other, l2
-            key = (src, sl, tgt, tl, kind)
-            if key in json_seen:
+                rows = [(base_title, l1, other, l2, kind)]
+            if rows[0] in json_seen:
                 stats['json_dup_or_bad'] += 1
                 continue
-            json_seen.add(key)
-            db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
-                       (book_ids[src], sl, a.library_id, tgt, None, tl, kind))
+            for key in rows:
+                json_seen.add(key)
+                src, sl, tgt, tl, k = key
+                db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
+                           (book_ids[src], sl, a.library_id, tgt, None, tl, k))
             stats['json_links'] += 1
     db.execute('UPDATE book SET hasSourceConnection=1 WHERE id IN (SELECT DISTINCT sourceBookId FROM external_link)')
     db.commit()
