@@ -1,4 +1,5 @@
 import os
+import re
 import subprocess
 import sys
 import time
@@ -21,6 +22,11 @@ RETRY_DELAYS = [15, 30, 60, 120]   # שניות המתנה בין נסיון ל�
 INCOMPATIBLE_FOLDER = "ספרים שאינם מותאמים לאוצריא"
 INCOMPATIBLE_MARK = "✎"
 MAX_NAMES_CHARS = 2000    # אורך מקסימלי לשורת שמות הספרים שמעל הספויילר
+
+# סיבת מחיקה: שורה בהודעת ה-commit שמתחילה ב"סיבה:". כל commit שמוחק ספרים
+# נושא סיבה אחת, ולכן מוחקים לפי סיבה ב-commit נפרד לכל סיבה.
+REASON_RE = re.compile(r"^\s*(?:סיבה|סיבת המחיקה)\s*:\s*(.+?)\s*$", re.MULTILINE)
+NO_REASON = ""            # מחיקה בלי סיבה מצוינת: הסעיף מוצג כמו קודם
 
 def book_name(filepath):
     return os.path.splitext(os.path.basename(filepath))[0]
@@ -58,6 +64,47 @@ def _find_last_user_diff_cmd():
     return ["git", "diff", "--name-status", "-M90", "HEAD~1", "HEAD"]
 
 
+def _commit_reason(sha):
+    """הסיבה שכתובה בהודעת ה-commit (השורה הראשונה שמתחילה ב'סיבה:'), או NO_REASON."""
+    try:
+        msg = subprocess.check_output(["git", "log", "-1", "--format=%B", sha],
+                                      text=True, encoding="utf-8")
+    except subprocess.CalledProcessError:
+        return NO_REASON
+    m = REASON_RE.search(msg)
+    return m.group(1) if m else NO_REASON
+
+
+def deletion_reasons(commits):
+    """מחזיר מילון: נתיב קובץ שנמחק -> סיבת המחיקה, לפי ה-commit שמחק אותו.
+    commits: רשימת SHA (בסדר כרונולוגי). מחיקה מאוחרת דורסת מוקדמת."""
+    reasons = {}
+    for sha in commits:
+        reason = _commit_reason(sha)
+        try:
+            out = subprocess.check_output(
+                ["git", "diff-tree", "--root", "--no-commit-id", "--name-status", "-r", "-M90", sha],
+                text=True, encoding="utf-8")
+        except subprocess.CalledProcessError:
+            continue
+        for line in out.strip().splitlines():
+            parts = line.split("\t")
+            if len(parts) >= 2 and parts[0].startswith('D'):
+                reasons[parts[1]] = reason
+    return reasons
+
+
+def _commits_in_range(before_sha, after_sha):
+    """ה-commits שבטווח (בלי merge), מהישן לחדש. ריק אם הטווח לא ניתן לחישוב."""
+    try:
+        out = subprocess.check_output(
+            ["git", "rev-list", "--reverse", "--no-merges", f"{before_sha}..{after_sha}"],
+            text=True, encoding="utf-8")
+    except subprocess.CalledProcessError:
+        return []
+    return [x for x in out.strip().splitlines() if x]
+
+
 def get_changed_books():
     before_sha = (os.environ.get("BEFORE_SHA") or "").strip()
     after_sha = (os.environ.get("AFTER_SHA") or "").strip()
@@ -70,9 +117,11 @@ def get_changed_books():
                 print(f"שגיאה: הקומיט {sha} לא קיים במאגר.")
                 sys.exit(1)
         git_cmd = ["git", "diff", "--name-status", "-M90", before_sha, after_sha]
+        commits = _commits_in_range(before_sha, after_sha)
     else:
         # workflow_dispatch או ריצה ראשונה: מצא את ה-commit האחרון שאינו אוטומטי
         git_cmd = _find_last_user_diff_cmd()
+        commits = [git_cmd[-1]] if git_cmd[-1] not in ("HEAD",) else ["HEAD"]
 
     try:
         output = subprocess.check_output(git_cmd, text=True, encoding="utf-8")
@@ -85,9 +134,11 @@ def get_changed_books():
         except subprocess.CalledProcessError:
             return None
 
+    reasons = deletion_reasons(commits)
+
     added = defaultdict(list)       # folder -> [(name, incompatible)]
     modified = defaultdict(list)
-    deleted = defaultdict(list)
+    deleted = defaultdict(lambda: defaultdict(list))   # reason -> folder -> [(name, incompatible)]
     renamed = defaultdict(list)     # folder -> [(old_name, new_name, incompatible)]
     moved = []                       # [(name, old_folder, new_folder, incompatible)]
 
@@ -128,7 +179,7 @@ def get_changed_books():
         elif status.startswith('M'):
             modified[folder].append((name, inc))
         elif status.startswith('D'):
-            deleted[folder].append((name, inc))
+            deleted[reasons.get(filepath, NO_REASON)][folder].append((name, inc))
 
     def render_folders(by_folder):
         """שם התיקייה שבה הקבצים ככותרת מודגשת, הנתיב אליה בסוגריים,
@@ -230,9 +281,12 @@ def get_changed_books():
     if modified:
         msg += section(f"עודכנו במאגר - {amount(count_of(modified), 'ספר', 'ספרים')}",
                        format_book_list(modified), names_of(modified))
-    if deleted:
-        msg += section(f"הוסרו מהמאגר - {amount(count_of(deleted), 'ספר', 'ספרים')}",
-                       format_book_list(deleted), names_of(deleted))
+    # מחיקות מקובצות לפי סיבה (סיבה נקראת מהודעת ה-commit); בלי סיבה: כמו קודם
+    for reason in sorted(deleted, key=lambda r: (r == NO_REASON, r)):
+        group = deleted[reason]
+        suffix = f" ({reason})" if reason != NO_REASON else ""
+        msg += section(f"הוסרו מהמאגר - {amount(count_of(group), 'ספר', 'ספרים')}{suffix}",
+                       format_book_list(group), names_of(group))
 
     return msg.strip() if msg else "בוצעו עדכונים טכניים במאגר (לא נמצאו שינויים ישירים בספרים)."
 
