@@ -374,7 +374,12 @@ def split_footnotes(lines: list[str]) -> tuple[list[str], list[str], list[dict]]
                 "heRef_2": "הערות",
                 "path_2": None,  # מושלם אחר כך בשם הספר
                 "line_index_2": n,
-                "Conection Type": "commentary",
+                # A base-named file pointing at its '<notes> <base>' companion, as every
+                # repo notes file does (101,167 entries, Sept 2026). "footnotes" is what
+                # SeforimLibrary stores as FOOTNOTES base -> notes, which makes the
+                # companion a default commentator (setHearotAsDefaultCommentators);
+                # "commentary" only did so when the companion title matched exactly.
+                "Conection Type": "footnotes",
             })
             return f'<sup style="color: gray;">{n}</sup>'
 

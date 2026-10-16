@@ -15,6 +15,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -28,21 +29,52 @@ REQUIRED = {"line_index_1", "line_index_2", "heRef_2", "path_2", "Conection Type
 # the rest, not an unknown value, and never reaches the DB as SOURCE.
 # "footnotes" = הערות שוליים בספר נלווה "הערות על X". סוג תלוי-טקסט ככל השאר,
 # והוא מה שמזהה את הצמד ספר↔הערות בלי לנחש לפי כותרת הספר הנלווה.
-DEPENDENT_TYPES = {"source", "commentary", "super_commentary", "targum", "midrash",
-                   "parshanut", "dibur_hamatchil", "elucidation", "explication",
-                   "footnotes"}
-REFERENCE_TYPES = {"reference", "quotation", "mesorat hashas", "ein mishpat",
-                   "ein mishpat / ner mitsvah", "ein mishpat / ner mitzvah",
-                   "mishnah in talmud", "related",
-                   "related passage", "allusion", "liturgy", "law", "summary",
-                   "sifrei mitzvot", "essay", "linker", "other", "none",
-                   "quotation_auto", "quotation_auto_tanakh", "midrash"}
+#
+# Every set below is spelled in the form SeforimLibrary compares against
+# (Link.kt `fromKnownStringOrNull`: trim, lowercase, ' ' -> '_'), and every value is
+# first put through `normalize_ctype`. So "mesorat hashas" (the Sefaria spelling the
+# repo's links files actually use) and "mesorat_hashas" are the same valid type.
+DEPENDENT_TYPES = {"source", "commentary", "super_commentary", "supercommentary",
+                   "targum", "midrash", "parshanut", "dibur_hamatchil", "elucidation",
+                   "ellucidation", "explication", "footnotes", "footnote"}
+# Oriented by the generator (ORIENTED_DEPENDANT_TYPES) but not a dependent text in the app.
+ORIENTED_REFERENCE_TYPES = {"ein_mishpat", "ein_mishpat_/_ner_mitsvah",
+                            "ein_mishpat_/_ner_mitzvah"}
+LATERAL_TYPES = {"reference", "quotation", "quotation_auto", "quotation_auto_tanakh",
+                 "mesorat_hashas", "mishnah_in_talmud", "related", "related_passage",
+                 "allusion", "liturgy", "law", "summary", "sifrei_mitzvot", "essay",
+                 "linker", "other", "none"}
+REFERENCE_TYPES = ORIENTED_REFERENCE_TYPES | LATERAL_TYPES
+
+
+def _kt_ws(c: str) -> bool:
+    """Kotlin Char.isWhitespace(): Character.isWhitespace || Character.isSpaceChar.
+    Unlike str.strip() it does NOT treat U+0085 (NEL) as whitespace. Kept identical to
+    .claude/skills/otzaria-commentary-linker-qa/scripts/connection_type.py (tested)."""
+    return c in "\t\n\x0b\f\r\x1c\x1d\x1e\x1f" or unicodedata.category(c) in ("Zs", "Zl", "Zp")
+
+
+def _kt_trim(s: str) -> str:
+    """Kotlin String.trim()."""
+    i, j = 0, len(s)
+    while i < j and _kt_ws(s[i]):
+        i += 1
+    while j > i and _kt_ws(s[j - 1]):
+        j -= 1
+    return s[i:j]
+
+
+def normalize_ctype(value: object) -> str:
+    """The key SeforimLibrary looks a Conection Type up by (Link.kt): Kotlin trim,
+    lowercase, ' ' -> '_'. null / missing -> "" (generator: coerceInputValues)."""
+    return _kt_trim("" if value is None else str(value)).lower().replace(" ", "_")
+
 
 # ערכים שנראים נכונים אבל אינם ConnectionType (Link.kt `fromKnownStringOrNull`).
 # הם נופלים ל-OTHER, ו-OTHER נפסל ב-`LinkTypes.isDependentTextLink` — כלומר
 # הקישור לא יוצג כמפרש, ולא ייכנס למנגנון סמני-ההערות הממוספרות.
 TRAP_TYPES = {
-    "sifrei mitsvot": 'איות שגוי — הערך המוכר הוא "sifrei mitzvot" (z, לא s)',
+    "sifrei_mitsvot": 'איות שגוי — הערך המוכר הוא "sifrei mitzvot" (z, לא s)',
     "note": 'אינו ConnectionType. הערך הנכון הוא "footnotes"',
     "notes": 'אינו ConnectionType. הערך הנכון הוא "footnotes"',
 }
@@ -92,12 +124,13 @@ def check_links(path: Path, book: Path | None, target: Path | None,
             err(f"{tag}: חסרים שדות: {', '.join(sorted(missing))}")
         if "Connection Type" in entry:
             err(f"{tag}: הכתיב חייב להיות 'Conection Type' (n אחת) — אחרת הסוג נקרא ריק")
-        ctype = str(entry.get("Conection Type", "")).strip().lower()
+        raw_ctype = entry.get("Conection Type", "")
+        ctype = normalize_ctype(raw_ctype)
         if ctype in TRAP_TYPES:
-            err(f"{tag}: סוג קשר {ctype!r} — {TRAP_TYPES[ctype]}. "
+            err(f"{tag}: סוג קשר {raw_ctype!r} — {TRAP_TYPES[ctype]}. "
                 f"הוא ייכתב כ-OTHER, ו-isDependentTextLink יפסול אותו: הקישור לא יוצג כמפרש")
         elif ctype and ctype not in DEPENDENT_TYPES and ctype not in REFERENCE_TYPES:
-            warn(f"{tag}: סוג קשר לא מוכר ({ctype!r}) — ייכתב כ-OTHER")
+            warn(f"{tag}: סוג קשר לא מוכר ({raw_ctype!r}) — ייכתב כ-OTHER")
         # Direction: a citing-named file (line_index_1 = the מפרש) must declare "source";
         # "commentary"/"super_commentary" there get no flip and store the pair backwards.
         # A base-named file (line_index_1 = the base text) is the opposite. The file name
@@ -107,8 +140,8 @@ def check_links(path: Path, book: Path | None, target: Path | None,
         tgt = raw_p2.rsplit("/", 1)[-1]
         if tgt.endswith(".txt"):
             tgt = tgt[:-4]
-        if ctype in {"commentary", "super_commentary"} and tgt and tgt in stem and tgt != stem:
-            err(f"{tag}: הקובץ קרוי על שם המפרש ו-{ctype!r} נשמר בכיוון הפוך — "
+        if ctype in {"commentary", "super_commentary", "supercommentary"} and tgt and tgt in stem and tgt != stem:
+            err(f"{tag}: הקובץ קרוי על שם המפרש ו-{raw_ctype!r} נשמר בכיוון הפוך — "
                 f"הערך הנכון הוא 'source'")
 
         p2 = str(entry.get("path_2", ""))

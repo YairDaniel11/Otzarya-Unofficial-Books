@@ -6,7 +6,7 @@ description: >
   Markdown, DOCX/PDF-OCR, ויקי, אתר, JSON או טקסט גולמי: חלוקה לשורות, כותרות
   ותוכן עניינים, הערות שוליים, ניקוי תגי HTML ו-CSS למה שהקורא מכיר, שם קובץ
   ומיקום בקטגוריה, רשומת מטא-דאטה (`all_metadata.json`, `ForDB/*.csv`, מחבר,
-  תקופה, דור, תיאור), קבצי לוואי (`_links.json`, `_alt_toc.json`, `_headings.json`),
+  תקופה, דור, תיאור ב־`sefaria_metadata_changes.csv`), קבצי לוואי (`_links.json`, `_alt_toc.json`, `_headings.json`),
   וולידציה של התוצאה. גם לשאלות "איך הפורמט עובד", "איזה תגים נתמכים", "למה
   אוצריא קוראת שורה-שורה", "איך לתקן ספר שנראה שבור". Triggers: להמיר ספר לאוצריא,
   להכניס ספר לספרייה, פורמט אוצריא, מבנה ספר, כותרות, הערות שוליים, מטאדאטה,
@@ -74,8 +74,12 @@ python -X utf8 validate_book.py "ספר.txt"
 # 4. מטא-דאטה — בדיקת התנגשות שם, יצירת רשומה, מיזוג
 python -X utf8 make_metadata.py --title "שם הספר" --check-name --repo D:/otzaria-library
 python -X utf8 make_metadata.py --title "שם הספר" --author "מחבר" --era אחרונים \
-       --pub-date 1902 --pub-place ירושלים --he-short-desc "…" \
+       --pub-date 1902 --pub-place ירושלים \
        --merge D:/otzaria-library/all_metadata.json
+#    תיאור → שורה ב־ForDB/sefaria_metadata_changes.csv בלבד (לא ב־JSON: heDesc שם נזרק בשקט)
+python -X utf8 make_metadata.py --title "שם הספר" --author "מחבר" --category-path "…/…" \
+       --he-short-desc "…" --he-desc "…" \
+       --desc-csv D:/otzaria-library/ForDB/sefaria_metadata_changes.csv
 
 # 5. קבצי לוואי (אם יש)
 python -X utf8 validate_sidecars.py --links "…/ספר_links.json" --book "ספר.txt"
@@ -84,6 +88,17 @@ python -X utf8 validate_sidecars.py --links "…/ספר_links.json" --book "ספ
 `to_otzaria.py` מיישם את חוזה ה-markup: מחיקת תגיות בלי טקסט קריא, בלוק→שורה,
 מיפוי inline לתגיות שהקורא מכיר, unwrap ללא-מוכר (בלי לאבד טקסט), כיווץ רווח לבן,
 אימות `href`/`src`, רשימות וטבלאות בשורה אחת, ונרמול רמות כותרת לרצף היררכי.
+
+## קלט מיוחד: RTF שיוצא מתוכנת "תג"
+
+קובץ `.rtf` מתג הוא טקסט בלבד (cp1255 כ־`\'XX`, `\par`): **בלי עיצוב, בלי כותרות מסומנות, ובלי גופי
+הערות שוליים** — רק ספרת הערה צמודה לסוף מילה (`חפצתי1`) ושאריות עוגן (`<FX30.0>`, `{41*}`). אל תחפשו
+בו מה שלא יוצא. הכלים (בריפו המקורות `Otzaria/book-sources`):
+- `סקריפטים כלליים/המרת RTF מתג/rtf_to_text.py` — פענוח כללי ל־UTF-8, פסקה בשורה.
+- `MoreBooks/מהדורות ברוך אביגדור חפץ/סקריפטים/` — דוגמה מלאה: `convert.py` (כותרות לפי מבנה כל ספר),
+  `verify.py` (שימור מילה־מילה), `install.py` (קבצים + ארבעת המרשמים), ו־README.
+- קבצי `.I` מקוריים (BKFL) — `סקריפטים כלליים/המרה מתוכנת תג/` (שומר גם עיצוב).
+ספרות הערה בלי גוף: מסירים (regex לפי הקשר, לא `\d`: "עמ' 207"/"הערה 5" הם טקסט המהדיר), ומוכיחים ב־verify.
 
 ## כללי הפלט
 
@@ -154,7 +169,7 @@ python -X utf8 validate_sidecars.py --links "…/ספר_links.json" --book "ספ
 | `to_otzaria.py` | המרה למבנה אוצריא (HTML/Markdown/טקסט), כולל פיצול הערות ונרמול כותרות |
 | `validate_book.py` | ולידציה של קובץ ספר — exit 1 על שגיאה |
 | `inspect_book.py` | עץ כותרות, מספרי שורות, סטטיסטיקה, חיפוש שורה |
-| `make_metadata.py` | רשומת מטא-דאטה, בדיקת התנגשות שם, מיזוג ל-`all_metadata.json`, שורות ForDB |
+| `make_metadata.py` | רשומת מטא-דאטה, בדיקת התנגשות שם, מיזוג ל-`all_metadata.json`, שורות ForDB, שורת תיאור ל־`sefaria_metadata_changes.csv` |
 | `validate_sidecars.py` | ולידציה של `_links.json` / `_alt_toc.json` / `_headings.json` |
 
 ## References
@@ -164,7 +179,9 @@ python -X utf8 validate_sidecars.py --links "…/ספר_links.json" --book "ספ
 - **`references/book-file.md`** — הפורמט עצמו: כותרות ותוכן עניינים, הערות שוליים,
   קישורי `book://`, התגים ותכונות ה-CSS הנתמכים והלא-נתמכים, מלכודת ההיפוך, מצב
   קריאה רציף, שמות שמורים.
-- **`references/metadata.md`** — שדות `all_metadata.json`, קובצי `ForDB/`, ניקוי
+- **`references/adding-books-pitfalls.md`** — המלכודות בהוספת ספר חדש לספריית otzaria-library (קלט, הערות כספר נפרד,
+  חוזה המיזוג, `ref_2`, שלושת המרשמים, תיאור ספר, בניית DB ואימות קישורים). **לקרוא לפני כל הוספה לספרייה הרשמית.**
+- **`references/metadata.md`** — שדות `all_metadata.json`, קובצי `ForDB/`, היכן נכתב תיאור (`sefaria_metadata_changes.csv`), ניקוי
   שמות וגרשיים, קטגוריות ומיקום, דורות, רישיונות.
 - **`references/sidecars.md`** — `_links.json` (רגיל, עוגן-מילה, טווח), `_alt_toc.json`,
   `_headings.json`: סכימה, סוגי קשר, כללי ספריא.
@@ -189,12 +206,13 @@ python -X utf8 validate_sidecars.py --links "…/ספר_links.json" --book "ספ
    - ספר חדש שהוא פירוש לספר בסיס: ליצור לו קישורים (מחולל הקישורים, או `fix_links.py`).
    - ספר שהוא **יעד**: אין מה לעדכן. היעד הוא שם הספר ב-`seforim.db`, לא שם קובץ במאגר.
    - הוספה, הסרה או שינוי של שורה בראש הספר (למשל תמונה) מזיזים את כל מספרי השורות בקישורים שלו: להריץ תיקון.
-4. **אימות לפני דחיפה.** מ-`יצירת קישורים וסדר הדורות/כלי יצירה`:
+4. **אימות תוכן, לא רק מבנה.** `validate_book.py` בודק markup ולא תוכן. כשהקלט הומר או נגרד (RTF, אתר, OCR): השוו טוקן־טוקן קלט מול פלט (בניכוי שורות שנמחקו בכוונה), וחפשו `[?][א-ת]` ו-`<?` (אות שאבדה ב-windows-1255; `<?…>` גם מסתיר טקסט בקורא). ראו `references/adding-books-pitfalls.md` סעיף 0.
+5. **אימות לפני דחיפה.** מ-`יצירת קישורים וסדר הדורות/כלי יצירה`:
    `python -X utf8 fix_links.py --verify --base "<נתיב לתיקיית ספרים>"`, או הלשונית "בדיקה ותיקון קישורים קיימים"
    במחולל הקישורים (https://github.com/YairDaniel11/Otzariya_Link_Maker). התוצאה הנדרשת: 0 שמות כפולים,
    כל שם בדורות ובקישורים תואם קובץ אחד בדיוק, וכל קבוצות הקישורים תקינות.
-5. **קבצי git-lfs.** ספר שהקובץ שלו מצביע LFS לא נבדק: להריץ `git lfs checkout` לפני הבדיקה.
-6. התיעוד המלא: `יצירת קישורים וסדר הדורות/תיעוד יצירת קישורים וסדר הדורות.md` (סעיפים 9, 13 ו-15).
+6. **קבצי git-lfs.** ספר שהקובץ שלו מצביע LFS לא נבדק: להריץ `git lfs checkout` לפני הבדיקה.
+7. התיעוד המלא: `יצירת קישורים וסדר הדורות/תיעוד יצירת קישורים וסדר הדורות.md` (סעיפים 9, 13 ו-15).
 
 ### הודעות commit (הבוט בפורום קורא אותן)
 

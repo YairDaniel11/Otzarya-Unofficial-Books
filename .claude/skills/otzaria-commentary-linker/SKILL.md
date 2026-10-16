@@ -1,0 +1,565 @@
+---
+name: otzaria-commentary-linker
+description: >
+  Use this skill whenever the user wants to link a commentary, parshanut, targum, midrash,
+  or reference book to its base/source text inside the "otzaria-library" project — i.e.
+  produce or update the links folder's "book title"_links.json file that makes a מפרש (commentary) show up
+  correctly next to the base text it comments on (e.g. a Gemara/Mishnah/Tanakh tractate) in
+  the Otzaria
+  app's side-by-side reading view. Trigger this any time the user says things like "תקשר לי
+  את הספר X שיהיה מפרש על Y", "תקשר בין X ל-Y", "תעדכן/תוסיף קישורים לספר X", "תמצא את מסכת Y
+  ב-DB ותקשר אליה", or generally describes matching a commentary's paragraphs to the
+  corresponding lines of a source text, even if they don't spell out every step or mention
+  this skill by name. Also use it if the user references seforim.db, the Otzaria SQLite
+  database, or asks how to find a source book's line numbers / heRef for linking purposes.
+---
+
+# Otzaria commentary ↔ source linker
+
+## What this produces
+
+A `links/<commentary title>_links.json` file (or an update to an existing one) inside the
+otzaria-library project — a set of entries that make each line of a citing book (מפרש/
+commentary/תרגום/מדרש) show up next to the correct line of its target book in the Otzaria
+app's side-by-side view. This is the exact input format the app's DB generator
+(`otzariasqlite`, in the sister repo SeforimLibrary) reads to build the `link` table in
+`seforim.db`. One entry looks like this:
+
+```json
+{
+  "line_index_1": 5,
+  "line_index_2": 3,
+  "ref_2": "Moed Katan 2a:1",
+  "heRef_2": "מועד קטן ב., א",
+  "path_2": "מועד קטן.txt",
+  "Conection Type": "source"
+}
+```
+
+Note the field name is `"Conection Type"` — missing the second "n". That's not a typo to fix;
+it mirrors Sefaria's original CSV column name and is exactly what the app's parser expects.
+Writing `"Connection Type"` instead silently fails to register the link.
+
+## The one rule that decides whether any of this works: link direction
+
+**In a file named after the citing book, every dependent-text entry is
+`"Conection Type": "source"` — never `commentary`, never `super_commentary`.**
+
+`seforim.db` stores a dependent-text link in exactly one canonical direction:
+`sourceBookId` = the **base text**, `targetBookId` = the **מפרש**. The app's commentator
+panel is literally `WHERE l.sourceBookId = <the book being read>` returning `targetBookId`
+(`LinkQueries.sq`, `selectCommentatorsByBook`). A row stored the other way round is not
+displayed as a מפרש at all: the reverse query relabels it `SOURCE` and shows it in the
+**מקורות** panel instead (`database_library_provider.dart`, `_loadInverseSourceRows` +
+`inverseConnectionTypeExpr`). So a backwards row does not just lose a label — the מפרש
+disappears from the commentary panel, and the base text starts appearing as a "פירוש" on
+the מפרש.
+
+The links file, though, is named after the **citing** book and its `line_index_1` is a line
+in the citing book — the opposite narrative. `"source"` is the value that bridges the two:
+the DB generator reads it as "the thing in `path_2` is my line's source" and flips the pair
+into canonical order before storing it as `COMMENTARY`:
+
+```kotlin
+// SeforimLibrary  generator/otzariasqlite/.../Generator.kt
+val flip = declaredType == ConnectionType.SOURCE
+val storedType = if (flip) ConnectionType.COMMENTARY else declaredType
+insertLinkStable(
+    sourceBookId = if (flip) targetBook.id else sourceBook.id,   // base
+    targetBookId = if (flip) sourceBook.id else targetBook.id,   // מפרש
+    ...
+)
+```
+
+`commentary` gets **no flip**. Written into a citing-named file it stores
+`מפרש → base`, which is backwards. This is not hypothetical: it is what happened to
+קרן אורה, שפת אמת, ערוך לנר על יבמות, אבן העוזר, ריטב"א על גיטין and חידושי רמב״ן על כתובות —
+16,093 entries across 46 files (11,395 `commentary` + 4,698 `super_commentary`, ≈15,894 rows
+once the generator's usual heading/missing-line drops are applied) shipped inverted through
+`db_version=27`, with the Gemara listed as a commentary on קרן אורה. Fixed Sept 2026 by
+rewriting those entries to `source`.
+
+The precedent to copy is `National-LibraryToOtzaria/links` — 63,107 entries, every one of
+them a citing-named file with `"Conection Type": "source"`, and every one of them lands in
+the commentary panel correctly.
+
+### Super-commentary lines under this rule
+
+A line commenting on רש"י/תוספות rather than on the Gemara is still `"source"` — the flip's
+hardcoded COMMENTARY is harmless here (see criterion 4 for the types where it is *not*).
+The relation
+is carried entirely by `path_2`: point it at the **intermediate book** (`תוספות על נזיר.txt`)
+instead of the base (`נזיר.txt`), and the link stores as `תוספות על נזיר → <your מפרש>`. The
+stored type is `COMMENTARY` rather than `SUPER_COMMENTARY`. Every query that builds the
+commentary panel lists the two side by side in the same `ct.name IN (...)` clause
+(`LinkQueries.sq`), neither gets a filter chip (`link_types.dart:99-107` excludes both on
+purpose), and the differing Hebrew label — "פירוש" vs "פירוש על פירוש" — is only ever read
+through the chip machinery, so it is not displayed for either. The user-visible difference is
+nil; what is lost is semantic precision in the stored data. A correct base beats an accurate
+label on an inverted link.
+
+### The one case where `commentary` is right
+
+If you are instead writing a **base-named** file — `line_index_1` is a line of the base text
+and `path_2` points at the מפרש — then the stored direction already matches and the type is
+`commentary` (or `super_commentary`, `targum`, `midrash`, …) with no flip. That is the
+convention in `ToratEmetToOtzaria/links`, `Ben-YehudaToOtzaria/links`,
+`tashmaToOtzaria/links`, `wikiJewishBooksToOtzaria/links` and `pninimToOtzaria/links`.
+`MoreBooks/links` is mostly base-named but now holds one citing-named `source` file
+(`חידושי רמב״ן על כתובות`), so check the file, not the root. Prefer the base-named form only when the base
+book's title is a safe filename; titles carrying an ASCII `"` (`רש"י על שבת`, `רשב"ם על בבא
+בתרא`) cannot be used as filenames on Windows, which is one more reason the citing-named
+`source` form is the default for this skill.
+
+**Before writing a single entry, decide which of the two forms you are producing and say so
+out loud.** Mixing them inside one file is always a bug.
+
+## Terminology used in this doc
+
+To avoid the project's own confusing usage (its docs call the commentary the "ספר־מקור"),
+this skill always uses two fixed terms:
+
+- **citing book** = the מפרש/commentary/תרגום/מדרש being linked. This is `line_index_1`,
+  and it is what the file is named after.
+- **target book** = the base text being commented on (Gemara/Mishnah/Tanakh/etc.), or the
+  intermediate commentary for a super-commentary line. This is `line_index_2` / `heRef_2` /
+  `path_2`.
+
+These two names describe the **file**, not the database. In `seforim.db` the roles are
+reversed — `sourceBookId` is the base text and `targetBookId` is the מפרש — and
+`"Conection Type": "source"` is what performs that reversal at import time. See "The one
+rule that decides whether any of this works" above; never reason about the stored link from
+the file's own `_1`/`_2` numbering.
+
+Whenever a user or a project doc says "מקור", check contextually whether they mean the
+citing book or the target book — do not assume "מקור" = target.
+
+## Overriding principle — a missing link beats a wrong one
+
+**עדיף להסיר קישור לא-ודאי מאשר לתרום קישור זבל.**
+
+This repo's output is contributed upstream to a library other people read. A link that
+points at the wrong line is worse than no link at all: the reader is shown text that does
+not belong to the passage, and silently loses trust in every other link on the page. A
+missing link is a visible, harmless gap.
+
+Therefore, whenever you cannot *verify* a link, **delete it — do not guess, do not
+approximate, and do not keep a "close enough" target.** Concretely:
+
+- Never invent a `line_index_2` to satisfy a coverage target.
+- Never leave a link whose daf/section disagrees with the citing line's own heading.
+- Never keep a link you could not confirm against `seforim.db`.
+- Never keep a `commentary`→base-text link for a line that is actually commenting on an
+  intermediate commentary (רש"י/תוספות/…) when you cannot resolve the correct lemma.
+- When a matcher reports weak or ambiguous evidence, that is a **removal** signal, not a
+  "ship it with a caveat" signal.
+
+Report every removal with its reason and count. Under-delivering a verified set is the
+success case; a full-coverage set padded with unverified guesses is the failure case.
+
+## Success criteria — what a finished result looks like
+
+Don't treat this as a checklist to run once at the end — treat it as the target you're
+solving for the whole time. A finished `_links.json` update is correct only if all of the
+following hold:
+
+1. **Coverage, subordinate to verifiability.** Aim for every non-heading, non-front-matter,
+   non-blank line in the citing book to have exactly one *verified* match to a target line.
+   Coverage is the goal you work toward — but it never outranks correctness: a line whose
+   target you cannot verify gets **no entry at all**, and is listed in your report instead.
+   Do not pad coverage with guesses (see the overriding principle above). Headings, blank
+   lines, and genuine front-matter (like an author byline under the `<h1>` title with no
+   relation to any passage) are the other legitimate exceptions — they still count toward the
+   physical line numbering (see criterion 2), but never receive a link entry themselves, and
+   any front-matter you skip still gets named in your report.
+
+2. **Correct, complete entries.** Every entry has these five fields: `line_index_1`,
+   `line_index_2`, `heRef_2`, `path_2`, and the literal key `"Conection Type"` — plus a sixth,
+   `ref_2`, whenever the target is a Sefaria book (see the two sub-rules below; both are
+   mandatory, and both fail *silently* when you get them wrong). `"Conection Type"` is spelled
+   exactly that way (missing the second "n"). This mirrors Sefaria's original CSV column name
+   and is what the app's parser expects; writing `"Connection Type"` instead silently fails to
+   register the link. `line_index_1` and `line_index_2` are 1-based physical file line
+   numbers — every line in the file counts toward this number, including `<h1>`/`<h2>`
+   headings and blank lines, even though headings themselves never become a `line_index`
+   value.
+   
+   **`path_2` must be the target's exact DB title — gershayim included.** `path_2` is
+   `"<target title>.txt"`, where `<target title>` equals `book.title` in `seforim.db`
+   **character for character**. The generator resolves the target book by exact title match on
+   that string; when it doesn't match, **the entry is dropped silently** — no error, no warning,
+   no link in the DB. The trap: the `.txt` filename on disk is not the authority on the
+   spelling — and **neither is the book's source**. There is no rule of thumb that tells you
+   which gershayim character a title uses; two different mechanisms are at play:
+
+   - **Otzaria-native targets** (every source that isn't Sefaria) are run through the importer's
+     `normalizeBookTitle`, which folds `"`, `''` and `׳׳` into Hebrew gershayim `״` (U+05F4).
+     Their DB title therefore **always** carries `״` and never ASCII `"`, no matter how the file
+     on disk is spelled — so writing the on-disk form resolves to nothing.
+   - **Sefaria targets** keep Sefaria's own raw title, which may be ASCII `"` (~1,150 titles in
+     the current build) or `״` (over a hundred). Nothing about the book predicts which.
+
+   ```json
+   "path_2": "רש\"י על שבת.txt"                   // correct — Sefaria title, ASCII gershayim
+   "path_2": "רשי על שבת.txt"                     // WRONG — matches no book; silently dropped
+   "path_2": "הערות על וזה לשונו - שובבי״ם.txt"    // correct — Otzaria title, normalized to ״
+   "path_2": "הערות על וזה לשונו - שובבי''ם.txt"   // WRONG — matches no book; silently dropped
+   ```
+
+   These two mistakes produced 739 dead entries across 33 files (Sefaria target) and 116 more in
+   `MoreBooks` (Otzaria target). Verify **every distinct `path_2`** you write before delivering —
+   an exact-match query against the DB is the only way to know, never `LIKE`; see
+   "Verifying `path_2` resolves" in `references/query_seforim_db.md`.
+
+   **`ref_2` is mandatory whenever the target is a Sefaria book.** `ref_2` is the target line's
+   canonical Sefaria reference in English — `"Shabbat 2a:2"`, `"Ketubot 2a:1"`,
+   `"Rashi on Shabbat 6a:13:1"`, `"Tosafot on Bava Batra 29a:16:1"` — and `heRef_2` is the
+   Hebrew rendering of that *same* address (`"Rashbam on Bava Batra 86a:1:2"` ↔
+   `"רשב\"ם על בבא בתרא פו., א, ב"`). Write both; they must name the same place.
+
+   Why it isn't optional: `line_index_2` is a *physical line number*, and each Sefaria release
+   can add or remove lines in the target text, shifting every line number after it. The weekly
+   sync tool re-resolves `line_index_2` from `ref_2` after each release — **`ref_2` is the
+   stable anchor; `line_index_2` is only a perishable cache of it.** An entry with no `ref_2`
+   cannot be re-anchored: it keeps its stale `line_index_2` and starts pointing at the wrong
+   line, silently, with nothing to flag it. Take `ref_2` from the same DB/precedent lookup that
+   gave you `heRef_2`, and copy the convention from an existing `_links.json` targeting the
+   same book.
+
+   A target that is **not** a Sefaria book (an Otzaria-native book such as
+   `הערות על שות רבי משולם איגרא.txt`) has no Sefaria reference and correctly carries no
+   `ref_2` — omit the field there rather than inventing a value.
+
+   **Critical for multiple links to the same line:** If you have multiple citing-book lines
+   pointing at the same target line (e.g., several commentary snippets on one source passage),
+   they **must appear consecutively in the JSON file** (one after another with the same
+   `line_index_2` and `path_2`). The app's `groupConsecutiveLinks()` function relies on this
+   ordering to group related links together. Links scattered across the file with unrelated
+   targets in between will be treated as separate link groups and may not display correctly
+   in the panel.
+
+3. **heRef that matches the target book's own convention, always verified against real
+   precedent — never a pasted `<h2>` string.** The general shape for Talmud-daf-style books is
+   `"<book title> <section label>, <hebrew numeral>"`, where the numeral is a 1-based running
+   count of content lines since the last `<h2>` (standard gematria: ..., יג, יד, טו, טז, יז,
+   יח, יט, כ, ... — note טו/טז, not יה/יו). But the `<section label>` is *not* simply the raw
+   `<h2>` text copied verbatim — e.g. for a מסכתא קטנה like מסכת גרים, the real heRef used
+   throughout the DB is `"מסכת גרים א, ז"`, not `"מסכת גרים פרק א, ז"`, even though the
+   heading literally reads `<h2>פרק א</h2>` — the word "פרק" is dropped and only the letter
+   survives. Books with a different structure entirely (Tanakh, halachic codes by סימן/סעיף,
+   etc.) may label sections in yet other ways. Because of this, never trust a derived formula
+   on its own: before writing any `heRef_2` values, find at least one existing `_links.json`
+   file that already targets the same target book (search for `"path_2": "<target title>.txt"`
+   across `links/*.json`) and copy its exact labeling convention, or confirm directly against
+   `seforim.db` (see the DB access route below). This precedent check is mandatory every time,
+   not something you only do when a book looks unusual or the pattern seems off.
+
+4. **The right connection type.** For a citing-named file — the form this skill produces —
+   every dependent-text entry is `"Conection Type": "source"`, whether the line comments on
+   the Gemara or on רש"י/תוספות. Whether it is a plain פירוש or a super-commentary is
+   expressed by `path_2` alone: the base text's file, or the intermediate book's file. This
+   is not a stylistic choice; `commentary`/`super_commentary` in a citing-named file store
+   the link backwards and the מפרש never reaches the commentary panel. See "The one rule that
+   decides whether any of this works" above for the mechanism and for the one case
+   (a base-named file) where `commentary` is the right value.
+
+   **`source` applies to `commentary` and `super_commentary` only.** The flip hardcodes the
+   stored type — `storedType = if (flip) COMMENTARY else declaredType` — so it cannot carry a
+   semantic type across. For `commentary`/`super_commentary` that costs nothing (COMMENTARY is
+   what they store anyway, and the app runs both through identical queries). For `targum`,
+   `midrash`, `parshanut`, `dibur_hamatchil` and `elucidation` it is **lossy**: those five are
+   exactly `LinkTypes.commentaryFilterTypes`, the types that get their own filter chip and
+   Hebrew label in the commentary panel (`link_types.dart:101-107`). Flattening one to
+   COMMENTARY silently drops its chip and relabels it "פירוש". So for those five, do **not**
+   write `source` — write a **base-named** file (`line_index_1` = a line of the base text,
+   `path_2` = the מפרש) carrying the real type, which needs no flip. Say so in your report
+   when the request forces that form.
+
+   The lateral types keep their own names from either side and are never rewritten, because
+   they are not a base/dependant relation at all: `reference`, `quotation`, `mesorat_hashas`,
+   `ein_mishpat`, `mishnah_in_talmud`, `related`, or `other` as a last resort. Note that
+   `validate_links.py` still reports any type other than `source`/`linker` in a citing-named
+   file — that is expected for a deliberate lateral entry; confirm it rather than "fixing" it.
+
+   Don't confuse `reference` with `"Conection Type": "linker"` — `linker` is the literal
+   string the automated Sefaria-citation pipeline (the `linker/` folder) writes into existing
+   files; it is not one of the app's recognized values at all, and gets silently stored as
+   `OTHER` internally (its word-anchor still works, since that depends on `start`/`end`, not on
+   the type being recognized). You never write `linker` by hand — it isn't a type choice
+   available to you, only something you preserve untouched when it's already present (see
+   criterion 5).
+
+5. **A merge the user approved before it happened.** If `links/<commentary title>_links.json`
+   already exists, the pre-existing file is left untouched except for the specific stale
+   subset that shares both the same `path_2` and the same `Conection Type` you just produced.
+   Since every dependent-text entry you write is `source`, in practice `path_2` is the key.
+   Before writing anything, show the user exactly which existing entries you're about to drop
+   (e.g. "these 40 existing `source`→`מועד קטן.txt` entries will be replaced by the new set;
+   the 5 `reference`→`תרגום ירושלמי.txt` entries and any `"Conection Type": "linker"`
+   entries stay untouched") and get their go-ahead before performing the replacement — don't
+   drop-and-replace silently even though the matching rule itself is deterministic. Output is
+   written with `indent=2, ensure_ascii=False`, matching the existing files' formatting, at
+   `<source root>/links/<commentary title>_links.json`.
+
+   **If the existing file still carries `commentary`/`super_commentary` entries**, it predates
+   the direction fix and every one of those entries is stored backwards. Say so, and offer to
+   rewrite them to `source` in the same pass — merging new correct entries alongside old
+   inverted ones leaves the book half-broken in the app.
+
+6. **Verified before delivery.** Before handing over the finished file, you cross-checked it
+   against `seforim.db` directly (Windows-MCP PowerShell route, not bash — see below) —
+   confirming derived `heRef` values and spot-checking that target lines you matched against
+   actually correspond to real rows in the DB. This gate also covers the two silent-failure
+   fields from criterion 2: **every distinct `path_2` returned an exact-title match** in
+   `book`, and **every entry with a Sefaria target carries a `ref_2`**. This is a mandatory final gate for every run,
+   not a step reserved for when a result looks doubtful. If the DB is genuinely unreachable —
+   wrong path, tool unavailable, permission denied — this gate becomes a disclosed limitation
+   instead of a blocker: deliver the file-derived result anyway, but say explicitly in your
+   report (criterion 7) that DB verification could not be completed and why.
+
+7. **A report the user can act on.** The user comes away knowing which file was
+   written/updated, how many entries were added, what the DB verification in criterion 6
+   found, and exactly which specific lines (if any) were low-confidence guesses worth
+   spot-checking — plus any front-matter lines you deliberately skipped and why. The JSON file
+   is the deliverable; re-importing it into `seforim.db` is a separate, later step — use
+    `otzaria-db-linker` when the user asks to write the links into the live DB.
+
+### Automated matcher contract: verified entries only, guesses never ship
+
+When a script produces the links, distinguish **coverage** from **approval**:
+
+- The final `_links.json` carries only verified entries, with only the normal link fields. Do
+  not add confidence/debug keys to link entries; the app schema is not a QA metadata channel.
+- Write weak, short-anchor, tied, or otherwise uncertain decisions to a separate QA JSON/report
+  (`--qa-report` in `linker/dibur_matcher.py`) with the citing line, chosen target, scores,
+  evidence class, and reason for review.
+- An unresolved content line **does not block the artifact — it is simply omitted** and
+  reported. What blocks the artifact is shipping a line whose target was guessed. Resolve it
+  semantically, supply a reviewed override, or leave it out; never split the difference by
+  emitting a low-confidence target.
+- Threshold discipline: a numeric score at the accept threshold is not evidence. Require a
+  positive signal — the dibur's opening word(s) actually aligning with the target's own lemma
+  head — before accepting. A real case: the dibur `כאן שניתותרו` scored just over threshold
+  against the lemma `ומר סבר מלא חפניו`, an unrelated passage. Anchor checks caught 47 such
+  matches in one run that the score alone would have shipped.
+- Reviewed manual decisions belong in a deterministic override JSON, not only in generated
+  output. The format is an object keyed by citing `line_index_1`; each value is either a complete
+  link entry (all five fields, plus `ref_2` on a Sefaria target) or `null` for a verified
+  legitimate skip. Re-running must reapply and
+  report every override.
+- A `null` override does not prove that a line is skippable. QA must still confirm it is a
+  heading/front-matter/placeholder/colophon under criterion 1.
+
+## What you need to know to get there
+
+This is reference knowledge, not a mandated order of operations — pull from whichever part is
+relevant to the specific request in front of you.
+
+**Background docs.** Three docs live inside the otzaria-library repo itself, at the project
+root: `docs/README.md` is the doc index — skim it first. It also flags that the DB supports
+word-level links, range links, and heading/aliyot entries (`alt_toc/<book>_alt_toc.json`) in
+addition to the plain line-to-line links this skill produces — if a request is actually asking
+for one of those other mechanisms, that's a different task than what's covered here.
+`docs/קישורים-וכותרות.md` is the authoritative doc on link types; `book-database-architecture.md`
+is the file-based model the app builds from. Separately, `references/schema-and-heref.md` is
+**bundled with this skill itself** (not part of the otzaria-library repo — don't search the
+project root for it) and holds a condensed day-to-day version of all three; read it for quick
+lookups, and fall back to the full repo docs (or re-read them) whenever you're unsure of a
+rule rather than guessing — guessing against these is how silent breakage happens.
+
+**Finding the citing and target books.** Search under any `*/ספרים/אוצריא/**` tree for
+`<title>.txt` (`find <repo root> -iname "<title>.txt"`). Sefaria-sourced books typically live
+under `extraBooks/SefariaToOtzria/sefaria_export/...`; Otzaria-native books live under the
+various `*ToOtzaria/.../ספרים/אוצריא/...` trees. If the physical file exists, you can derive
+`line_index` and `heRef` yourself with no DB query needed for the common case (see criterion
+3) — just keep the indexing straight: the `_links.json` file always uses **1-based** physical
+line numbers (per criterion 2), while the DB's own `lineIndex` column is **0-based**; the
+generator converts by subtracting 1 (per `docs/קישורים-וכותרות.md`: "`line_index_1` —
+1-based; מומר ל-0-based בגנרטור"). You always write the 1-based version into the JSON —
+never do that subtraction yourself. `path_2` in the output is just
+`"<target title>.txt"`; it doesn't need to physically exist in this repo, since the app
+resolves both sides of a link by title against its own book cache (confirmed by the existing
+`קרן אורה על מועד קטן_links.json`, which already targets `מועד קטן.txt` correctly).
+**But precisely because resolution is by title, the local filename is not the authority on how
+to spell it** — write the title exactly as `book.title` has it, gershayim and all
+(`רש"י על שבת.txt`, not the de-gershayim'd `רשי על שבת.txt`; `הערות על וזה לשונו - שובבי״ם.txt`
+with `״`, not the on-disk `''` form), and verify it with an exact-match query per criterion 2.
+The book's source tells you nothing about which gershayim character to use — only the DB does.
+Likewise, when the target is a Sefaria book, derive `ref_2` alongside `heRef_2` in the same
+pass — not as an afterthought.
+
+**The DB access route — used every run, not just as a fallback.** `seforim.db` is
+confirmed to live at
+`C:\Users\User\AppData\Roaming\io.github.kdroidfilter.seforimapp\databases\seforim.db`
+(i.e. `%APPDATA%\io.github.kdroidfilter.seforimapp\databases\seforim.db` on this user's
+machine) — reach it via the Windows-MCP PowerShell tool, not bash, and mind the UTF-8 gotcha
+documented in `references/query_seforim_db.md` (also bundled with this skill, not part of the
+repo). `scripts/dump_book_from_db.py` finds a book by title and dumps its lines (id,
+lineIndex, heRef, content) as JSON. `scripts/lemma_head_match.py` resolves a dibur to the
+right lemma line among a daf's candidates, tolerating rabbinic spelling drift
+(`ר"ל`/`ריש לקיש`, `דילמא`/`דלמא`, `והאמר`/`והא אמר`) that generic overlap scoring gets
+wrong — and returns `None` rather than a guess when the evidence is weak. Anchor the
+candidate pool on the daf heading the citing line sits under, using
+`otzaria-commentary-linker-qa/scripts/daf_util.py`; that heading is more trustworthy than
+an existing `heRef_2`, which may itself be wrong. If that exact path doesn't exist (different machine,
+different user folder), fall back to `%APPDATA%\...` and ask the user for the real path
+rather than guessing. If the database turns out to be genuinely unreachable even after that —
+tool unavailable, permission denied, user has no answer — don't block the whole task on it:
+finish with the file-derived result and flag clearly in your report that DB verification
+(criteria 3 and 6) could not be completed, so the user knows to treat the `heRef` values as
+unverified. Two distinct uses:
+
+- When there's no physical target file (rare — a pure Sefaria-only book with no local text),
+  this is your only source for the target's lines and `heRef` values.
+- Every other time, this is still where you go to satisfy criterion 3 and criterion 6 — pull a
+  handful of real rows for the target book and confirm your derived `heRef` values (and,
+  ideally, a sample of your line matches) actually agree with what's in the DB before you
+  consider the work done.
+
+**Never mix dump sources across sessions or DB copies.** If you dump target-book content
+(Gemara/Rashi/Tosafot/etc.) from one `seforim.db` and later write your finished `_links.json`
+via `otzaria-db-linker` against a *different* `seforim.db` file — even one that's supposedly
+"the same library," e.g. a stale dump left over from an earlier session, or the wrong one of
+two `seforim.db`-named files on the machine (see that skill's `db_write_notes.md`) — a given
+`lineIndex` is not guaranteed to mean the same physical line in both copies. Confirmed real
+case: a dump taken from an old DB copy had a book's `heRef` at `lineIndex` N genuinely differ
+from the live DB's `heRef` at that same N (an off-by-a-few-rows shift), which produced a
+plausible-looking but wrong `line_index_2`/`heRef_2` that only surfaced later via DB sampling
+— the semantic match itself (the actual quoted text) was correct, only the numbering had
+drifted. The rule: dump fresh from the exact `seforim.db` path you resolved via
+`shared_preferences.json` (see `otzaria-db-linker`'s route) at the start of the session you're
+about to write in, and re-dump rather than reuse if meaningful time has passed or you're not
+certain it's the same file.
+
+**Matching each citing-book line.** Track the current `<h2>`/`<h1>` section as you read, so
+each match stays inside the right window of the target book — and treat every new `<h2>` as a
+hard reset: a continuation word at the start of a new heading's block never inherits the
+target line from the previous heading's last match, even before anything else in the text has
+visibly changed (a citing-book line explicitly quoting somewhere else entirely is a different,
+cross-reference situation, not covered here). Find each line's "דיבור המתחיל" — typically the
+words right after an inline label like `<b>משנה</b>`, `<b>גמרא</b>`, `<b>רש"י</b>`,
+`<b>תוס'</b>` — and match it semantically (nikud, spelling, and wording will differ from the
+target's actual text) rather than by exact string comparison. Anchor to the Mishnah/passage
+that's the actual subject of the line's discussion, not to every secondary source it cites in
+passing while making its point — a line can reference "בריש פרקין" or several other tractates
+in the course of its argument and still belong to the one target line it's fundamentally
+elaborating on. A line with no independent anchor — a **continuation** of the previous
+passage — takes the same target line as the line before it; several consecutive citing-book
+lines pointing at one target line is expected, not a bug. Continuity is a **semantic**
+judgment, not a closed word list: any opening that signals "still on the previous subject"
+(connective / resumptive / elaborative phrasing) counts, whether or not it matches a familiar
+label. Common examples include "שם", "והנה", "ונלע"ד", "אמנם", "עוד שם", "עוד כתב", "שוב כתב",
+"בא"ד", "ועוד", "וכן" — but an unfamiliar equivalent that clearly continues the prior line is
+the same rule. Confirm by checking whether the line actually introduces a **new** citation or
+subject before treating it as a continuation. Critically, "the same target line as the line
+before it" means the same **book**, not just the same line number: if the previous line was
+itself a super-commentary entry onto Rashi/Tosafot (i.e. its `path_2` was that book), any
+such continuation — whether it opens with
+"בד"ה" or with any other connective that names no new subject — inherits that same
+Rashi/Tosafot target, not the Gemara. See "Continuation lines within a super-commentary run"
+below for the full rule.
+
+For an explicit cross-reference outside the current section, keep the current-section window
+as the default and broaden the search only when the citing wording actually names or clearly
+signals the other location. Record that decision for QA. Never turn a failed in-section match
+into an unrestricted whole-book search automatically: a generic short dibbur will often find a
+plausible but unrelated occurrence elsewhere.
+
+**Ordering for display:** When multiple citing-book lines target the same target line and book
+(`line_index_2` + `path_2` identical), **keep them consecutive in the JSON file** (one right
+after another). The app's display layer groups consecutive links by target book via the
+`groupConsecutiveLinks()` function; if links targeting the same passage are scattered across
+the JSON with unrelated targets between them, they may display as separate groups instead of
+being unified. Maintaining physical order in the JSON file ensures the panel shows all related
+links as a single coherent group.
+
+**Super-commentary lines (רש"י / תוס' ד"ה …).** When a citing line **opens** by naming an
+intermediate commentary plus ד"ה — e.g. `רש"י ד"ה אפילו`, `ברש"י ד"ה …`, `תוס' ד"ה …`,
+`תוספות בד"ה …` — that line is interpreting **that commentary's own lemma**, not the Gemara
+directly. For those lines:
+
+1. Resolve `path_2` to the Rashi or Tosafot book for this masechet (not the Gemara `.txt`) —
+   spelled as that book's **exact DB title, gershayim included**: `רש"י על שבת.txt`,
+   `רשב"ם על בבא בתרא.txt`, `תוספות על בבא בתרא.txt`. Never the de-gershayim'd filename form
+   (`רשי על שבת.txt`) — that matches no book and the entry is dropped silently (criterion 2).
+   The exact-title query, not the filename and not the book's source, decides how each of these
+   is spelled; run it on every one before shipping.
+2. Set `line_index_2` / `heRef_2` / `ref_2` to the specific line **in that book** whose
+   opening/dibbur matches the lemma after ד"ה (e.g. the Rashi line that starts with `אפילו`).
+   `ref_2` here is the intermediate book's own Sefaria ref — `"Rashi on Shabbat 6a:13:1"`,
+   `"Tosafot on Bava Batra 29a:16:1"` — not the Gemara's, and it is required (criterion 2).
+3. Keep `"Conection Type": "source"` — same as every other entry in the file. The
+   super-commentary relation is carried by `path_2` pointing at the intermediate book, not
+   by the type string; the entry stores as `רש"י על שבת → <your מפרש>`. Writing
+   `super_commentary` here stores the pair backwards (see the direction rule above).
+
+Do **not** point such lines' `path_2` at the Gemara even if the sugya is related.
+
+**Continuation lines within a super-commentary run (critical).** When the citing book is in
+the middle of discussing an intermediate commentary (רש"י/תוס'/etc.) — i.e. the immediately
+preceding line(s) point their `path_2` at that book — the run does not end just because a
+later line drops the explicit `ד"ה` / commentator name. **Any** line that continues the
+previous passage (no new subject named) stays inside the same intermediate book. This is the
+**same** continuation rule as ordinary target-line inheritance above, applied to book as well
+as line — not a special case limited to the word `בד"ה`.
+
+Shapes that all stay in the intermediate book (illustrative, not exhaustive):
+
+1. **Explicit lemma continuation:** opens with `<b>בד"ה</b>` / `בד"ה …`.
+2. **Any other connective / resumptive opening** that links to the prior line and does not
+   name a new subject (Gemara passage, different sefer, different commentator, etc.) —
+   e.g. "שם", "והנה", "ונלע"ד", "אמנם", "עוד שם", "עוד כתב", "שוב כתב", "ועוד כתב", "בא"ד",
+   "וע"ע מש"כ" when it isn't a fresh citation, or any equivalent phrasing that clearly means
+   "still elaborating on what was just said."
+
+In all such cases: treat it like the explicit `ד"ה` case (`path_2` into that book; inherit
+which one from the nearest prior explicit `בתוס'/ברש"י ד"ה` or prior intermediate `path_2`),
+resetting only on a primary-text label like `<b>גמרא</b>` /
+`<b>במשנה</b>`, a line that explicitly names a different commentary, or a new section heading.
+The trap is treating "no `ד"ה` / no commentator name" as if it meant "back to the Gemara" —
+it doesn't; a bare continuation after a Rashi/Tosafot run almost always still means
+"[Rashi/Tosafot] wrote further," not "the Gemara says further." Do **not** require the line
+to match a fixed trigger list — judge continuity from the wording. A late fix that converts
+only explicit intermediate+ד"ה and leaves other continuations pointed at the primary text is
+incomplete (this is exactly how ~169 lines were mislinked in a past שפת אמת run). Only if the
+work never attributes to intermediate commentaries at all should such openings be read as
+ordinary primary-text continuations.
+
+A single `_links.json` may therefore mix entries whose `path_2` is the Gemara with entries
+whose `path_2` is Rashi/Tosafot — all of them `"Conection Type": "source"`. When merging
+(criterion 5), the replacement key is therefore effectively `path_2` alone. If the user
+asked only to link onto the Gemara, still do not mis-target these attribution lines — either
+produce the correct intermediate-`path_2` entries (and say so in the report) or leave them out
+of the Gemara replacement set and flag them explicitly as needing a separate Rashi/Tosafot
+pass. After any super-commentary pass, run the QA skill's full F8+F9 scan
+(`.claude/skills/otzaria-commentary-linker-qa`) before calling the work done.
+
+**Pitfalls in extracting the anchor phrase.** These come from debugging a related
+automated matching tool, but the same failure modes apply to manual/semantic matching too —
+worth checking yourself against every time:
+
+- Don't let leftover label fragments pollute the phrase you're comparing. If a line reads
+  `<b>שם</b> ר"א אומר...` or opens with `בגמ'` before the real quote, strip those label words
+  out before judging what the line is citing. Matching against "שם ר"א אומר" instead of the
+  clean "ר"א אומר" dilutes the comparison and can make you drift away from the correct target
+  line — sometimes landing on an unrelated line on a nearby page that happens to share a few
+  surface letters with the polluted phrase.
+- Don't detect structural boundaries (Mishnah vs. Gemara, or any other section split) by loose
+  substring search. Searching for "גמ" to find where "גמרא" starts will also match inside
+  unrelated words like "גמליאל" and can close a section early by mistake. Rely on the explicit
+  `<h1>`/`<h2>`/`<b>` tags for structure, never on searching for fragments of Hebrew letters
+  inside running text.
+- Watch for lines that open with an attribution abbreviation before the real quote — e.g.
+  `אר"ה כו'` (= אמר רב הונא וכו') — where the actual content you need to match only starts
+  after the abbreviation. This doesn't have a clean automatic rule: when you hit one, read past
+  the abbreviation for the real quote rather than matching on the opening fragment, and if it's
+  still genuinely unclear which target line it points to, that's exactly the kind of line to
+  name explicitly in your report (criterion 7) rather than resolve silently.
+
+**Resolving the connection type and reverse-direction requests** — see criterion 4 above;
+that's the complete decision procedure, not just a description of the output.
+
+**Merging into an existing links file** — see criterion 5. Compute the stale subset first,
+present it to the user in your reply (not buried in a tool call), and only write the merged
+file after they confirm. Treat "looks right, go ahead" as confirmation; don't require a
+formal sign-off format.

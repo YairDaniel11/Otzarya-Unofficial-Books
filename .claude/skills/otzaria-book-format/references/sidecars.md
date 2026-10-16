@@ -56,7 +56,7 @@
 `elucidation`, `explication`, `footnotes`.
 
 **הפניות** (פאנל הקישורים): `reference`, `quotation`, `mesorat hashas`, `ein mishpat`,
-`mishnah in talmud`, `related`, `allusion`, `liturgy`, `law`, `summary`, `sifrei mitsvot`,
+`mishnah in talmud`, `related`, `allusion`, `liturgy`, `law`, `summary`, `sifrei mitzvot`,
 `essay`, `linker`, `other`.
 
 - ערך לא מוכר או ריק → `OTHER` (במסלול אוצריא, בלי הסקה).
@@ -152,6 +152,11 @@
 - ולידציה: `line` מחוץ לטווח או שורה כפולה תחת אותו הורה → הצומת מושמט (וילדיו איתו).
 - **הקובץ אוטוריטטיבי:** הסרת `key` מוחקת את המבנה; מחיקת הקובץ מוחקת את כל מבני הספר.
 - קובץ שמכוון לספר ספריא — מדולג באזהרה.
+- **לפני שיוצרים קובץ:** `Seifim`, שמות סימנים ופרקים למפרשים מתאימים עשויים להיווצר אוטומטית
+  בבניית ה־DB (`synthesizeSeifimAltToc`, `synthesizeSimanNamesAltToc`, `inheritChaptersAltToc`);
+  הזכאות תלויה בנתוני הספר והקישורים, כמפורט ב[מדריך הקישורים והכותרות](../../../../docs/קישורים-וכותרות.md#6-קישורי-כותרות--עליות).
+  מבנה חלופי קיים מונע ירושת `Chapters`. צרו קובץ רק אם נדרש מבנה ידני או תיקון למבנה האוטומטי.
+- `key: "Topic"` מוצג גם בגוף הספר (כותרת מוזרקת כשאינה כתובה בשורה); כל מפתח אחר רק בלשונית "כותרות".
 
 ## 5. `_headings.json` — כותרות ל-PDF מקביל
 

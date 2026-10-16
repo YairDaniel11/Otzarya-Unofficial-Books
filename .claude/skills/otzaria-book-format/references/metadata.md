@@ -17,13 +17,13 @@
 |---|---|
 | `all_metadata_with_file_paths.json` | הקנוני ב-repo — כל הרשומות + נתיב הקובץ בפועל; משמש את ה-CI. |
 | `all_metadata.json` (שורש) | אותו תוכן בלי נתיבי קבצים. |
-| `ForDB/all_metadata.json` | העותק שנצרך בבנייה (`SeedAllMetadataPostProcess`). |
+| `ForDB/all_metadata.json` | העותק שנצרך בבנייה (`SeedAllMetadataPostProcess`) — **רק** `pubDate` / `pubPlaceStringHe`; אין בו שדות תיאור. |
 | `ForDB/book_renames.csv` | `שם ישן,שם חדש` — שינוי שם ספר. |
 | `ForDB/book_moves.csv` | `name,Source path,Destination path` — **רק לספרי ספריא**. |
 | `ForDB/category_renames.csv` | `שם ישן,שם חדש` לקטגוריות. |
 | `ForDB/category_moves.csv` | `Source path,Destination parent path`. |
-| `ForDB/generations.csv` | `שם ספר,קבוצת דור`. |
-| `ForDB/sefaria_metadata_changes.csv` | דריסת תיאור/מחבר של ספר ספריא. |
+| `ForDB/book_info.csv` | `bookName,authorName,generationName,subGenerationName,startYear,endYear`. |
+| `ForDB/sefaria_metadata_changes.csv` | **הדרך היחידה של תיאור ספר ל־DB — לכל ספר**, גם ממקורות אוצריא (למרות השם). ר' "תיאור הספר" בסעיף 2. |
 | `ForDB/sefaria_category_changes.csv` | דריסת תיאורי קטגוריות של ספריא. |
 | `SourcesBooks.csv` | אינוונטר: `שם הקובץ,נתיב הקובץ,תיקיית המקור,מספר שורות`. |
 | `<Source>/otzaria_metadata.json` | מטא-דאטה מקומית למקור (למשל `National-LibraryToOtzaria`). |
@@ -37,7 +37,7 @@
 | `title` | **מפתח ההתאמה** — שם הספר. |
 | `enTitle`, `original_title` | שם אנגלי / שם המקור בייצוא. |
 | `authors`, `heAuthors` | מערכי מחברים. |
-| `heDesc`, `heShortDesc`, `heDescNew` | תיאור מלא/קצר; `heDescNew` = נוסח מעודכן. |
+| `heDesc`, `heShortDesc`, `heDescNew` | תיאור מלא/קצר — **לא לכתוב כאן**: הבנייה לא קוראת תיאור מקובץ זה. תיאור נכתב ב־`ForDB/sefaria_metadata_changes.csv` (ר' למטה). |
 | `enDesc`, `enShortDesc` | מקבילים באנגלית. |
 | `categories`, `heCategories` | שרשרת קטגוריות מהמקור (אינה מחליפה את נתיב התיקייה). |
 | `era`, `heEra` | תקופה — תנאים/אמוראים/גאונים/ראשונים/אחרונים/מחברי זמננו (מיפוי `era_dict` בסקריפט ספריא). |
@@ -50,6 +50,46 @@
 | `language` | לרוב `he`. |
 | `order` | סדר בתוך הקטגוריה; ריק → 999. |
 | `Sourcefolder` | תיקיית המקור (`sefaria`, `Dicta`, `MoreBooks`…). |
+
+### תיאור הספר — רק ב־`ForDB/sefaria_metadata_changes.csv`
+
+**לא** ב־`metadata.json` שבשורש ולא ב־`all_metadata.json` / `ForDB/all_metadata.json`. המחולל
+(SeforimLibrary) קורא את `metadata.json` דרך המחלקה `BookMetadata`, שאין בה שדה `heDesc` —
+`heDesc` שנכתב שם נזרק בשקט ולא מגיע ל־`seforim.db` (`heShortDesc` שם אמנם עובד, אבל שומרים
+מקור אמת אחד). ב־`ForDB/all_metadata.json` אין שדות תיאור בכלל (הוא מזין רק `pubDate` /
+`pubPlaceStringHe`). הדרך היחידה של תיאור ל־DB — **לכל הספרים**, גם ממקורות אוצריא למרות שם
+הקובץ — היא `ForDB/sefaria_metadata_changes.csv`, שנצרך ב־`SeedAllMetadataPostProcess.kt`.
+
+- **עמודות** (שורת כותרת): `categoryPath,title,author,heShortDesc,heDesc,heDescNew`. הצרכן
+  קורא **לפי מיקום**: עמודה 2 `title` (מפתח ההתאמה), עמודה 4 `heShortDesc` → `book.heShortDesc`
+  (בדיאלוג פרטי הספר), עמודה 6 `heDescNew` → `book.heDesc` (התיאור הארוך, בטולטיפ של
+  הספרייה). עמודה 5 `heDesc` = הטקסט המקורי של ספריא, לעיון בלבד — **ריקה** בספרים שלנו.
+  `categoryPath` ו־`author` אינפורמטיביות (לא נקראות) — ממלאים אותן לקורא האנושי: נתיב
+  הקטגוריה (נתיב התיקייה תחת `אוצריא/`) והמחבר.
+- **`title` = שם הספר בדיוק כפי שיהיה ב־`seforim.db`**: שם קובץ ה־`.txt` בלי סיומת, אחרי
+  `normalizeHebrewLabel` של המחולל: trim; `“ ”` → `"`, `‘ ’` → `'`; ואז `"` → `״` (U+05F4),
+  `''` → `״`, `׳׳` → `״`, backtick → `׳` (U+05F3); כיווץ רווחים. גרש ASCII בודד `'` **לא**
+  מומר. מעבר לזה — בלי ניקוי. אי־התאמה אינה שגיאה: השורה פשוט לא מתאימה לשום ספר, בשקט
+  (WARN בבנייה בלבד). שני ספרים באותו שם ב־DB — השורה מדולגת.
+- **שורה אחת לכל שם** (שם כפול — השורה האחרונה גוברת). תא ריק = "השאר את הערך הקיים" — אי
+  אפשר לרוקן שדה דרך ה־CSV.
+- **פורמט:** UTF-8 בלי BOM, סופי שורה LF, **כל** שדה במירכאות (`csv.QUOTE_ALL`). עורכים רק
+  ב־`csv` של Python — לא ביד ולא ב־`sed`; כתיבה מחדש כזו עושה round-trip זהה בית־בבית:
+
+  ```python
+  import csv
+  p = 'ForDB/sefaria_metadata_changes.csv'
+  with open(p, encoding='utf-8', newline='') as f:
+      rows = list(csv.reader(f))
+  # עדכון/הוספה: [categoryPath, title, author, heShortDesc, '', heDescNew]
+  with open(p, 'w', encoding='utf-8', newline='') as f:
+      csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator='\n').writerows(rows)
+  ```
+
+  `make_metadata.py --he-short-desc … --he-desc … --desc-csv ForDB/sefaria_metadata_changes.csv`
+  עושה בדיוק את זה (ולא כותב תיאור לרשומת ה־JSON).
+- הוולידטור (`.github/scripts/validate_fordb_book_names.py`) בודק את עמודת `title` מול הספרייה
+  הארוזה — קובץ הספר חייב להתקיים תחת שורש נארז (`BOOK_ROOTS`).
 
 ## 3. השם — הכלל שקובע הכול
 
@@ -93,7 +133,7 @@ filename.strip()
 
 ## 5. דורות
 
-`ForDB/generations.csv` = `שם ספר,קבוצת דור` (ראשונים/אחרונים/…). משמש לסינון ותצוגה
+`ForDB/book_info.csv` = `bookName,authorName,generationName,subGenerationName,startYear,endYear` (ראשונים/אחרונים/…). משמש לסינון ותצוגה
 (`lib/data/cache/generation_cache.dart`). השם חייב להתאים **בדיוק** לשם הספר במאגר,
 אחרת השורה יתומה וה-CI מסיר/מפיל אותה.
 
@@ -103,7 +143,7 @@ filename.strip()
 
 | בעיה | מה קורה |
 |---|---|
-| שם ב-`generations.csv` / `book_moves.csv` שאינו קיים | שורה יתומה → מוסרת ב-`--fix`. |
+| שם ב-`book_info.csv` / `book_moves.csv` שאינו קיים | שורה יתומה → מוסרת ב-`--fix`. |
 | **דליפת מקור**: רשומת ספר ספריא עם `Sourcefolder` שאינו `sefaria` | שלב ה-seed דורס את `book.sourceId`, ו"אודות הספר" מציג מקור שגוי. |
 | שני קבצים באותו שם מנוקה | התנגשות `title` — שגיאה. |
 | `book_renames.csv` שהמקור שלו לא קיים | שינוי-שם יתום. |
@@ -129,3 +169,9 @@ python .github/scripts/validate_fordb_book_names.py --fix    # רק תיקוני
 ממקור חדש — ודאו שהרישיון מתועד ב-`README.md` של הספרייה.
 
 </div>
+
+### רישום מידע קנוני
+
+`book_info.csv` מכיל שש עמודות ושורה לכל `(bookName,authorName)`. סדר קנוני: שם ספר ואז מחבר; LF וכל שדה נתון מצוטט. דורות נתמכים: תורה שבכתב, חז"ל, ראשונים, אחרונים, מחברי זמננו. שדות לא ידועים ריקים. אין להשתמש בשנות הדפוס בתור שנות חיי המחבר.
+
+`make_metadata.py --title "שם" --author "מחבר" --generation אחרונים --book-info-csv /path/ForDB/book_info.csv` מוסיף רק זהויות חסרות ומשמר כל מחבר, דור ושנים קיימים. `--sub-generation`, `--start-year`, `--end-year` מיועדים לערכים ידועים. קובץ הדורות הישן הוסר; אין ליצור אותו מחדש.

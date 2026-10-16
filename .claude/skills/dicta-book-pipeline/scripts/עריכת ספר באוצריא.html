@@ -1,0 +1,1323 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>עורך הספרים לאוצריא</title>
+  <link rel="icon" href="data:image/png;base64,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">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      font-family: 'Segoe UI', "David Libre", Arial, Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f2f2f2;
+      line-height: 1.6;
+    }
+    .top-bar {
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0;
+      min-height: 50px;
+      background: linear-gradient(135deg, #1976d2, #36a2f9);
+      color: #fff;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+      z-index: 9999;
+      padding: 8px;
+      transition: all 0.3s ease;
+    }
+    .top-bar-middle {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: 12px;
+      margin-right: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+      flex: 1;
+    }
+    .top-bar-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: 12px;
+      margin-right: 8px;
+    }
+    .top-bar-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-right: 12px;
+      margin-left: 8px;
+      flex-shrink: 0;
+    } 
+    button,
+    .file-label {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 16px;
+      padding: 6px 12px;
+      background: linear-gradient(135deg, #1976d2, #5bb3fc);
+      color: #fff;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: filter 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+      text-decoration: none;
+      box-shadow:
+        0 2px 5px rgba(0, 0, 0, 0.2),
+        0 1px 1px rgba(0, 0, 0, 0.1);
+    }
+    button:hover,
+    .file-label:hover {
+      filter: brightness(0.9);
+      transform: translateY(-2px);
+      box-shadow: 
+        0 6px 12px rgba(0, 0, 0, 0.25),
+        0 3px 4px rgba(0, 0, 0, 0.15); 
+    }
+    button:active,
+    .file-label:active {
+      filter: brightness(0.8);
+      transform: translateY(0);
+      box-shadow: 
+        0 3px 6px rgba(0, 0, 0, 0.2),
+        0 1px 2px rgba(0, 0, 0, 0.1);
+    }
+    button:disabled,
+    .file-label:disabled {
+      filter: brightness(0.7);
+      cursor: not-allowed;
+      box-shadow: none;
+      pointer-events: none;
+    }
+    #fileNameSpan {
+      max-width: 13vw;
+      overflow-wrap: break-word;
+      word-break: keep-all;
+      hyphens: none;
+      font-size: 0.7rem;
+      line-height: 1.1;
+      display: inline-block;
+      white-space: normal;
+      text-align: right; /* יישור לימין */
+      direction: rtl; 
+    }
+    #fontSettingsModal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1000;
+    }
+    #fontSettingsModal .modal-overlay {
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #fontSettingsModal .modal {
+      background: linear-gradient(135deg, #ffffff, #f8f9fa);
+      padding: 30px;
+      border-radius: 20px;
+      width: 400px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      border: 2px solid #e3f2fd;
+    }
+    #fontSettingsModal label,
+    #fontSettingsModal h3 {
+      color: #1976d2;
+      margin: 0 0 10px 0;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    #fontSettingsModal label {
+      display: block;
+      margin: 10px 0 4px 0;
+      font-weight: bold;
+      color: #333;
+      font-size: 1rem;
+    }
+    #fontSettingsModal select,
+    #fontSettingsModal input {
+      width: 100%;
+      padding: 10px;
+      margin: 3px 0 3px 0;
+      border: 2px solid #e0e0e0;
+      border-radius: 10px;
+      font-size: 1rem;
+      transition: border-color 0.3s ease;
+    }
+    #fontSettingsModal select:focus,
+    #fontSettingsModal input:focus {
+      outline: none;
+      border-color: #1976d2;
+      box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
+    }
+    .modal-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 25px;
+    }
+    .modal-buttons button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 15px;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    .modal-buttons button:first-child {
+      background: linear-gradient(135deg, #4caf50, #7ce081);
+      color: white;
+    }
+    .modal-buttons button:last-child {
+      background: linear-gradient(135deg, #f44336, #ee8f8d);
+      color: white;
+    }
+    .indefinite-button {
+      background: linear-gradient(135deg, #4dabf2, #a3cce7);
+    }
+    #fontSizeRange {
+      appearance: none;
+      width: 100%;
+      height: 4px;
+      margin: 2px 0 6px 0;
+      background: transparent; /* נשאר שקוף – כי נגדיר את הפס בעצמנו */
+      border: none;
+      outline: none;
+    }
+    /* פס ההחלקה (Chrome) */
+    #fontSizeRange::-webkit-slider-runnable-track {
+      height: 4px;
+      background: #ccc;
+      border-radius: 2px;
+    }
+    /* עיגול שנגרר (Chrome) */
+    #fontSizeRange::-webkit-slider-thumb {
+      appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #1976d2;
+      cursor: pointer;
+      margin-top: -5px; /* יישור לגובה הפס */
+      border: none;
+    }
+    #fontSizeDisplay {
+      display: inline-block;
+      background: #e3f2fd;
+      padding: 5px 15px;
+      border-radius: 15px;
+      font-weight: bold;
+      color: #1976d2;
+      margin: 1px 0 10px 0;
+    }
+    #viewModeToggle {
+      white-space: pre-line;
+      margin-left: 20px;
+      line-height: 1.2;
+      text-align: center;
+    }
+    .disabled-button {
+      opacity: 0.5;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+    .hidden {
+      display: none;
+    }
+    .save-button {
+      background: linear-gradient(135deg, #388e3c, #73d576);
+    }
+    .refresh-button {
+      background: linear-gradient(135deg, #5d4037, #d38e75);
+    }
+    .file-name-display {
+      font-weight: bold;
+      color: #ffeb3b;
+      margin-left: 4px;
+    }
+    .side-panel {
+      position: absolute;
+      right: 0.8rem;
+      bottom: 2vh;
+      width: 19vw;
+      background: #fff;
+      box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.1);
+      overflow-y: auto;
+      padding: 0.8rem;
+      z-index: 10;
+      border: none;
+      border-radius: 8px;
+      margin-inline-end: 0.5rem;
+      margin-left: 12px;
+      color: black;
+    }
+    .side-panel::-webkit-scrollbar {
+      width: 8px;
+      direction: rtl;
+    }
+    .side-panel::-webkit-scrollbar-thumb {
+      background-color: #b6b4b4;
+      border-radius: 4px;
+      min-height: 35px;
+    }
+    .side-panel::-webkit-scrollbar-thumb:hover {
+      background-color: #555;
+    }
+    .side-panel h2 {
+      font-size: 1rem;
+      margin: 8px 0;
+    }
+    .outline-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    .outline-list li {
+      margin-bottom: 6px;
+      cursor: pointer;
+      color: #1976d2;
+      word-wrap: break-word;
+    }
+    .outline-list li:hover {
+      text-decoration: underline;
+    }
+    #resizer {
+      position: absolute;
+      bottom: 1rem;
+      width: 10px;
+      right: calc(20vw - 10px);
+      cursor: col-resize;
+      background: rgba(0, 0, 0, 0.1); /* רקע קל כדי לראות אותו */
+      background: transparent;
+      z-index: 9998;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #resizer::before {
+      content: "⋮";
+      font-size: 30px;
+      color: rgba(0, 0, 0, 0.6);
+      text-align: center;
+    }
+    .main-container {
+      position: absolute;
+      right: calc(20vw + 1.5rem);
+      left: 0.8rem;
+      z-index: 50;
+      bottom: 2vh;
+      overflow-y: auto;
+      background: #fff;
+      box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.1);
+      padding: 1rem;
+      border: none;
+      border-radius: 8px;
+      margin-right: 12px;
+    }
+    .main-container::-webkit-scrollbar {
+      width: 8px;
+      direction: rtl;
+    }
+    .main-container::-webkit-scrollbar-thumb {
+      background-color: #b6b4b4;
+      border-radius: 4px;
+      min-height: 35px;
+    }
+    .main-container::-webkit-scrollbar-thumb:hover {
+      background-color: #555;
+    }
+    #editor {
+      position: absolute;
+      outline: none;
+      cursor: text;
+      direction: rtl;
+      text-align: right;
+      white-space: pre-line;
+      display: block;
+      color: black;
+      font-size: clamp(16px, 2vw, 20px);
+      letter-spacing: 0.5px;
+    }
+    #editor h1, #editor h2, #editor h3, #editor h4, #editor h5, #editor h6 {
+      margin: 0;
+      padding: 0;
+    }
+    #editor p.line {
+      margin: 0;
+    }
+    .tooltip {
+      visibility: hidden;
+      background-color: rgba(0, 0, 0, 0.644);
+      color: #fff;
+      text-align: center;
+      border-radius: 5px;
+      padding: 5px;
+      position: absolute;
+      z-index: 99;
+      top: 160%;
+      left: 50%;
+      transform: translateX(-50%);
+      opacity: 0;
+      transition: opacity 0.9s;
+      font-size: 12px;
+    }
+    .tooltip-container {
+      position: relative;
+      display: inline-block;
+    }
+    .tooltip-container:hover .tooltip {
+      visibility: visible;
+      opacity: 1;
+    }
+    .outline-list li.active-heading {
+    background-color: #e3f2fd;
+    border: 1px solid #bbdefb;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 2px 0;
+    }
+    @media screen and (max-width: 768px) {
+      .top-bar {
+        flex-direction: column;
+        height: auto;
+        padding: 0.5px;
+        min-height: 20px;
+      }
+      .top-bar-middle {
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .side-panel {
+        position: absolute;
+        margin: 1px 0;
+        left: 1;
+        right: 1;
+      }
+      .main-container {
+        position: absolute;
+        margin: 1px 0;
+        left: 1;
+        right: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="top-bar">
+  <div class="top-bar-left">
+    <button class="file-label" id="openFileButton">פתח קובץ</button>
+    <span id="fileNameSpan" class="file-name-display"></span>
+  </div>
+  <div class="top-bar-middle">
+    <button id="viewModeToggle" onclick="toggleViewMode()">מצב עריכה</button>
+    <div class="tooltip-container">
+      <button onclick="toggleHeading(1)">H1</button>
+      <div class="tooltip">הגדרת כותרת רמה 1</div>
+    </div>
+    <div class="tooltip-container">
+      <button onclick="toggleHeading(2)">H2</button>
+      <div class="tooltip">הגדרת כותרת רמה 2</div>
+    </div>
+    <button onclick="toggleHeading(3)">H3</button>
+    <button onclick="toggleHeading(4)">H4</button>
+    <button onclick="toggleHeading(5)">H5</button>
+    <button onclick="toggleHeading(6)">H6</button>
+    <button onclick="toggleBold()">הדגש</button>
+    <button onclick="toggleItalic()">נטוי</button>
+    <button onclick="toggleBig()">גדול</button>
+    <button onclick="toggleSmall()">קטן</button>
+  </div>
+  <div class="top-bar-right">
+    <div class="tooltip-container">
+      <button onclick="openFontSettings()">הגדרות</button>
+      <div class="tooltip">בחירת גופן וגודל</div>
+    </div>
+    <div class="tooltip-container">
+      <button class="refresh-button" id="reloadFileButton">טען מחדש</button>
+      <div class="tooltip">טען מחדש את התוכן מהקובץ</div>
+    </div>
+    <div class="tooltip-container">
+      <button class="save-button" onclick="saveFile()">שמירה</button>
+      <div class="tooltip">שומר עותק באותו שם בתיקיית ההורדות</div>
+    </div>
+  </div>
+</div>
+
+<div class="side-panel" id="sidePanel">
+  <h2>כותרות במסמך</h2>
+  <ul class="outline-list" id="outlineList"></ul>
+</div>
+
+<div id="resizer"></div>
+
+<div class="main-container" id="mainContainer">
+  <div class="editor-container">
+    <div
+      id="editor"
+      contenteditable="true"
+      onkeydown="handleEnter(event)"
+    >
+      טען קובץ, והתחל לערוך אותו!!!
+    </div>
+  </div>
+</div>
+
+<script>
+let lastSelectedFont = localStorage.getItem('lastSelectedFont') || 'Arial';
+let lastSelectedFontSize = localStorage.getItem('lastSelectedFontSize') || 16;
+let defaultOpenDirectory = localStorage.getItem('defaultOpenDirectory') || null;
+let defaultSaveDirectory = localStorage.getItem('defaultSaveDirectory') || null;
+let activeHeading = null;
+
+function openFontSettings() {
+  // הסרת חלון קיים אם כבר פתוח
+  const existingModal = document.getElementById('fontSettingsModal');
+  if (existingModal) {
+      existingModal.remove();
+  }  
+  const modal = document.createElement('div');
+  modal.id = 'fontSettingsModal';
+  modal.innerHTML = `
+      <div class="modal-overlay">
+          <div class="modal">
+              <h3>הגדרות</h3>
+              <label>גופן:</label>
+              <select id="fontFamilySelect">
+                  ${getSystemFonts().map(font => `
+                      <option value="${font}" ${font === lastSelectedFont ? 'selected' : ''}>
+                          ${font}
+                      </option>
+                  `).join('')}
+              </select>
+              <label>גודל גופן:</label>
+              <input
+                  type="range"
+                  id="fontSizeRange"
+                  min="6"
+                  max="72"
+                  value="${lastSelectedFontSize}"
+              >
+              <span id="fontSizeDisplay">${lastSelectedFontSize}</span>
+              <label>תיקיית ברירת מחדל לפתיחה:</label>
+              <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin-bottom: 10px;">
+                  <button class="indefinite-button" onclick="setSystemDirectory('downloads', 'הורדות')" style="padding: 8px 12px;">הורדות</button>
+                  <button class="indefinite-button" onclick="setSystemDirectory('desktop', 'שולחן העבודה')" style="padding: 8px 12px;">שולחן העבודה</button>
+                  <button class="indefinite-button" onclick="setSystemDirectory('documents', 'מסמכים')" style="padding: 8px 12px;">מסמכים</button>
+              </div>
+              <div style="display: flex; gap: 10px; align-items: center;">
+                  <input type="text" id="openDirectoryDisplay" readonly value="${defaultOpenDirectory || 'לא נבחרה'}" style="flex: 1;">
+                  <button type="button" onclick="selectOpenDirectory()" style="padding: 8px 12px;">בחר תיקייה אחרת</button>
+              </div>
+              <label>תיקיית השמירה:</label>
+              <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin-bottom: 10px;">
+                    <button class="indefinite-button" onclick="setSystemSaveDirectory('downloads', 'הורדות')" style="padding: 8px 12px;">הורדות</button>
+                    <button class="indefinite-button" onclick="setSystemSaveDirectory('desktop', 'שולחן העבודה')" style="padding: 8px 12px;">שולחן העבודה</button>
+                    <button class="indefinite-button" onclick="setSystemSaveDirectory('documents', 'מסמכים')" style="padding: 8px 12px;">מסמכים</button>
+              </div>
+              <div style="display: flex; gap: 10px; align-items: center;">
+                  <input type="text" id="saveDirectoryDisplay" readonly value="${defaultSaveDirectory || 'הורדות'}" style="flex: 1;">
+                  <button type="button" onclick="selectSaveDirectory()" style="padding: 8px 12px;">בחר תיקייה אחרת</button>
+              </div>
+              <div class="modal-buttons">
+                  <button onclick="applyFontSettings()">אישור</button>
+                  <button onclick="closeFontSettings()">ביטול</button>
+              </div>
+          </div>
+      </div>
+  `;
+  document.body.appendChild(modal);
+  modal.querySelector('.modal-overlay').addEventListener('click', function(e) {
+      if (e.target === this) {
+          closeFontSettings();
+      }
+  });
+  document.getElementById('fontSizeRange').addEventListener('input', function() {
+      document.getElementById('fontSizeDisplay').textContent = this.value;
+  });
+}
+
+async function selectOpenDirectory() {
+    try {
+        const dirHandle = await window.showDirectoryPicker();
+        defaultOpenDirectory = dirHandle.name;
+        localStorage.setItem('defaultOpenDirectory', defaultOpenDirectory);
+        document.getElementById('openDirectoryDisplay').value = defaultOpenDirectory;
+        await storeDirectoryHandle(dirHandle, 'defaultOpenDir');
+    } catch (error) {
+        console.error('Error selecting directory:', error);
+    }
+}
+
+async function selectSaveDirectory() {
+    try {
+        const dirHandle = await window.showDirectoryPicker();
+        defaultSaveDirectory = dirHandle.name;
+        localStorage.setItem('defaultSaveDirectory', defaultSaveDirectory);
+        document.getElementById('saveDirectoryDisplay').value = defaultSaveDirectory;
+        await storeDirectoryHandle(dirHandle, 'defaultSaveDir');
+    } catch (error) {
+        console.error('Error selecting directory:', error);
+    }
+}
+
+function setSystemDirectory(systemDir, displayName) {
+    defaultOpenDirectory = systemDir;
+    localStorage.setItem('defaultOpenDirectory', systemDir);
+    document.getElementById('openDirectoryDisplay').value = displayName;
+    // נמחק את ה-handle השמור אם קיים
+    localStorage.removeItem('defaultOpenDirectoryHandle');
+}
+
+function getSystemFonts() {
+    return [
+        'Arial', 'Segoe UI', 'Helvetica', 'Times New Roman', 'Courier', 'Verdana',
+        'Georgia', 'Palatino', 'Garamond', 'Bookman', 'Comic Sans MS', 'Geneva', 'sans-serif',
+        'Trebuchet MS', 'Arial Black', 'Impact', 'David', 'Miriam', 'David Libre', 'Tahoma',
+        'Narkisim', 'Hadassa'
+    ];
+}
+
+function applyFontSettings() {
+    const fontFamily = document.getElementById('fontFamilySelect').value;
+    const fontSize = document.getElementById('fontSizeRange').value;
+    localStorage.setItem('lastSelectedFont', fontFamily);
+    localStorage.setItem('lastSelectedFontSize', fontSize);
+    lastSelectedFont = fontFamily;
+    lastSelectedFontSize = fontSize;
+    const editor = document.getElementById('editor');
+    editor.style.fontFamily = fontFamily;
+    editor.style.fontSize = fontSize + 'px';
+    closeFontSettings();
+}
+
+window.addEventListener("load", () => {
+    const editor = document.getElementById('editor');
+    editor.style.fontFamily = lastSelectedFont;
+    editor.style.fontSize = `${lastSelectedFontSize}px`;
+    updateResizerPosition();
+    updatePanelsPosition();
+    // אתחול מצב תצוגה בלבד
+    toggleViewMode();
+});
+
+function closeFontSettings() {
+    const modal = document.getElementById('fontSettingsModal');
+    if (modal) {
+        modal.remove();
+    }
+}
+
+function setSystemSaveDirectory(systemDir, displayName) {
+    defaultSaveDirectory = systemDir;
+    localStorage.setItem('defaultSaveDirectory', systemDir);
+    document.getElementById('saveDirectoryDisplay').value = displayName;
+    // נמחק את ה-handle השמור אם קיים
+    localStorage.removeItem('defaultSaveDirectoryHandle');
+}
+
+const sidePanel = document.getElementById("sidePanel");
+const resizer = document.getElementById("resizer");
+const mainCont = document.getElementById("mainContainer");
+
+function updateResizerPosition() {
+  const sidePanelWidth = sidePanel.offsetWidth;
+  resizer.style.right = `calc(${sidePanelWidth}px + 16px)`;
+  mainCont.style.right = `calc(${sidePanelWidth}px + 18px)`;
+}
+
+let dragging = false;
+let startX = 0;
+let startWidth = 0;
+
+resizer.addEventListener("mousedown", function(e) {
+  e.preventDefault();
+  dragging = true;
+  startX = e.clientX;
+  startWidth = sidePanel.offsetWidth;
+  document.addEventListener("mousemove", mouseMoveHandler);
+  document.addEventListener("mouseup", mouseUpHandler);
+});
+
+function mouseMoveHandler(e) {
+  if (!dragging) return;
+  const dx = e.clientX - startX;
+  let newWidth = startWidth - dx;
+  if (newWidth < 160) newWidth = 160;
+  const maxPix = window.innerWidth * 0.4;
+  if (newWidth > maxPix) newWidth = maxPix;
+  sidePanel.style.width = `${newWidth}px`;
+  updateResizerPosition();
+}
+
+function mouseUpHandler(e) {
+  dragging = false;
+  document.removeEventListener("mousemove", mouseMoveHandler);
+  document.removeEventListener("mouseup", mouseUpHandler);
+}
+
+window.addEventListener("resize", () => {
+    updateResizerPosition();
+    updatePanelsPosition();
+});
+
+let fileHandle = null;
+let fileContentCache = "";
+
+function handleEnter(e) {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    const sel = window.getSelection();
+    if (!sel.rangeCount) return;
+    const range = sel.getRangeAt(0);
+    const newLine = document.createTextNode("\n");
+    range.deleteContents(); // הוספה למניעת בעיות
+    range.insertNode(newLine);
+    range.setStartAfter(newLine);
+    range.setEndAfter(newLine);
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }
+}
+
+function updateActiveHeading() {
+    const editor       = document.getElementById('editor');
+    const container    = document.getElementById('mainContainer');
+    const headings     = editor.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    const scrollTop    = container.scrollTop;
+    const containerHeight = container.clientHeight;
+    
+    let currentHeading = null;
+    
+    headings.forEach(heading => {
+        // const headingTop = heading.offsetTop;
+        // if (headingTop <= scrollTop + containerHeight / 2) {
+        // if (heading.offsetTop <= scrollTop + containerHeight / 2) {  זה מגדיר לפי אמצע הקטע שפתוח עכשיו
+        if (heading.offsetTop <= scrollTop + 1) {
+          if (!currentHeading || heading.offsetTop > currentHeading.offsetTop) {
+              currentHeading = heading;
+          }
+        }
+    });
+    
+    if (currentHeading !== activeHeading) {
+        activeHeading = currentHeading;
+        highlightActiveHeading();
+        scrollSidePanelToActive();
+    }
+}
+
+function highlightActiveHeading() {
+    const outlineItems = document.querySelectorAll('.outline-list li');
+    outlineItems.forEach(item => item.classList.remove('active-heading'));
+    
+    if (activeHeading) {
+        const headingText = activeHeading.textContent.trim();
+        outlineItems.forEach(item => {
+            if (item.textContent === headingText) {
+                item.classList.add('active-heading');
+            }
+        });
+    }
+}
+
+function scrollSidePanelToActive() {
+    const activeItem = document.querySelector('.outline-list li.active-heading');
+    if (activeItem) {
+        const sidePanel = document.getElementById('sidePanel');
+        const itemTop = activeItem.offsetTop;
+        const panelHeight = sidePanel.clientHeight;
+        const scrollTop = itemTop - panelHeight / 2;
+        sidePanel.scrollTo({ top: scrollTop, behavior: 'smooth' });
+    }
+}
+
+let isViewMode = false;
+
+function toggleViewMode() {
+  isViewMode = !isViewMode;
+  const toggleButton = document.getElementById('viewModeToggle');
+  const editor = document.getElementById('editor');
+  const editButtons = document.querySelectorAll('.top-bar-middle button:not(#viewModeToggle), button[onclick="saveFile()"]');
+
+  if (isViewMode) {
+    toggleButton.textContent = 'תצוגה בלבד';
+    editor.contentEditable = 'false';
+    editButtons.forEach(btn => btn.classList.add('disabled-button'));
+  } else {
+    toggleButton.textContent = 'מצב עריכה';
+    editor.contentEditable = 'true';
+    editButtons.forEach(btn => btn.classList.remove('disabled-button'));
+  }
+  // עדכון מיקום הפאנלים אחרי שינוי המצב
+  updatePanelsPosition();
+}
+
+function toggleBold()   { toggleSize('b');   updateOutline(); }
+function toggleItalic() { toggleSize('i');   updateOutline(); }
+function toggleBig()    { toggleSize('big'); updateOutline(); }
+function toggleSmall()  { toggleSize('small'); updateOutline(); }
+
+function toggleSize(tagRequested) {
+  const sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  removeSelectionSpaces(sel);
+  const range = sel.getRangeAt(0);
+  const parent = findWrappingTag(range);
+  if (!parent) {
+    wrapSelection(range, tagRequested);
+    updateOutline();
+    return;
+  }
+  const oldTag = parent.tagName.toLowerCase();
+  if (oldTag === tagRequested) {
+    if (selectionIsFullParent(range, parent)) {
+      unwrapNode(parent);
+    } else {
+      const newHtml = partialUnwrap(range, parent);
+      parent.outerHTML = newHtml;
+    }
+    updateOutline();
+    return;
+  }
+  if (selectionIsFullParent(range, parent)) {
+    parent.outerHTML = replaceTag(parent.outerHTML, oldTag, tagRequested);
+  } else {
+    const newHtml = handlePartialSplit(range, tagRequested, parent);
+    parent.outerHTML = newHtml;
+  }
+  updateOutline();
+}
+
+function wrapSelection(range, tagName) {
+  const selectedContents = range.extractContents();
+  const newElement = document.createElement(tagName);
+  newElement.appendChild(selectedContents);
+  range.insertNode(newElement);
+}
+
+function selectionIsFullParent(range, parent) {
+  const selectedText = range.toString();
+  const parentText   = parent.textContent;
+  return selectedText.trim() === parentText.trim();
+}
+
+function partialUnwrap(range, parent) {
+  const fullText    = parent.textContent;
+  const startOffset = getOffsetInParent(range, parent, true);
+  const endOffset   = getOffsetInParent(range, parent, false);
+  const oldTag = parent.tagName.toLowerCase();
+  if (startOffset === -1 || endOffset === -1) {
+    return escapeHtml(fullText);
+  }
+  const beforePart  = fullText.slice(0, startOffset);
+  const selected    = fullText.slice(startOffset, endOffset);
+  const afterPart   = fullText.slice(endOffset);
+  let resultHTML = "";
+  if (beforePart.trim()) {
+    resultHTML += `<${oldTag}>${escapeHtml(beforePart)}</${oldTag}>`;
+  }
+  resultHTML += escapeHtml(selected);
+  if (afterPart.trim()) {
+    resultHTML += `<${oldTag}>${escapeHtml(afterPart)}</${oldTag}>`;
+  }
+  return resultHTML;
+}
+
+function replaceTag(html, oldTag, newTag) {
+  const openRegex = new RegExp(`<${oldTag}(\\b[^>]*)>`, 'gi');
+  const closeRegex = new RegExp(`</${oldTag}>`, 'gi');
+  return html
+    .replace(openRegex, `<${newTag}$1>`)
+    .replace(closeRegex, `</${newTag}>`);
+}
+
+function handlePartialSplit(range, newTag, parent) {
+  const fullText = parent.textContent || "";
+  const startOffset = getOffsetInParent(range, parent, true);
+  const endOffset   = getOffsetInParent(range, parent, false);
+  if (startOffset === -1 || endOffset === -1) {
+    return `<${newTag}>${escapeHtml(range.toString())}</${newTag}>`;
+  }
+  const beforePart = fullText.slice(0, startOffset);
+  const selected   = fullText.slice(startOffset, endOffset);
+  const afterPart  = fullText.slice(endOffset);
+  const oldTag = parent.tagName.toLowerCase();
+  let resultHTML = "";
+  if (beforePart.trim().length) {
+    resultHTML += `<${oldTag}>${escapeHtml(beforePart)}</${oldTag}>`;
+  }
+  if (selected.trim().length) {
+    resultHTML += `<${newTag}>${escapeHtml(selected)}</${newTag}>`;
+  } else {
+    resultHTML += `<${newTag}></${newTag}>`;
+  }
+  if (afterPart.trim().length) {
+    resultHTML += `<${oldTag}>${escapeHtml(afterPart)}</${oldTag}>`;
+  }
+  return resultHTML;
+}
+
+function findWrappingTag(range) {
+  let node = range.commonAncestorContainer;
+  while (node && node !== document.body) {
+    if (node.nodeType === 1) {
+      const tag = node.tagName && node.tagName.toLowerCase();
+      if (['b','i','big','small'].includes(tag)) {
+        return node;
+      }
+    }
+    node = node.parentNode;
+  }
+  return null;
+}
+
+function unwrapNode(node) {
+  const parent = node.parentNode;
+  while (node.firstChild) {
+    parent.insertBefore(node.firstChild, node);
+  }
+  parent.removeChild(node);
+}
+
+function getOffsetInParent(range, parent, isStart) {
+  const walker = document.createTreeWalker(parent, NodeFilter.SHOW_TEXT, null);
+  let currentOffset = 0;
+  let found = -1;
+  while (walker.nextNode()) {
+    const textNode = walker.currentNode;
+    const textLen = textNode.nodeValue.length;
+    if (range[isStart ? 'startContainer' : 'endContainer'] === textNode) {
+      const offsetInNode = isStart ? range.startOffset : range.endOffset;
+      found = currentOffset + offsetInNode;
+      break;
+    }
+    currentOffset += textLen;
+  }
+  return found;
+}
+
+function escapeHtml(str) {
+  return str
+    .replace(/&/g,  '&amp;')
+    .replace(/</g,  '&lt;')
+    .replace(/>/g,  '&gt;')
+    .replace(/"/g,  '&quot;')
+    .replace(/'/g,  '&#39;');
+}
+
+function removeSelectionSpaces(sel) {
+  if (!sel.rangeCount) return;
+  const range = sel.getRangeAt(0);
+  trimSelectionStart(range, sel);
+  trimSelectionEnd(range, sel);
+}
+
+function trimSelectionStart(range, sel) {
+  const startNode = range.startContainer;
+  const offset = range.startOffset;
+  if (startNode.nodeType === Node.TEXT_NODE) {
+    const textVal = startNode.nodeValue;
+    let i = offset;
+    while (i < textVal.length && textVal[i] === " ") i++;
+    if (i > offset) {
+      range.setStart(startNode, i);
+      sel.removeAllRanges();
+      sel.addRange(range);
+    }
+  }
+}
+
+function trimSelectionEnd(range, sel) {
+  const endNode = range.endContainer;
+  let offset = range.endOffset;
+  if (endNode.nodeType === Node.TEXT_NODE) {
+    const textVal = endNode.nodeValue;
+    let i = offset - 1;
+    while (i >= 0 && textVal[i] === " ") i--;
+    const newEnd = i + 1;
+    if (newEnd < offset) {
+      range.setEnd(endNode, newEnd);
+      sel.removeAllRanges();
+      sel.addRange(range);
+    }
+  }
+}
+
+function toggleHeading(level) {
+  const sel = window.getSelection();
+  if (!sel.rangeCount) return;
+  let range = sel.getRangeAt(0);
+  let parentHeader = (range.commonAncestorContainer.nodeType === Node.ELEMENT_NODE
+    ? range.commonAncestorContainer.closest("h1, h2, h3, h4, h5, h6")
+    : null);
+  
+  let selectedText = range.toString();
+  let siblingElements = [];
+  
+  if (parentHeader) {
+    selectedText = parentHeader.innerText;
+    let nextSibling = parentHeader.nextElementSibling;
+    while (nextSibling &&
+      ['B', 'I', 'BIG', 'SMALL'].includes(nextSibling.tagName)) {
+      siblingElements.push(nextSibling.cloneNode(true));
+      nextSibling = nextSibling.nextElementSibling;
+    }
+    
+    // שמירת המיקום לפני המחיקה
+    const parentOfHeader = parentHeader.parentNode;
+    const nextSiblingOfHeader = parentHeader.nextSibling;
+    
+    // מחיקת הכותרת הישנה
+    parentHeader.remove();
+    
+    // יצירת כותרת חדשה
+    const headingElem = document.createElement(`h${level}`);
+    headingElem.innerText = selectedText;
+    
+    // הוספת הכותרת החדשה במיקום הנכון
+    if (nextSiblingOfHeader) {
+      parentOfHeader.insertBefore(headingElem, nextSiblingOfHeader);
+    } else {
+      parentOfHeader.appendChild(headingElem);
+    }
+    
+    // הוספת האלמנטים הנוספים
+    siblingElements.forEach(elem => {
+      if (headingElem.nextSibling) {
+        parentOfHeader.insertBefore(elem, headingElem.nextSibling);
+      } else {
+        parentOfHeader.appendChild(elem);
+      }
+    });
+    
+  } else {
+    range.deleteContents();
+    addNewlineBefore(range);
+    const headingElem = document.createElement(`h${level}`);
+    headingElem.innerText = selectedText;
+    range.insertNode(headingElem);
+    cleanUpUnwantedAncestors(headingElem, ['b', 'i', 'big', 'small']);
+  }
+  updateOutline();
+}
+
+function cleanUpUnwantedAncestors(node, tags) {
+  let parent = node.parentNode;
+  while (parent && parent !== document.body) {
+    if (tags.includes(parent.tagName.toLowerCase())) {
+      const grandparent = parent.parentNode;
+      while (parent.firstChild) {
+        grandparent.insertBefore(parent.firstChild, parent);
+      }
+      parent.remove();
+      parent = node.parentNode;
+    } else {
+      break;
+    }
+  }
+}
+
+function addNewlineBefore(range) {
+  const textNode = range.startContainer;
+  if (textNode && textNode.nodeType === 3) {
+    if (!textNode.nodeValue.endsWith("\n")) {
+      const newLine = document.createTextNode("\n");
+      range.insertNode(newLine);
+      range.setStartAfter(newLine);
+      range.setEndAfter(newLine);
+      const sel = window.getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+    }
+  } else {
+    const newLine = document.createTextNode("\n");
+    range.insertNode(newLine);
+    range.setStartAfter(newLine);
+    range.setEndAfter(newLine);
+    const sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }
+}
+
+function updateOutline() {
+  const editor = document.getElementById("editor");
+  const outlineList = document.getElementById("outlineList");
+  outlineList.innerHTML = "";
+  const headings = editor.querySelectorAll("h1, h2, h3, h4, h5, h6");
+  headings.forEach((heading) => {
+    const headingText = heading.textContent.trim() || heading.tagName + " ריקה";
+    const li = document.createElement("li");
+    li.textContent = headingText;
+    const level = parseInt(heading.tagName.substring(1), 10);
+    const indent = (level - 1) * 20;
+    li.style.marginRight = indent + "px";
+    li.onclick = () => {
+      const topBarHeight = document.querySelector('.top-bar').offsetHeight;
+      heading.scrollIntoView({ behavior: "smooth", block: "start" });
+      setTimeout(() => {
+        window.scrollBy(0, -topBarHeight - 10);
+      }, 100);
+    };
+    outlineList.appendChild(li);
+    setTimeout(updateActiveHeading, 100);
+  });
+}
+
+async function readFile() {
+  if (!fileHandle) return;
+  const file = await fileHandle.getFile();
+  const content = await file.text();
+  fileContentCache = content;
+  const wrappedContent = wrapLines(fileContentCache);
+  document.getElementById("editor").innerHTML = wrappedContent;
+  updateOutline();
+  // עדכון מיקום הפאנלים אחרי טעינת הקובץ
+  updatePanelsPosition();
+}
+
+function wrapLines(content) {
+  const lines = content.split(/\r?\n/);
+  return lines.map(line => {
+    if (line.trim().startsWith('<h') && line.trim().endsWith('>')) {
+      return line;
+    } else {
+      return `<p class="line">${line}</p>`; // הסרת escapeHtml
+    }
+  }).join('');
+}
+
+async function openDB() {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open("fileHandlesDB", 1);
+    request.onupgradeneeded = (event) => {
+      const db = event.target.result;
+      if (!db.objectStoreNames.contains("handles")) {
+        db.createObjectStore("handles");
+      }
+    };
+    request.onsuccess = (event) => resolve(event.target.result);
+    request.onerror = (event) => reject(event.target.error);
+  });
+}
+
+async function getStoredDirectoryHandle(key = "lastDirectory") {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction("handles", "readonly");
+        const store = transaction.objectStore("handles");
+        const request = store.get(key);
+        request.onsuccess = (event) => resolve(event.target.result);
+        request.onerror = (event) => reject(event.target.error);
+    });
+}
+
+async function storeDirectoryHandle(handle, key = "lastDirectory") {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+        const transaction = db.transaction("handles", "readwrite");
+        const store = transaction.objectStore("handles");
+        const request = store.put(handle, key);
+        request.onsuccess = () => resolve();
+        request.onerror = (event) => reject(event.target.error);
+    });
+}
+
+async function verifyPermission(handle) {
+  if (typeof handle.queryPermission === "function") {
+    const options = { mode: 'readwrite' };
+    let permission = await handle.queryPermission(options);
+    if (permission !== 'granted') {
+      permission = await handle.requestPermission(options);
+    }
+    return permission === 'granted';
+  }
+  return true;
+}
+
+// document.getElementById('editor').addEventListener('scroll', updateActiveHeading);
+document.getElementById('mainContainer').addEventListener('scroll', updateActiveHeading);
+
+document.getElementById("openFileButton").addEventListener("click", async () => {
+    try {
+        let startDirectory;
+        const savedDir = localStorage.getItem('defaultOpenDirectory');
+        if (['downloads', 'desktop', 'documents'].includes(savedDir)) {
+            startDirectory = savedDir;
+        } else {
+            startDirectory = await getStoredDirectoryHandle('defaultOpenDir');
+            if (!startDirectory || !(await verifyPermission(startDirectory))) {
+                startDirectory = 'downloads';
+            }
+        }
+        
+        [fileHandle] = await window.showOpenFilePicker({
+            startIn: startDirectory,
+            types: [{
+                description: 'Text Files',
+                accept: {
+                    'text/plain': ['.txt'],
+                    'text/html': ['.html', '.htm']
+                }
+            }]
+        });
+        
+        const file = await fileHandle.getFile();
+        const fileNameWithoutExtension = file.name.split('.').slice(0, -1).join('.');
+        document.getElementById("fileNameSpan").textContent = fileNameWithoutExtension;
+        await readFile();
+        
+        // גלילה לתחילת הקובץ
+        document.getElementById('editor').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        
+    } catch (error) {
+        console.error("Error opening file:", error);
+    }
+});
+
+document.getElementById("reloadFileButton").addEventListener("click", async () => {
+  if (!fileHandle) {
+    showAutoCloseAlert("לא נטען קובץ. אנא פתח קובץ קודם.");
+    return;
+  }
+  try {
+    await readFile();
+  } catch (error) {
+    console.error("Error reading file:", error);
+  }
+});
+
+function showAutoCloseAlert(message) {
+  const alertDiv = document.createElement('div');
+  alertDiv.style.cssText = `
+    position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    z-index: 10000; text-align: center; border: 2px solid #1976d2;
+  `;
+  alertDiv.textContent = message;
+  document.body.appendChild(alertDiv);
+  
+  setTimeout(() => {
+    alertDiv.remove();
+  }, 1500);
+}
+
+async function saveFile() {
+    if (isViewMode) return;
+    if (!fileHandle) {
+        showAutoCloseAlert("לא נטען קובץ. אנא פתח קובץ קודם.");
+        return;
+    }
+    
+    let editorContent = document.getElementById('editor').innerHTML;
+    editorContent = unwrapLines(editorContent);
+    editorContent = prettifyHTML(editorContent);
+    
+    try {
+    const savedSaveDir = localStorage.getItem('defaultSaveDirectory');
+    let saveDir;
+    
+    if (['downloads', 'desktop', 'documents'].includes(savedSaveDir)) {
+        // עבור תיקיות מערכת - נשמור כהורדה רגילה
+        const blob = new Blob([editorContent], { type: "text/plain;charset=utf-8" });
+        const link = document.createElement("a");
+        link.download = fileHandle.name;
+        link.href = window.URL.createObjectURL(blob);
+        link.click();
+        showAutoCloseAlert("הקובץ נשמר בתיקיית " + document.getElementById('saveDirectoryDisplay').value + ".");
+    } else {
+        // עבור תיקיות מותאמות אישית
+        saveDir = await getStoredDirectoryHandle('defaultSaveDir');
+        if (saveDir && await verifyPermission(saveDir)) {
+            const newFileHandle = await saveDir.getFileHandle(fileHandle.name, { create: true });
+            const writable = await newFileHandle.createWritable();
+            await writable.write(editorContent);
+            await writable.close();
+            showAutoCloseAlert("הקובץ נשמר בתיקייה שנבחרה.");
+        } else {
+            // שמירה כהורדה רגילה
+            const blob = new Blob([editorContent], { type: "text/plain;charset=utf-8" });
+            const link = document.createElement("a");
+            link.download = fileHandle.name;
+            link.href = window.URL.createObjectURL(blob);
+            link.click();
+            showAutoCloseAlert("הקובץ נשמר כהורדה חדשה בתיקיית ההורדות.");
+        }
+    }
+    } catch (error) {
+        console.error("Error saving file:", error);
+        // שמירה כהורדה רגילה במקרה של שגיאה
+        const blob = new Blob([editorContent], { type: "text/plain;charset=utf-8" });
+        const link = document.createElement("a");
+        link.download = fileHandle.name;
+        link.href = window.URL.createObjectURL(blob);
+        link.click();
+        showAutoCloseAlert("הקובץ נשמר כהורדה חדשה בתיקיית ההורדות.");
+    }
+}
+
+function unwrapLines(content) {
+  return content
+    .replace(/<p class="line">([\s\S]*?)<\/p>/g, '$1\n')
+    .replace(/(<\/h[1-6]>)/g, '$1\n') // הוספת \n אחרי תגי סגירה של כותרות
+    .replace(/\n\s*\n+/g, '\n')
+    .trim();
+}
+
+function prettifyHTML(html) {
+  html = html.replace(/<(b|i|big|small)[^>]*>\s*<\/\1>/gi, '');
+  html = html.replace(/\n\s*\n+/g, '\n');
+  return html.trim();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  updateOutline();
+});
+
+let cleanupTimeout;
+document.getElementById("editor").addEventListener("input", function() {
+  clearTimeout(cleanupTimeout);
+  cleanupTimeout = setTimeout(cleanupEditorContent, 1);
+});
+
+function cleanupEditorContent() {
+  let editor = document.getElementById("editor");
+  let content = editor.innerHTML;
+  content = content.replace(/<(b|i|big|small)[^>]*>\s*<\/\1>/gi, '');
+  content = content.replace(/\n\s*\n+/g, '\n');
+  if (content !== editor.innerHTML) {
+    editor.innerHTML = content;
+  }
+}
+
+function updatePanelsPosition() {
+  const topBar = document.querySelector('.top-bar');
+  const topBarHeight = topBar.offsetHeight;
+  const sidePanel = document.getElementById('sidePanel');
+  const mainContainer = document.getElementById('mainContainer');
+  const resizer = document.getElementById('resizer');
+  
+  sidePanel.style.top = `${topBarHeight + 8}px`;
+  mainContainer.style.top = `${topBarHeight + 8}px`;
+  resizer.style.top = `${topBarHeight}px`;
+}
+</script>
+</body>
+</html>
