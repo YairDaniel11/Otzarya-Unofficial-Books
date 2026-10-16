@@ -33,6 +33,22 @@ SEF = config.SEF_URI
 # ספר מקור (שם קובץ בלי סיומת) -> יעד
 JOBS = [
     {'source': 'ברכת שמואל על בבא מציעא', 'target': 'בבא מציעא', 'mode': 'daf-anchor', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת שבת', 'target': 'שבת', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת יבמות', 'target': 'יבמות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת כתובות', 'target': 'כתובות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת גיטין', 'target': 'גיטין', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת בבא מציעא', 'target': 'בבא מציעא', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת בבא בתרא', 'target': 'בבא בתרא', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת שבועות', 'target': 'שבועות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'פסקי רי״ד מסכת חולין', 'target': 'חולין', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת ברכות', 'target': 'ברכות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת שבת', 'target': 'שבת', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת יבמות', 'target': 'יבמות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת כתובות', 'target': 'כתובות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת גיטין', 'target': 'גיטין', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת שבועות', 'target': 'שבועות', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת קידושין', 'target': 'קידושין', 'mode': 'daf-heading', 'type': 'פירוש'},
+    {'source': 'תוספות הרא״ש מסכת חולין', 'target': 'חולין', 'mode': 'daf-heading', 'type': 'פירוש'},
 ]
 
 HEADER = ['מקור', 'ספר_מקור', 'מקור_אישי', 'ספר_יעד', 'מיקום_יעד', 'סוג', 'יעד_אישי', 'קטגוריית_מקור']
