@@ -1,0 +1,22 @@
+<h1>ברכת יוצר לחול, פסקה פיוטית</h1>
+
+<h2>אל ברוך גדול דעה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 20</small>
+אל ברוך. גדול דעה. התקין ופעל. זוהרי חמה.
+<h2>אל ברוך גדול דעה - גרסה</h2>
+<small>המסירה: Oxford, Bodleian Library, e.95, 10</small>
+אל ברוך. גדול דעה. התקין ופעל. זוהר חמה.
+<h2>אל ברוך גדול דעה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 20</small>
+טוב יצר. כבוד לשמו. מאורות נתן. סביבות עוזו.
+<h2>אל ברוך גדול דעה - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 5</small>
+טהור יצר. כבוד לשמו. מאורות נתן. סביבות עוזו.
+<h2>אל ברוך גדול דעה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 20</small>
+פנות צבאות קדושים. רוממי שדי. תמיד יספרו. לאל קדושתו.
+<h2>אל ברוך גדול דעה - גרסה</h2>
+<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
+פינות צבאיו קדושים. רוממי שדי. תמיד מספרים. כבוד אל וקדושתו.
+<small>המסירה: Paris, Bibliotheque Nationale, 632</small>
+פינות צבאיו קדושים. רוממי שדי. תמיד מספרים. כבודו וקדושתו.

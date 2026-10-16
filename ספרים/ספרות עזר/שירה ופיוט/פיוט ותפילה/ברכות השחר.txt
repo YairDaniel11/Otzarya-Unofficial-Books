@@ -1,0 +1,200 @@
+<h1>ברכות השחר</h1>
+
+<h2>בא"י אמ"ה מתיר אסורים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+מתיר אסורים.
+<h2>בא"י אמ"ה מפתח שמע חרשים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+מפתיח שמע חרשים.
+<h2>בא"י אמ"ה מרנין אלמים</h2>
+ברוך א' ה' אלהינו מ' ה'.
+מרנין אלמים.
+<h2>בא"י אמ"ה פוקח עורים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+פוקיח עורים.
+<h2>בא"י אמ"ה המקיץ רדומים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+מקיץ רדומים.
+<h2>בא"י אמ"ה המקיץ רדומים - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 230, 11</small>
+….
+המקיץ רדומים.
+<h2>בא"י אמ"ה מעורר ישנים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+מעורר ישינים.
+<h2>בא"י אמ"ה זוקף כפופים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+זוקף כפופים.
+<h2>בא"י אמ"ה מלביש ערומים</h2>
+בר' א' ה' א' מ' ה'.
+מלביש ערומים.
+<h2>בא"י אמ"ה מלביש ערומים - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 230, 11</small>
+ב' א' ה' אי'נו מ' ה'.
+המלביש ערומים.
+<h2>בא"י אמ"ה רוקע הארץ על המים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+רוקע הארץ על המים.
+<h2>בא"י אמ"ה רוקע הארץ על המים - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, 8H 24, 6</small>
+ב'.
+הרוקע הארץ על המים.
+<h2>בא"י אמ"ה המכין מצעדי גבר</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+המכין מצעדי גבר.
+<h2>בא"י אמ"ה המכין מצעדי גבר - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, 8H 24, 6</small>
+ב'.
+המכין מצעדי כל גבר.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' ….
+המכין מצעדי רגל.
+<h2>בא"י אמ"ה שעשה לי כל צרכי</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+שעשה לי כל צרכי.
+<h2>בא"י אמ"ה שעשה לי כל צרכי - גרסה</h2>
+<small>המסירה: Sassoon Collection, 535</small>
+ברוך אתה ה' אלה'ינו מלך העולם.
+שעשית לי כל צרכיי.
+<small>המסירה: Oxford, Bodleian Library, g.2 (2700), 4</small>
+ב'.
+אשר עשה לי כל צרכיי.
+<h2>בא"י אמ"ה אוזר ישראל בגבורה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+אוזר ישראל בגבורה.
+<h2>בא"י אמ"ה עוטר ישראל בתפארה</h2>
+בר' א' ה' א' מ' ה'.
+עוטף ישראל בגבורה.
+<h2>בא"י אמ"ה עוטר ישראל בתפארה - גרסה</h2>
+<small>המסירה: Sassoon Collection, 535</small>
+ברוך אתה ה' אלה'ינו מלך העולם.
+עוטר ישר' בתפארה.
+<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 13</small>
+ברוך אתה ה' אל' מ' הע'.
+עוטף ישראל בתפארה.
+<h2>בא"י אמ"ה אשר נתן לשכוי בינה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+אשר נתן לשכוי בינה.
+<h2>בא"י אמ"ה אשר נתן לשכוי בינה - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, 8H 24, 6</small>
+ב'.
+אשר נתן לשכוי בינה.
+להבחין בין יום ללילה.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 7</small>
+… לשכוי בינה.
+להבין בין יום ובין …
+<small>המסירה: London, British Library, Or. 5557O, 7-8</small>
+ברוך אתה ה' אלהינו מלך העולם.
+אשר נתן לסכבי בינה.
+להבחין בין ביום ובין בלילה.
+<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2168, 1</small>
+ב' א' ה' א' מ' העולם.
+אשר נתן לשכוי בינה.
+להבדיל בין היום ובין הלילה.
+<h2>בא"י אמ"ה שלא עשאני גוי</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+שלא שמתני גוי.
+<h2>בא"י אמ"ה שלא עשאני גוי - גרסה</h2>
+<small>המסירה: Sassoon Collection, 535</small>
+ברוך אתה ה' אלהינו מלך העולם.
+שלא עשאני גוי.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+שעשיתני ישראל ולא גוי.
+ברוך א' ה' אלהינו מ' ה'.
+שעשיתני ישראל ולא ערל.
+<h2>בא"י אמ"ה שלא עשאני עבד</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+שלא שמתני עבד.
+<h2>בא"י אמ"ה שלא עשאני עבד - גרסה</h2>
+<small>המסירה: Sassoon Collection, 535</small>
+ברוך אתה ה' אלה'ינו מלך העולם.
+שלא עשאני עבד.
+<h2>בא"י אמ"ה שלא עשאני אשה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+שלא שמתני אשה.
+<h2>בא"י אמ"ה שלא עשאני אשה - גרסה</h2>
+<small>המסירה: Sassoon Collection, 535</small>
+ברוך אתה ה' אלה'ינו מלך העולם.
+שלא עשאני אשה.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+שעשיתני איש ולא אשה.
+<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1968, 1</small>
+ברוך אתה ה' אלהינו מלך העולם.
+שלא עשיתני אשה.
+<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2168, 1</small>
+ב' א' ה' א' מ' ה'.
+שלא יצרתני אשה.
+<h2>בא"י אמ"ה שלא עשאני בור</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 7</small>
+בר' א' ה' א' מ' ה'.
+שלא שמתני בור.
+שאין בור ירא חטא.
+<h2>בא"י אמ"ה שלא עשאני בור - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, 10H 2, 6</small>
+ב' א' ה' אל' מ' הע'.
+שלא שמתני עם הארץ.
+<h2>בא"י אמ"ה מגביה שפלים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, 8H 24, 6</small>
+ב'.
+מגביה שפלים.
+<h2>בא"י אמ"ה עושה השמים בתבונה</h2>
+<small>המסירה: Oxford, Bodleian Library, d.50 (2844), 2</small>
+ב'.
+עושה השמים בתבונה.
+<h2>בא"י אמ"ה עושה השמים בתבונה - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך את' ה' אלהינו מ' ה'.
+העושה שמים בתבונה.
+<h2>בא"י אמ"ה רופא חולים</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 123</small>
+בא'י אמ'ה.
+רופא חולים.
+<h2>בא"י אמ"ה שלא שמתני בהמה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 230, 11</small>
+….
+שלא שמתני בהמה.
+<h2>בא"י אמ"ה שלא שמתני מאומות</h2>
+….
+שלא שמתני מאומות ….
+…עמך ישראל.
+<h2>בא"י אמ"ה שלא חסרתני כלום</h2>
+<small>המסירה: Oxford, Bodleian Library, g.2 (2700), 4</small>
+ב'//.
+אשר לא חסרתני כלום.
+<h2>בא"י אמ"ה שלא חסרתני כלום - גרסה</h2>
+<small>המסירה: Paris, Bibliotheque Nationale, 633</small>
+ב' א' ה' אל' מ' ה'.
+שלא חיס' מכ' צרכ' כלום.
+<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
+ב'.
+שלא חיסר מצורכיי כלום.
+<h2>בא"י אמ"ה שקרבנו לעבודתו</h2>
+<small>המסירה: Paris, Bibliotheque Nationale, 633</small>
+ברוך אתה ה' אלהינו מלך העולם.
+אשר קרבנו לעבודתו.
+<h2>בא"י אמ"ה המאריך ימי</h2>
+ב' א' ה' אל' מ' ה'.
+המאריך ימי להו….
+<h2>בא"י אמ"ה הפותח שערי מזרח</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 229, 6</small>
+ברוך א' ה' אלהינו מ' ה'.
+הפותיח שערי מזרח.
+<h2>בא"י אמ"ה המאיר לעולם כולו בכבודו</h2>
+ברוך א' ה' אלהינו מ' ה'.
+המאיר לעולם כולו בכבודו.

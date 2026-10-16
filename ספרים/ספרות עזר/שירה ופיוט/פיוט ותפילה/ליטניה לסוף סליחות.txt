@@ -1,0 +1,92 @@
+<h1>ליטניה לסוף סליחות</h1>
+
+<h2>עשה למען אמתך</h2>
+<small>המסירה: Oxford, Bodleian Library, d.74, 21</small>
+עשה למען שמך.
+עשה למען אמתך.
+ע' למען בריתך.
+ע' למ' גאותך.
+דתך.
+<h2>עשה למען אמתך - גרסה</h2>
+<small>המסירה: London, British Library, 677</small>
+עשה למען אמיתך.
+עשה למען בריתך.
+עשה למען גודלך ותפארתך.
+עש' למע' דתך.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 157</small>
+עשה למען אמרתך.
+ע' ל' בריתך.
+ע' ל' גדולך.
+ע' ל' דתך.
+<small>המסירה: Budapest, Magyar Tudomanyos Akademia, MS. Kaufmann, Geniza, 74 (32)</small>
+עשה למען אמתך.
+ע' ל' בריתך.
+ע' ל' גאותך.
+ע' ל' דבירך.
+<h2>עשה למען אמתך</h2>
+<small>המסירה: Oxford, Bodleian Library, d.74, 21</small>
+הודך והדרך.
+ועדך.
+זכרך.
+חסדך.
+<h2>עשה למען אמתך - גרסה</h2>
+<small>המסירה: London, British Library, 677</small>
+עש' למע' הודך.
+עש' למע' ויעודך.
+עש' למע' זכרך.
+עש' למע' חסדך.
+<h2>עשה למען אמתך</h2>
+<small>המסירה: Oxford, Bodleian Library, d.74, 21</small>
+טובך.
+ימינך.
+כבודך.
+….
+<h2>עשה למען אמתך - גרסה</h2>
+<small>המסירה: London, British Library, 677</small>
+עש' למע' טובך.
+עש' למע' יחודך.
+עש' למ' כבודך.
+עש' למע' למודך.
+<small>המסירה: Cambridge, University Library, Or. 1081, 2, 79</small>
+ע' ל' טובך.
+ע' ל' יושרך.
+ע' ל' כבודך.
+ע' ל' למודך.
+<small>המסירה: Budapest, Magyar Tudomanyos Akademia, MS. Kaufmann, Geniza, 74 (32)</small>
+ע' ל' טובתך.
+ע' ל' יקרך.
+ע' ל' כבודך.
+ע' ל' לקחך.
+<h2>עשה למען אמתך</h2>
+<small>המסירה: Oxford, Bodleian Library, d.74, 21</small>
+מלכותך.
+נצחך.
+סודך.
+עזך.
+פארך.
+צדקך.
+קדושת שמך.
+<h2>עשה למען אמתך - גרסה</h2>
+<small>המסירה: Cambridge, University Library, Or. 1081, 2, 79</small>
+ע' ל' פארך.
+ע' ל' צדקתך.
+ע' ל' קדושתך.
+<h2>עשה למען אמתך</h2>
+<small>המסירה: Oxford, Bodleian Library, d.74, 21</small>
+רחמיך הרבים.
+שבחך.
+תהלתך.
+עשה למען תורתך.
+<h2>עשה למען אמתך - גרסה</h2>
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 157</small>
+ע' ל' רחמיך.
+ע' ל' שמך.
+ע' ל' תומתך.
+<small>המסירה: Cambridge, University Library, T-S Collection, NS, 126, 49</small>
+רחמך.
+שכינתך.
+תורתך.
+<small>המסירה: Cambridge, University Library, Or. 1081, 2, 79</small>
+ע' ל' רחמנותך.
+ע' ל' שכינתך.
+ע' ל' תורתך.
