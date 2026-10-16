@@ -15,9 +15,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "25.5 MB",
+    "size": "46.1 MB",
     "depth": 0,
-    "hash": "75005925ac8ea3aaee76217c621fd7b3"
+    "hash": "e31657d2ea8538aa0b5ec9faf17afe63"
   },
   {
     "name": "מדרש",
@@ -97,7 +97,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "2bddc085b7f75b5d98fcf61c3a771355"
+    "hash": "bae6db02b96bedff7d9af260d5b7f456"
   },
   {
     "name": "שו״ת",
@@ -155,9 +155,9 @@
     "zip": "folder_0061.zip",
     "label": "אחרונים",
     "parent": "הלכה",
-    "size": "2.8 MB",
+    "size": "12.8 MB",
     "depth": 1,
-    "hash": "7278b1350b96725bc00acbbca47f3704"
+    "hash": "0f0beb13b58bdfd1f342d1f87d325daf"
   },
   {
     "name": "מחברי זמננו",
@@ -185,9 +185,9 @@
     "zip": "folder_0063.zip",
     "label": "משנה תורה",
     "parent": "הלכה",
-    "size": "2.8 MB",
+    "size": "3.4 MB",
     "depth": 1,
-    "hash": "fa639f6c925d6ce4d68432b19b41911e"
+    "hash": "3b296b016b5ddda350e2e837578a2e60"
   },
   {
     "name": "ספרי מצוות",
@@ -195,9 +195,9 @@
     "zip": "folder_0545.zip",
     "label": "ספרי מצוות",
     "parent": "הלכה",
-    "size": "12 KB",
+    "size": "543 KB",
     "depth": 1,
-    "hash": "06b27baaeae7708d1ba7602f00eba8f9"
+    "hash": "76c75e3d7b7dcdaed329fa01fae4efff"
   },
   {
     "name": "ראשונים",
@@ -215,9 +215,9 @@
     "zip": "folder_0065.zip",
     "label": "שולחן ערוך",
     "parent": "הלכה",
-    "size": "945 KB",
+    "size": "10.4 MB",
     "depth": 1,
-    "hash": "62c018a07769c5886720055d7c4c1458"
+    "hash": "fe77aea2524dbef8423e245ecaea7b83"
   },
   {
     "name": "אגדה",
@@ -605,9 +605,9 @@
     "zip": "folder_0081.zip",
     "label": "מפרשים",
     "parent": "הלכה/משנה תורה",
-    "size": "998 KB",
+    "size": "1.7 MB",
     "depth": 2,
-    "hash": "5388fe1ffa67286c2321656482a4c2d2"
+    "hash": "297e8b64d45eb479084cb8c87509bbe6"
   },
   {
     "name": "ספר המצוות",
@@ -635,9 +635,9 @@
     "zip": "folder_0083.zip",
     "label": "מפרשים",
     "parent": "הלכה/שולחן ערוך",
-    "size": "945 KB",
+    "size": "10.4 MB",
     "depth": 2,
-    "hash": "390b7cdc8d30dad90deccb3de1eff274"
+    "hash": "ffc488031e8392e43aa4650e3eeae777"
   },
   {
     "name": "בן סירא",
