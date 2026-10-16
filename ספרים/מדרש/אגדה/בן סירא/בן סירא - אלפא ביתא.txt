@@ -1,0 +1,312 @@
+﻿<img src="data:image/png;base64,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" >
+<h1>בן סירא - אלפא ביתא</h1>
+והא לך האלפא ביתא מבן סירא
+אוקיר לאסיא עד דלא תצטרך ליה:לעולם יקדים אדם תפלה לצרה
+שאילמלא אברהם לא הקדים תפלה לצרה לא נשתייר משונאיהם של ישראל
+שריד ופליט בימי יהושע בן נון. ואימתי הקדים. כשנפטר מבית אביו. שנ'
+ויעתק משם ההרה ויקרא בשם יי' (בר' יב:ח). ואיזו[ קריאה שאמר. אמר יוסף
+בן עוזיאל יודע היה אברהם (בשם יי"(]מעשה עכן שהיה עתיד לעשות! ואמר
+לפניו רבונו של עולם עניני. ומה נחור והרן שלא ידעו שמך. ולא הלכו
+באורחותיך מעולם ולא פררו מאביהם. הרי בניהם ובני בניהם חיו ויורשין ארץ.
+ואני שירעתי שמך והלכתי באורחותיך ופררתי מאבי יתחייבו בני כלייה. א"ל
+בני נכתבה גזירה שלא יותר מבניך אלא יאיר בן מנשה בלבד. וזרעו ארבה
+כזרע יעקב. ועתה הקדמת תפילה לצרה לא יהרג כי אם יאיר בן מנשה בלבד.
+כדי ליירא שם השאר. מיר הלך אברהם הלוך ונסוע הנגבה (שם:ט). לפיכך לא
+נהרג בין ביתאל ובין העי מקום שאברהם הקדים תפילתו אלא יאיר בלבד. שנ'
+ויכו מהם אנשי העי כשלשים וששה איש (יהו' זיָה). ואמרנו זה פנחס בן יאיר
+ששקול כרובן של סנהדרין. כשראו ישראל כך נזרעזעו ואמרו אוי לנו כי מי
+זה שלא היה כמותו בישראל נהרג אנו מה תהא עלינו מיר וימס לבב העם ויהי
+למים (שם0:( לפיכך יקרים אדם תפלה לצרה. ואף לרופא שגר רדורון בתחילה
+לפי שיזכיר]טובתך[ וירפאך. והיינו דאמר בן סירא אוקיר לאסיא,
+בר דלא בר שבקיה על אפי מיא ישוט:לעולם ייסר אדם את בנו.
+זהלקהו יותר מדאי. זאם תראה שאינו שוה כלום עזוב אותו. ואם ירדפך
+הוציאיהו לסקילה ואם אין אתה יכול זרוק אותו לים לפרנס הדגים. זו דברי
+עוזיאל בן סירא. אבל יוסף בן עוזיאל אומר וכי אדם אפשר להרוג את בנו אלא
+מי שיש לו בן שאינו הגון יעזבינו ואם רואיהו ביום בצרה לא יצילהו. ואם נפל
+לבור לא יעלינו אלא יטבע ויבכה ויתאבל עליו כמו שעשה דוד כשראה
+שרדפו אבשלום בנו עזבו עד שענשו הקב"ה והוחזק ראשו באלה ואף רוד לא
+הצילו ולא הזיק לאותו שהרגו. ואחר כך בכה עליו שלא יבינו בני ארם שובנו)
+קם עליו להרגו. והיינו דאמר בן סירא בר דלא בר,
+גרמה]דסליק! לחולקך טב או ביש גרדיה:לעולם לא תשא אשה כי
+אם מיוחסת ואפילו ערומה ולא אשה שאינה הוגנת ולבושה כלי זהב שכל
+הנושא אשה ירח נכנס ירח יוצא וממון כלה שנ' ביי" בגרו כי בנים זרים ילדו
+עתה יאכלם חדש חלקיהם (הוש' ה:ז). שמא תאמר שאינו חוטא בניו מיוחסין
+הכת' בנים זרים ילדו. ושמא תאמר אבל יקנה נכסים הרבה הכת' עתה יאכלם
+ושמא תאמר אבל יקנה נכסים הרכה עד זמן מרוכה הכת' חדש ושמא תאמר
+נכסיה ולא נכסיו הכת' חלקיהם. ועוד שכל הנושא אשה שאינה הוגנת אליהו
+כופתו והקב"ה רוצעו. ולא עוד שכל הנושא אשה לשום ממון אינו רואה יום
+טוב עמה ואם אין יכול לישא מיוחסת ישא משוחררת לפי שהיא מזלו ואעפ"י
+שהיא קשה מאיזבל לאחאב ואשתו של קרח שאבדו בעליהם לא יגרשינה לפי
+ששנינו שלשה אין נכנסין לרין. אילו הן רקדוקי עניות וחולי מעים והרשות,
+ויש אומרים אף מי שיש לו אשה רעה ואינו מגרשה ואם גרשה לא עשה יפה
+שאין שעה משחקת לו אחריה ולא עוד אלא שהעולם מחשיך לו אחריה כשהוא
+מגרשה. והיינו ראמר בן סירא גרמא לחולקך.
+דהבא לקומצא ועולימא להלקאה: לעולס יסר אדם את בנו יותר
+מדאי ואל תמנע מלהלקותו כדי שיהא יראתך מוטלת עליו. לפי שהנער דומה
+לזהב שצריך לצרפו היטב כדי שיהא רך וימצא יפה. אף הנער צריך כן כרי
+שוי)ת) וכל ללמוד תורה יפה]יפה[ (הוא). שאילמלא שאול בן קיש לא היה
+מלקה בניו היו רודפין אותו. כשאמר לו בן נעות המרדות (שמ"א כ:ל) אלא
+מתוך שהיתה אימתו מוטלת עליו. ומנלן שהיה מלקהו שנ' ויטל את החנית
+עליו להכותו (שם:לג) ואומר כי מות תמות יונתן. אבל דור שלא היה מייסר
+את בניו עמד אמנון ושכב את אחותו וקם אבשלום והרגו. ואדניה מלך בלא
+רשותו ומנלן שנ' ולא עצבו אביו מימיו (מל"א א:ו) ורדפו אבשלום ושכב עם
+נשיו לעיני העם. וגרם לעצמו להתלות בלב האלה. ואף ישמעאל היה הורג
+לאברהם כשגרשו מביתו ואף עבדיו. כשאמר להם שבו לכם פה עם החמור (בר'
+כב:ה) עם הדומה לחמור. ואף יצחק כשעקדו על המזבח ואף בני הפלגשים היו
+הורגים כשגרשם מביתו מעל יצחק בנו אלא מפני שהיה יראתו מוטלת עליהם
+ומנלן שכן הוא. שנ' כי ידעתיו למען אשר יצוה בניו ואת ביתו אחריו (בר'
+יח:ט). לפיכך אמר שלמה חושך שבטו שונא בנו (מש' יג:כד). והיינו דאמר בן
+סירא דהבא לקומצא,
+הוי טב הוי ביש וחולקך! מן בישתא לא תרפי: לעולם הוי ירא
+שמים בסתר (ואל תתיירא) שמא יאמרו שוטה הוא. לפיכך אמר שלמה אל תהי
+צריק הרבה ואל תתחכם יותר וכת' אל תרשע הרבה (קה' ז:טזדיז). הא כיצד אל
+תהי צדיק הרבה שלא יאמרו שוטה הוא. ואל תרשע שלא יאמרו רשע הוא
+אלא הוי בינוני. ובמיתתך הוי מחלק נכסיך לעניים ותירש חיי עולם הבא.
+בינוני כשאול מלך ישראל שקיים שניהם שחמל על אגג יצא בת קול ואמרה
+אל תהי צריק הרבה וכשהלך לבעלת אוב יצתה בת קול ואמרה אל תרשע
+הרבה. וכשהסיר את האובות ואת הירעונים יצתה בת קול ואמרה אל תהי צריק
+הרבה. וכשהרג נוב עיר הכהנים יצתה בת קול ואמרה אל תהי רשע הרבה.
+ושמא תאמר בינוני היה ולא צדיק הרי נאמר אין מבני ישראל טוב ממנו
+)שמ"א ט:ב) וכת' בן שנה שאול היה (שם: יג:א) והלא כבר הוליד בנים אלא
+שהיה כבן שנה בלא חטא. והיינו ראמר בן סירא. הוי טב.
+ווי ליה לבישא ווי ליה לדבקוהי ווי לשמעין לקליה:לעולם אל
+תדור בשכונת רשעים פן ירשיעוך או יריעו לך. ואם תתמה בדבר צא ולמר
+מיפתח שהיה צדיק גמור ודר בין שבט אפרים שהיו מרשיעים ולמד מהם על
+שראה אותם שורפים בניהם ובנותיהם למולך. ואזי הוא עשה כן והרג את בתו,
+ראה אותם שופכין רמים ועשה כן. ועשה כן ארבעים ושנים אלף ולפיכך נעשה
+רשע ולא זכה לקבורה. וכיון שמת קברוהו מיד מצאו עצמותיו פזורות בערי
+גלעד. שנ' ויקבר בערי גלעד (שופ' יב:ז) ובכל מקום שהיו ישראל מכירין
+עצמותיו היו מקברין אותם. וכן נבות היזרעאלי נענש בשכיניו הרעים על
+אחאב ואיזבל שגרמו להמיתו. והיינו דאמר בן סירא ווי ליה לבישא.
+זרוק מילחוא)ך בימא ביבישתא]את[ משכחת ליה: לעולם יהא
+שולחנך פרוס לכל אדם כי ראוי אתה להשרות עליך שכינה ולהחיותך אחר
+מיתה. שכן מצינו במיכה שהיה זקן ועובר ע"ז לפי שהיה פורס שולחנו לבני
+אדם זכה והחייהו הקב"ה כשיצאו ישראל ממצרים שכבר מת היה והחייהו משה.
+וגם זכה לנבואה שנ' ויהי רבר יי" אל הנביא אשר הושיבו (מל"א יגוכ) אל
+הנביא זה מיכה. ואף לוט בשביל שהיה בעל אכסנאי זכה ונמלט מסדום. ואף
+בזכות אברהם שנטע אש"ל וזהו אבילה שתייה לוייה לכל באי עולם,
+ומעשה באדם אחר שהיה לו בן והיה מלמדו בכל יום זרוק מלחך)ולחמך) בימא
+וביבישתא את משכחת ליה. לימים מת אותו האיש והיה הבן עושה מצות אביו.
+והיה נוטל בכל יום מלח וזורק לים. פעם אחת נזרמן לו אליהו כזקן. א"ל בני
+מפני מה אתה זורק מלחך על פני המים בים. א"ל כן למדני אבא. א"ל הלא
+למדת שלח לחמך על פני המים (קה' יא:א) והלחם דומה למלח. שאילמלא הוא
+אין העולם מתקיים. מה עשה נטל פת לחם וזרק לים בכל יום ויום ונזדמן שם
+דג אחד תמיד לאוכלו. ער שנעשה גדול ביותר. והיה מצער חביריו שבים
+ביותר. ונתקבצו]הרגים[ והראו ממנו ללויתן ואמרו לו יש כאן עמנו דג אחד
+וגדול הרבה ואין לנו חיים עמו ואוכל ממנו בכל יום עשרים או יותר. מיד
+שלח לויתן בשבילו בדג אחד ואכלו וכן שיני וכן שלישי עד שרמז לו לויתן
+ובא אצלו ואמר לו באיזה מקום גרלת כן. אמר לו בשפת הים. שיש ארם אחד
+שמביא לי בכל יום עוגה אחת ואני אוכלה בבקר. ובצהרים עשרים רגים.
+ובערב שלשים. א"ל ומפני מה אתה אוכל חביריך. א"ל מפני שהם באים אצלי.
+ועליהם הכת' אומר ומבשרך אל תתעלם (יש' נח:ז). א"ל לך והבא לי אותו
+נער. א"ל למחר. למחר בא הנער כמנהגו. ורצה לעמוד על אותו מקום שהיה
+רגיל לעמוד בו וחפר הדג תחת רגליו ונשקע ונפל לתוך פיו של אותו דג,
+והביאו ללויתן. א"ל לויתן לדג הקיאנו לתוך פי. מיר הקיאו לפיו של לויתן.
+א"ל בני מפני מה זרקת לחמך בים. א"ל מפני שלמדני אבי מנעורי שלח לחמך
+על פני המים. מיר הוציאו מפיו ולמדו שבעים לשון. וכל לשון הבריות וכל
+התורה כולה. וזרקו עד שלש מאות פרסאות רחוק לים אל היבשה. מקום שלא
+דרכו שם אדם מעולם ונפל עייף ונרדם. וראה שני עורבים פורחים מעליו.
+ואומר זה לזה אדם נפל לכאן ואיני יודע אם חי אם מת. ענה האחד ארדה
+ואוכל עיניו שמתאווה אני לעיני אדם. וחבירו אומר אל תרד שמא חי הוא
+ואעפ"י כן ירד וישב לו על מצחו ולקחו ברגליו וצעק לחבירו נתנני יי' בירי
+לא אוכל קום (איכה א:יר). כיון ששמע חבירו כך אמר אתה בן אדם עזוב
+העורב וחפור תחתיך ותמצא אוצר שלמה מלך ישראל. מיד חפר תחתיו כעשר
+אמות ומצא לשם כסף וזהב ואבנים טובות ומרגליות ולקחם ונתעשר למאר.
+לפיכך טוב לפרוס פתורך לכל באי. ומידה זו תשקול ולא תמכור. וכן אמר בן
+סירא זרוק מלחך בימא.
+חמית חמר לא אוכם ולא חיור:לעולם למר לשונך לומר איני יורע פן
+תתבדה ותאחז בה אם יאמר אדם לך ראית אבידתי. א"ל לא. אעפ"י שראית
+מפני הסכנה.
+שהיה אדם יושב בפרשת ררכים. וכא גוי ושאל לו ראית חמור לבן. א"ל
+בלעיגה ראיתי חמור לבן כולו ואוזניו שחורות. א"ל באיזה דרך הלך. א"ל
+בדרך פלוני. הלך ולא מצאו. וחזר אצלו ואמר לו לך עמי ער שנמצאהו הלכו
+ולא מצאו. הביאו לפני השלטון ואמר זה גנב חמורי וגבה ממנו בחמורו מאה
+זהובים. ובשביל האוכף שעליו שני זהובים ובטלית שתחת האוכף ב' זהובים.
+ובו היה קשור שלש מאות זהובים. ולא הניחו עד שפרע לו הכל. לפיכך אמר
+בן סירא סמא דכולא משתוקא. מכאן אמר (בן סירא ו) עוזיאל אם יורע לתקן
+דבריו מוטב ואם לאו שותק. לכך אמרו חכמים אין לגוף טוב משתיקה. והיינו
+ראמר בן סירא חמית חמר.
+טב לביש לא תעביד ובישא! לא מטי לך:לעולם כשתראה אדם רשע
+אל תלך עמו בררך. ואל תעש לו טובה שבשביל טובה אחת שעשה יעקב
+אבינו לעשו הרשע אנחנו עוברים לו. כששלח יעקב דורון לעשו ציוה
+לשלוחיו לומר כה אמר עבדך יעקב (בר' לב:ה). אמר הקב"ה אני אמרתי ורב
+יעבד צעיר (שם כה:כג). ואתה עשית עצמך עברד. חי נפשי אקיים דבריך הוא
+ימשול עליך בעולם הזה ואתה תמשול בו לעולם הבא. אמר לפניו רבונו של
+עולם גלוי וידוע לפניך שמיראה עשיתי רבר זה. א"ל חזור בך. אמר איני יכול
+ליפרד ממנו שמתיירא אני ממנו. א"ל והלא לוט צדיק גמור הוא. ובשביל שלא
+למד לא רצה אברהם להיות בשכונתו. ואמר לו הפרר נא מעלי (בר' יג:ט).
+ומעשו אחיך לא תפרד מיר וישב עשו לדרכו. וכת' ויעקב נסע סוכותה (שם
+לב:טזדיז) אמרו בשביל אותו דרך מעט שהלך עמו מתו כל הבהמות ולא
+נשתייר כי אם כבשה אחת. שנ' ולמקנהו עשה סוכות (שם: שם). וכי איפשר
+לארם לעשות סוכה לכל אחד ואחד אלא לומר שלא נשתייר כי אם כבשה
+אחת ומרוב אהבתו עשה לה סוכה אחת ללילה וסוכה אחת ליום. לפיכר אין
+טוב לעשות טובה לאדם רשע.
+ומעשה בארם אחד שהיה עולה לירושלים. ומבין היה לשון עופות וראה שני
+עורבים ומריבין זה עם זה ואומר לו חבירו למה אין אתה שומע לעצתי הלא
+אמרתי לך אל תרר מטה לאכול עין הארם שמא חי הוא באותו שרה שנפל.
+ואעפ"י]כן! ירדת ונלכרת ולהצילך הודעתיו אוצר המלך שלמה. והיה מכהו
+לחבירו ער שהמיתו בחרון אפו. ואחר כך ניחם עליו והביא עשב ושם בפי
+חבירו והחייהו. ואותו האיש לקח מאותו עשב שנפל מפיו. ואמר אלך ואחיה
+מתים בארץ ישראל. הלך לדרכו עד שמצא ארי מת. ואמר אנסה העשב ואראה
+אם יחיה ממנה. שם ממנה בפיו והחייהו ועמד הארי עליו והרגו וראו העורבים
+ואמרו עליו כדאמר בן סירא טב לביש לא תעביר.
+ידך מן נגדא לעולמא לעלמא לא תמנע: לעולם אל תקפוץ ירך
+מליתן לעני פרוטה פן ימנע הקב"ה מחייתך ויורידך מנכסיך שכל המעלים
+אזנו משמוע צעקתו אין תפלתו נשמעת אוטם אזנו משמוע צעקת דל גם הוא
+יקרא ולא יענה (מש' כא:יג) ואם נותן לו צרקה. הקב"ה נותן לו צרקתו. שנ'
+רודף צרקה ימצא חיים (שם:כא) צדקה וכבור הרי משום רידוף צדקה מוצא
+חיים ונכסים כדי לעשות צדקה. ולא עוד אלא שכל הנותן פרוטה מעלה עליו
+כאילו בנה מזבח והקריב עליו קרבן לפי שבזמן שבית המקרש קיים אדם נותן
+שקליו ומתכפר ועכשיו ארם נותן פרוטה לעני ומתכפר על פשעיו.
+א"ר יוסי בא וראה שלא כמדת הקב"ה מדת בשר ודם מביא דורון (לבנו)]למלך![
+ספק מקבלו ספק אין מקבלו. ואם מקבלו ספק עושין לו רצונו ספק אין עושין
+לו רצונו ואם עושין לו רצונו ספק יוצא בשלום ספק אינו יוצא בשלום. אבל
+הקב"ה אינו כן ארם נותן פרוטה לעני ומקבל בו פני שכינה. שנ' אני בצרק
+אחזה פניך (תה' יז:טו). אמרו עליו על דור מלך ישראל שהיה נותן בכל יום
+לעני צדקה וכשנכנס לבתי כנסיות ולבתי מדרשות אומר אני בצרק אחזה
+פניך. והנותן פרוטה מתברך בשלש (עשרה) ברכות אילו אז יבקע כשחר אורך.
+אז תקרא ויי" יענה (יש' נח:ח"ט). והנותן פרוטה לעני ומפייסו ברברים מתברך
+ובשלש עשרה! (ב)אילו ותפק לרעב לחמך ונפש נענה תשביע. וזרח בחושך
+אורך ואפילתך כצהרים. ונחך יי' תמיר להשביע בצחצחות נפשך ועצמותיך
+יחליץ. והיתה כגן רוה וכמוצא מים אשר לא יכזבו מימיו. ובנו ממך חרבות
+עולם. (שם:י"יב) וצריך ליתנה בפיוסים ובסתר שגדול הנותן כן ממשה שנאמר
+במשה כי יגורתי מפני האף והחימה (דב' ט:יט). ובנותן בסתר כת' מתן בסתר
+יכפה אף (מש' כא:יד). ואין אף אלא מלאך המות. שכן בנימין הצדיק נתן
+צדקה בסתר וכפה אף מלאך המות מביתו והוסיפו לו עשרים ושנים שנה.
+שבנימין הצריק היה ממונה על קופה של צדקה באתה לו אשה ושבעה בנים
+אמרה לו ר' פרנסני. אמר לה העבודה שאין בקופה שלי צדקה כלום. אמרה לו
+אם לא תפרנסנו מיד הננו מתים. מיר פירנסם משלו בסתר. לימים נטה למות
+אמרו מלאכי השרת לפני הקב"ה רבונו של עולם הרי אמרת כל המקיים נפש
+אחת כאילו קיים כל העולם כולו. וזה שהחיה אלמנה ושבעה בניה והרי הוא
+בצער מיתה בקשו עליו רחמים וקרעו גזר דינו. והוסיפו לו שנים ועשרים שנה.
+לפיכך אל תמנע ירך מליתן פרוטה לעני מי שאין לו מה ליתן יפייסנו
+בדברים. ואם יש בירו ומפייסו ברברים ונותן לו מתברך בשלש עשרה ברכות
+ומאריכין לו ימיו ושנותיו וניצול ממיתה משונה ומדינה של גהינם. והויין ליה
+בנים בעלי תורה וחכמה ומצות טובות וניצול מכל משחית.
+ומעשה ביוסף ועוויאל שישבו בפרשת ררכים וראו שני נערים שהיו באים מן
+ההר ועצים על ראשם אמר יוסף לעוזיאל אני רואה נער אחד נושא עצים על
+ראשו ובתוכו עקרב ואין לו רשות להזיקו מיד קרא לנער ושאל לו יש בירך
+שום צרקה היום א"ל מצאתי יתום אחד ששאל לי מפתי לאכול ונתתי לו. א"ל
+אשריך שניצלת מן המיתה בצדקתך והיינו דאמר בן סירא ידך מן נגדא,
+כלתה דסלקא לגנונא לא ידעה מאי מטי לה:לעולם אל יאמר אדם
+דבר כי אם בגזירת המקום.
+ההוא שאמר למחר אלך ואזקק עם אשתי בגנונא אמרו לו חביריו אמור אם
+יגזור המקום. אמר להם אם יגזור אם לא יגזור אזקק עמה הלילה בחופתי
+למחר ישב עם אשתו ועלו לעלייה ליזקק. ומיר מתו שניהם באותה הלילה.
+למחר נמצאו שניהם זה על זה מתים. אמרו רואי!ה[ם קושטא אמר בן סירא
+כלתא. מיכאן אמרו כל אדם צריך לומר אם יגזור המקום.
+ומעשה באדם אחר שהיה עשיר גדול והיו לו קרקעות ולא היו לו שוורים
+לחרוש נטל כיסו והלך לכפר שחין ופגע בו אליהו זכור לטוב. א"ל להיכן תלך
+א"ל לכפר שחין לקנות שוורים א"ל אמור אם יגזור המקום. א"ל אם יגזור אם
+לא יגזור המעות קשורין בכיסי. בא אליהו וגזל ממנו ממונו. א"ל לא בהצלחה
+תלך. וכשהלך אותו האיש ורצה להוציא מעותיו ולא מצא חזר לביתו בפחי
+נפש. וכן בפעם שניה וחזר בפחי נפש. פעם שלישית פגע בו אליהו וא"ל
+להיכן תלך. א"ל לקנות שוורים אם יגזור המקום. א"ל לך והצלח. מיד החזיר
+לו אליהו כל מה שהפסיד והלך לכפר שחין וקנה שני שוורים אדומים בלא
+מום במאה זוזים. אמר למוכר אין עמי כל כך מיר ראה בכיסו ג' מאות זוזים.
+ונתנם למוכר מקצתם ועשה בהם כל צרכיו ואחר כן מכרן למלך באלף זוז
+לפיכך צריך אדם לומד אם יגזור המקום שאינו יודע מה ילד יום מערב ועד
+בקר. והיינו דאמר בן סירא מצפרא וער רמשא אחריוב! עלמא. ארם נכנס
+לחופה ואינו יודע מה נגזר עליו. והיינו ראמר בן סירא כלתא.
+לחכימא ברמיזה ולשטיא חוטרא:לעולם אל תתחבר עם שוטה לפי
+שמה שנופל בידו כמו על קרן הצבי שלא תראינו לעולם. ואם תצטרך לפייסו
+לא תוכל לפייסו שלא יאמין לקולך כי אם במקל ולא ברמז. וכן מצינו ביהוא
+מלך ישראל שהיה שוטה ביותר. כששלח אלישע בן שפט יונה בן אמיתי
+למושחו למלך רמז לו לבא מן המסיבה לדבר ולא הבין היה מדבר לו ולא
+שומע וחביריו שומעין עד שנטל מקל וזרק אחריו. מיד הבין בו. ולא יצא מפני
+שהיה עצל. לכך אמר לו אל מי מכולנו ואמר לו אליך השר (מל"ב ט:ה).
+ומניין שהיה שוטה. שנ' והמנהג כמנהג יהוא כי בשגעון ינהג (שם:כ). ולחכם
+אין צריך כי אם ברמז. והיינו דאמר בן סירא לחכימא,
+מוקיר (גדישין סגיאין ולישן זעיר קטיל סגי)]מבשרוהי דמי
+לחמרא!: לעולם אל תכנד הרשעים. ולא מי שמכבזה אותך שהרי אחאב בן
+עמרי הלך וכיבד להרד מלך ארם שהיה רשע ונרמה לחמור. הנביא א"ל לך
+והרגיהו. ולא רצה להורגו אלא כבדו ביותר מרוב אהבתו כרת ברית עמו ונתן
+לו עיירות והושיבו לשלום במלכותו והוא היה רשע ומבזה אותו. לימים חשב
+ואמר אין אחאב מכבדיני אלא מיראתו ממני מיד הלך למלחמה והרג]ו ולא!
+)כל) זכר מה שכיבדו לפנים. וגם שאול מלך ישראל כשחמל על אגג מלך
+עמלק וכבדו ביותר על כן יצא ממנו המן הרשע שביקש להרוג כל ישראל.
+ולא זכר רחמי שאול.
+ושוב מעשה בארם אחד שהיה עשיר גדול ולא היה לו בן ליורשו. והיה גוי
+יתום בשכונתו. אמר אטול גוי זה יתום ואגדליהו לירש ממוני מיד עשה כן.
+ולא היה אותו יתום עמו עשרים ושלשה חדשים עד שהשליטו כל נכסיו לירש
+כיון שראה היתום כן אמר בלבו אהרג זה ואירש נכסיו. יום אחד כשהביא
+קערתו לבישולוו) עירב בו סם המות והאכילו לו ולאשתו ומתו ולא זכר מה
+שריחמו להגרילו לירש נכסיו.
+ואף יהודי יואש מלך ישראל עשה כך ליהוידע]שהמליכו! בן שבע שנים
+]וזהחזיק המלכות בידו וכשנפטר יהוירע ציוה להרוג את זכריה בנו ולא זכר
+רחמי יהוידע עליו לפיכך כל המכבד את שמבזהו דומה לחמור. והיינו ראמר בן
+סירא מוקיר למבסרוהי]ואין מבסרוהי אלא בוזין אותו שכן[ תרגום את דבר י"
+בזה, (במד' טו: לא) ית פתגמי דיי' בשר.
+נור דליק מוקידוין! גדישין סגיאין:לעולם אל תלשין חביריך.. שכל
+המלשין אין לו רפואה שאין מי שיחריב העולם יותר מלשון הרע. אעפ"י שקטן
+הוא הרג כמה צדיקים. כמו שמצינו ברואג הארומי שהלשין]על! אחימלך על
+דור שראהו נותן לו מזון. הלך והגיד לשאול והוסיף על מה שראה שנ' ויען
+דואג האדומי והוא נצב על עבדי שאול (שמ"א כ"ב:ג). ויאמר ראיתי בן ישי
+בא אל אחימלך בן אחיטוב. ומנלן שהוסיף על מה שראה. שנ' וישאל לו ביי"
+וצרה נתן לו וחרב גלית הפלישתי (שם:י). ולמה נקרא שמו דואג שהיו הכל
+דואגים ממנו על לשון הרע שלו. ובא וראה כמה צריקים נהרגו על ידו יושבי
+נוב עיר הכהנים. וגם בית המקדש נחרב על לשון הרע שעשה ציבא ממפיבשת
+שבשעה שאמר דוד למפיבושת אתה וציבא תחלקו את השדה (שמ"ב יט:ל)
+יצתה בת קול ואמרה רחבעם וירבעם יחלקו המלכות. ובשביל שקיבל דור
+לשון הרע מציבא נחרב בית המקדש. וגלינו מארצינו. והיינו דאמר בן סירא
+נור דליק.
+סבא בביתא סמא בביתא סימנא טבא לביתא:לעולם כבד הזקנים
+ואל תנזס שכל מי שמכבר הזקנים ואפילו הוא רשע]נעשה! (או) ירא שמים
+שנ' מפני שיבה תקום והדרת. ויראת מאלהיך (ויק' יט:לב). מכאן שהמכבר זקן
+וירא שמים! וכת' ויראת מאלהיך שכל זמן שזקן בעיר סימן טוב בעיר. ואם
+יאמרו לך זקנים סתור ביתך ועשה ממנו אשפה עשה. ואם בחורים יאמרו לך
+בנה אשפה ועשה שם בית. סתור ואל תבנה. מפני שסתירת זקנים בניין. ובניין
+נערים סתירה. והשמר פן תעשה כרחבעם בן שלמה ששמע לעצת ילרים. ועזב
+עצת זקנים ונסתר מלכותו על כך שאין העולם מתקיים אלא בזכות הזקנים
+ותינוקות של בית רכן. וכל מדינה שאין בה זה או זה ראויה ליחרב שכל זמן
+שהיה לוט בסדום לא נחרבה שבו ביום באו מלאכים סרומה רצו לאברה ובזכות
+לוט שהיה זקן המתינו אותו יום ואותו לילה ער שיצא משם. ומניין שהיה זקן.
+שנ' ותאמר הבכירה אל הצעירה אבינו זקן (בר' יט:לא). ומיד שיצא מסדום
+שלש פסיעות נהפכה. ואף בימי דור המבול לא היה המבול כל ימי מתושלח
+הוקן שביום שנכנס נח בתיבה אמר לפני הקב"ה רבונו של עולם מפני מה
+הכנסתנו בתיבה אם להמית אם להחיות א"ל לחיות ועד מתי אנו מיושבים פה
+ואין המבול יורד בעולם טוב לנו להיות בארץ. א"ל הקב"ה זקן אחר יש לי
+ואין רשות למבול לירד עד שיפטר ושמו מתושלח. א"ל רבונו של עולם אם כן
+הכניסהו עמנו וירר המבול לרשעים א"ל אין לו לחיות כי אם שבעת ימים
+ויפטר וירר המבול לעולם שנ' כי לימים עוד שבעה אנכי ממטיר על הארץ
+)בר' ז:ד). וכת' ויהי לשבעת הימים ומי המבול היו על הארץ (שם:י). מכאן
+שבשביל זקן אחד אין הקב"ה מביא מבול לעולם ולא רעה אחרת. הוא הדין.
+היינו דאמר בן סירא סבא בביתא.
+ערבא טבא מאה צפרין בישין ולבישא אלף אלפין:לעולם אל
+יתערב אדם לא עם אדם עשיר הרבה ולא עם עני הרבה. אלא לבינוני ולא
+בצריק הרבה ולא ברשע הרבה. שכן אמר יוסף]אל תתערב! אלא עם אדם
+בינוני בחסידות ובעשירות,
+ומעשה בארם אחר שנתערב עם עשיר גדול וכשבא הזמן א"ל תן לי חלקי.
+א"ל למחר. ולמחר בא אצלו ולא נתן לו כלום. א"ל בא אלי לשבוע אחרת הלך
+לשבוע אחרת ולא נתן לו כלום. וכן עכבו מיום אל יום ומשבוע לשבוע ומחרש
+לחדש ער שהשכים לפתחו יותר ממאה פעמים ולא נתן לו כלום א"ל הא
+למדת אל תאמר לרעך לך ושוב ומחר אתן (מש' ג:כח) ויש אתך א"ל
+מתלמידים אתה. מיר נתן לו כל ממונו. לפיכך לא תתערב כי אם לאדם בינוני.
+שמא תתערב עם עשיר הרבה לא תוכל לו ואף עם עני הרבה לפי שלא תוכל
+להוציא ממונך מתחת ידו. והיינו דאמר בן סירא ערבא.
+פרוס פתור ומחלוקת בטילה:לעולם ימנע אדם מחלוקת מתוך ביתו.
+כיצר יבטלגו יערוך שולחנו וימנע המחלוקת מביתו. שכן מצינו בציבא. כשהיה
+רואה מחלוקת בביתו היה פורס שולחנו ונפסק המריבה. ואם רואה שעריין לא
+פוסקת היה מביא יין ומשמחן שנ' יין ישמח לבב אנוש (תה' קד:טו). ובשביל
+כך זכה לבנות ולבנים ולעבדים ולשפחות ולירש בית ארדוניו. לפיכך כשרואה
+אדם מריבה בתוך ביתו יערוך שולחנו ותיבטל והיינו דאמר בן סירא פרוס.
+צריכת למיתן ולמישא יהא חולקך עם טבא:לעולם כשתרצה לישא
+וליתן (השתדל[ (הסתכל) עם ארם טוב שהשעה משחקת לו. ואם אין אתה
+מוצאו]השתדל[ (הסתכל) עם אדם צריק]ועני! אבל לא עם עם הארץ עשיר,
+ההוא]דאישתדל[ (ראיסתכל) עם עם הארץ עשיר והלכו בסחורה]למדינת הים!
+כשהיו מהלכין בדרך נשא עם הארץ עיניו בקמיצה של חבירו וראה בצל
+קשורה והיה סבור שהיו זוזים קשורים שם בקש להורגו. ער שנעשה לו נס
+שישבו לאכול לחם ופתח קשרו ולקח הבצל מן קמיצתו לאכול. מיר נבהל
+אותו עם הארץ ואמר ברוך המקום שהצילך מירי. א"ל מה הרבר.]א"ל! שהייתי
+סכור שקשר של זוזים הוא. א"ל אם כן ברוך המקום שהצילני מידך. והוא
+יצילני שלא אהיה רשע כמותך לא בחיי ולא במותי,
+לפי שאמרו חכמים שהרשע אפילו בחייו נקרא מת. שנ' כי הלל רשע על
+תאות נפשו (תה' י:ג). והצריקים אפילו במיתתן נקראו חיים. שנ' ובנייהו בן
+יהוידע איש חי ורב פעלים (שמ"ב כג:כ). מכאן שאסור לקבור רשע אצל
+צדיק. שנ' ויהי הם קוברים איש (מל"ב יג:כא). וכת' ויחי ויקם על רגליו (שם:
+שם). שמא תאמר לא החייהו אלישע אלאכרי לקיים דברי אליהו. שנ' ויהיו נא
+פי שנים ברוחך אלי (מל"ב ב:ט). הרי כבר נאמר שנתקיימו שניהם שהחייה
+יונה בן אמיתי הנביא וריפא צרעת נעמן שהיא שקולה כמת. מיכאן שאין
+קוברין רשע אצל צריק. מפני מה לא הלך לביתו לפי שלא ינהגו ישראל
+לקבור רשע אצל צדיק. אמר יוסף קל וחומר ומה צדיק שאין ראוי לשכוב עם
+רשע בקברו. בחייו לא כל שכן. והיינו דאמר בן סירא צריכת,
