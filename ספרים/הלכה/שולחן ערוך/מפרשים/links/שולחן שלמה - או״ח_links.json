@@ -1,0 +1,6210 @@
+[
+  {
+    "line_index_1": 30,
+    "line_index_2": 5,
+    "ref_2": "Shulchan Arukh, Orach Chayim 1:2",
+    "heRef_2": "שולחן ערוך, אורח חיים א, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 19,
+    "ref_2": "Shulchan Arukh, Orach Chayim 2:6",
+    "heRef_2": "שולחן ערוך, אורח חיים ב, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 24,
+    "ref_2": "Shulchan Arukh, Orach Chayim 3:4",
+    "heRef_2": "שולחן ערוך, אורח חיים ג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 30,
+    "ref_2": "Shulchan Arukh, Orach Chayim 3:10",
+    "heRef_2": "שולחן ערוך, אורח חיים ג, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 32,
+    "ref_2": "Shulchan Arukh, Orach Chayim 3:12",
+    "heRef_2": "שולחן ערוך, אורח חיים ג, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 33,
+    "ref_2": "Shulchan Arukh, Orach Chayim 3:13",
+    "heRef_2": "שולחן ערוך, אורח חיים ג, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 37,
+    "ref_2": "Shulchan Arukh, Orach Chayim 3:17",
+    "heRef_2": "שולחן ערוך, אורח חיים ג, יז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 50,
+    "ref_2": "Shulchan Arukh, Orach Chayim 4:12",
+    "heRef_2": "שולחן ערוך, אורח חיים ד, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 56,
+    "ref_2": "Shulchan Arukh, Orach Chayim 4:18",
+    "heRef_2": "שולחן ערוך, אורח חיים ד, יח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 70,
+    "ref_2": "Shulchan Arukh, Orach Chayim 7:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 72,
+    "ref_2": "Shulchan Arukh, Orach Chayim 7:3",
+    "heRef_2": "שולחן ערוך, אורח חיים ז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 86,
+    "ref_2": "Shulchan Arukh, Orach Chayim 8:12",
+    "heRef_2": "שולחן ערוך, אורח חיים ח, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 93,
+    "ref_2": "Shulchan Arukh, Orach Chayim 9:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 103,
+    "ref_2": "Shulchan Arukh, Orach Chayim 10:4",
+    "heRef_2": "שולחן ערוך, אורח חיים י, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 113,
+    "ref_2": "Shulchan Arukh, Orach Chayim 11:1",
+    "heRef_2": "שולחן ערוך, אורח חיים יא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 137,
+    "ref_2": "Shulchan Arukh, Orach Chayim 14:1",
+    "heRef_2": "שולחן ערוך, אורח חיים יד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 138,
+    "ref_2": "Shulchan Arukh, Orach Chayim 14:2",
+    "heRef_2": "שולחן ערוך, אורח חיים יד, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 143,
+    "ref_2": "Shulchan Arukh, Orach Chayim 15:1",
+    "heRef_2": "שולחן ערוך, אורח חיים טו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 143,
+    "ref_2": "Shulchan Arukh, Orach Chayim 15:1",
+    "heRef_2": "שולחן ערוך, אורח חיים טו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 161,
+    "ref_2": "Shulchan Arukh, Orach Chayim 19:2",
+    "heRef_2": "שולחן ערוך, אורח חיים יט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 166,
+    "ref_2": "Shulchan Arukh, Orach Chayim 21:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 178,
+    "ref_2": "Shulchan Arukh, Orach Chayim 24:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 189,
+    "ref_2": "Shulchan Arukh, Orach Chayim 25:5",
+    "heRef_2": "שולחן ערוך, אורח חיים כה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 192,
+    "ref_2": "Shulchan Arukh, Orach Chayim 25:8",
+    "heRef_2": "שולחן ערוך, אורח חיים כה, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 199,
+    "ref_2": "Shulchan Arukh, Orach Chayim 26:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 199,
+    "ref_2": "Shulchan Arukh, Orach Chayim 26:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 202,
+    "ref_2": "Shulchan Arukh, Orach Chayim 27:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 202,
+    "ref_2": "Shulchan Arukh, Orach Chayim 27:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 212,
+    "ref_2": "Shulchan Arukh, Orach Chayim 27:11",
+    "heRef_2": "שולחן ערוך, אורח חיים כז, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 218,
+    "ref_2": "Shulchan Arukh, Orach Chayim 29:1",
+    "heRef_2": "שולחן ערוך, אורח חיים כט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 278,
+    "ref_2": "Shulchan Arukh, Orach Chayim 32:50",
+    "heRef_2": "שולחן ערוך, אורח חיים לב, נ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 282,
+    "ref_2": "Shulchan Arukh, Orach Chayim 33:1",
+    "heRef_2": "שולחן ערוך, אורח חיים לג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 299,
+    "ref_2": "Shulchan Arukh, Orach Chayim 37:1",
+    "heRef_2": "שולחן ערוך, אורח חיים לז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 300,
+    "ref_2": "Shulchan Arukh, Orach Chayim 37:2",
+    "heRef_2": "שולחן ערוך, אורח חיים לז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 306,
+    "ref_2": "Shulchan Arukh, Orach Chayim 38:4",
+    "heRef_2": "שולחן ערוך, אורח חיים לח, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 313,
+    "ref_2": "Shulchan Arukh, Orach Chayim 38:11",
+    "heRef_2": "שולחן ערוך, אורח חיים לח, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 315,
+    "ref_2": "Shulchan Arukh, Orach Chayim 38:13",
+    "heRef_2": "שולחן ערוך, אורח חיים לח, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 317,
+    "ref_2": "Shulchan Arukh, Orach Chayim 39:1",
+    "heRef_2": "שולחן ערוך, אורח חיים לט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 323,
+    "ref_2": "Shulchan Arukh, Orach Chayim 39:7",
+    "heRef_2": "שולחן ערוך, אורח חיים לט, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 330,
+    "ref_2": "Shulchan Arukh, Orach Chayim 40:3",
+    "heRef_2": "שולחן ערוך, אורח חיים מ, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 334,
+    "ref_2": "Shulchan Arukh, Orach Chayim 40:7",
+    "heRef_2": "שולחן ערוך, אורח חיים מ, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 339,
+    "ref_2": "Shulchan Arukh, Orach Chayim 42:1",
+    "heRef_2": "שולחן ערוך, אורח חיים מב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 356,
+    "ref_2": "Shulchan Arukh, Orach Chayim 45:2",
+    "heRef_2": "שולחן ערוך, אורח חיים מה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 360,
+    "ref_2": "Shulchan Arukh, Orach Chayim 46:3",
+    "heRef_2": "שולחן ערוך, אורח חיים מו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 362,
+    "ref_2": "Shulchan Arukh, Orach Chayim 46:5",
+    "heRef_2": "שולחן ערוך, אורח חיים מו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 368,
+    "ref_2": "Shulchan Arukh, Orach Chayim 47:1",
+    "heRef_2": "שולחן ערוך, אורח חיים מז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 403,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:3",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 406,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:6",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 411,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:11",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 415,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:15",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 421,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:21",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, כא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 425,
+    "ref_2": "Shulchan Arukh, Orach Chayim 53:25",
+    "heRef_2": "שולחן ערוך, אורח חיים נג, כה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 430,
+    "ref_2": "Shulchan Arukh, Orach Chayim 54:3",
+    "heRef_2": "שולחן ערוך, אורח חיים נד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 433,
+    "ref_2": "Shulchan Arukh, Orach Chayim 55:2",
+    "heRef_2": "שולחן ערוך, אורח חיים נה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 440,
+    "ref_2": "Shulchan Arukh, Orach Chayim 55:9",
+    "heRef_2": "שולחן ערוך, אורח חיים נה, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 451,
+    "ref_2": "Shulchan Arukh, Orach Chayim 55:20",
+    "heRef_2": "שולחן ערוך, אורח חיים נה, כ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 455,
+    "ref_2": "Shulchan Arukh, Orach Chayim 56:1",
+    "heRef_2": "שולחן ערוך, אורח חיים נו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 458,
+    "ref_2": "Shulchan Arukh, Orach Chayim 56:4",
+    "heRef_2": "שולחן ערוך, אורח חיים נו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 469,
+    "ref_2": "Shulchan Arukh, Orach Chayim 58:6",
+    "heRef_2": "שולחן ערוך, אורח חיים נח, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 473,
+    "ref_2": "Shulchan Arukh, Orach Chayim 59:2",
+    "heRef_2": "שולחן ערוך, אורח חיים נט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 476,
+    "ref_2": "Shulchan Arukh, Orach Chayim 59:5",
+    "heRef_2": "שולחן ערוך, אורח חיים נט, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 479,
+    "ref_2": "Shulchan Arukh, Orach Chayim 60:2",
+    "heRef_2": "שולחן ערוך, אורח חיים ס, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 484,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 485,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:2",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 487,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:4",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 492,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:9",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 500,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:17",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, יז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 501,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:18",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, יח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 503,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:20",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, כ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 564,
+    "line_index_2": 505,
+    "ref_2": "Shulchan Arukh, Orach Chayim 61:22",
+    "heRef_2": "שולחן ערוך, אורח חיים סא, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 568,
+    "line_index_2": 511,
+    "ref_2": "Shulchan Arukh, Orach Chayim 62:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 515,
+    "ref_2": "Shulchan Arukh, Orach Chayim 62:5",
+    "heRef_2": "שולחן ערוך, אורח חיים סב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 517,
+    "ref_2": "Shulchan Arukh, Orach Chayim 63:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 520,
+    "ref_2": "Shulchan Arukh, Orach Chayim 63:4",
+    "heRef_2": "שולחן ערוך, אורח חיים סג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 598,
+    "line_index_2": 536,
+    "ref_2": "Shulchan Arukh, Orach Chayim 66:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 536,
+    "ref_2": "Shulchan Arukh, Orach Chayim 66:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 602,
+    "line_index_2": 537,
+    "ref_2": "Shulchan Arukh, Orach Chayim 66:2",
+    "heRef_2": "שולחן ערוך, אורח חיים סו, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 540,
+    "ref_2": "Shulchan Arukh, Orach Chayim 66:5",
+    "heRef_2": "שולחן ערוך, אורח חיים סו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 544,
+    "ref_2": "Shulchan Arukh, Orach Chayim 66:9",
+    "heRef_2": "שולחן ערוך, אורח חיים סו, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 547,
+    "ref_2": "Shulchan Arukh, Orach Chayim 67:1",
+    "heRef_2": "שולחן ערוך, אורח חיים סז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 554,
+    "ref_2": "Shulchan Arukh, Orach Chayim 70:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ע, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 560,
+    "ref_2": "Shulchan Arukh, Orach Chayim 71:1",
+    "heRef_2": "שולחן ערוך, אורח חיים עא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 562,
+    "ref_2": "Shulchan Arukh, Orach Chayim 71:3",
+    "heRef_2": "שולחן ערוך, אורח חיים עא, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 569,
+    "ref_2": "Shulchan Arukh, Orach Chayim 72:2",
+    "heRef_2": "שולחן ערוך, אורח חיים עב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 574,
+    "ref_2": "Shulchan Arukh, Orach Chayim 73:1",
+    "heRef_2": "שולחן ערוך, אורח חיים עג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 579,
+    "ref_2": "Shulchan Arukh, Orach Chayim 74:1",
+    "heRef_2": "שולחן ערוך, אורח חיים עד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 646,
+    "line_index_2": 580,
+    "ref_2": "Shulchan Arukh, Orach Chayim 74:2",
+    "heRef_2": "שולחן ערוך, אורח חיים עד, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 583,
+    "ref_2": "Shulchan Arukh, Orach Chayim 74:5",
+    "heRef_2": "שולחן ערוך, אורח חיים עד, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 587,
+    "ref_2": "Shulchan Arukh, Orach Chayim 75:2",
+    "heRef_2": "שולחן ערוך, אורח חיים עה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 588,
+    "ref_2": "Shulchan Arukh, Orach Chayim 75:3",
+    "heRef_2": "שולחן ערוך, אורח חיים עה, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 595,
+    "ref_2": "Shulchan Arukh, Orach Chayim 76:3",
+    "heRef_2": "שולחן ערוך, אורח חיים עו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 677,
+    "line_index_2": 605,
+    "ref_2": "Shulchan Arukh, Orach Chayim 78:1",
+    "heRef_2": "שולחן ערוך, אורח חיים עח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 607,
+    "ref_2": "Shulchan Arukh, Orach Chayim 79:1",
+    "heRef_2": "שולחן ערוך, אורח חיים עט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 687,
+    "line_index_2": 615,
+    "ref_2": "Shulchan Arukh, Orach Chayim 79:9",
+    "heRef_2": "שולחן ערוך, אורח חיים עט, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 689,
+    "line_index_2": 617,
+    "ref_2": "Shulchan Arukh, Orach Chayim 80:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 691,
+    "line_index_2": 617,
+    "ref_2": "Shulchan Arukh, Orach Chayim 80:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 695,
+    "line_index_2": 619,
+    "ref_2": "Shulchan Arukh, Orach Chayim 81:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 709,
+    "line_index_2": 631,
+    "ref_2": "Shulchan Arukh, Orach Chayim 84:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 713,
+    "line_index_2": 633,
+    "ref_2": "Shulchan Arukh, Orach Chayim 85:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 719,
+    "line_index_2": 636,
+    "ref_2": "Shulchan Arukh, Orach Chayim 86:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 723,
+    "line_index_2": 638,
+    "ref_2": "Shulchan Arukh, Orach Chayim 87:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 727,
+    "line_index_2": 642,
+    "ref_2": "Shulchan Arukh, Orach Chayim 88:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 644,
+    "ref_2": "Shulchan Arukh, Orach Chayim 89:1",
+    "heRef_2": "שולחן ערוך, אורח חיים פט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 645,
+    "ref_2": "Shulchan Arukh, Orach Chayim 89:2",
+    "heRef_2": "שולחן ערוך, אורח חיים פט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 743,
+    "line_index_2": 653,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 749,
+    "line_index_2": 657,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:5",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 757,
+    "line_index_2": 662,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:10",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 763,
+    "line_index_2": 667,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:15",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 765,
+    "line_index_2": 668,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:16",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, טז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 767,
+    "line_index_2": 671,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:19",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, יט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 775,
+    "line_index_2": 676,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:24",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, כד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 779,
+    "line_index_2": 679,
+    "ref_2": "Shulchan Arukh, Orach Chayim 90:27",
+    "heRef_2": "שולחן ערוך, אורח חיים צ, כז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 781,
+    "line_index_2": 681,
+    "ref_2": "Shulchan Arukh, Orach Chayim 91:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 787,
+    "line_index_2": 688,
+    "ref_2": "Shulchan Arukh, Orach Chayim 92:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 791,
+    "line_index_2": 691,
+    "ref_2": "Shulchan Arukh, Orach Chayim 92:4",
+    "heRef_2": "שולחן ערוך, אורח חיים צב, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 793,
+    "line_index_2": 695,
+    "ref_2": "Shulchan Arukh, Orach Chayim 92:8",
+    "heRef_2": "שולחן ערוך, אורח חיים צב, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 795,
+    "line_index_2": 697,
+    "ref_2": "Shulchan Arukh, Orach Chayim 92:10",
+    "heRef_2": "שולחן ערוך, אורח חיים צב, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 797,
+    "line_index_2": 699,
+    "ref_2": "Shulchan Arukh, Orach Chayim 93:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 819,
+    "line_index_2": 719,
+    "ref_2": "Shulchan Arukh, Orach Chayim 96:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 823,
+    "line_index_2": 722,
+    "ref_2": "Shulchan Arukh, Orach Chayim 97:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 831,
+    "line_index_2": 725,
+    "ref_2": "Shulchan Arukh, Orach Chayim 97:4",
+    "heRef_2": "שולחן ערוך, אורח חיים צז, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 835,
+    "line_index_2": 728,
+    "ref_2": "Shulchan Arukh, Orach Chayim 98:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 837,
+    "line_index_2": 728,
+    "ref_2": "Shulchan Arukh, Orach Chayim 98:1",
+    "heRef_2": "שולחן ערוך, אורח חיים צח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 839,
+    "line_index_2": 730,
+    "ref_2": "Shulchan Arukh, Orach Chayim 98:3",
+    "heRef_2": "שולחן ערוך, אורח חיים צח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 843,
+    "line_index_2": 732,
+    "ref_2": "Shulchan Arukh, Orach Chayim 98:5",
+    "heRef_2": "שולחן ערוך, אורח חיים צח, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 849,
+    "line_index_2": 738,
+    "ref_2": "Shulchan Arukh, Orach Chayim 100:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ק, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 851,
+    "line_index_2": 740,
+    "ref_2": "Shulchan Arukh, Orach Chayim 101:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 859,
+    "line_index_2": 745,
+    "ref_2": "Shulchan Arukh, Orach Chayim 102:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 861,
+    "line_index_2": 748,
+    "ref_2": "Shulchan Arukh, Orach Chayim 102:4",
+    "heRef_2": "שולחן ערוך, אורח חיים קב, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 751,
+    "ref_2": "Shulchan Arukh, Orach Chayim 103:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 865,
+    "line_index_2": 751,
+    "ref_2": "Shulchan Arukh, Orach Chayim 103:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 871,
+    "line_index_2": 759,
+    "ref_2": "Shulchan Arukh, Orach Chayim 104:5",
+    "heRef_2": "שולחן ערוך, אורח חיים קד, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 873,
+    "line_index_2": 761,
+    "ref_2": "Shulchan Arukh, Orach Chayim 104:7",
+    "heRef_2": "שולחן ערוך, אורח חיים קד, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 881,
+    "line_index_2": 766,
+    "ref_2": "Shulchan Arukh, Orach Chayim 106:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 883,
+    "line_index_2": 770,
+    "ref_2": "Shulchan Arukh, Orach Chayim 107:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 770,
+    "ref_2": "Shulchan Arukh, Orach Chayim 107:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 887,
+    "line_index_2": 775,
+    "ref_2": "Shulchan Arukh, Orach Chayim 108:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 889,
+    "line_index_2": 775,
+    "ref_2": "Shulchan Arukh, Orach Chayim 108:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 895,
+    "line_index_2": 785,
+    "ref_2": "Shulchan Arukh, Orach Chayim 108:11",
+    "heRef_2": "שולחן ערוך, אורח חיים קח, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 897,
+    "line_index_2": 786,
+    "ref_2": "Shulchan Arukh, Orach Chayim 108:12",
+    "heRef_2": "שולחן ערוך, אורח חיים קח, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 905,
+    "line_index_2": 792,
+    "ref_2": "Shulchan Arukh, Orach Chayim 110:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קי, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 919,
+    "line_index_2": 808,
+    "ref_2": "Shulchan Arukh, Orach Chayim 113:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קיג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 921,
+    "line_index_2": 811,
+    "ref_2": "Shulchan Arukh, Orach Chayim 113:4",
+    "heRef_2": "שולחן ערוך, אורח חיים קיג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 923,
+    "line_index_2": 813,
+    "ref_2": "Shulchan Arukh, Orach Chayim 113:6",
+    "heRef_2": "שולחן ערוך, אורח חיים קיג, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 925,
+    "line_index_2": 815,
+    "ref_2": "Shulchan Arukh, Orach Chayim 113:8",
+    "heRef_2": "שולחן ערוך, אורח חיים קיג, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 931,
+    "line_index_2": 820,
+    "ref_2": "Shulchan Arukh, Orach Chayim 114:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קיד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 933,
+    "line_index_2": 822,
+    "ref_2": "Shulchan Arukh, Orach Chayim 114:5",
+    "heRef_2": "שולחן ערוך, אורח חיים קיד, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 937,
+    "line_index_2": 828,
+    "ref_2": "Shulchan Arukh, Orach Chayim 115:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קטו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 963,
+    "line_index_2": 845,
+    "ref_2": "Shulchan Arukh, Orach Chayim 120:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 967,
+    "line_index_2": 847,
+    "ref_2": "Shulchan Arukh, Orach Chayim 121:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 969,
+    "line_index_2": 851,
+    "ref_2": "Shulchan Arukh, Orach Chayim 122:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 973,
+    "line_index_2": 853,
+    "ref_2": "Shulchan Arukh, Orach Chayim 122:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קכב, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 975,
+    "line_index_2": 855,
+    "ref_2": "Shulchan Arukh, Orach Chayim 123:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 979,
+    "line_index_2": 857,
+    "ref_2": "Shulchan Arukh, Orach Chayim 123:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קכג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 983,
+    "line_index_2": 862,
+    "ref_2": "Shulchan Arukh, Orach Chayim 124:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1000,
+    "line_index_2": 869,
+    "ref_2": "Shulchan Arukh, Orach Chayim 124:8",
+    "heRef_2": "שולחן ערוך, אורח חיים קכד, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1002,
+    "line_index_2": 870,
+    "ref_2": "Shulchan Arukh, Orach Chayim 124:9",
+    "heRef_2": "שולחן ערוך, אורח חיים קכד, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1004,
+    "line_index_2": 873,
+    "ref_2": "Shulchan Arukh, Orach Chayim 124:12",
+    "heRef_2": "שולחן ערוך, אורח חיים קכד, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1026,
+    "line_index_2": 886,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1028,
+    "line_index_2": 887,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:2",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 895,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:10",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1044,
+    "line_index_2": 902,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:17",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, יז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 905,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:20",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, כ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1050,
+    "line_index_2": 906,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:21",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, כא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1052,
+    "line_index_2": 908,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:23",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, כג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1060,
+    "line_index_2": 930,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:45",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, מה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1062,
+    "line_index_2": 930,
+    "ref_2": "Shulchan Arukh, Orach Chayim 128:45",
+    "heRef_2": "שולחן ערוך, אורח חיים קכח, מה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1072,
+    "line_index_2": 937,
+    "ref_2": "Shulchan Arukh, Orach Chayim 131:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קלא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1092,
+    "line_index_2": 951,
+    "ref_2": "Shulchan Arukh, Orach Chayim 134:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קלד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1114,
+    "line_index_2": 973,
+    "ref_2": "Shulchan Arukh, Orach Chayim 137:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קלז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1122,
+    "line_index_2": 978,
+    "ref_2": "Shulchan Arukh, Orach Chayim 138:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1126,
+    "line_index_2": 980,
+    "ref_2": "Shulchan Arukh, Orach Chayim 139:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קלט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1134,
+    "line_index_2": 990,
+    "ref_2": "Shulchan Arukh, Orach Chayim 139:11",
+    "heRef_2": "שולחן ערוך, אורח חיים קלט, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1142,
+    "line_index_2": 994,
+    "ref_2": "Shulchan Arukh, Orach Chayim 140:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קמ, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1154,
+    "line_index_2": 1002,
+    "ref_2": "Shulchan Arukh, Orach Chayim 141:7",
+    "heRef_2": "שולחן ערוך, אורח חיים קמא, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1156,
+    "line_index_2": 1005,
+    "ref_2": "Shulchan Arukh, Orach Chayim 142:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קמב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1160,
+    "line_index_2": 1008,
+    "ref_2": "Shulchan Arukh, Orach Chayim 143:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קמג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1170,
+    "line_index_2": 1014,
+    "ref_2": "Shulchan Arukh, Orach Chayim 144:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קמד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1174,
+    "line_index_2": 1023,
+    "ref_2": "Shulchan Arukh, Orach Chayim 146:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קמו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1192,
+    "line_index_2": 1037,
+    "ref_2": "Shulchan Arukh, Orach Chayim 148:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קמח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1201,
+    "line_index_2": 1041,
+    "ref_2": "Shulchan Arukh, Orach Chayim 150:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קנ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1229,
+    "line_index_2": 1082,
+    "ref_2": "Shulchan Arukh, Orach Chayim 153:21",
+    "heRef_2": "שולחן ערוך, אורח חיים קנג, כא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1233,
+    "line_index_2": 1087,
+    "ref_2": "Shulchan Arukh, Orach Chayim 154:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קנד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1237,
+    "line_index_2": 1095,
+    "ref_2": "Shulchan Arukh, Orach Chayim 154:11",
+    "heRef_2": "שולחן ערוך, אורח חיים קנד, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1265,
+    "line_index_2": 1106,
+    "ref_2": "Shulchan Arukh, Orach Chayim 157:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קנז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1267,
+    "line_index_2": 1106,
+    "ref_2": "Shulchan Arukh, Orach Chayim 157:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קנז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1273,
+    "line_index_2": 1114,
+    "ref_2": "Shulchan Arukh, Orach Chayim 158:7",
+    "heRef_2": "שולחן ערוך, אורח חיים קנח, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1281,
+    "line_index_2": 1122,
+    "ref_2": "Shulchan Arukh, Orach Chayim 159:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קנט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1283,
+    "line_index_2": 1124,
+    "ref_2": "Shulchan Arukh, Orach Chayim 159:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קנט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1287,
+    "line_index_2": 1126,
+    "ref_2": "Shulchan Arukh, Orach Chayim 159:5",
+    "heRef_2": "שולחן ערוך, אורח חיים קנט, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1289,
+    "line_index_2": 1134,
+    "ref_2": "Shulchan Arukh, Orach Chayim 159:13",
+    "heRef_2": "שולחן ערוך, אורח חיים קנט, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1299,
+    "line_index_2": 1143,
+    "ref_2": "Shulchan Arukh, Orach Chayim 160:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קס, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1305,
+    "line_index_2": 1151,
+    "ref_2": "Shulchan Arukh, Orach Chayim 160:9",
+    "heRef_2": "שולחן ערוך, אורח חיים קס, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1311,
+    "line_index_2": 1154,
+    "ref_2": "Shulchan Arukh, Orach Chayim 160:12",
+    "heRef_2": "שולחן ערוך, אורח חיים קס, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1319,
+    "line_index_2": 1164,
+    "ref_2": "Shulchan Arukh, Orach Chayim 162:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1325,
+    "line_index_2": 1175,
+    "ref_2": "Shulchan Arukh, Orach Chayim 163:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1331,
+    "line_index_2": 1178,
+    "ref_2": "Shulchan Arukh, Orach Chayim 164:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1337,
+    "line_index_2": 1181,
+    "ref_2": "Shulchan Arukh, Orach Chayim 165:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1344,
+    "line_index_2": 1186,
+    "ref_2": "Shulchan Arukh, Orach Chayim 167:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1350,
+    "line_index_2": 1190,
+    "ref_2": "Shulchan Arukh, Orach Chayim 167:5",
+    "heRef_2": "שולחן ערוך, אורח חיים קסז, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1360,
+    "line_index_2": 1207,
+    "ref_2": "Shulchan Arukh, Orach Chayim 168:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קסח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1366,
+    "line_index_2": 1208,
+    "ref_2": "Shulchan Arukh, Orach Chayim 168:2",
+    "heRef_2": "שולחן ערוך, אורח חיים קסח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1398,
+    "line_index_2": 1229,
+    "ref_2": "Shulchan Arukh, Orach Chayim 170:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קע, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1412,
+    "line_index_2": 1250,
+    "ref_2": "Shulchan Arukh, Orach Chayim 170:22",
+    "heRef_2": "שולחן ערוך, אורח חיים קע, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1414,
+    "line_index_2": 1252,
+    "ref_2": "Shulchan Arukh, Orach Chayim 171:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1426,
+    "line_index_2": 1258,
+    "ref_2": "Shulchan Arukh, Orach Chayim 172:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1428,
+    "line_index_2": 1258,
+    "ref_2": "Shulchan Arukh, Orach Chayim 172:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1442,
+    "line_index_2": 1274,
+    "ref_2": "Shulchan Arukh, Orach Chayim 175:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1448,
+    "line_index_2": 1283,
+    "ref_2": "Shulchan Arukh, Orach Chayim 177:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1450,
+    "line_index_2": 1283,
+    "ref_2": "Shulchan Arukh, Orach Chayim 177:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1460,
+    "line_index_2": 1297,
+    "ref_2": "Shulchan Arukh, Orach Chayim 179:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קעט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1466,
+    "line_index_2": 1304,
+    "ref_2": "Shulchan Arukh, Orach Chayim 180:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1476,
+    "line_index_2": 1321,
+    "ref_2": "Shulchan Arukh, Orach Chayim 182:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1478,
+    "line_index_2": 1321,
+    "ref_2": "Shulchan Arukh, Orach Chayim 182:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1490,
+    "line_index_2": 1331,
+    "ref_2": "Shulchan Arukh, Orach Chayim 183:3",
+    "heRef_2": "שולחן ערוך, אורח חיים קפג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1492,
+    "line_index_2": 1332,
+    "ref_2": "Shulchan Arukh, Orach Chayim 183:4",
+    "heRef_2": "שולחן ערוך, אורח חיים קפג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1494,
+    "line_index_2": 1332,
+    "ref_2": "Shulchan Arukh, Orach Chayim 183:4",
+    "heRef_2": "שולחן ערוך, אורח חיים קפג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1500,
+    "line_index_2": 1336,
+    "ref_2": "Shulchan Arukh, Orach Chayim 183:8",
+    "heRef_2": "שולחן ערוך, אורח חיים קפג, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1504,
+    "line_index_2": 1342,
+    "ref_2": "Shulchan Arukh, Orach Chayim 184:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1510,
+    "line_index_2": 1346,
+    "ref_2": "Shulchan Arukh, Orach Chayim 184:5",
+    "heRef_2": "שולחן ערוך, אורח חיים קפד, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1518,
+    "line_index_2": 1355,
+    "ref_2": "Shulchan Arukh, Orach Chayim 186:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1524,
+    "line_index_2": 1363,
+    "ref_2": "Shulchan Arukh, Orach Chayim 188:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קפח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1532,
+    "line_index_2": 1372,
+    "ref_2": "Shulchan Arukh, Orach Chayim 188:10",
+    "heRef_2": "שולחן ערוך, אורח חיים קפח, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1542,
+    "line_index_2": 1383,
+    "ref_2": "Shulchan Arukh, Orach Chayim 191:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קצא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1558,
+    "line_index_2": 1401,
+    "ref_2": "Shulchan Arukh, Orach Chayim 195:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1566,
+    "line_index_2": 1410,
+    "ref_2": "Shulchan Arukh, Orach Chayim 197:1",
+    "heRef_2": "שולחן ערוך, אורח חיים קצז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1589,
+    "line_index_2": 1437,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1591,
+    "line_index_2": 1437,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1597,
+    "line_index_2": 1439,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1601,
+    "line_index_2": 1441,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1607,
+    "line_index_2": 1444,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:8",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1609,
+    "line_index_2": 1445,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1615,
+    "line_index_2": 1450,
+    "ref_2": "Shulchan Arukh, Orach Chayim 202:14",
+    "heRef_2": "שולחן ערוך, אורח חיים רב, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1627,
+    "line_index_2": 1459,
+    "ref_2": "Shulchan Arukh, Orach Chayim 203:4",
+    "heRef_2": "שולחן ערוך, אורח חיים רג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1631,
+    "line_index_2": 1462,
+    "ref_2": "Shulchan Arukh, Orach Chayim 203:7",
+    "heRef_2": "שולחן ערוך, אורח חיים רג, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1635,
+    "line_index_2": 1465,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1641,
+    "line_index_2": 1469,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1643,
+    "line_index_2": 1471,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:7",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1645,
+    "line_index_2": 1473,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1649,
+    "line_index_2": 1476,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:12",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1651,
+    "line_index_2": 1477,
+    "ref_2": "Shulchan Arukh, Orach Chayim 204:13",
+    "heRef_2": "שולחן ערוך, אורח חיים רד, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1655,
+    "line_index_2": 1479,
+    "ref_2": "Shulchan Arukh, Orach Chayim 205:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1663,
+    "line_index_2": 1485,
+    "ref_2": "Shulchan Arukh, Orach Chayim 206:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1665,
+    "line_index_2": 1487,
+    "ref_2": "Shulchan Arukh, Orach Chayim 206:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1669,
+    "line_index_2": 1489,
+    "ref_2": "Shulchan Arukh, Orach Chayim 206:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1686,
+    "line_index_2": 1496,
+    "ref_2": "Shulchan Arukh, Orach Chayim 208:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1696,
+    "line_index_2": 1505,
+    "ref_2": "Shulchan Arukh, Orach Chayim 208:12",
+    "heRef_2": "שולחן ערוך, אורח חיים רח, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1706,
+    "line_index_2": 1515,
+    "ref_2": "Shulchan Arukh, Orach Chayim 209:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1708,
+    "line_index_2": 1517,
+    "ref_2": "Shulchan Arukh, Orach Chayim 210:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רי, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1724,
+    "line_index_2": 1527,
+    "ref_2": "Shulchan Arukh, Orach Chayim 212:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ריב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1732,
+    "line_index_2": 1536,
+    "ref_2": "Shulchan Arukh, Orach Chayim 215:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רטו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1736,
+    "line_index_2": 1537,
+    "ref_2": "Shulchan Arukh, Orach Chayim 215:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רטו, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1740,
+    "line_index_2": 1539,
+    "ref_2": "Shulchan Arukh, Orach Chayim 215:4",
+    "heRef_2": "שולחן ערוך, אורח חיים רטו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1746,
+    "line_index_2": 1541,
+    "ref_2": "Shulchan Arukh, Orach Chayim 216:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רטז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1754,
+    "line_index_2": 1552,
+    "ref_2": "Shulchan Arukh, Orach Chayim 216:12",
+    "heRef_2": "שולחן ערוך, אורח חיים רטז, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1760,
+    "line_index_2": 1557,
+    "ref_2": "Shulchan Arukh, Orach Chayim 217:2",
+    "heRef_2": "שולחן ערוך, אורח חיים ריז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1762,
+    "line_index_2": 1558,
+    "ref_2": "Shulchan Arukh, Orach Chayim 217:3",
+    "heRef_2": "שולחן ערוך, אורח חיים ריז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1764,
+    "line_index_2": 1560,
+    "ref_2": "Shulchan Arukh, Orach Chayim 217:5",
+    "heRef_2": "שולחן ערוך, אורח חיים ריז, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1766,
+    "line_index_2": 1565,
+    "ref_2": "Shulchan Arukh, Orach Chayim 218:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ריח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1776,
+    "line_index_2": 1575,
+    "ref_2": "Shulchan Arukh, Orach Chayim 219:1",
+    "heRef_2": "שולחן ערוך, אורח חיים ריט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1782,
+    "line_index_2": 1586,
+    "ref_2": "Shulchan Arukh, Orach Chayim 220:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רכ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1788,
+    "line_index_2": 1592,
+    "ref_2": "Shulchan Arukh, Orach Chayim 222:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1792,
+    "line_index_2": 1597,
+    "ref_2": "Shulchan Arukh, Orach Chayim 223:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1796,
+    "line_index_2": 1599,
+    "ref_2": "Shulchan Arukh, Orach Chayim 223:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רכג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1798,
+    "line_index_2": 1601,
+    "ref_2": "Shulchan Arukh, Orach Chayim 223:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רכג, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1800,
+    "line_index_2": 1602,
+    "ref_2": "Shulchan Arukh, Orach Chayim 223:6",
+    "heRef_2": "שולחן ערוך, אורח חיים רכג, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1804,
+    "line_index_2": 1612,
+    "ref_2": "Shulchan Arukh, Orach Chayim 224:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רכד, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1806,
+    "line_index_2": 1615,
+    "ref_2": "Shulchan Arukh, Orach Chayim 224:12",
+    "heRef_2": "שולחן ערוך, אורח חיים רכד, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1812,
+    "line_index_2": 1618,
+    "ref_2": "Shulchan Arukh, Orach Chayim 225:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רכה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1814,
+    "line_index_2": 1619,
+    "ref_2": "Shulchan Arukh, Orach Chayim 225:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רכה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1820,
+    "line_index_2": 1623,
+    "ref_2": "Shulchan Arukh, Orach Chayim 225:6",
+    "heRef_2": "שולחן ערוך, אורח חיים רכה, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1840,
+    "line_index_2": 1639,
+    "ref_2": "Shulchan Arukh, Orach Chayim 229:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רכט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1846,
+    "line_index_2": 1642,
+    "ref_2": "Shulchan Arukh, Orach Chayim 230:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רל, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1850,
+    "line_index_2": 1643,
+    "ref_2": "Shulchan Arukh, Orach Chayim 230:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רל, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1856,
+    "line_index_2": 1646,
+    "ref_2": "Shulchan Arukh, Orach Chayim 230:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רל, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1863,
+    "line_index_2": 1650,
+    "ref_2": "Shulchan Arukh, Orach Chayim 232:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רלב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1873,
+    "line_index_2": 1657,
+    "ref_2": "Shulchan Arukh, Orach Chayim 234:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רלד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1881,
+    "line_index_2": 1662,
+    "ref_2": "Shulchan Arukh, Orach Chayim 235:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רלה, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1883,
+    "line_index_2": 1665,
+    "ref_2": "Shulchan Arukh, Orach Chayim 236:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רלו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1891,
+    "line_index_2": 1672,
+    "ref_2": "Shulchan Arukh, Orach Chayim 238:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1905,
+    "line_index_2": 1678,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1907,
+    "line_index_2": 1678,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1908,
+    "line_index_2": 1678,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1912,
+    "line_index_2": 1679,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1914,
+    "line_index_2": 1681,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:4",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1916,
+    "line_index_2": 1682,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1920,
+    "line_index_2": 1683,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:6",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1926,
+    "line_index_2": 1686,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1928,
+    "line_index_2": 1688,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:11",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1930,
+    "line_index_2": 1689,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:12",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1932,
+    "line_index_2": 1691,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:14",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1936,
+    "line_index_2": 1693,
+    "ref_2": "Shulchan Arukh, Orach Chayim 240:16",
+    "heRef_2": "שולחן ערוך, אורח חיים רמ, טז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1978,
+    "line_index_2": 1723,
+    "ref_2": "Shulchan Arukh, Orach Chayim 247:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רמז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1980,
+    "line_index_2": 1728,
+    "ref_2": "Shulchan Arukh, Orach Chayim 247:6",
+    "heRef_2": "שולחן ערוך, אורח חיים רמז, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1982,
+    "line_index_2": 1730,
+    "ref_2": "Shulchan Arukh, Orach Chayim 248:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רמח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2002,
+    "line_index_2": 1746,
+    "ref_2": "Shulchan Arukh, Orach Chayim 252:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רנב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2006,
+    "line_index_2": 1747,
+    "ref_2": "Shulchan Arukh, Orach Chayim 252:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רנב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2028,
+    "line_index_2": 1796,
+    "ref_2": "Shulchan Arukh, Orach Chayim 260:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רס, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2030,
+    "line_index_2": 1798,
+    "ref_2": "Shulchan Arukh, Orach Chayim 261:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רסא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2040,
+    "line_index_2": 1804,
+    "ref_2": "Shulchan Arukh, Orach Chayim 262:2",
+    "heRef_2": "שולחן ערוך, אורח חיים רסב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2042,
+    "line_index_2": 1807,
+    "ref_2": "Shulchan Arukh, Orach Chayim 263:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רסג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2044,
+    "line_index_2": 1807,
+    "ref_2": "Shulchan Arukh, Orach Chayim 263:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רסג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2060,
+    "line_index_2": 1817,
+    "ref_2": "Shulchan Arukh, Orach Chayim 263:11",
+    "heRef_2": "שולחן ערוך, אורח חיים רסג, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2062,
+    "line_index_2": 1820,
+    "ref_2": "Shulchan Arukh, Orach Chayim 263:14",
+    "heRef_2": "שולחן ערוך, אורח חיים רסג, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2072,
+    "line_index_2": 1832,
+    "ref_2": "Shulchan Arukh, Orach Chayim 264:8",
+    "heRef_2": "שולחן ערוך, אורח חיים רסד, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2100,
+    "line_index_2": 1863,
+    "ref_2": "Shulchan Arukh, Orach Chayim 268:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רסח, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2108,
+    "line_index_2": 1875,
+    "ref_2": "Shulchan Arukh, Orach Chayim 270:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רע, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2120,
+    "line_index_2": 1886,
+    "ref_2": "Shulchan Arukh, Orach Chayim 271:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רעא, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2122,
+    "line_index_2": 1887,
+    "ref_2": "Shulchan Arukh, Orach Chayim 271:10",
+    "heRef_2": "שולחן ערוך, אורח חיים רעא, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2126,
+    "line_index_2": 1896,
+    "ref_2": "Shulchan Arukh, Orach Chayim 272:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2132,
+    "line_index_2": 1907,
+    "ref_2": "Shulchan Arukh, Orach Chayim 273:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2134,
+    "line_index_2": 1911,
+    "ref_2": "Shulchan Arukh, Orach Chayim 273:5",
+    "heRef_2": "שולחן ערוך, אורח חיים רעג, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2140,
+    "line_index_2": 1920,
+    "ref_2": "Shulchan Arukh, Orach Chayim 275:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2146,
+    "line_index_2": 1930,
+    "ref_2": "Shulchan Arukh, Orach Chayim 275:11",
+    "heRef_2": "שולחן ערוך, אורח חיים רעה, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2162,
+    "line_index_2": 1939,
+    "ref_2": "Shulchan Arukh, Orach Chayim 277:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2170,
+    "line_index_2": 1945,
+    "ref_2": "Shulchan Arukh, Orach Chayim 278:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2174,
+    "line_index_2": 1947,
+    "ref_2": "Shulchan Arukh, Orach Chayim 279:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רעט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2176,
+    "line_index_2": 1952,
+    "ref_2": "Shulchan Arukh, Orach Chayim 279:6",
+    "heRef_2": "שולחן ערוך, אורח חיים רעט, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2184,
+    "line_index_2": 1958,
+    "ref_2": "Shulchan Arukh, Orach Chayim 281:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2188,
+    "line_index_2": 1960,
+    "ref_2": "Shulchan Arukh, Orach Chayim 282:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2200,
+    "line_index_2": 1968,
+    "ref_2": "Shulchan Arukh, Orach Chayim 283:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2220,
+    "line_index_2": 1986,
+    "ref_2": "Shulchan Arukh, Orach Chayim 286:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2222,
+    "line_index_2": 1988,
+    "ref_2": "Shulchan Arukh, Orach Chayim 286:3",
+    "heRef_2": "שולחן ערוך, אורח חיים רפו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2224,
+    "line_index_2": 1992,
+    "ref_2": "Shulchan Arukh, Orach Chayim 287:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2236,
+    "line_index_2": 1997,
+    "ref_2": "Shulchan Arukh, Orach Chayim 288:4",
+    "heRef_2": "שולחן ערוך, אורח חיים רפח, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2240,
+    "line_index_2": 2005,
+    "ref_2": "Shulchan Arukh, Orach Chayim 289:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רפט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2244,
+    "line_index_2": 2008,
+    "ref_2": "Shulchan Arukh, Orach Chayim 290:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רצ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2274,
+    "line_index_2": 2033,
+    "ref_2": "Shulchan Arukh, Orach Chayim 296:1",
+    "heRef_2": "שולחן ערוך, אורח חיים רצו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2304,
+    "line_index_2": 2072,
+    "ref_2": "Shulchan Arukh, Orach Chayim 299:9",
+    "heRef_2": "שולחן ערוך, אורח חיים רצט, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2306,
+    "line_index_2": 2073,
+    "ref_2": "Shulchan Arukh, Orach Chayim 299:10",
+    "heRef_2": "שולחן ערוך, אורח חיים רצט, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2312,
+    "line_index_2": 2077,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2316,
+    "line_index_2": 2079,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2318,
+    "line_index_2": 2083,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2322,
+    "line_index_2": 2089,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:13",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2324,
+    "line_index_2": 2090,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:14",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2332,
+    "line_index_2": 2098,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:22",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2336,
+    "line_index_2": 2100,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:24",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, כד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2340,
+    "line_index_2": 2109,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:33",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, לג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2350,
+    "line_index_2": 2118,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:42",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, מב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2352,
+    "line_index_2": 2120,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:44",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, מד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2354,
+    "line_index_2": 2121,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:45",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, מה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2356,
+    "line_index_2": 2125,
+    "ref_2": "Shulchan Arukh, Orach Chayim 301:49",
+    "heRef_2": "שולחן ערוך, אורח חיים שא, מט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2384,
+    "line_index_2": 2139,
+    "ref_2": "Shulchan Arukh, Orach Chayim 302:11",
+    "heRef_2": "שולחן ערוך, אורח חיים שב, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2396,
+    "line_index_2": 2171,
+    "ref_2": "Shulchan Arukh, Orach Chayim 304:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2400,
+    "line_index_2": 2175,
+    "ref_2": "Shulchan Arukh, Orach Chayim 305:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2410,
+    "line_index_2": 2189,
+    "ref_2": "Shulchan Arukh, Orach Chayim 305:15",
+    "heRef_2": "שולחן ערוך, אורח חיים שה, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2416,
+    "line_index_2": 2199,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2422,
+    "line_index_2": 2202,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:4",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2424,
+    "line_index_2": 2204,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:6",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2428,
+    "line_index_2": 2205,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2432,
+    "line_index_2": 2206,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2434,
+    "line_index_2": 2207,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:9",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2436,
+    "line_index_2": 2210,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:12",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2438,
+    "line_index_2": 2212,
+    "ref_2": "Shulchan Arukh, Orach Chayim 306:14",
+    "heRef_2": "שולחן ערוך, אורח חיים שו, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2440,
+    "line_index_2": 2214,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2450,
+    "line_index_2": 2217,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:4",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2452,
+    "line_index_2": 2219,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:6",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2454,
+    "line_index_2": 2220,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2456,
+    "line_index_2": 2221,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2458,
+    "line_index_2": 2224,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:11",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2464,
+    "line_index_2": 2228,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:15",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2466,
+    "line_index_2": 2232,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:19",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, יט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2470,
+    "line_index_2": 2234,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:21",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, כא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2472,
+    "line_index_2": 2235,
+    "ref_2": "Shulchan Arukh, Orach Chayim 307:22",
+    "heRef_2": "שולחן ערוך, אורח חיים שז, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2476,
+    "line_index_2": 2237,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2486,
+    "line_index_2": 2239,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2508,
+    "line_index_2": 2258,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:22",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2510,
+    "line_index_2": 2259,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:23",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, כג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2512,
+    "line_index_2": 2260,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:24",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, כד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2518,
+    "line_index_2": 2263,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:27",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, כז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2522,
+    "line_index_2": 2265,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:29",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, כט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2532,
+    "line_index_2": 2272,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:36",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, לו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2538,
+    "line_index_2": 2276,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:40",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, מ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2540,
+    "line_index_2": 2277,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:41",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, מא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2542,
+    "line_index_2": 2283,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:47",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, מז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2544,
+    "line_index_2": 2284,
+    "ref_2": "Shulchan Arukh, Orach Chayim 308:48",
+    "heRef_2": "שולחן ערוך, אורח חיים שח, מח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2554,
+    "line_index_2": 2290,
+    "ref_2": "Shulchan Arukh, Orach Chayim 309:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2556,
+    "line_index_2": 2291,
+    "ref_2": "Shulchan Arukh, Orach Chayim 309:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2568,
+    "line_index_2": 2298,
+    "ref_2": "Shulchan Arukh, Orach Chayim 310:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שי, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2576,
+    "line_index_2": 2302,
+    "ref_2": "Shulchan Arukh, Orach Chayim 310:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שי, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2578,
+    "line_index_2": 2304,
+    "ref_2": "Shulchan Arukh, Orach Chayim 310:9",
+    "heRef_2": "שולחן ערוך, אורח חיים שי, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2582,
+    "line_index_2": 2306,
+    "ref_2": "Shulchan Arukh, Orach Chayim 311:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2588,
+    "line_index_2": 2316,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2590,
+    "line_index_2": 2316,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2592,
+    "line_index_2": 2317,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2596,
+    "line_index_2": 2320,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2598,
+    "line_index_2": 2322,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2600,
+    "line_index_2": 2324,
+    "ref_2": "Shulchan Arukh, Orach Chayim 312:9",
+    "heRef_2": "שולחן ערוך, אורח חיים שיב, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2604,
+    "line_index_2": 2327,
+    "ref_2": "Shulchan Arukh, Orach Chayim 313:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2614,
+    "line_index_2": 2338,
+    "ref_2": "Shulchan Arukh, Orach Chayim 314:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2616,
+    "line_index_2": 2338,
+    "ref_2": "Shulchan Arukh, Orach Chayim 314:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2622,
+    "line_index_2": 2351,
+    "ref_2": "Shulchan Arukh, Orach Chayim 315:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שטו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2628,
+    "line_index_2": 2358,
+    "ref_2": "Shulchan Arukh, Orach Chayim 315:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שטו, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2632,
+    "line_index_2": 2365,
+    "ref_2": "Shulchan Arukh, Orach Chayim 316:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שטז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2636,
+    "line_index_2": 2367,
+    "ref_2": "Shulchan Arukh, Orach Chayim 316:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שטז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2660,
+    "line_index_2": 2382,
+    "ref_2": "Shulchan Arukh, Orach Chayim 317:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שיז, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2666,
+    "line_index_2": 2386,
+    "ref_2": "Shulchan Arukh, Orach Chayim 318:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שיח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2672,
+    "line_index_2": 2389,
+    "ref_2": "Shulchan Arukh, Orach Chayim 318:4",
+    "heRef_2": "שולחן ערוך, אורח חיים שיח, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2698,
+    "line_index_2": 2407,
+    "ref_2": "Shulchan Arukh, Orach Chayim 319:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שיט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2730,
+    "line_index_2": 2422,
+    "ref_2": "Shulchan Arukh, Orach Chayim 319:17",
+    "heRef_2": "שולחן ערוך, אורח חיים שיט, יז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2766,
+    "line_index_2": 2446,
+    "ref_2": "Shulchan Arukh, Orach Chayim 321:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שכא, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2776,
+    "line_index_2": 2452,
+    "ref_2": "Shulchan Arukh, Orach Chayim 321:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שכא, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2784,
+    "line_index_2": 2457,
+    "ref_2": "Shulchan Arukh, Orach Chayim 321:13",
+    "heRef_2": "שולחן ערוך, אורח חיים שכא, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2802,
+    "line_index_2": 2465,
+    "ref_2": "Shulchan Arukh, Orach Chayim 322:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2808,
+    "line_index_2": 2469,
+    "ref_2": "Shulchan Arukh, Orach Chayim 322:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שכב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2810,
+    "line_index_2": 2470,
+    "ref_2": "Shulchan Arukh, Orach Chayim 322:6",
+    "heRef_2": "שולחן ערוך, אורח חיים שכב, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2814,
+    "line_index_2": 2472,
+    "ref_2": "Shulchan Arukh, Orach Chayim 323:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2818,
+    "line_index_2": 2477,
+    "ref_2": "Shulchan Arukh, Orach Chayim 323:6",
+    "heRef_2": "שולחן ערוך, אורח חיים שכג, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2826,
+    "line_index_2": 2481,
+    "ref_2": "Shulchan Arukh, Orach Chayim 323:10",
+    "heRef_2": "שולחן ערוך, אורח חיים שכג, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2833,
+    "line_index_2": 2484,
+    "ref_2": "Shulchan Arukh, Orach Chayim 324:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שכד, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2835,
+    "line_index_2": 2485,
+    "ref_2": "Shulchan Arukh, Orach Chayim 324:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שכד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2843,
+    "line_index_2": 2493,
+    "ref_2": "Shulchan Arukh, Orach Chayim 324:11",
+    "heRef_2": "שולחן ערוך, אורח חיים שכד, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2845,
+    "line_index_2": 2495,
+    "ref_2": "Shulchan Arukh, Orach Chayim 324:13",
+    "heRef_2": "שולחן ערוך, אורח חיים שכד, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2851,
+    "line_index_2": 2499,
+    "ref_2": "Shulchan Arukh, Orach Chayim 325:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שכה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2857,
+    "line_index_2": 2503,
+    "ref_2": "Shulchan Arukh, Orach Chayim 325:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שכה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2859,
+    "line_index_2": 2506,
+    "ref_2": "Shulchan Arukh, Orach Chayim 325:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שכה, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2861,
+    "line_index_2": 2507,
+    "ref_2": "Shulchan Arukh, Orach Chayim 325:9",
+    "heRef_2": "שולחן ערוך, אורח חיים שכה, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2873,
+    "line_index_2": 2516,
+    "ref_2": "Shulchan Arukh, Orach Chayim 326:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שכו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2885,
+    "line_index_2": 2530,
+    "ref_2": "Shulchan Arukh, Orach Chayim 327:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שכז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2891,
+    "line_index_2": 2537,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2895,
+    "line_index_2": 2539,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2901,
+    "line_index_2": 2542,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2917,
+    "line_index_2": 2551,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:17",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, יז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2921,
+    "line_index_2": 2552,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:18",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, יח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2923,
+    "line_index_2": 2553,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:19",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, יט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2939,
+    "line_index_2": 2561,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:27",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, כז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2951,
+    "line_index_2": 2568,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:34",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, לד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2953,
+    "line_index_2": 2571,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:37",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, לז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2955,
+    "line_index_2": 2572,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:38",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, לח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2959,
+    "line_index_2": 2574,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:40",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, מ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2965,
+    "line_index_2": 2582,
+    "ref_2": "Shulchan Arukh, Orach Chayim 328:48",
+    "heRef_2": "שולחן ערוך, אורח חיים שכח, מח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2975,
+    "line_index_2": 2587,
+    "ref_2": "Shulchan Arukh, Orach Chayim 329:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שכט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2977,
+    "line_index_2": 2592,
+    "ref_2": "Shulchan Arukh, Orach Chayim 329:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שכט, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2979,
+    "line_index_2": 2593,
+    "ref_2": "Shulchan Arukh, Orach Chayim 329:9",
+    "heRef_2": "שולחן ערוך, אורח חיים שכט, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2983,
+    "line_index_2": 2595,
+    "ref_2": "Shulchan Arukh, Orach Chayim 330:1",
+    "heRef_2": "שולחן ערוך, אורח חיים של, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2989,
+    "line_index_2": 2601,
+    "ref_2": "Shulchan Arukh, Orach Chayim 330:7",
+    "heRef_2": "שולחן ערוך, אורח חיים של, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2991,
+    "line_index_2": 2603,
+    "ref_2": "Shulchan Arukh, Orach Chayim 330:9",
+    "heRef_2": "שולחן ערוך, אורח חיים של, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3003,
+    "line_index_2": 2612,
+    "ref_2": "Shulchan Arukh, Orach Chayim 331:6",
+    "heRef_2": "שולחן ערוך, אורח חיים שלא, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3015,
+    "line_index_2": 2623,
+    "ref_2": "Shulchan Arukh, Orach Chayim 333:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שלג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3027,
+    "line_index_2": 2659,
+    "ref_2": "Shulchan Arukh, Orach Chayim 335:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שלה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3033,
+    "line_index_2": 2662,
+    "ref_2": "Shulchan Arukh, Orach Chayim 336:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שלו, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3041,
+    "line_index_2": 2665,
+    "ref_2": "Shulchan Arukh, Orach Chayim 336:5",
+    "heRef_2": "שולחן ערוך, אורח חיים שלו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3055,
+    "line_index_2": 2673,
+    "ref_2": "Shulchan Arukh, Orach Chayim 336:13",
+    "heRef_2": "שולחן ערוך, אורח חיים שלו, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3061,
+    "line_index_2": 2675,
+    "ref_2": "Shulchan Arukh, Orach Chayim 337:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שלז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3063,
+    "line_index_2": 2675,
+    "ref_2": "Shulchan Arukh, Orach Chayim 337:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שלז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3067,
+    "line_index_2": 2680,
+    "ref_2": "Shulchan Arukh, Orach Chayim 338:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3069,
+    "line_index_2": 2681,
+    "ref_2": "Shulchan Arukh, Orach Chayim 338:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שלח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3073,
+    "line_index_2": 2686,
+    "ref_2": "Shulchan Arukh, Orach Chayim 338:7",
+    "heRef_2": "שולחן ערוך, אורח חיים שלח, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3087,
+    "line_index_2": 2698,
+    "ref_2": "Shulchan Arukh, Orach Chayim 340:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שמ, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3091,
+    "line_index_2": 2699,
+    "ref_2": "Shulchan Arukh, Orach Chayim 340:3",
+    "heRef_2": "שולחן ערוך, אורח חיים שמ, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3099,
+    "line_index_2": 2704,
+    "ref_2": "Shulchan Arukh, Orach Chayim 340:8",
+    "heRef_2": "שולחן ערוך, אורח חיים שמ, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3101,
+    "line_index_2": 2708,
+    "ref_2": "Shulchan Arukh, Orach Chayim 340:12",
+    "heRef_2": "שולחן ערוך, אורח חיים שמ, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3109,
+    "line_index_2": 2713,
+    "ref_2": "Shulchan Arukh, Orach Chayim 341:2",
+    "heRef_2": "שולחן ערוך, אורח חיים שמא, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3113,
+    "line_index_2": 2716,
+    "ref_2": "Shulchan Arukh, Orach Chayim 342:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שמב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3147,
+    "line_index_2": 2738,
+    "ref_2": "Shulchan Arukh, Orach Chayim 345:16",
+    "heRef_2": "שולחן ערוך, אורח חיים שמה, טז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3163,
+    "line_index_2": 2747,
+    "ref_2": "Shulchan Arukh, Orach Chayim 347:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שמז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3171,
+    "line_index_2": 2751,
+    "ref_2": "Shulchan Arukh, Orach Chayim 349:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שמט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3179,
+    "line_index_2": 2757,
+    "ref_2": "Shulchan Arukh, Orach Chayim 350:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שנ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3203,
+    "line_index_2": 2786,
+    "ref_2": "Shulchan Arukh, Orach Chayim 358:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שנח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3205,
+    "line_index_2": 2786,
+    "ref_2": "Shulchan Arukh, Orach Chayim 358:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שנח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3208,
+    "line_index_2": 2810,
+    "ref_2": "Shulchan Arukh, Orach Chayim 362:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שסב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3242,
+    "line_index_2": 2989,
+    "ref_2": "Shulchan Arukh, Orach Chayim 382:12",
+    "heRef_2": "שולחן ערוך, אורח חיים שפב, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3258,
+    "line_index_2": 3053,
+    "ref_2": "Shulchan Arukh, Orach Chayim 397:1",
+    "heRef_2": "שולחן ערוך, אורח חיים שצז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3271,
+    "line_index_2": 3104,
+    "ref_2": "Shulchan Arukh, Orach Chayim 404:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3279,
+    "line_index_2": 3110,
+    "ref_2": "Shulchan Arukh, Orach Chayim 405:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3281,
+    "line_index_2": 3110,
+    "ref_2": "Shulchan Arukh, Orach Chayim 405:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3287,
+    "line_index_2": 3116,
+    "ref_2": "Shulchan Arukh, Orach Chayim 406:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3289,
+    "line_index_2": 3116,
+    "ref_2": "Shulchan Arukh, Orach Chayim 406:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3291,
+    "line_index_2": 3118,
+    "ref_2": "Shulchan Arukh, Orach Chayim 407:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3293,
+    "line_index_2": 3118,
+    "ref_2": "Shulchan Arukh, Orach Chayim 407:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3307,
+    "line_index_2": 3128,
+    "ref_2": "Shulchan Arukh, Orach Chayim 409:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3309,
+    "line_index_2": 3129,
+    "ref_2": "Shulchan Arukh, Orach Chayim 409:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3335,
+    "line_index_2": 3155,
+    "ref_2": "Shulchan Arukh, Orach Chayim 415:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תטו, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3337,
+    "line_index_2": 3157,
+    "ref_2": "Shulchan Arukh, Orach Chayim 415:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תטו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3367,
+    "line_index_2": 3175,
+    "ref_2": "Shulchan Arukh, Orach Chayim 420:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תכ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3371,
+    "line_index_2": 3178,
+    "ref_2": "Shulchan Arukh, Orach Chayim 421:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תכא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3373,
+    "line_index_2": 3180,
+    "ref_2": "Shulchan Arukh, Orach Chayim 422:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3385,
+    "line_index_2": 3188,
+    "ref_2": "Shulchan Arukh, Orach Chayim 423:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3405,
+    "line_index_2": 3202,
+    "ref_2": "Shulchan Arukh, Orach Chayim 426:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תכו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3417,
+    "line_index_2": 3206,
+    "ref_2": "Shulchan Arukh, Orach Chayim 428:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תכח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3429,
+    "line_index_2": 3216,
+    "ref_2": "Shulchan Arukh, Orach Chayim 429:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תכט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3449,
+    "line_index_2": 3226,
+    "ref_2": "Shulchan Arukh, Orach Chayim 433:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3451,
+    "line_index_2": 3228,
+    "ref_2": "Shulchan Arukh, Orach Chayim 433:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תלג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3457,
+    "line_index_2": 3235,
+    "ref_2": "Shulchan Arukh, Orach Chayim 433:10",
+    "heRef_2": "שולחן ערוך, אורח חיים תלג, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3463,
+    "line_index_2": 3238,
+    "ref_2": "Shulchan Arukh, Orach Chayim 434:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3465,
+    "line_index_2": 3238,
+    "ref_2": "Shulchan Arukh, Orach Chayim 434:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3471,
+    "line_index_2": 3243,
+    "ref_2": "Shulchan Arukh, Orach Chayim 435:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3475,
+    "line_index_2": 3245,
+    "ref_2": "Shulchan Arukh, Orach Chayim 436:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3477,
+    "line_index_2": 3247,
+    "ref_2": "Shulchan Arukh, Orach Chayim 436:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תלו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3483,
+    "line_index_2": 3249,
+    "ref_2": "Shulchan Arukh, Orach Chayim 437:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3485,
+    "line_index_2": 3249,
+    "ref_2": "Shulchan Arukh, Orach Chayim 437:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3487,
+    "line_index_2": 3250,
+    "ref_2": "Shulchan Arukh, Orach Chayim 437:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תלז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3491,
+    "line_index_2": 3254,
+    "ref_2": "Shulchan Arukh, Orach Chayim 438:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3493,
+    "line_index_2": 3254,
+    "ref_2": "Shulchan Arukh, Orach Chayim 438:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3497,
+    "line_index_2": 3257,
+    "ref_2": "Shulchan Arukh, Orach Chayim 439:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תלט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3505,
+    "line_index_2": 3262,
+    "ref_2": "Shulchan Arukh, Orach Chayim 440:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3507,
+    "line_index_2": 3262,
+    "ref_2": "Shulchan Arukh, Orach Chayim 440:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3513,
+    "line_index_2": 3265,
+    "ref_2": "Shulchan Arukh, Orach Chayim 440:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תמ, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3517,
+    "line_index_2": 3267,
+    "ref_2": "Shulchan Arukh, Orach Chayim 441:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תמא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3519,
+    "line_index_2": 3268,
+    "ref_2": "Shulchan Arukh, Orach Chayim 441:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תמא, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3525,
+    "line_index_2": 3272,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3527,
+    "line_index_2": 3272,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3531,
+    "line_index_2": 3274,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3533,
+    "line_index_2": 3275,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3535,
+    "line_index_2": 3278,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3537,
+    "line_index_2": 3279,
+    "ref_2": "Shulchan Arukh, Orach Chayim 442:10",
+    "heRef_2": "שולחן ערוך, אורח חיים תמב, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3549,
+    "line_index_2": 3283,
+    "ref_2": "Shulchan Arukh, Orach Chayim 443:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תמג, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3597,
+    "line_index_2": 3305,
+    "ref_2": "Shulchan Arukh, Orach Chayim 447:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תמז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3607,
+    "line_index_2": 3308,
+    "ref_2": "Shulchan Arukh, Orach Chayim 447:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תמז, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3615,
+    "line_index_2": 3310,
+    "ref_2": "Shulchan Arukh, Orach Chayim 447:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תמז, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3627,
+    "line_index_2": 3315,
+    "ref_2": "Shulchan Arukh, Orach Chayim 447:12",
+    "heRef_2": "שולחן ערוך, אורח חיים תמז, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3631,
+    "line_index_2": 3317,
+    "ref_2": "Shulchan Arukh, Orach Chayim 448:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תמח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3633,
+    "line_index_2": 3318,
+    "ref_2": "Shulchan Arukh, Orach Chayim 448:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תמח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3635,
+    "line_index_2": 3319,
+    "ref_2": "Shulchan Arukh, Orach Chayim 448:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תמח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3637,
+    "line_index_2": 3323,
+    "ref_2": "Shulchan Arukh, Orach Chayim 448:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תמח, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3641,
+    "line_index_2": 3327,
+    "ref_2": "Shulchan Arukh, Orach Chayim 450:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3647,
+    "line_index_2": 3330,
+    "ref_2": "Shulchan Arukh, Orach Chayim 450:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תנ, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3671,
+    "line_index_2": 3344,
+    "ref_2": "Shulchan Arukh, Orach Chayim 451:10",
+    "heRef_2": "שולחן ערוך, אורח חיים תנא, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3677,
+    "line_index_2": 3346,
+    "ref_2": "Shulchan Arukh, Orach Chayim 451:12",
+    "heRef_2": "שולחן ערוך, אורח חיים תנא, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3679,
+    "line_index_2": 3347,
+    "ref_2": "Shulchan Arukh, Orach Chayim 451:13",
+    "heRef_2": "שולחן ערוך, אורח חיים תנא, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3709,
+    "line_index_2": 3366,
+    "ref_2": "Shulchan Arukh, Orach Chayim 452:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תנב, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3721,
+    "line_index_2": 3367,
+    "ref_2": "Shulchan Arukh, Orach Chayim 452:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תנב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3723,
+    "line_index_2": 3367,
+    "ref_2": "Shulchan Arukh, Orach Chayim 452:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תנב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3725,
+    "line_index_2": 3368,
+    "ref_2": "Shulchan Arukh, Orach Chayim 452:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תנב, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3731,
+    "line_index_2": 3371,
+    "ref_2": "Shulchan Arukh, Orach Chayim 453:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3741,
+    "line_index_2": 3377,
+    "ref_2": "Shulchan Arukh, Orach Chayim 453:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תנג, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3749,
+    "line_index_2": 3381,
+    "ref_2": "Shulchan Arukh, Orach Chayim 454:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3765,
+    "line_index_2": 3386,
+    "ref_2": "Shulchan Arukh, Orach Chayim 455:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3779,
+    "line_index_2": 3397,
+    "ref_2": "Shulchan Arukh, Orach Chayim 457:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3785,
+    "line_index_2": 3398,
+    "ref_2": "Shulchan Arukh, Orach Chayim 457:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תנז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3791,
+    "line_index_2": 3402,
+    "ref_2": "Shulchan Arukh, Orach Chayim 459:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תנט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3819,
+    "line_index_2": 3409,
+    "ref_2": "Shulchan Arukh, Orach Chayim 460:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תס, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3825,
+    "line_index_2": 3412,
+    "ref_2": "Shulchan Arukh, Orach Chayim 460:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תס, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3833,
+    "line_index_2": 3417,
+    "ref_2": "Shulchan Arukh, Orach Chayim 461:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תסא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3849,
+    "line_index_2": 3423,
+    "ref_2": "Shulchan Arukh, Orach Chayim 462:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תסב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3855,
+    "line_index_2": 3429,
+    "ref_2": "Shulchan Arukh, Orach Chayim 462:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תסב, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3871,
+    "line_index_2": 3441,
+    "ref_2": "Shulchan Arukh, Orach Chayim 466:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תסו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3875,
+    "line_index_2": 3443,
+    "ref_2": "Shulchan Arukh, Orach Chayim 466:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תסו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3881,
+    "line_index_2": 3445,
+    "ref_2": "Shulchan Arukh, Orach Chayim 466:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תסו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3885,
+    "line_index_2": 3448,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3901,
+    "line_index_2": 3456,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3903,
+    "line_index_2": 3458,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3913,
+    "line_index_2": 3458,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3915,
+    "line_index_2": 3460,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:13",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3921,
+    "line_index_2": 3461,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:14",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3925,
+    "line_index_2": 3462,
+    "ref_2": "Shulchan Arukh, Orach Chayim 467:15",
+    "heRef_2": "שולחן ערוך, אורח חיים תסז, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3937,
+    "line_index_2": 3473,
+    "ref_2": "Shulchan Arukh, Orach Chayim 468:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תסח, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3945,
+    "line_index_2": 3476,
+    "ref_2": "Shulchan Arukh, Orach Chayim 469:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תסט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3955,
+    "line_index_2": 3482,
+    "ref_2": "Shulchan Arukh, Orach Chayim 471:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תעא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3975,
+    "line_index_2": 3492,
+    "ref_2": "Shulchan Arukh, Orach Chayim 472:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תעב, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3985,
+    "line_index_2": 3498,
+    "ref_2": "Shulchan Arukh, Orach Chayim 472:13",
+    "heRef_2": "שולחן ערוך, אורח חיים תעב, יג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3997,
+    "line_index_2": 3506,
+    "ref_2": "Shulchan Arukh, Orach Chayim 473:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תעג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4009,
+    "line_index_2": 3509,
+    "ref_2": "Shulchan Arukh, Orach Chayim 473:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תעג, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4029,
+    "line_index_2": 3517,
+    "ref_2": "Shulchan Arukh, Orach Chayim 475:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תעה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4037,
+    "line_index_2": 3521,
+    "ref_2": "Shulchan Arukh, Orach Chayim 476:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תעו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4049,
+    "line_index_2": 3525,
+    "ref_2": "Shulchan Arukh, Orach Chayim 477:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תעז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4057,
+    "line_index_2": 3527,
+    "ref_2": "Shulchan Arukh, Orach Chayim 478:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תעח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4063,
+    "line_index_2": 3530,
+    "ref_2": "Shulchan Arukh, Orach Chayim 479:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תעט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4075,
+    "line_index_2": 3534,
+    "ref_2": "Shulchan Arukh, Orach Chayim 481:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4085,
+    "line_index_2": 3537,
+    "ref_2": "Shulchan Arukh, Orach Chayim 482:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4089,
+    "line_index_2": 3539,
+    "ref_2": "Shulchan Arukh, Orach Chayim 483:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4091,
+    "line_index_2": 3541,
+    "ref_2": "Shulchan Arukh, Orach Chayim 484:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4093,
+    "line_index_2": 3543,
+    "ref_2": "Shulchan Arukh, Orach Chayim 485:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4099,
+    "line_index_2": 3545,
+    "ref_2": "Shulchan Arukh, Orach Chayim 486:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4101,
+    "line_index_2": 3545,
+    "ref_2": "Shulchan Arukh, Orach Chayim 486:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4105,
+    "line_index_2": 3547,
+    "ref_2": "Shulchan Arukh, Orach Chayim 487:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תפז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4163,
+    "line_index_2": 3582,
+    "ref_2": "Shulchan Arukh, Orach Chayim 493:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תצג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4173,
+    "line_index_2": 3587,
+    "ref_2": "Shulchan Arukh, Orach Chayim 494:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תצד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4195,
+    "line_index_2": 3591,
+    "ref_2": "Shulchan Arukh, Orach Chayim 495:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4197,
+    "line_index_2": 3591,
+    "ref_2": "Shulchan Arukh, Orach Chayim 495:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4201,
+    "line_index_2": 3593,
+    "ref_2": "Shulchan Arukh, Orach Chayim 495:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תצה, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4213,
+    "line_index_2": 3600,
+    "ref_2": "Shulchan Arukh, Orach Chayim 497:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תצז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4241,
+    "line_index_2": 3647,
+    "ref_2": "Shulchan Arukh, Orach Chayim 500:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תק, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4275,
+    "line_index_2": 3665,
+    "ref_2": "Shulchan Arukh, Orach Chayim 503:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4291,
+    "line_index_2": 3673,
+    "ref_2": "Shulchan Arukh, Orach Chayim 505:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4303,
+    "line_index_2": 3687,
+    "ref_2": "Shulchan Arukh, Orach Chayim 507:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4333,
+    "line_index_2": 3704,
+    "ref_2": "Shulchan Arukh, Orach Chayim 510:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקי, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4335,
+    "line_index_2": 3705,
+    "ref_2": "Shulchan Arukh, Orach Chayim 510:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקי, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4359,
+    "line_index_2": 3721,
+    "ref_2": "Shulchan Arukh, Orach Chayim 512:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4361,
+    "line_index_2": 3721,
+    "ref_2": "Shulchan Arukh, Orach Chayim 512:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4365,
+    "line_index_2": 3723,
+    "ref_2": "Shulchan Arukh, Orach Chayim 512:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיב, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4377,
+    "line_index_2": 3730,
+    "ref_2": "Shulchan Arukh, Orach Chayim 513:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיג, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4383,
+    "line_index_2": 3732,
+    "ref_2": "Shulchan Arukh, Orach Chayim 513:8",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיג, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4393,
+    "line_index_2": 3736,
+    "ref_2": "Shulchan Arukh, Orach Chayim 514:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4405,
+    "line_index_2": 3744,
+    "ref_2": "Shulchan Arukh, Orach Chayim 514:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיד, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4417,
+    "line_index_2": 3748,
+    "ref_2": "Shulchan Arukh, Orach Chayim 515:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקטו, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4421,
+    "line_index_2": 3751,
+    "ref_2": "Shulchan Arukh, Orach Chayim 515:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תקטו, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4429,
+    "line_index_2": 3756,
+    "ref_2": "Shulchan Arukh, Orach Chayim 516:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקטז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4433,
+    "line_index_2": 3760,
+    "ref_2": "Shulchan Arukh, Orach Chayim 517:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4439,
+    "line_index_2": 3765,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4443,
+    "line_index_2": 3766,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4445,
+    "line_index_2": 3767,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4447,
+    "line_index_2": 3768,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4449,
+    "line_index_2": 3769,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4455,
+    "line_index_2": 3771,
+    "ref_2": "Shulchan Arukh, Orach Chayim 518:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיח, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4465,
+    "line_index_2": 3778,
+    "ref_2": "Shulchan Arukh, Orach Chayim 519:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיט, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4467,
+    "line_index_2": 3779,
+    "ref_2": "Shulchan Arukh, Orach Chayim 519:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקיט, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4479,
+    "line_index_2": 3785,
+    "ref_2": "Shulchan Arukh, Orach Chayim 521:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכא, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4483,
+    "line_index_2": 3787,
+    "ref_2": "Shulchan Arukh, Orach Chayim 522:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4487,
+    "line_index_2": 3792,
+    "ref_2": "Shulchan Arukh, Orach Chayim 523:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4489,
+    "line_index_2": 3792,
+    "ref_2": "Shulchan Arukh, Orach Chayim 523:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4493,
+    "line_index_2": 3795,
+    "ref_2": "Shulchan Arukh, Orach Chayim 523:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4507,
+    "line_index_2": 3804,
+    "ref_2": "Shulchan Arukh, Orach Chayim 526:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכו, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4511,
+    "line_index_2": 3807,
+    "ref_2": "Shulchan Arukh, Orach Chayim 526:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכו, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4519,
+    "line_index_2": 3811,
+    "ref_2": "Shulchan Arukh, Orach Chayim 526:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכו, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4521,
+    "line_index_2": 3813,
+    "ref_2": "Shulchan Arukh, Orach Chayim 526:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכו, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4531,
+    "line_index_2": 3822,
+    "ref_2": "Shulchan Arukh, Orach Chayim 527:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכז, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4549,
+    "line_index_2": 3835,
+    "ref_2": "Shulchan Arukh, Orach Chayim 527:20",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכז, כ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4565,
+    "line_index_2": 3844,
+    "ref_2": "Shulchan Arukh, Orach Chayim 529:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4571,
+    "line_index_2": 3846,
+    "ref_2": "Shulchan Arukh, Orach Chayim 529:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקכט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4585,
+    "line_index_2": 3854,
+    "ref_2": "Shulchan Arukh, Orach Chayim 531:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלא, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4589,
+    "line_index_2": 3857,
+    "ref_2": "Shulchan Arukh, Orach Chayim 531:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלא, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4611,
+    "line_index_2": 3873,
+    "ref_2": "Shulchan Arukh, Orach Chayim 535:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4613,
+    "line_index_2": 3873,
+    "ref_2": "Shulchan Arukh, Orach Chayim 535:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4615,
+    "line_index_2": 3874,
+    "ref_2": "Shulchan Arukh, Orach Chayim 535:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4617,
+    "line_index_2": 3875,
+    "ref_2": "Shulchan Arukh, Orach Chayim 535:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלה, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4619,
+    "line_index_2": 3877,
+    "ref_2": "Shulchan Arukh, Orach Chayim 536:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4625,
+    "line_index_2": 3880,
+    "ref_2": "Shulchan Arukh, Orach Chayim 536:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלו, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4631,
+    "line_index_2": 3885,
+    "ref_2": "Shulchan Arukh, Orach Chayim 537:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלז, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4635,
+    "line_index_2": 3895,
+    "ref_2": "Shulchan Arukh, Orach Chayim 537:14",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלז, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4643,
+    "line_index_2": 3900,
+    "ref_2": "Shulchan Arukh, Orach Chayim 538:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4645,
+    "line_index_2": 3901,
+    "ref_2": "Shulchan Arukh, Orach Chayim 538:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלח, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4647,
+    "line_index_2": 3903,
+    "ref_2": "Shulchan Arukh, Orach Chayim 538:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלח, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4657,
+    "line_index_2": 3908,
+    "ref_2": "Shulchan Arukh, Orach Chayim 539:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלט, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4659,
+    "line_index_2": 3909,
+    "ref_2": "Shulchan Arukh, Orach Chayim 539:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקלט, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4675,
+    "line_index_2": 3922,
+    "ref_2": "Shulchan Arukh, Orach Chayim 540:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמ, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4691,
+    "line_index_2": 3936,
+    "ref_2": "Shulchan Arukh, Orach Chayim 542:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4695,
+    "line_index_2": 3937,
+    "ref_2": "Shulchan Arukh, Orach Chayim 542:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4707,
+    "line_index_2": 3943,
+    "ref_2": "Shulchan Arukh, Orach Chayim 544:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4709,
+    "line_index_2": 3944,
+    "ref_2": "Shulchan Arukh, Orach Chayim 544:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמד, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4731,
+    "line_index_2": 3958,
+    "ref_2": "Shulchan Arukh, Orach Chayim 546:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4733,
+    "line_index_2": 3964,
+    "ref_2": "Shulchan Arukh, Orach Chayim 547:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4737,
+    "line_index_2": 3966,
+    "ref_2": "Shulchan Arukh, Orach Chayim 547:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4745,
+    "line_index_2": 3973,
+    "ref_2": "Shulchan Arukh, Orach Chayim 547:10",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמז, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4747,
+    "line_index_2": 3975,
+    "ref_2": "Shulchan Arukh, Orach Chayim 547:12",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמז, יב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4759,
+    "line_index_2": 3983,
+    "ref_2": "Shulchan Arukh, Orach Chayim 548:7",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמח, ז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4761,
+    "line_index_2": 3984,
+    "ref_2": "Shulchan Arukh, Orach Chayim 548:8",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמח, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4773,
+    "line_index_2": 3994,
+    "ref_2": "Shulchan Arukh, Orach Chayim 548:18",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמח, יח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4775,
+    "line_index_2": 3996,
+    "ref_2": "Shulchan Arukh, Orach Chayim 548:20",
+    "heRef_2": "שולחן ערוך, אורח חיים תקמח, כ",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4788,
+    "line_index_2": 4006,
+    "ref_2": "Shulchan Arukh, Orach Chayim 551:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4790,
+    "line_index_2": 4006,
+    "ref_2": "Shulchan Arukh, Orach Chayim 551:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4850,
+    "line_index_2": 4039,
+    "ref_2": "Shulchan Arukh, Orach Chayim 553:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנג, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4856,
+    "line_index_2": 4041,
+    "ref_2": "Shulchan Arukh, Orach Chayim 554:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4870,
+    "line_index_2": 4049,
+    "ref_2": "Shulchan Arukh, Orach Chayim 554:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנד, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4876,
+    "line_index_2": 4055,
+    "ref_2": "Shulchan Arukh, Orach Chayim 554:15",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנד, טו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4878,
+    "line_index_2": 4056,
+    "ref_2": "Shulchan Arukh, Orach Chayim 554:16",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנד, טז",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4910,
+    "line_index_2": 4074,
+    "ref_2": "Shulchan Arukh, Orach Chayim 558:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4916,
+    "line_index_2": 4076,
+    "ref_2": "Shulchan Arukh, Orach Chayim 559:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4936,
+    "line_index_2": 4080,
+    "ref_2": "Shulchan Arukh, Orach Chayim 559:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקנט, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4950,
+    "line_index_2": 4087,
+    "ref_2": "Shulchan Arukh, Orach Chayim 560:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקס, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4956,
+    "line_index_2": 4089,
+    "ref_2": "Shulchan Arukh, Orach Chayim 560:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקס, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4962,
+    "line_index_2": 4091,
+    "ref_2": "Shulchan Arukh, Orach Chayim 560:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקס, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4968,
+    "line_index_2": 4099,
+    "ref_2": "Shulchan Arukh, Orach Chayim 562:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4972,
+    "line_index_2": 4103,
+    "ref_2": "Shulchan Arukh, Orach Chayim 562:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסב, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4984,
+    "line_index_2": 4113,
+    "ref_2": "Shulchan Arukh, Orach Chayim 563:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5000,
+    "line_index_2": 4121,
+    "ref_2": "Shulchan Arukh, Orach Chayim 565:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסה, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5002,
+    "line_index_2": 4122,
+    "ref_2": "Shulchan Arukh, Orach Chayim 565:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסה, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5012,
+    "line_index_2": 4133,
+    "ref_2": "Shulchan Arukh, Orach Chayim 567:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5016,
+    "line_index_2": 4137,
+    "ref_2": "Shulchan Arukh, Orach Chayim 568:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5018,
+    "line_index_2": 4138,
+    "ref_2": "Shulchan Arukh, Orach Chayim 568:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסח, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5032,
+    "line_index_2": 4146,
+    "ref_2": "Shulchan Arukh, Orach Chayim 568:10",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסח, י",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5034,
+    "line_index_2": 4147,
+    "ref_2": "Shulchan Arukh, Orach Chayim 568:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תקסח, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5044,
+    "line_index_2": 4153,
+    "ref_2": "Shulchan Arukh, Orach Chayim 570:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקע, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5052,
+    "line_index_2": 4157,
+    "ref_2": "Shulchan Arukh, Orach Chayim 571:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5054,
+    "line_index_2": 4157,
+    "ref_2": "Shulchan Arukh, Orach Chayim 571:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5062,
+    "line_index_2": 4161,
+    "ref_2": "Shulchan Arukh, Orach Chayim 572:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5070,
+    "line_index_2": 4167,
+    "ref_2": "Shulchan Arukh, Orach Chayim 574:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5072,
+    "line_index_2": 4168,
+    "ref_2": "Shulchan Arukh, Orach Chayim 574:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעד, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5080,
+    "line_index_2": 4187,
+    "ref_2": "Shulchan Arukh, Orach Chayim 576:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5086,
+    "line_index_2": 4204,
+    "ref_2": "Shulchan Arukh, Orach Chayim 577:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקעז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5098,
+    "line_index_2": 4214,
+    "ref_2": "Shulchan Arukh, Orach Chayim 580:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפ, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5117,
+    "line_index_2": 4218,
+    "ref_2": "Shulchan Arukh, Orach Chayim 581:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפא, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5141,
+    "line_index_2": 4231,
+    "ref_2": "Shulchan Arukh, Orach Chayim 583:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5147,
+    "line_index_2": 4232,
+    "ref_2": "Shulchan Arukh, Orach Chayim 583:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפג, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5149,
+    "line_index_2": 4232,
+    "ref_2": "Shulchan Arukh, Orach Chayim 583:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפג, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5159,
+    "line_index_2": 4237,
+    "ref_2": "Shulchan Arukh, Orach Chayim 584:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפד, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5189,
+    "line_index_2": 4266,
+    "ref_2": "Shulchan Arukh, Orach Chayim 586:22",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפו, כב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5199,
+    "line_index_2": 4273,
+    "ref_2": "Shulchan Arukh, Orach Chayim 588:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5205,
+    "line_index_2": 4279,
+    "ref_2": "Shulchan Arukh, Orach Chayim 589:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5207,
+    "line_index_2": 4279,
+    "ref_2": "Shulchan Arukh, Orach Chayim 589:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקפט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5221,
+    "line_index_2": 4299,
+    "ref_2": "Shulchan Arukh, Orach Chayim 591:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקצא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5227,
+    "line_index_2": 4308,
+    "ref_2": "Shulchan Arukh, Orach Chayim 592:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקצב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5235,
+    "line_index_2": 4316,
+    "ref_2": "Shulchan Arukh, Orach Chayim 594:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקצד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5239,
+    "line_index_2": 4318,
+    "ref_2": "Shulchan Arukh, Orach Chayim 595:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תקצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5263,
+    "line_index_2": 4337,
+    "ref_2": "Shulchan Arukh, Orach Chayim 602:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5273,
+    "line_index_2": 4339,
+    "ref_2": "Shulchan Arukh, Orach Chayim 603:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5286,
+    "line_index_2": 4346,
+    "ref_2": "Shulchan Arukh, Orach Chayim 606:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5352,
+    "line_index_2": 4397,
+    "ref_2": "Shulchan Arukh, Orach Chayim 614:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תריד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5368,
+    "line_index_2": 4405,
+    "ref_2": "Shulchan Arukh, Orach Chayim 616:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרטז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5374,
+    "line_index_2": 4408,
+    "ref_2": "Shulchan Arukh, Orach Chayim 617:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תריז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5380,
+    "line_index_2": 4413,
+    "ref_2": "Shulchan Arukh, Orach Chayim 618:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תריח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5408,
+    "line_index_2": 4433,
+    "ref_2": "Shulchan Arukh, Orach Chayim 621:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5424,
+    "line_index_2": 4440,
+    "ref_2": "Shulchan Arukh, Orach Chayim 622:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5432,
+    "line_index_2": 4445,
+    "ref_2": "Shulchan Arukh, Orach Chayim 623:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5434,
+    "line_index_2": 4446,
+    "ref_2": "Shulchan Arukh, Orach Chayim 623:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכג, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5473,
+    "line_index_2": 4465,
+    "ref_2": "Shulchan Arukh, Orach Chayim 627:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכז, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5481,
+    "line_index_2": 4473,
+    "ref_2": "Shulchan Arukh, Orach Chayim 629:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרכט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5489,
+    "line_index_2": 4493,
+    "ref_2": "Shulchan Arukh, Orach Chayim 630:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרל, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5493,
+    "line_index_2": 4507,
+    "ref_2": "Shulchan Arukh, Orach Chayim 631:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5497,
+    "line_index_2": 4518,
+    "ref_2": "Shulchan Arukh, Orach Chayim 632:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5507,
+    "line_index_2": 4539,
+    "ref_2": "Shulchan Arukh, Orach Chayim 635:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5519,
+    "line_index_2": 4546,
+    "ref_2": "Shulchan Arukh, Orach Chayim 637:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5523,
+    "line_index_2": 4546,
+    "ref_2": "Shulchan Arukh, Orach Chayim 637:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלז, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5525,
+    "line_index_2": 4548,
+    "ref_2": "Shulchan Arukh, Orach Chayim 638:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5527,
+    "line_index_2": 4548,
+    "ref_2": "Shulchan Arukh, Orach Chayim 638:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5537,
+    "line_index_2": 4551,
+    "ref_2": "Shulchan Arukh, Orach Chayim 639:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרלט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5569,
+    "line_index_2": 4560,
+    "ref_2": "Shulchan Arukh, Orach Chayim 640:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5581,
+    "line_index_2": 4571,
+    "ref_2": "Shulchan Arukh, Orach Chayim 641:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5593,
+    "line_index_2": 4579,
+    "ref_2": "Shulchan Arukh, Orach Chayim 644:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5605,
+    "line_index_2": 4582,
+    "ref_2": "Shulchan Arukh, Orach Chayim 645:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5607,
+    "line_index_2": 4584,
+    "ref_2": "Shulchan Arukh, Orach Chayim 645:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמה, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5611,
+    "line_index_2": 4587,
+    "ref_2": "Shulchan Arukh, Orach Chayim 645:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמה, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5615,
+    "line_index_2": 4589,
+    "ref_2": "Shulchan Arukh, Orach Chayim 645:8",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמה, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5617,
+    "line_index_2": 4590,
+    "ref_2": "Shulchan Arukh, Orach Chayim 645:9",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמה, ט",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5635,
+    "line_index_2": 4607,
+    "ref_2": "Shulchan Arukh, Orach Chayim 648:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5639,
+    "line_index_2": 4614,
+    "ref_2": "Shulchan Arukh, Orach Chayim 648:8",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמח, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5649,
+    "line_index_2": 4630,
+    "ref_2": "Shulchan Arukh, Orach Chayim 649:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרמט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5663,
+    "line_index_2": 4637,
+    "ref_2": "Shulchan Arukh, Orach Chayim 650:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5667,
+    "line_index_2": 4640,
+    "ref_2": "Shulchan Arukh, Orach Chayim 651:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5679,
+    "line_index_2": 4644,
+    "ref_2": "Shulchan Arukh, Orach Chayim 651:5",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנא, ה",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5699,
+    "line_index_2": 4656,
+    "ref_2": "Shulchan Arukh, Orach Chayim 652:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5701,
+    "line_index_2": 4656,
+    "ref_2": "Shulchan Arukh, Orach Chayim 652:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5709,
+    "line_index_2": 4659,
+    "ref_2": "Shulchan Arukh, Orach Chayim 653:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5711,
+    "line_index_2": 4659,
+    "ref_2": "Shulchan Arukh, Orach Chayim 653:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5729,
+    "line_index_2": 4666,
+    "ref_2": "Shulchan Arukh, Orach Chayim 656:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5735,
+    "line_index_2": 4670,
+    "ref_2": "Shulchan Arukh, Orach Chayim 658:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5751,
+    "line_index_2": 4680,
+    "ref_2": "Shulchan Arukh, Orach Chayim 659:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרנט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5761,
+    "line_index_2": 4688,
+    "ref_2": "Shulchan Arukh, Orach Chayim 662:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5763,
+    "line_index_2": 4689,
+    "ref_2": "Shulchan Arukh, Orach Chayim 662:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5769,
+    "line_index_2": 4696,
+    "ref_2": "Shulchan Arukh, Orach Chayim 664:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5773,
+    "line_index_2": 4696,
+    "ref_2": "Shulchan Arukh, Orach Chayim 664:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5797,
+    "line_index_2": 4708,
+    "ref_2": "Shulchan Arukh, Orach Chayim 665:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5803,
+    "line_index_2": 4713,
+    "ref_2": "Shulchan Arukh, Orach Chayim 667:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5805,
+    "line_index_2": 4713,
+    "ref_2": "Shulchan Arukh, Orach Chayim 667:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5809,
+    "line_index_2": 4715,
+    "ref_2": "Shulchan Arukh, Orach Chayim 668:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5813,
+    "line_index_2": 4715,
+    "ref_2": "Shulchan Arukh, Orach Chayim 668:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5821,
+    "line_index_2": 4718,
+    "ref_2": "Shulchan Arukh, Orach Chayim 669:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5823,
+    "line_index_2": 4718,
+    "ref_2": "Shulchan Arukh, Orach Chayim 669:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרסט, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5832,
+    "line_index_2": 4720,
+    "ref_2": "Shulchan Arukh, Orach Chayim 670:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרע, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5840,
+    "line_index_2": 4721,
+    "ref_2": "Shulchan Arukh, Orach Chayim 670:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרע, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5844,
+    "line_index_2": 4724,
+    "ref_2": "Shulchan Arukh, Orach Chayim 671:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5866,
+    "line_index_2": 4733,
+    "ref_2": "Shulchan Arukh, Orach Chayim 672:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5868,
+    "line_index_2": 4733,
+    "ref_2": "Shulchan Arukh, Orach Chayim 672:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5876,
+    "line_index_2": 4736,
+    "ref_2": "Shulchan Arukh, Orach Chayim 673:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5878,
+    "line_index_2": 4736,
+    "ref_2": "Shulchan Arukh, Orach Chayim 673:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5886,
+    "line_index_2": 4738,
+    "ref_2": "Shulchan Arukh, Orach Chayim 673:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעג, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5888,
+    "line_index_2": 4739,
+    "ref_2": "Shulchan Arukh, Orach Chayim 673:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעג, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5890,
+    "line_index_2": 4741,
+    "ref_2": "Shulchan Arukh, Orach Chayim 674:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5896,
+    "line_index_2": 4744,
+    "ref_2": "Shulchan Arukh, Orach Chayim 675:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5928,
+    "line_index_2": 4759,
+    "ref_2": "Shulchan Arukh, Orach Chayim 678:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5930,
+    "line_index_2": 4759,
+    "ref_2": "Shulchan Arukh, Orach Chayim 678:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרעח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5938,
+    "line_index_2": 4763,
+    "ref_2": "Shulchan Arukh, Orach Chayim 680:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5940,
+    "line_index_2": 4763,
+    "ref_2": "Shulchan Arukh, Orach Chayim 680:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5942,
+    "line_index_2": 4766,
+    "ref_2": "Shulchan Arukh, Orach Chayim 681:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5960,
+    "line_index_2": 4775,
+    "ref_2": "Shulchan Arukh, Orach Chayim 684:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפד, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5989,
+    "line_index_2": 4791,
+    "ref_2": "Shulchan Arukh, Orach Chayim 687:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5995,
+    "line_index_2": 4794,
+    "ref_2": "Shulchan Arukh, Orach Chayim 688:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפח, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6001,
+    "line_index_2": 4801,
+    "ref_2": "Shulchan Arukh, Orach Chayim 688:8",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפח, ח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6007,
+    "line_index_2": 4804,
+    "ref_2": "Shulchan Arukh, Orach Chayim 689:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפט, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6009,
+    "line_index_2": 4808,
+    "ref_2": "Shulchan Arukh, Orach Chayim 689:6",
+    "heRef_2": "שולחן ערוך, אורח חיים תרפט, ו",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6011,
+    "line_index_2": 4810,
+    "ref_2": "Shulchan Arukh, Orach Chayim 690:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצ, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6015,
+    "line_index_2": 4812,
+    "ref_2": "Shulchan Arukh, Orach Chayim 690:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצ, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6017,
+    "line_index_2": 4813,
+    "ref_2": "Shulchan Arukh, Orach Chayim 690:4",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצ, ד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6025,
+    "line_index_2": 4823,
+    "ref_2": "Shulchan Arukh, Orach Chayim 690:14",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצ, יד",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6037,
+    "line_index_2": 4827,
+    "ref_2": "Shulchan Arukh, Orach Chayim 690:18",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצ, יח",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6039,
+    "line_index_2": 4829,
+    "ref_2": "Shulchan Arukh, Orach Chayim 691:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצא, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6045,
+    "line_index_2": 4839,
+    "ref_2": "Shulchan Arukh, Orach Chayim 691:11",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצא, יא",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6049,
+    "line_index_2": 4841,
+    "ref_2": "Shulchan Arukh, Orach Chayim 692:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצב, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6053,
+    "line_index_2": 4842,
+    "ref_2": "Shulchan Arukh, Orach Chayim 692:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצב, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6059,
+    "line_index_2": 4846,
+    "ref_2": "Shulchan Arukh, Orach Chayim 693:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצג, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6073,
+    "line_index_2": 4853,
+    "ref_2": "Shulchan Arukh, Orach Chayim 694:3",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצד, ג",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6075,
+    "line_index_2": 4856,
+    "ref_2": "Shulchan Arukh, Orach Chayim 695:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6077,
+    "line_index_2": 4856,
+    "ref_2": "Shulchan Arukh, Orach Chayim 695:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצה, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6079,
+    "line_index_2": 4857,
+    "ref_2": "Shulchan Arukh, Orach Chayim 695:2",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצה, ב",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6087,
+    "line_index_2": 4861,
+    "ref_2": "Shulchan Arukh, Orach Chayim 696:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצו, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6109,
+    "line_index_2": 4870,
+    "ref_2": "Shulchan Arukh, Orach Chayim 697:1",
+    "heRef_2": "שולחן ערוך, אורח חיים תרצז, א",
+    "path_2": "שולחן ערוך, אורח חיים.txt",
+    "Conection Type": "source"
+  }
+]

@@ -1,0 +1,4290 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 4,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 1:1",
+    "heRef_2": "שולחן ערוך, חושן משפט א, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 8,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 1:5",
+    "heRef_2": "שולחן ערוך, חושן משפט א, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 11,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 2:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 11,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 2:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 13,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 3:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 16,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 3:4",
+    "heRef_2": "שולחן ערוך, חושן משפט ג, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 18,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 4:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 18,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 4:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 20,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 5:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 32,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 7:5",
+    "heRef_2": "שולחן ערוך, חושן משפט ז, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 34,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 7:7",
+    "heRef_2": "שולחן ערוך, חושן משפט ז, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 34,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 7:7",
+    "heRef_2": "שולחן ערוך, חושן משפט ז, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 36,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 7:9",
+    "heRef_2": "שולחן ערוך, חושן משפט ז, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 45,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 8:5",
+    "heRef_2": "שולחן ערוך, חושן משפט ח, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 61,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 11:1",
+    "heRef_2": "שולחן ערוך, חושן משפט יא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 78,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 12:11",
+    "heRef_2": "שולחן ערוך, חושן משפט יב, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 85,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 12:18",
+    "heRef_2": "שולחן ערוך, חושן משפט יב, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 95,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 13:7",
+    "heRef_2": "שולחן ערוך, חושן משפט יג, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 97,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 14:1",
+    "heRef_2": "שולחן ערוך, חושן משפט יד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 101,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 14:5",
+    "heRef_2": "שולחן ערוך, חושן משפט יד, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 107,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 15:2",
+    "heRef_2": "שולחן ערוך, חושן משפט טו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 112,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 16:1",
+    "heRef_2": "שולחן ערוך, חושן משפט טז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 126,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 17:9",
+    "heRef_2": "שולחן ערוך, חושן משפט יז, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 129,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 17:12",
+    "heRef_2": "שולחן ערוך, חושן משפט יז, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 138,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 19:1",
+    "heRef_2": "שולחן ערוך, חושן משפט יט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 142,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 20:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 142,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 20:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 144,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 21:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 148,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 22:3",
+    "heRef_2": "שולחן ערוך, חושן משפט כב, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 150,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 23:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 150,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 23:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 152,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 24:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 155,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:2",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 155,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:2",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 155,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:2",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 156,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:3",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 156,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:3",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 156,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:3",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 158,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:5",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 158,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:5",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 158,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 25:5",
+    "heRef_2": "שולחן ערוך, חושן משפט כה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 163,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 26:4",
+    "heRef_2": "שולחן ערוך, חושן משפט כו, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 168,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 28:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 168,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 28:1",
+    "heRef_2": "שולחן ערוך, חושן משפט כח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 172,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 28:5",
+    "heRef_2": "שולחן ערוך, חושן משפט כח, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 172,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 28:5",
+    "heRef_2": "שולחן ערוך, חושן משפט כח, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 181,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 28:14",
+    "heRef_2": "שולחן ערוך, חושן משפט כח, יד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 203,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 30:5",
+    "heRef_2": "שולחן ערוך, חושן משפט ל, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 205,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 30:7",
+    "heRef_2": "שולחן ערוך, חושן משפט ל, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 209,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 30:11",
+    "heRef_2": "שולחן ערוך, חושן משפט ל, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 211,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 30:13",
+    "heRef_2": "שולחן ערוך, חושן משפט ל, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 211,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 30:13",
+    "heRef_2": "שולחן ערוך, חושן משפט ל, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 215,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 31:2",
+    "heRef_2": "שולחן ערוך, חושן משפט לא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 220,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 32:2",
+    "heRef_2": "שולחן ערוך, חושן משפט לב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 220,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 32:2",
+    "heRef_2": "שולחן ערוך, חושן משפט לב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 224,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 33:3",
+    "heRef_2": "שולחן ערוך, חושן משפט לג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 233,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 33:12",
+    "heRef_2": "שולחן ערוך, חושן משפט לג, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 237,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 33:16",
+    "heRef_2": "שולחן ערוך, חושן משפט לג, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 243,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:3",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 253,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:13",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 255,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:15",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 258,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:18",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 258,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:18",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 258,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 34:18",
+    "heRef_2": "שולחן ערוך, חושן משפט לד, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 277,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 35:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 292,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 36:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 293,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 36:2",
+    "heRef_2": "שולחן ערוך, חושן משפט לו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 295,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 295,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 305,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:11",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 306,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:12",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 309,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:15",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 310,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:16",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 311,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:17",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 316,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:22",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 316,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 37:22",
+    "heRef_2": "שולחן ערוך, חושן משפט לז, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 318,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 38:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 320,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:1",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 321,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:2",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 322,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:3",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 323,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:4",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 324,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:5",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 332,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:13",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 335,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 39:16",
+    "heRef_2": "שולחן ערוך, חושן משפט לט, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 338,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 40:1",
+    "heRef_2": "שולחן ערוך, חושן משפט מ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 338,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 40:1",
+    "heRef_2": "שולחן ערוך, חושן משפט מ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 339,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 40:2",
+    "heRef_2": "שולחן ערוך, חושן משפט מ, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 341,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 41:1",
+    "heRef_2": "שולחן ערוך, חושן משפט מא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 343,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 41:3",
+    "heRef_2": "שולחן ערוך, חושן משפט מא, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 343,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 41:3",
+    "heRef_2": "שולחן ערוך, חושן משפט מא, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 343,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 41:3",
+    "heRef_2": "שולחן ערוך, חושן משפט מא, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 347,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 42:1",
+    "heRef_2": "שולחן ערוך, חושן משפט מב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 347,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 42:1",
+    "heRef_2": "שולחן ערוך, חושן משפט מב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 351,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 42:5",
+    "heRef_2": "שולחן ערוך, חושן משפט מב, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 356,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 42:10",
+    "heRef_2": "שולחן ערוך, חושן משפט מב, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 358,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 42:12",
+    "heRef_2": "שולחן ערוך, חושן משפט מב, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 369,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 43:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מג, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 370,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 43:8",
+    "heRef_2": "שולחן ערוך, חושן משפט מג, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 378,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 43:16",
+    "heRef_2": "שולחן ערוך, חושן משפט מג, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 388,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 43:26",
+    "heRef_2": "שולחן ערוך, חושן משפט מג, כו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 390,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 43:28",
+    "heRef_2": "שולחן ערוך, חושן משפט מג, כח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 395,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 44:3",
+    "heRef_2": "שולחן ערוך, חושן משפט מד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 406,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:2",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 409,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:5",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 410,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:6",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 416,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:12",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 416,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:12",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 425,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 45:21",
+    "heRef_2": "שולחן ערוך, חושן משפט מה, כא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 430,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:2",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 435,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 435,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 437,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:9",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 442,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:14",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, יד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 445,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:17",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 452,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:24",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, כד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 465,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:37",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, לז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 465,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:37",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, לז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 465,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:37",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, לז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 465,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 46:37",
+    "heRef_2": "שולחן ערוך, חושן משפט מו, לז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 474,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 49:2",
+    "heRef_2": "שולחן ערוך, חושן משפט מט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 479,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 49:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מט, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 479,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 49:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מט, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 479,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 49:7",
+    "heRef_2": "שולחן ערוך, חושן משפט מט, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 482,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 49:10",
+    "heRef_2": "שולחן ערוך, חושן משפט מט, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 484,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 50:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 486,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 51:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 486,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 51:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 487,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 51:2",
+    "heRef_2": "שולחן ערוך, חושן משפט נא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 494,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 52:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 494,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 52:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 494,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 52:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 500,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 54:2",
+    "heRef_2": "שולחן ערוך, חושן משפט נד, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 501,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 54:3",
+    "heRef_2": "שולחן ערוך, חושן משפט נד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 505,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 55:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 505,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 55:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 508,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 56:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 510,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 56:3",
+    "heRef_2": "שולחן ערוך, חושן משפט נו, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 513,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 56:6",
+    "heRef_2": "שולחן ערוך, חושן משפט נו, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 519,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 58:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 519,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 58:1",
+    "heRef_2": "שולחן ערוך, חושן משפט נח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 520,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 58:2",
+    "heRef_2": "שולחן ערוך, חושן משפט נח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 527,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 60:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ס, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 528,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 60:2",
+    "heRef_2": "שולחן ערוך, חושן משפט ס, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 531,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 60:5",
+    "heRef_2": "שולחן ערוך, חושן משפט ס, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 544,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 61:5",
+    "heRef_2": "שולחן ערוך, חושן משפט סא, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 559,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 63:1",
+    "heRef_2": "שולחן ערוך, חושן משפט סג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 560,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 63:2",
+    "heRef_2": "שולחן ערוך, חושן משפט סג, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 562,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 64:1",
+    "heRef_2": "שולחן ערוך, חושן משפט סד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 562,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 64:1",
+    "heRef_2": "שולחן ערוך, חושן משפט סד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 564,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 65:1",
+    "heRef_2": "שולחן ערוך, חושן משפט סה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 567,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 65:4",
+    "heRef_2": "שולחן ערוך, חושן משפט סה, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 578,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 65:15",
+    "heRef_2": "שולחן ערוך, חושן משפט סה, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 581,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 65:18",
+    "heRef_2": "שולחן ערוך, חושן משפט סה, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 589,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:1",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 599,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:11",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 599,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:11",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 604,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:16",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 604,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:16",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 607,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:19",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, יט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 609,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:21",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, כא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 610,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:22",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 611,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:23",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 611,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:23",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 620,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:32",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, לב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 626,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:38",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, לח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 628,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:40",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, מ",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 425,
+    "line_index_2": 628,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 66:40",
+    "heRef_2": "שולחן ערוך, חושן משפט סו, מ",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 637,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:6",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 639,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:8",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 641,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:10",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 648,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:17",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 664,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:33",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, לג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 669,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 67:38",
+    "heRef_2": "שולחן ערוך, חושן משפט סז, לח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 672,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 68:2",
+    "heRef_2": "שולחן ערוך, חושן משפט סח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 675,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 69:2",
+    "heRef_2": "שולחן ערוך, חושן משפט סט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 678,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 69:5",
+    "heRef_2": "שולחן ערוך, חושן משפט סט, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 678,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 69:5",
+    "heRef_2": "שולחן ערוך, חושן משפט סט, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 683,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 70:3",
+    "heRef_2": "שולחן ערוך, חושן משפט ע, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 704,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 71:17",
+    "heRef_2": "שולחן ערוך, חושן משפט עא, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 708,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 71:21",
+    "heRef_2": "שולחן ערוך, חושן משפט עא, כא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 712,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 713,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 713,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 713,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 713,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 716,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:5",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 719,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:8",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 719,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:8",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 723,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:12",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 488,
+    "line_index_2": 726,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:15",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 726,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:15",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 493,
+    "line_index_2": 728,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:17",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 729,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:18",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 495,
+    "line_index_2": 732,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:21",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, כא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 733,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:22",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 738,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:27",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, כז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 738,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:27",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, כז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 499,
+    "line_index_2": 739,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:28",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, כח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 741,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:30",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, ל",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 744,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:33",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, לג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 504,
+    "line_index_2": 745,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:34",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, לד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 750,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:39",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, לט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 754,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:43",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, מג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 755,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 72:44",
+    "heRef_2": "שולחן ערוך, חושן משפט עב, מד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 758,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 762,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:5",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 763,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:6",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 764,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 521,
+    "line_index_2": 764,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 772,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:15",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 773,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:16",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 774,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:17",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 775,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 73:18",
+    "heRef_2": "שולחן ערוך, חושן משפט עג, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 531,
+    "line_index_2": 779,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 74:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 533,
+    "line_index_2": 782,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 74:4",
+    "heRef_2": "שולחן ערוך, חושן משפט עד, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 785,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 74:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עד, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 785,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 74:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עד, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 787,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 788,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 790,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:4",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 795,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:9",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 796,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:10",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 808,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:22",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 809,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 75:23",
+    "heRef_2": "שולחן ערוך, חושן משפט עה, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 813,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 76:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 817,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 818,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:2",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 821,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:5",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 562,
+    "line_index_2": 823,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 826,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:10",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 826,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 77:10",
+    "heRef_2": "שולחן ערוך, חושן משפט עז, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 568,
+    "line_index_2": 829,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 78:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 829,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 78:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 829,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 78:1",
+    "heRef_2": "שולחן ערוך, חושן משפט עח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 833,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 78:5",
+    "heRef_2": "שולחן ערוך, חושן משפט עח, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 575,
+    "line_index_2": 835,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 78:7",
+    "heRef_2": "שולחן ערוך, חושן משפט עח, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 841,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 79:4",
+    "heRef_2": "שולחן ערוך, חושן משפט עט, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 846,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 79:9",
+    "heRef_2": "שולחן ערוך, חושן משפט עט, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 847,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 79:10",
+    "heRef_2": "שולחן ערוך, חושן משפט עט, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 849,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 79:12",
+    "heRef_2": "שולחן ערוך, חושן משפט עט, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 853,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 80:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 856,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 859,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:4",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 866,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:11",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 873,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:18",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 598,
+    "line_index_2": 875,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:20",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, כ",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 878,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:23",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 601,
+    "line_index_2": 878,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:23",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 604,
+    "line_index_2": 885,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:30",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, ל",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 885,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 81:30",
+    "heRef_2": "שולחן ערוך, חושן משפט פא, ל",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 889,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 610,
+    "line_index_2": 890,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:2",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 898,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:10",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 614,
+    "line_index_2": 899,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:11",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 900,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:12",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 900,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:12",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 617,
+    "line_index_2": 901,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 82:13",
+    "heRef_2": "שולחן ערוך, חושן משפט פב, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 905,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 83:3",
+    "heRef_2": "שולחן ערוך, חושן משפט פג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 905,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 83:3",
+    "heRef_2": "שולחן ערוך, חושן משפט פג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 905,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 83:3",
+    "heRef_2": "שולחן ערוך, חושן משפט פג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 906,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 83:4",
+    "heRef_2": "שולחן ערוך, חושן משפט פג, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 643,
+    "line_index_2": 914,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 85:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 914,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 85:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 645,
+    "line_index_2": 916,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 85:3",
+    "heRef_2": "שולחן ערוך, חושן משפט פה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 923,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:2",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 651,
+    "line_index_2": 926,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:5",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 926,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:5",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 654,
+    "line_index_2": 926,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:5",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 928,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:7",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 657,
+    "line_index_2": 930,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 86:9",
+    "heRef_2": "שולחן ערוך, חושן משפט פו, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 660,
+    "line_index_2": 932,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 662,
+    "line_index_2": 935,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:4",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 664,
+    "line_index_2": 937,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:6",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 937,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:6",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 670,
+    "line_index_2": 942,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:11",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 943,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:12",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 948,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:17",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 675,
+    "line_index_2": 953,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:22",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 956,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:25",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, כה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 677,
+    "line_index_2": 958,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:27",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, כז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 962,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:31",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, לא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 682,
+    "line_index_2": 964,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:33",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, לג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 684,
+    "line_index_2": 966,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:35",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, לה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 685,
+    "line_index_2": 968,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 87:37",
+    "heRef_2": "שולחן ערוך, חושן משפט פז, לז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 972,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 689,
+    "line_index_2": 972,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:1",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 692,
+    "line_index_2": 980,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:9",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 694,
+    "line_index_2": 983,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:12",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 988,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:17",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 995,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:24",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, כד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 702,
+    "line_index_2": 1003,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 88:32",
+    "heRef_2": "שולחן ערוך, חושן משפט פח, לב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 706,
+    "line_index_2": 1007,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 89:2",
+    "heRef_2": "שולחן ערוך, חושן משפט פט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 710,
+    "line_index_2": 1008,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 89:3",
+    "heRef_2": "שולחן ערוך, חושן משפט פט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 714,
+    "line_index_2": 1011,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 89:6",
+    "heRef_2": "שולחן ערוך, חושן משפט פט, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 1013,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 90:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 721,
+    "line_index_2": 1019,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 90:7",
+    "heRef_2": "שולחן ערוך, חושן משפט צ, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 722,
+    "line_index_2": 1022,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 90:10",
+    "heRef_2": "שולחן ערוך, חושן משפט צ, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 723,
+    "line_index_2": 1023,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 90:11",
+    "heRef_2": "שולחן ערוך, חושן משפט צ, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 1031,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 91:2",
+    "heRef_2": "שולחן ערוך, חושן משפט צא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 1038,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 91:9",
+    "heRef_2": "שולחן ערוך, חושן משפט צא, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 1042,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:3",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 738,
+    "line_index_2": 1042,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:3",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 739,
+    "line_index_2": 1043,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:4",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 742,
+    "line_index_2": 1045,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:6",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 743,
+    "line_index_2": 1045,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:6",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 744,
+    "line_index_2": 1046,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:7",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 745,
+    "line_index_2": 1047,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:8",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 746,
+    "line_index_2": 1052,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 92:13",
+    "heRef_2": "שולחן ערוך, חושן משפט צב, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 748,
+    "line_index_2": 1055,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 93:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 750,
+    "line_index_2": 1055,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 93:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 1055,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 93:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 755,
+    "line_index_2": 1060,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 93:6",
+    "heRef_2": "שולחן ערוך, חושן משפט צג, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 758,
+    "line_index_2": 1068,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 93:14",
+    "heRef_2": "שולחן ערוך, חושן משפט צג, יד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 761,
+    "line_index_2": 1074,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 94:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 762,
+    "line_index_2": 1074,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 94:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 763,
+    "line_index_2": 1074,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 94:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 764,
+    "line_index_2": 1075,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 94:2",
+    "heRef_2": "שולחן ערוך, חושן משפט צד, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 767,
+    "line_index_2": 1079,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 94:6",
+    "heRef_2": "שולחן ערוך, חושן משפט צד, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 770,
+    "line_index_2": 1084,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 95:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 772,
+    "line_index_2": 1086,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 95:3",
+    "heRef_2": "שולחן ערוך, חושן משפט צה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 774,
+    "line_index_2": 1087,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 95:4",
+    "heRef_2": "שולחן ערוך, חושן משפט צה, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 777,
+    "line_index_2": 1091,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 96:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 778,
+    "line_index_2": 1092,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 96:2",
+    "heRef_2": "שולחן ערוך, חושן משפט צו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 779,
+    "line_index_2": 1095,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 96:5",
+    "heRef_2": "שולחן ערוך, חושן משפט צו, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 781,
+    "line_index_2": 1096,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 96:6",
+    "heRef_2": "שולחן ערוך, חושן משפט צו, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 1110,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 97:13",
+    "heRef_2": "שולחן ערוך, חושן משפט צז, יג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 785,
+    "line_index_2": 1112,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 97:15",
+    "heRef_2": "שולחן ערוך, חושן משפט צז, טו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 1125,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 97:28",
+    "heRef_2": "שולחן ערוך, חושן משפט צז, כח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 791,
+    "line_index_2": 1129,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 98:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 793,
+    "line_index_2": 1137,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 98:9",
+    "heRef_2": "שולחן ערוך, חושן משפט צח, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 795,
+    "line_index_2": 1141,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 99:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 796,
+    "line_index_2": 1141,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 99:1",
+    "heRef_2": "שולחן ערוך, חושן משפט צט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 797,
+    "line_index_2": 1143,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 99:3",
+    "heRef_2": "שולחן ערוך, חושן משפט צט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1150,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 100:1",
+    "heRef_2": "שולחן ערוך, חושן משפט ק, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 802,
+    "line_index_2": 1154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 101:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 803,
+    "line_index_2": 1154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 101:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 1154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 101:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1155,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 101:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 1166,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 102:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 1167,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 102:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 811,
+    "line_index_2": 1169,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 102:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קב, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 1172,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 103:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 818,
+    "line_index_2": 1180,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 103:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קג, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 1180,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 103:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קג, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 822,
+    "line_index_2": 1184,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 824,
+    "line_index_2": 1186,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 825,
+    "line_index_2": 1186,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 826,
+    "line_index_2": 1187,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 827,
+    "line_index_2": 1189,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 1192,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 829,
+    "line_index_2": 1193,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 104:10",
+    "heRef_2": "שולחן ערוך, חושן משפט קד, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 832,
+    "line_index_2": 1203,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 105:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 1204,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 105:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קה, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 1208,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 106:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 841,
+    "line_index_2": 1212,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 107:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 842,
+    "line_index_2": 1214,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 107:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קז, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 843,
+    "line_index_2": 1216,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 107:5",
+    "heRef_2": "שולחן ערוך, חושן משפט קז, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 844,
+    "line_index_2": 1219,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 107:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קז, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 845,
+    "line_index_2": 1221,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 107:10",
+    "heRef_2": "שולחן ערוך, חושן משפט קז, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 853,
+    "line_index_2": 1228,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 108:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קח, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 857,
+    "line_index_2": 1249,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 109:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 858,
+    "line_index_2": 1249,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 109:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 859,
+    "line_index_2": 1252,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 109:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קט, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 861,
+    "line_index_2": 1254,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 110:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קי, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 1255,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 110:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קי, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 867,
+    "line_index_2": 1273,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 111:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קיא, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 869,
+    "line_index_2": 1288,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 111:23",
+    "heRef_2": "שולחן ערוך, חושן משפט קיא, כג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 871,
+    "line_index_2": 1291,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 112:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קיב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 1294,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 112:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קיב, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 882,
+    "line_index_2": 1306,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 114:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קיד, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 1309,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 115:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קטו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 890,
+    "line_index_2": 1316,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 116:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קטז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 895,
+    "line_index_2": 1324,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 117:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קיז, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 1327,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 118:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קיח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 899,
+    "line_index_2": 1327,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 118:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קיח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 902,
+    "line_index_2": 1332,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 119:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קיט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 903,
+    "line_index_2": 1333,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 119:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קיט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 905,
+    "line_index_2": 1339,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 120:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 909,
+    "line_index_2": 1342,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 121:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 912,
+    "line_index_2": 1346,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 121:5",
+    "heRef_2": "שולחן ערוך, חושן משפט קכא, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 1347,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 121:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קכא, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 916,
+    "line_index_2": 1350,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 121:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קכא, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 924,
+    "line_index_2": 1359,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 122:5",
+    "heRef_2": "שולחן ערוך, חושן משפט קכב, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 925,
+    "line_index_2": 1362,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 122:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קכב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 926,
+    "line_index_2": 1362,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 122:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קכב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 929,
+    "line_index_2": 1366,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 930,
+    "line_index_2": 1367,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 932,
+    "line_index_2": 1369,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:5",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 935,
+    "line_index_2": 1373,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 936,
+    "line_index_2": 1375,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:11",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 937,
+    "line_index_2": 1376,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 123:12",
+    "heRef_2": "שולחן ערוך, חושן משפט קכג, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 939,
+    "line_index_2": 1381,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 124:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 942,
+    "line_index_2": 1383,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 125:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 948,
+    "line_index_2": 1394,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 950,
+    "line_index_2": 1395,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 951,
+    "line_index_2": 1396,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 1401,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 955,
+    "line_index_2": 1402,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 956,
+    "line_index_2": 1402,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 958,
+    "line_index_2": 1404,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:11",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 959,
+    "line_index_2": 1407,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:14",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, יד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 960,
+    "line_index_2": 1415,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:22",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 1415,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 126:22",
+    "heRef_2": "שולחן ערוך, חושן משפט קכו, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 966,
+    "line_index_2": 1421,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 128:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 968,
+    "line_index_2": 1422,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 128:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קכח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 971,
+    "line_index_2": 1424,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 129:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קכט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 972,
+    "line_index_2": 1426,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 129:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קכט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 974,
+    "line_index_2": 1435,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 129:12",
+    "heRef_2": "שולחן ערוך, חושן משפט קכט, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 977,
+    "line_index_2": 1447,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 130:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קל, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 978,
+    "line_index_2": 1452,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 130:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קל, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 983,
+    "line_index_2": 1456,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 131:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קלא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 987,
+    "line_index_2": 1461,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 131:7",
+    "heRef_2": "שולחן ערוך, חושן משפט קלא, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 989,
+    "line_index_2": 1470,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 132:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 994,
+    "line_index_2": 1480,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 133:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קלג, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 997,
+    "line_index_2": 1485,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 134:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 998,
+    "line_index_2": 1485,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 134:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלד, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1002,
+    "line_index_2": 1492,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 135:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1004,
+    "line_index_2": 1493,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 135:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קלה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1006,
+    "line_index_2": 1498,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 137:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלז, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1008,
+    "line_index_2": 1502,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 138:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1012,
+    "line_index_2": 1502,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 138:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1013,
+    "line_index_2": 1503,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 138:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קלח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1014,
+    "line_index_2": 1507,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 138:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קלח, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1016,
+    "line_index_2": 1509,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 138:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קלח, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1019,
+    "line_index_2": 1511,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 139:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קלט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1020,
+    "line_index_2": 1512,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 139:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קלט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1025,
+    "line_index_2": 1522,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 140:7",
+    "heRef_2": "שולחן ערוך, חושן משפט קמ, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1027,
+    "line_index_2": 1523,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 140:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קמ, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1028,
+    "line_index_2": 1523,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 140:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קמ, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1029,
+    "line_index_2": 1524,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 140:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קמ, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1030,
+    "line_index_2": 1524,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 140:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קמ, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1038,
+    "line_index_2": 1553,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 142:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קמב, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1040,
+    "line_index_2": 1554,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 142:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קמב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1042,
+    "line_index_2": 1558,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 143:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קמג, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1043,
+    "line_index_2": 1559,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 143:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קמג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1046,
+    "line_index_2": 1563,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 144:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קמד, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 1569,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 145:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קמה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1049,
+    "line_index_2": 1570,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 145:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קמה, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1050,
+    "line_index_2": 1573,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 145:7",
+    "heRef_2": "שולחן ערוך, חושן משפט קמה, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1052,
+    "line_index_2": 1576,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 146:2",
+    "heRef_2": "שולחן ערוך, חושן משפט קמו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1054,
+    "line_index_2": 1577,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 146:3",
+    "heRef_2": "שולחן ערוך, חושן משפט קמו, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1060,
+    "line_index_2": 1584,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 146:10",
+    "heRef_2": "שולחן ערוך, חושן משפט קמו, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1061,
+    "line_index_2": 1591,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 146:17",
+    "heRef_2": "שולחן ערוך, חושן משפט קמו, יז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1069,
+    "line_index_2": 1620,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 149:11",
+    "heRef_2": "שולחן ערוך, חושן משפט קמט, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1070,
+    "line_index_2": 1625,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 149:16",
+    "heRef_2": "שולחן ערוך, חושן משפט קמט, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1071,
+    "line_index_2": 1631,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 149:22",
+    "heRef_2": "שולחן ערוך, חושן משפט קמט, כב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1084,
+    "line_index_2": 1719,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 155:10",
+    "heRef_2": "שולחן ערוך, חושן משפט קנה, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1085,
+    "line_index_2": 1752,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 155:43",
+    "heRef_2": "שולחן ערוך, חושן משפט קנה, מג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1087,
+    "line_index_2": 1821,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 164:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קסד, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1088,
+    "line_index_2": 1821,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 164:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קסד, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1092,
+    "line_index_2": 1846,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 171:4",
+    "heRef_2": "שולחן ערוך, חושן משפט קעא, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1093,
+    "line_index_2": 1848,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 171:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קעא, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1096,
+    "line_index_2": 1852,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 171:10",
+    "heRef_2": "שולחן ערוך, חושן משפט קעא, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1101,
+    "line_index_2": 1890,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 175:9",
+    "heRef_2": "שולחן ערוך, חושן משפט קעה, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1102,
+    "line_index_2": 1923,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 175:42",
+    "heRef_2": "שולחן ערוך, חושן משפט קעה, מב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1103,
+    "line_index_2": 1926,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 175:45",
+    "heRef_2": "שולחן ערוך, חושן משפט קעה, מה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1105,
+    "line_index_2": 1944,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 175:63",
+    "heRef_2": "שולחן ערוך, חושן משפט קעה, סג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1114,
+    "line_index_2": 1984,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 176:39",
+    "heRef_2": "שולחן ערוך, חושן משפט קעו, לט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1123,
+    "line_index_2": 2049,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 185:8",
+    "heRef_2": "שולחן ערוך, חושן משפט קפה, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1132,
+    "line_index_2": 2099,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 192:6",
+    "heRef_2": "שולחן ערוך, חושן משפט קצב, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1135,
+    "line_index_2": 2143,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 198:1",
+    "heRef_2": "שולחן ערוך, חושן משפט קצח, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1136,
+    "line_index_2": 2147,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 198:5",
+    "heRef_2": "שולחן ערוך, חושן משפט קצח, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1138,
+    "line_index_2": 2154,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 198:12",
+    "heRef_2": "שולחן ערוך, חושן משפט קצח, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1142,
+    "line_index_2": 2166,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 200:3",
+    "heRef_2": "שולחן ערוך, חושן משפט ר, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1143,
+    "line_index_2": 2170,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 200:7",
+    "heRef_2": "שולחן ערוך, חושן משפט ר, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1145,
+    "line_index_2": 2175,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 200:12",
+    "heRef_2": "שולחן ערוך, חושן משפט ר, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1147,
+    "line_index_2": 2187,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 202:8",
+    "heRef_2": "שולחן ערוך, חושן משפט רב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1148,
+    "line_index_2": 2187,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 202:8",
+    "heRef_2": "שולחן ערוך, חושן משפט רב, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1151,
+    "line_index_2": 2208,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 204:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רד, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1152,
+    "line_index_2": 2212,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 204:6",
+    "heRef_2": "שולחן ערוך, חושן משפט רד, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1154,
+    "line_index_2": 2219,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 205:1",
+    "heRef_2": "שולחן ערוך, חושן משפט רה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1155,
+    "line_index_2": 2223,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 205:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1156,
+    "line_index_2": 2223,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 205:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1164,
+    "line_index_2": 2324,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 216:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רטז, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1165,
+    "line_index_2": 2324,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 216:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רטז, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1168,
+    "line_index_2": 2398,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 222:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רכב, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1171,
+    "line_index_2": 2411,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 225:1",
+    "heRef_2": "שולחן ערוך, חושן משפט רכה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1173,
+    "line_index_2": 2416,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 225:6",
+    "heRef_2": "שולחן ערוך, חושן משפט רכה, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1175,
+    "line_index_2": 2418,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 226:1",
+    "heRef_2": "שולחן ערוך, חושן משפט רכו, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1178,
+    "line_index_2": 2431,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 227:7",
+    "heRef_2": "שולחן ערוך, חושן משפט רכז, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1179,
+    "line_index_2": 2449,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 227:25",
+    "heRef_2": "שולחן ערוך, חושן משפט רכז, כה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1180,
+    "line_index_2": 2451,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 227:27",
+    "heRef_2": "שולחן ערוך, חושן משפט רכז, כז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1183,
+    "line_index_2": 2531,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 232:3",
+    "heRef_2": "שולחן ערוך, חושן משפט רלב, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1188,
+    "line_index_2": 2553,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 233:1",
+    "heRef_2": "שולחן ערוך, חושן משפט רלג, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1190,
+    "line_index_2": 2557,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 234:3",
+    "heRef_2": "שולחן ערוך, חושן משפט רלד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1192,
+    "line_index_2": 2615,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 241:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רמא, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1198,
+    "line_index_2": 2675,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 245:10",
+    "heRef_2": "שולחן ערוך, חושן משפט רמה, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1199,
+    "line_index_2": 2676,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 245:11",
+    "heRef_2": "שולחן ערוך, חושן משפט רמה, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1202,
+    "line_index_2": 2759,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 253:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רנג, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1203,
+    "line_index_2": 2766,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 253:12",
+    "heRef_2": "שולחן ערוך, חושן משפט רנג, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1205,
+    "line_index_2": 2772,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 253:18",
+    "heRef_2": "שולחן ערוך, חושן משפט רנג, יח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1206,
+    "line_index_2": 2778,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 253:24",
+    "heRef_2": "שולחן ערוך, חושן משפט רנג, כד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1208,
+    "line_index_2": 2793,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 255:3",
+    "heRef_2": "שולחן ערוך, חושן משפט רנה, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1210,
+    "line_index_2": 2795,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 255:5",
+    "heRef_2": "שולחן ערוך, חושן משפט רנה, ה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1212,
+    "line_index_2": 2978,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 275:1",
+    "heRef_2": "שולחן ערוך, חושן משפט רעה, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1213,
+    "line_index_2": 2988,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 275:11",
+    "heRef_2": "שולחן ערוך, חושן משפט רעה, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1215,
+    "line_index_2": 3022,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 277:6",
+    "heRef_2": "שולחן ערוך, חושן משפט רעז, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1216,
+    "line_index_2": 3027,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 277:11",
+    "heRef_2": "שולחן ערוך, חושן משפט רעז, יא",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1217,
+    "line_index_2": 3028,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 277:12",
+    "heRef_2": "שולחן ערוך, חושן משפט רעז, יב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1222,
+    "line_index_2": 3098,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 286:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רפו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1224,
+    "line_index_2": 3099,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 286:3",
+    "heRef_2": "שולחן ערוך, חושן משפט רפו, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1226,
+    "line_index_2": 3131,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 290:16",
+    "heRef_2": "שולחן ערוך, חושן משפט רצ, טז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1233,
+    "line_index_2": 3169,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 291:25",
+    "heRef_2": "שולחן ערוך, חושן משפט רצא, כה",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1234,
+    "line_index_2": 3170,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 291:26",
+    "heRef_2": "שולחן ערוך, חושן משפט רצא, כו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1237,
+    "line_index_2": 3205,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 294:4",
+    "heRef_2": "שולחן ערוך, חושן משפט רצד, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1238,
+    "line_index_2": 3207,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 294:6",
+    "heRef_2": "שולחן ערוך, חושן משפט רצד, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1241,
+    "line_index_2": 3210,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 295:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רצה, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1243,
+    "line_index_2": 3214,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 296:2",
+    "heRef_2": "שולחן ערוך, חושן משפט רצו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1245,
+    "line_index_2": 3215,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 296:3",
+    "heRef_2": "שולחן ערוך, חושן משפט רצו, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1246,
+    "line_index_2": 3219,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 296:7",
+    "heRef_2": "שולחן ערוך, חושן משפט רצו, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1248,
+    "line_index_2": 3234,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 301:1",
+    "heRef_2": "שולחן ערוך, חושן משפט שא, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1263,
+    "line_index_2": 3414,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 333:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שלג, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1264,
+    "line_index_2": 3415,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 333:3",
+    "heRef_2": "שולחן ערוך, חושן משפט שלג, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1266,
+    "line_index_2": 3423,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 334:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שלד, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1272,
+    "line_index_2": 3467,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 339:1",
+    "heRef_2": "שולחן ערוך, חושן משפט שלט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1274,
+    "line_index_2": 3476,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 339:10",
+    "heRef_2": "שולחן ערוך, חושן משפט שלט, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1280,
+    "line_index_2": 3533,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 348:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שמח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1281,
+    "line_index_2": 3533,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 348:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שמח, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1282,
+    "line_index_2": 3539,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 348:8",
+    "heRef_2": "שולחן ערוך, חושן משפט שמח, ח",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1284,
+    "line_index_2": 3542,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 349:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שמט, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1285,
+    "line_index_2": 3543,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 349:3",
+    "heRef_2": "שולחן ערוך, חושן משפט שמט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1287,
+    "line_index_2": 3547,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 350:1",
+    "heRef_2": "שולחן ערוך, חושן משפט שנ, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1289,
+    "line_index_2": 3560,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 354:3",
+    "heRef_2": "שולחן ערוך, חושן משפט שנד, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1294,
+    "line_index_2": 3610,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 360:1",
+    "heRef_2": "שולחן ערוך, חושן משפט שס, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1296,
+    "line_index_2": 3626,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 361:6",
+    "heRef_2": "שולחן ערוך, חושן משפט שסא, ו",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1298,
+    "line_index_2": 3627,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 361:7",
+    "heRef_2": "שולחן ערוך, חושן משפט שסא, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1299,
+    "line_index_2": 3627,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 361:7",
+    "heRef_2": "שולחן ערוך, חושן משפט שסא, ז",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1301,
+    "line_index_2": 3664,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 364:9",
+    "heRef_2": "שולחן ערוך, חושן משפט שסד, ט",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1307,
+    "line_index_2": 3776,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 386:2",
+    "heRef_2": "שולחן ערוך, חושן משפט שפו, ב",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1311,
+    "line_index_2": 3931,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 410:4",
+    "heRef_2": "שולחן ערוך, חושן משפט תי, ד",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1313,
+    "line_index_2": 4021,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 419:1",
+    "heRef_2": "שולחן ערוך, חושן משפט תיט, א",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1314,
+    "line_index_2": 4023,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 419:3",
+    "heRef_2": "שולחן ערוך, חושן משפט תיט, ג",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1316,
+    "line_index_2": 4102,
+    "ref_2": "Shulchan Arukh, Choshen Mishpat 424:10",
+    "heRef_2": "שולחן ערוך, חושן משפט תכד, י",
+    "path_2": "שולחן ערוך, חושן משפט.txt",
+    "Conection Type": "source"
+  }
+]
