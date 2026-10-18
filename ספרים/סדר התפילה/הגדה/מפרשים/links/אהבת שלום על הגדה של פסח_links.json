@@ -1,0 +1,37 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 17,
+    "heRef_2": "הגדה של פסח, ורחץ,  א",
+    "path_2": "הגדה של פסח.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 33,
+    "heRef_2": "הגדה של פסח, מגיד, מה נשתנה,  ב",
+    "path_2": "הגדה של פסח.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 42,
+    "heRef_2": "הגדה של פסח, מגיד, כנגד ארבעה בנים,  ב",
+    "path_2": "הגדה של פסח.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 99,
+    "heRef_2": "הגדה של פסח, מגיד, דיינו,  א",
+    "path_2": "הגדה של פסח.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 99,
+    "heRef_2": "הגדה של פסח, מגיד, דיינו,  א",
+    "path_2": "הגדה של פסח.txt",
+    "Conection Type": "source"
+  }
+]
