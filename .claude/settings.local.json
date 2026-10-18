@@ -1,0 +1,34 @@
+{
+  "hooks": {
+    "StopFailure": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/HP/הורדות/claudeschedulerhtml.exe\" --hook"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/HP/הורדות/claudeschedulerhtml.exe\" --hook"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/HP/הורדות/claudeschedulerhtml.exe\" --hook"
+          }
+        ]
+      }
+    ]
+  }
+}
