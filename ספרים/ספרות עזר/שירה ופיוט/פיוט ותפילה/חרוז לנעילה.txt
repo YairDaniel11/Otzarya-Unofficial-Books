@@ -1,7 +1,6 @@
 <h1>חרוז לנעילה</h1>
 
 <h2>פתח לנו שער בעת נעילת שער</h2>
-<small>המסירה: Jerusalem, National Library of Israel, ~4 781 B</small>
 פתח לנו שער.
 בעת נעילת שער.
 כי פנה יום.

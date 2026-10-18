@@ -1,8 +1,6 @@
 <h1>מדוע קול כחולה</h1>
 רבי יוסף אבן צדיק
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 108, 96</small>
 <b>פתיחה לרב' יוסף בן צדיק ז'ל</b>.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 148, 35</small>
 מדוע קול כחולה.
 וכל איש מסלד בחילה.
 ולמה נהי ויללה.
@@ -31,7 +29,6 @@
 עליו להריב נדיבים.
 אך חוקים לא טובים.
 "החוקים האלה".
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 108, 96</small>
 למד לטרוף למוד.
 כל איש נחמד חמוד.
 וכל יום אל חיק ימוד.
@@ -45,12 +42,10 @@
 ועד נפש אפפונו.
 "המים המאררים האלה".
 <h2>- גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 148, 35</small>
 קורותיו צנפוני.
 ומשבריו שטפוני.
 ועד נפש אפפוני.
 "המאררים האלה".
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 108, 96</small>
 והעוד תהיה תקומה.
 לי או אֵלכָה רומה.
 או תערב לי תנומה.
@@ -127,7 +122,6 @@
 לקנות עמך ותוֹסיף.
 יד הזמן "פן יוסיף.
 להכותו על אלה".
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 18</small>
 אבלים בלה צורם.
 צורם צפד עורם.
 וראם לא הכירם.

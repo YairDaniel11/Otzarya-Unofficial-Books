@@ -3,7 +3,6 @@
 <h2>קטע 1</h2>
 <h3>דף 1</h3>
 <h4>שו' 1</h4>
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 1108</small>
 <small>[עמ' 259]</small> דרוש חכמה ודרך טובה. להתגדל בעיני ה' ….
 <h4>שו' 2</h4>
 מרחיק סכלות וגבהות מנפשו. ל(ה)תחכם ולתגבר ל…א….
@@ -150,7 +149,6 @@
 <h2>קטע 2</h2>
 <h3>דף 1</h3>
 <h4>שו' 1</h4>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), Schechter, 6-12</small>
 <small>[עמ' 242]</small> צדיק יזהר מעשות און. ויכבש … נפשו.
 <h4>שו' 2</h4>
 כנזר מתאוה וחמה. ואויל יחרף ויגדף …

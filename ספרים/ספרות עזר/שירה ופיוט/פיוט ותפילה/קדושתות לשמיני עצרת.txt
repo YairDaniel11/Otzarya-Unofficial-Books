@@ -1,7 +1,6 @@
 <h1>קדושתות לשמיני עצרת</h1>
 אלעזר הקליר
 <h2>אחות אשר לך כספת</h2>
-<small>המסירה: Cambridge, University Library, Add. 3370</small>
 <b>מעמד שמיני עצרת</b>.
 אחות אשר לך כספתה.
 ביום טובה לה טוב הוספתה.
@@ -20,7 +19,6 @@
 ולך אתחולל.
 בגמירת הלל.
 מגני אהלל. <b>ב' מגן</b>.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 3078, 1-8</small>
 מותמם בטבע שמונה.
 מבתר ריצוי משמונה.
 נענף בבדי שמונה.
@@ -177,14 +175,11 @@
 שכר חציך מדם מואסת שמיני.
 תכונן תילך ואנצחך על השמינית.
 <h2>תשורת תודות תמימים תתמידו</h2>
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 ובכן "אלה תעשו לה' במועדיכם".
 תשורת תודות תמימים תתמידו.
 לתת לתמים לתוקף תפארתכם//25. "אלה תעשו לה' במועדיכם".
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 276, 198a</small>
 אלה שוניות ש… תשלימו.
 לשחר לשדי בשאנן שתיתכם//.
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 רצוי רגישת רפתים תרחישו.
 לרצות לרחום ברגלי ראייתכם. "אלה".
 קרבנות קנויות קדם תקדישו.
@@ -206,11 +201,9 @@
 כרים כבשים כהיום תכלילו.
 לכתר לכביר בכיבוד כניסתכם. "אלה".
 <h2>תשורת תודות תמימים תתמידו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 177</small>
 כרים כבשים כליל תכללו.
 לכתר לכביר בכיבוד …
 <h2>תשורת תודות תמימים תתמידו</h2>
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 ישרי ילדי יונים תייפו.
 ליקר ליחיד ביער יראתכם. "אלה".
 טוהר טביחת טלאים תטהרו.
@@ -219,38 +212,30 @@
 לחלות לחנון בחוק חגיגתכם. "אלה".
 זכרון זריקת זבחים תזהירו.
 לזמר לזך בזיבד זמניכם. "אלה".
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 177</small>
 א' ויעודי וועד וותק תוועידו.
 לוועד לומר וודוי ווסתכם//.
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 העדות החקים משפטים תהגו.
 להלל להדור בהוד הודייתכם. "אלה".
 דרישת דקדוק דמים תדפיקו.
 לדרוש לדגול בדוכן דהרתכם. "אלה".
 <h2>תשורת תודות תמימים תתמידו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 177</small>
 דתי דקדוקי דמים תדברו.
 לדרוש לדגול בדוכן דהרתכם.
 <h2>תשורת תודות תמימים תתמידו</h2>
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 גדיים גוזלים גזורים תגישו.
 לגמול לגדול בגיל גודליכם. "אלה".
 ביאור בירור בכורים תביאו.
 לברר לבחור בבית בחירתכם. "אלה".
 <h2>תשורת תודות תמימים תתמידו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 177</small>
 ביקור בכורים ביכורים תביאו
 לברך לבחור בבית בחירתכם.
 <h2>תשורת תודות תמימים תתמידו</h2>
-<small>המסירה: London, London School of Jewish Studies (Jews’ College), Asher Myers collection, 9</small>
 אישי אימורים אלים תאמירו.
 לאמץ לאדון באהל אסיפתכם. "אלה".
 <h2>תשורת תודות תמימים תתמידו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 177</small>
 אישי אילים אבירים תאמירו.
 לאמץ לאדון באוהל אסיפתכם//.
 <h2>אלה עשיתם ואלה תעשו, סילוק</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 3078, 1-8</small>
 ובכן נעריצך אלהינו.
 אלה עשיתם ואלה תעשו.
 בימים האלה כאלה וכאלה תעשו.
@@ -333,11 +318,9 @@
 כקדישין יקדישוהו. כאופן וגלגל יאשרוהו.
 כחיה וכרוב יחסנוהו. כמראה בזק ינעימוהו.
 כמראה חשמל יזכירוהו. כמראה הקשת יצחצחוהו.
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 27, 2</small>
 כמר' נוגה יכנוהו. כמרובעי פנים יעריצוהו.
 כעטופי שש שש יקדישוהו. <b>ככת' "וקרא זה אל זה ואמר ק' ק' ק'"</b>.
 <h2>אולזו לז ללז מולזים</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 7, 14</small>
 <b>קדושת שמיני עצרת</b>.
 אולזו לז ללז מולזים.
 בגיל שמחות נחזים//.

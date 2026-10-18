@@ -1,245 +1,189 @@
 <h1>ברכות קריאת שמע בשחרית, ברכה שנייה שלפניה</h1>
 
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 אהבת עולם אהבתנו ה' אלהינו.
 חמלה גדולה יתירה חמלתה עלינו.
 בעבור אבותינו שבטחו בך.
 ותלמדינו חוקי חיים כן תחנינו.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, e.95, 11</small>
 אהבת עולם אהבתנו ה' אלהינו.
 חמלה גדולה יתירה חמלת עלינו מלכינו.
 בעבור כבוד שמך ובעבור אבותינו שבטחו בך.
 ותלמדם חוקי חיים כן תחנינו ותלמדינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 11, 13</small>
 אהבה רבה אהבתנו ה' אלינו.
 חמלה גדלה ויתרה חמלת עלינו אבינו מלכינו.
 בעבור אבו' שבטחו בך.
 ותלמדם חוקי חיים כן תחיינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 אהבת עולם אהבתנו ה' אלהינו.
 חמלה גדולה יתירה חמלת עלינו מלכנו.
 בעבור כבוד שמך ובעבור אבתינו הצדיקים אשר בטחו בך.
 ותלמדמו חוקי חיים מלפניך כן תחננו ותלמדנו.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 191</small>
 אהבת עולם אהבתנו ה' אלהינו.
 חמלה גדולה ויתירה חמלת עלינו אבינו מלכנו.
 חונינו בעבור כבוד שמך ובעבור אבותינו הצדיקים אשר בטחו בך.
 ותלמדם לעשות חוקי חיים כן תחונינו ותלמדינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 19, 4</small>
 אהבה רבה אהבתנו ה' אלוהינו.
 חמלה גדולה יתורה חמלת עלינו אבינו מלכינו.
 בעבור אבותינו שבטחו בך.
 ותלמדנו חקי חיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 56</small>
 אהבת עולם אהבתנו ה' אלהינו.
 חמלה גדולה חמלתה עלינו אבינו מלכנו.
 בעבור אבותינו שבטחו בך.
 ותלמדנו לעשות מצות חוקי חיים כן תחננו.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 אבינו אב הרחמן המרחם עלינו.
 תן בלבינו להבין לשמוע ללמוד וללמד לשמור ולעשות ולקיים.
 את כל דברי תלמוד תורתך באהבה.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, e.95, 11</small>
 אבינו אב הרחמן המרחם רחם עלינו.
 ותן בלבינו להבין להשכיל לשמוע ללמוד וללמד לשמור ולעשות ולקיים.
 את כל דברי תורתך באהבה.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 אבינו אב הרחמן המרחם רחם עלינו ופדנו.
 ותן בלבנו להבין להשכיל לשמוע ללמוד וללמד לשמור לעשות לנצור ולקיים.
 את כל דברי תלמוד תורתך באהבה.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 והאר עינינו במצותיך.
 ודבק לבינו ביראתיך.
 ויחד את לבבינו ליראה את שמך.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 והאירה עינינו בתורתך.
 ודבק לבנו במצותיך.
 ויחד לבבנו לאהבה וליראה את שמך.
-<small>המסירה: Oxford, Bodleian Library, e.41 (2721), 109-110</small>
 והאר עינינו בתורתך.
 ודבק לבינו במצותיך.
 ומלוך עלינו למען שמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 והאר עינינו במצותיך.
 ודבק לבנו בתורתיך.
 ויחד לבבנו לאהבתך וליראה את שמיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 191</small>
 האירה עינינו במצותיך.
 ודבק לבינו יראתיך.
 ויחד לבבינו לאהבה אותך וליראה את שמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 106</small>
 והאר עינינו במצותיך.
 ודבק בלבנו יראתך.
 ויחד לבבנו ליראה את שמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 56</small>
 האר עינינו במצותיך.
 ודבק לבינו ליראתיך.
 ויחד לבבינו לאהבה וליראה את שמך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2174, 17-18</small>
 האיר עינינו במצותיך.
 ודבק בלבינו תורתיך.
 ויחיד לבבינו ליראה מלפניך ולאהבה את שמיך.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 ותמלוך עלינו מהרה אתה לבדך.
 ושם קדשך באמת נקרא עלינו.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 153, 17</small>
 ומלוך עלינו מהרה אתה לבדך.
 כי שם קדשך נקרא עלינו באמת.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 ומלוך עלינו מהרה אתה לבדך.
 כי שם קדשך באמת נקרא עלינו. עשה עמנו צדקה וחסד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 56</small>
 כי שם קדשך הגדול באמת נקרא עלינו.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 בעבור שמך האל הגדול הגבור והנורא.
 מהרה באהבה תרים קרנינו.
 ותושיעינו למען שמך.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ובעבור שמך הגדול הגבור והנורא.
 שנקרא על ישראל עמך.
 מהרה באהבה תרים קרנינו.
 ותושיענו בקרוב למען שמך.
-<small>המסירה: Paris, Bibliotheque Nationale, 620</small>
 עשה עמנו בעבור כבוד שמך האל הגדול הגבור והנורא.
 מהרה באהבה תרום קרנינו.
 ותמלוך עלינו והושיענו למען שמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 ובעבור כבוד שמך האל הגדול הגיבור והנורא.
 מהרה באהבה תגביה ותרים קרננו.
 ותושיענו בקרוב למען שמיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 191</small>
 עשה עמנו חסד בעבור כבוד שמך האל הגדול הגבור והנורא.
 מהרה באהבה תרים קרנינו ותמלוך עלינו בקרוב.
 ותושיענו למען שמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 6H 3, 1</small>
 בעבור שמך הגדול הגבור והנורא.
 מהרה באהבה תרום קרנינו.
 ותושיענו למען שמיך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2174, 17-18</small>
 בעבור כבוד שמך האל הגדול הגיבור והנורא.
 עליך בטחנו.
 מהרה באהבה תרים קרנינו ותמלוך עלינו בקרוב.
 ותושענו למען שמך.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 בך בטחנו לא נבוש.
 ובשמך חסינו לא נכלם.
 ולא נכשל עד עולמי עד.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ולא נבוש.
 לעולם ועד.
-<small>המסירה: London, British Library, 615</small>
 כי בך בטחנו לא נבוש.
 ובשמך הגדול חסינו לא נכלם.
 ולא נכשל לעד ולעולמי עד.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 בך בטחנו אל נא נבוש.
 כי בשמך חסינו לא נכלם.
 ולא נכשל עד עולמי עד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 106</small>
 ולא נבוש.
 ולא נכלם.
 לעולם …
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 כי אבינו ואלהינו אתה.
 נגילה ונשמחה בישועתיך.
 ורחמיך וחסדיך אל יעזבונו נצח סלה ועד.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: London, British Library, 615</small>
 כי אבינו ואלהינו אתה.
 ורחמיך וחסדיך הרבים אל יעזבונו נצח סלה ועד.
 ונגילה ונשמחה בישועתך.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 10, 226</small>
 כי אבינו ואלהינו אתה.
 נגילה ונשמחה בישועתיך.
 ורחמיך (ורחמיך) וחסדיך הרבים יעזרונו ויסובבונו ואל יעזבונו נצח סלה לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 כי אבינו ואלהינו אתה.
 נגילה ונשמחה בישועתיך.
 ברחמיך הרבים ובחסדיך הגדולים מהרה יעזרונו ויסובבונו ויסמכונו נצח סלה לעד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 106</small>
 כי בשם קדשך הגדול והקדוש והנורא בטחנו.
 נגילה ונשמחה בישועתך.
 ורחמיך וחסדיך אל יעזבונו נצח סלה …
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 והבא עלינו ברכה ושלום.
 ובשרנו בבשורות טובות מארבע כנפות כל הארץ.
 והוליכנו מהרה קוממיות לארצנו ולנחלת אבותינו.
 …בה נשכון לעולם ועד.
 כי פועל ישועות אתה.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 והבא עלינו ברכה ושלום.
 ומארבע כנפות כל הארץ.
 תוליכנו קוממיות לארצנו.
 כי אל פועל ישועות אתה.
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 והביא לנו ישועה ושלום.
 מארבע כנפות הארץ.
 והוליכנו מהרה קוממיות לארצנו.
 כי מלך פועל ישועות לעמך ישראל אתה. נגילה ונשמחה בישועתך.
-<small>המסירה: Jerusalem, National Library of Israel, ~4 781 A</small>
 והביאנו לשלום.
 מארבע כנפות הארץ.
 ותוליכנו קוממיות לארצנו.
 כי אל פועל ישועות אתה.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 10, 226</small>
 והבא עלינו ברכות ….
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 191</small>
 והבא עלינו ברכה ושלום.
 ובשורות טובות מארבע כנפות כל הארץ. ושבור עול הגוים מעל צוארינו.
 והוליכנו מהרה קומימיות לארצינו.
 כי אל מלך פועל ישועות עמך ישראל אתה.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 כי בנו בחרתה מכל עם ולשון.
 וקירבתנו (למ) לשמך הגדול.
 להודות לך וליחדך ולאהבה את שמך.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ובנו בחרת מכל עם ולשון.
 וקרבתנו לשמך הגדול סלה באמת.
 להודות לך וליחדך באהבה.
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 כי בנו בחרת מכל עם ולשון.
 וקרבתנו לשמך.
 להודות לך וליחדך.
-<small>המסירה: Oxford, Bodleian Library, e.41 (2721), 109-110</small>
 כי בנו בחרתה מכל עם ולשון.
 וקירבתנו לשמך הגדול והקדוש באהבה.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 כי בנו בחרת ואותנו קדשת מכל עם ולשון.
 וקירבתנו לשמך הגדול והקדוש באהבה ובאמת.
 להודות לך וליחדך ולרוממך ולאהבה את שמך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 968, 9</small>
 כי בנו בחרתה מכל עם ולשון.
 וקרבתנו לשמך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2174, 17-18</small>
 כי בנו בחרת ואותנו קדשת מכל עם ולשון.
 וקירבתנו לשמך הגדול הקדוש באהבה ובאמת.
 להודות לך וליחדך ולרוממך ולאהבה את שמך באמת.
 <h2>אהבה רבה אהבתנו</h2>
-<small>המסירה: Oxford, Bodleian Library, e.41 (2721), 109-110</small>
 גלה מלכותך עלינו והאר פני משיחך.
 ותרים קרנינו ותשמח לבינו ותוציא לאור צדקינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 כי יחיד אתה ואין זולתך.
 וכתוב "כי יעקב בחר לו יה ישראל לסגולתו".
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 159, 40</small>
 ב' אתה ה' הבוחר בעמו ישראל. אמן.
 <h2>אהבה רבה אהבתנו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 21</small>
 ברוך אתה ה' הבוחר בעמו ישראל באהבה.

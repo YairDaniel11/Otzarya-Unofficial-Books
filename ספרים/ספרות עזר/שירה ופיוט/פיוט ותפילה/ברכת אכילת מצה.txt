@@ -1,10 +1,8 @@
 <h1>ברכת אכילת מצה</h1>
 
 <h2>בא"י אמ"ה אקב"ו על אכילת מצה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 100</small>
 ברוך אתה ה' אלה'ינו מלך העולם.
 אשר קדש' במצו' וצונו על אכילת מצה.
 <h2>בא"י אמ"ה אקב"ו על אכילת מצה - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 133</small>
 בר' א' ה' א' מ' ה'.
 אשר צוה את אבותינו לאכול מצה.

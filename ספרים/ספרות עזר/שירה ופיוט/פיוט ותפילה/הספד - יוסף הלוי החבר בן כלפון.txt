@@ -1,13 +1,10 @@
 <h1>הספד - יוסף הלוי החבר בן כ'לפון</h1>
 יוסף הלוי החבר בן כ'לפון
 <h2>אלה היום כי ארזה ערה</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, I, 170</small>
 אפטארה.
 <h2>אלה היום כי ארזה ערה - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 128, 32</small>
 אפטארה לאשה.
 <h2>אלה היום כי ארזה ערה</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, I, 170</small>
 אלה היום כי ארזה ערה.
 תשאה בשמות עליה מסדרונה ושדרה.
 יום ההוא נמתי למתיפח. מה זה רוחך סרה.

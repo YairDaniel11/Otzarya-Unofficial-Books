@@ -1,61 +1,49 @@
 <h1>פיוט לאחר קדושה במוסף ימים נוראים</h1>
 
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1232, 32</small>
 ויאתיו הכל לעובדך.
 ויברכו ויכרעו לפניך.
 ויגידו באיים גבורותיך.
 <h2>ויאתיו כל לעבדך - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 ויאתיו כל לעבדיך.
 ויברכו ויכרעו לפניך.
 ויגידו באיים כבודך.
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1232, 32</small>
 וידרשוך עם לא ידעוך.
 ויהללוך כל אפסי ארץ.
 ויאמרו תמיד "יגדל ה'".
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 ויזבחו לך את זבחיהם.
 ויחפרו את / עם עצביהם.
 ויטו שכם אחד לעבדך.
 <h2>ויאתיו כל לעבדך - גרסה</h2>
-<small>המסירה: Rome, Biblioteca Casanatense, 73</small>
 ויזנחו את עצביהם.
 ויחפרו עם פסיליהם.
 ויטו שכם אחד לעובדיך.
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 ויראוך מבקשי פניך.
 ויכירו כח מלכותיך.
 וילמדו תועי בינה.
 <h2>ויאתיו כל לעבדך - גרסה</h2>
-<small>המסירה: Rome, Biblioteca Casanatense, 73</small>
 ויראוך כל מבקשי פניך.
 ויכירו כח גבורתך.
 וילמדו תועים בינה.
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 וימללו את גבורותיך.
 וינשאוך מתנשא לכל לראש.
 ויסלדו בחילה את פניך.
 <h2>ויאתיו כל לעבדך - גרסה</h2>
-<small>המסירה: Rome, Biblioteca Casanatense, 73</small>
 וימללו את כבוד גודלך.
 וינשאוך המתנשא לכל לראש.
 ויסלדו בחילה לפניך.
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 ויעטרו לך נזר תפארה.
 ויפצחו הרים רינה.
 ויצהלו איים במולכך.
 <h2>ויאתיו כל לעבדך - גרסה</h2>
-<small>המסירה: Rome, Biblioteca Casanatense, 73</small>
 ויעטרו לך זיר תפארה.
 ויפצחו הרים רינה.
 ויצהלו איים במולכך.
 <h2>ויאתיו כל לעבדך</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 195</small>
 ויקבלו את עול מלכותך.
 וירוממוך בקהל עם.
 וישמעו רחוקים וישובו.

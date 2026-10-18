@@ -1,7 +1,6 @@
 <h1>אופן לפרשת ויחי</h1>
 ינון בן צמח
 <h2>איש כברכתו ברך תם מולדתו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 115, 32</small>
 <b>אופן</b>.
 איש כברכתו.
 ברך תם מולדתו.

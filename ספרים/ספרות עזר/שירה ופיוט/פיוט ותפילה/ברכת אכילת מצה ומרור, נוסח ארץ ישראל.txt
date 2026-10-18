@@ -1,40 +1,30 @@
 <h1>ברכת אכילת מצה ומרור, נוסח ארץ ישראל</h1>
 
 <h2>בא"י אמ"ה אקב"ו על אכילת מצה ומרור</h2>
-<small>המסירה: Philadelphia, Center for Advanced Judaic Studies, Halper, 211</small>
 ברוך אתה יי אלהנו מלך העלם.
 אשר קדשנו במצותיו וצונו על אכילת מצה ומרור בלילה הזה.
 להזכיר גבורתו שלמלך מלכי המלכים ברוך הוא.
 שעשה נסים לאבתינו בזמן הזה.
 בעבור אברהם יצחק ויעקב.
 <h2>בא"י אמ"ה אקב"ו על אכילת מצה ומרור - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 134</small>
 להזכיר גבורתו שלמלך מלכי המלכים ברוך הוא.
 שעשה ניסים לאבותינו בארץ מצרים בלילה הזה.
 בעבור אברהם יצחק ויעקב.
 <h2>בא"י אמ"ה אקב"ו על אכילת מצה ומרור</h2>
-<small>המסירה: Philadelphia, Center for Advanced Judaic Studies, Halper, 211</small>
 ברוך אתה יי זוכר הברית.
 <h2>בא"י אמ"ה אקב"ו לאכול מצה ומרורים</h2>
-<small>המסירה: Oxford, Bodleian Library, g.2 (2700), 16</small>
 ב'.
 אשר קיד' ב' וצ' לאכל מצ' ומרור' בלילה הז'.
 <h2>בא"י אמ"ה אשר צוה את אבותינו לאכול מצות ומרורים בשר צלי אש</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, J, 506</small>
 בר' א' ה' אלהינו מלך הע'.
 אשר צוה את אבותינו לאכל מצות מרורים בשר צלי אש.
 <h2>בא"י אמ"ה אשר צוה את אבותינו לאכול מצות ומרורים בשר צלי אש - גרסה</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2018, 8</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר צוה את אבתינו במצרים נאכל מצות ומררים בשר צלי אש.
 <h2>בא"י אמ"ה אשר צוה את אבותינו לאכול מצות ומרורים בשר צלי אש</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, J, 506</small>
 להזכיר את גבורותיו.
 <h2>בא"י אמ"ה אשר צוה את אבותינו לאכול מצות ומרורים בשר צלי אש - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 6H 4, 2</small>
 בעבור זכרונים ברית ראשנים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2018, 8</small>
 בעבור זכרון ברית ראשנים.
 <h2>בא"י אמ"ה אשר צוה את אבותינו לאכול מצות ומרורים בשר צלי אש</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, J, 506</small>
 בר' א' ה' זוכר הברית.

@@ -1,100 +1,75 @@
 <h1>ברכת ההתעוררות משינה</h1>
 
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 ב'.
 המעביר חבלי שינה מעיניי ותנומה מעפעפיי.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 ברוך את' ה' אלהי' מל' העו'.
 המעביר שינה מעיני ותנומה מעפעפי.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 יהי רצון מלפ' ה' אליי.
 שתרגילני בתורתך.
 ותדבקיני למצותיך.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Paris, Bibliotheque Nationale, 633</small>
 יהי רצון מלפניך ה' אלה'י ואלה'י אבותי.
 שתרגיליני לידי מצוה.
 ואל תרגיליני לדבר עבירה.
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 יהי רצון מלפניך ה' אלה'י ואלהי אבותיי.
 שתרגיליני בתורתיך.
 ודבקיני במצותיך.
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 יהי רצון מלפניך ה' אלהי ואלהי אבתי.
 שתתן לי חלק בתורתך.
 ודבקני במצותיך.
 ותרגילני לידי מצוה.
 ואל תרגיליני לידי עבירה.
-<small>המסירה: Sassoon Collection, 535</small>
 יהי רצון מלפניך ה' אלה'י ואלה'י אבותי.
 שתתן חלקי בתורתך.
 ותרגילני לידי מצוה.
 ואל תרגילני לידי עבירה.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 7</small>
 ותן חלקי בתורתך.
 ותדביקני במצותיך ותחזיקני ביראתיך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2108, 10</small>
 ויהי רצון ורחמים מלפניך יי אלהיי ואלהי אבותיי.
 שתרגילני לדבר מצוה.
 ואל תרגילני לדבר עבירה.
 ותתן חלקי בתורתך.
 ותחזקני במצותיך.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 ואל תביאנו לידי חטא.
 ולידי נסיון ולידי ביזיון.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Paris, Bibliotheque Nationale, 633</small>
 ושמרני מבוא לידי חטא ועון.
 ולא לידי נסיון ולא לידי ביזיון.
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 ואל תביאיני לא לידי חט' ולא לידי עבירה ועון.
 לא לידי ביזיון ולא לידי ניסיון.
-<small>המסירה: Sassoon Collection, 535</small>
 ושמרני מבוא לידי חטא. ומבוא לידי
 ומבוא לידי נסיון. ומבוא לידי בזיון.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 ותרחקני מיצר הרע.
 ותדבקני ליצר הטוב.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 ואל ישלוט בי יצר הרע.
 ורחקיני מאדם רע. ומפגע רע.
 ודבקיני ביצר טוב.
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 וישלוט בי יצר טוב.
 ואל ישלוט בי יצר הרע.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 7</small>
 והרחיקני מיצר הרע.
 והדביקני ביצר הטוב.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2108, 10</small>
 ותשלט בי יצר טוב.
 ואל תשלט בי יצר רע.
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ורחקני מאדם רע ומפגע רע ומיצר הרע.
 ודבקני ביצר טוב ובמעשים טובים.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 ותתניני לחן ולחסד ולרחמים בעיניך ובעיני כל רואינו.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 וכוף את יצרי להשתעבד לך.
 ותניני לחן ולחסד ולרחמים בעיניך ובעני כל רואי.
 ותגמיליני חסדים טובים.
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ותנני היום ובכל יום לחן לחסד ולרחמים בעיניך ובעיני כל רואי.
 ותגמילני חסדים טובים לעיני כל ישראל.
-<small>המסירה: Sassoon Collection, 535</small>
 ותניני היום ובכל יום לחן לחסד (ולרח ולחו) ולרחמים בעיניך ובעיני כל רואיי.
 ותגמלני חסדיך הטובים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 123</small>
 ותנני לחן לחסד ולרחמים בעיניך ובעיני כל רואי.
 וגומלני חסדים טובים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 37</small>
 וכוף את יצרי להשתעבד לך.
 והכנע עורפי לשוב אליך.
 וחדש כליותי לשמור פיקודיך.
@@ -102,13 +77,9 @@
 ולעשות הטוב והישר בעיניך.
 וקיים עלי ועל זרעי ועל זרע זרעי מקרא שכתוב.
 "ומל ה' אלהיך את לבבך ואת לבב זרעך לאהבה את ה' אלהיך בכל לבבך ובכל נפ' …".
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2108, 10</small>
 ותתנני לחן לחסד ולרחמים בעיניך ובעיני כל רואיי.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, G 1, 78</small>
 ב' א' ה' גומל חסדים.
 <h2>בא"י אמ"ה המעביר חבלי שינה מעיני - גרסה</h2>
-<small>המסירה: Vatican, Biblioteca Apostolica ebr., 329</small>
 ברוך אתה ה' גומל חסדים טובים לעמו ישראל ברחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 123</small>
 בא'י גומל חסדים טובים.

@@ -1,7 +1,6 @@
 <h1>יוצרות לימות החול, 3</h1>
 
 <h2>... מספר רובע, יום ד</h2>
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 24</small>
 … מספר רובע.
 צור סילל לך בשיר מרובע. <b>זה צור</b>.
 קומם כרם רבעי.

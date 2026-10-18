@@ -1,7 +1,6 @@
 <h1>יוצר</h1>
 
 <h2>אורך שלח ובו נתהלכה</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), 4260</small>
 <b>יוצר</b>.
 אורך שלח ובו נתהלכה.
 באר לעניו כהלכה.

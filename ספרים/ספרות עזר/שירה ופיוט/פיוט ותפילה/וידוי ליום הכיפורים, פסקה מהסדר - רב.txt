@@ -1,36 +1,29 @@
 <h1>וידוי ליום הכיפורים, פסקה מהסדר - רב</h1>
 רב
 <h2>אתה יודע רזי עולם</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 15</small>
 אתה יודיע רזי עולם.
 ותעלומות סתרי כל חי.
 אתה חופש כל חדרי בטן.
 ובוחן כליות ולב.
 <h2>אתה יודע רזי עולם - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 אתה יודע רזי עולם.
 ותעלומות סתרי כל חי.
 אתה חופש כל חדרי בטן.
 ורואה כליות ולב.
 <h2>אתה יודע רזי עולם</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 15</small>
 ואין דבר נעלם ממך.
 ואין נסתר רז מנגד עיניך.
 <h2>אתה יודע רזי עולם - גרסה</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2675, 11</small>
 ואין כל דבר נעלם ממך.
 ואין נסתר מנגד עיניך.
 <h2>אתה יודע רזי עולם</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 15</small>
 ובכן יהי רצון ורחמים מלפניך ה' אלהינו ואלהי אב'.
 שתמחול לנו על כל עונותינו.
 ותכפר לנו על פשעינו.
 ותסלח על כל חטאתינו.
 <h2>אתה יודע רזי עולם - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 3</small>
 אבל מה נאמר לפניך ה' אלהינו.
 מה נדבר ומה נצטדק.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2675, 11</small>
 ובכן יהי רצון מלפניך ה' אלינו ואלי אבו'.
 שתמחול לנו על עוונותנו.
 ותסלח לנו על כל פשענו.

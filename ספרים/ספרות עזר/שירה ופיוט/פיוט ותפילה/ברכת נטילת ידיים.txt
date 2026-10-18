@@ -1,29 +1,22 @@
 <h1>ברכת נטילת ידיים</h1>
 
 <h2>בא"י אמ"ה אקב"ו על נטילת ידים</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 12</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר קדשנו במצותיו וצונו על נטילת ידים.
 <h2>בא"י אמ"ה אקב"ו על נטילת ידים - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 6H 4, 2</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר קידשנו במצותיו וצונו על נטילת הידים.
 <h2>בא"י אמ"ה אקב"ו על רחיצת ידים</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 133</small>
 ב' א' ה' א' מ' ה'.
 אשר קדשנו במצותיו וצונו על רחיצת ידים.
 <h2>בא"י אמ"ה אקב"ו על רחיצת ידים - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 198, 21</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר קידשנו במצו' וציונו על מצות רחיצת ידים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 22</small>
 ברוך א' ה' אלהינו מלך העו'.
 אשר קידשנו במצותיו וציונו על מצות רחיצת הידיים.
 <h2>בא"י אמ"ה אקב"ו על שטיפת ידים</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 136</small>
 ב' א' ה' אל' מ' ה'.
 אשר קדשנו במצ' וצונו על שטיפת ידים.
 <h2>בא"י אמ"ה אקב"ו על שטיפת ידים - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 198, 21</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר קדשנו במצותיו וצונו על מצות שטיפת ידים.

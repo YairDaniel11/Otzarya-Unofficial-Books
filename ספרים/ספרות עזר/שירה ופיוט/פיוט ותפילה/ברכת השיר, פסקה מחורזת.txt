@@ -1,7 +1,6 @@
 <h1>ברכת השיר, פסקה מחורזת</h1>
 
 <h2>הללי אלהיך כי נאוו לחייך</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 156, 35</small>
 הללי אלהיך.
 כי נוו לחייך.
 זמרי למלכך.

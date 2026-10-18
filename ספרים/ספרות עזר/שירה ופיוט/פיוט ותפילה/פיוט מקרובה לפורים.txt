@@ -1,7 +1,6 @@
 <h1>פיוט מקרובה לפורים</h1>
 פינחס הכהן בן יעקב מכפרא
 <h2>אז מנעורי רבת צררוני והצירוני</h2>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, II, 46</small>
 אז מנעורי רבת … …רוני.
 בכל דור ודור חרפוני וניאצוני//.
 "ה' מה רבו צרי".
@@ -51,7 +50,6 @@
 בעצת בעורי.
 "רבים קמים עלי".
 והמן וג'.
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, II, 33</small>
 טעם אמורי …בה.
 על חולת אהבה.
 חנם להריבה//.
@@ -142,14 +140,12 @@
 על כל מה שעשתה לי בת אדום.
 "ה'" וג'.
 והמן וג'.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 10, 46</small>
 תעתעוני תעלולים.
 עלילות מתעוללים.
 ואותי מגעילים.
 יתר מדי מועלים.
 חרסי ישמעאלים.
 "רבים".
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, II, 33</small>
 פקוד על כולם.
 יום בו ישכלם.
 נקם יכפלם.

@@ -1,7 +1,6 @@
 <h1>יוצר ליום כיפור</h1>
 חדותא בן אברהם
 <h2>?יום אחד למלכו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 159</small>
 <b>יוצר כיפורים</b>.
 יום אחד למולכו.
 ואין כחין ערכו.
@@ -56,16 +55,13 @@
 יום על פשע יעבור.
 ויסבול כגבור.
 וצדקינו יבור.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 234, 28</small>
 יום פדיון נפש.
 דרור וחופש.
 ימציא בעינוי נפש.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 159</small>
 יום צום ניקרא.
 ספרים יקרא.
 וצדקה לחקורה.
 שמעה.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 234, 28</small>
 יום קרוב לקוראיו בכל לב.
 באים בשברון לב.
 לפני בוחן לב.
@@ -76,7 +72,6 @@
 לנקות אשמים.
 לטהר כתמים.
 <h2>אנא הבט ממרומים, סילוק</h2>
-<small>המסירה: Moscow, Russian State Library, Or. F. 173.II, 118.9 (according to Fleischer in Kiryat Sefer 59)</small>
 <b>סילוקה</b>.
 אנא הבט ממרומים.
 במתענים היום וצמים.

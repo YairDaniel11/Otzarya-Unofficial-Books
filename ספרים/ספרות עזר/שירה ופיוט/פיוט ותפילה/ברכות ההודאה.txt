@@ -1,69 +1,53 @@
 <h1>ברכות ההודאה</h1>
 
 <h2>בא"י אמ"ה גומל חסדים טובים</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Ar. 37, 176</small>
 ב' אתה …
 גומל טובות לחיבים.
 <h2>בא"י אמ"ה גומל חסדים טובים - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 896</small>
 ב'.
 גומל לחייבים טובות.
 שגמלני כל טוב.
 <h2>בא"י אמ"ה שהחינו וקימנו</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 15, 152</small>
 ברוך אתה ה' אלהינו מלך העולם.
 שהחיינו וקימנו והגיענו לזמן הזה.
 <h2>בא"י אמ"ה שהחינו וקימנו - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 15, 149</small>
 ברוך אתה ה' אלהינו מלך העולם.
 אשר החיינו וקיימנו והגיענו לזמן הזה.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2138, 9</small>
 ב'א ה'.
 שהחינו וקיימנו והגיענו לזמן הזה בשמחה.
 <h2>בא"י אמ"ה הטוב והמיטיב</h2>
-<small>המסירה: Oxford, Bodleian Library, f.47 (2734), 11, 22-25</small>
 ברוך אתה ה' אלהינו מלך העולם.
 הטוב והמיטיב.
 <h2>בא"י אמ"ה גומל חסדים טובים</h2>
-<small>המסירה: Cambridge, University Library, Or. 1080, 2, 57</small>
 ברוך.
 שעשה נסים לאבותינו במקום הזה.
 <h2>בא"י אמ"ה שעשה נסים לאבותינו במקום הזה - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ב'א ה' א' מ' הע'.
 שעשה נס לאבותינו במקום הזה.
 <h2>בא"י אמ"ה שעשה נסים לצדיקים במקום הזה</h2>
-<small>המסירה: Cambridge, University Library, Or. 1080, 2, 57</small>
 ברוך.
 שעשה נסים לצדיקים במקום הזה.
 <h2>בא"י אמ"ה שעשה נסים לצדיקים במקום הזה - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, f.47 (2734), 11, 22-25</small>
 ברוך אתה ה' אלהינו מלך העולם.
 שעשה נס לצדיקים במקום הזה.
 <h2>בא"י אמ"ה שעשה לי נס במקום הזה</h2>
-<small>המסירה: Cambridge, University Library, Or. 1080, 2, 57</small>
 בר'.
 שעשה לי נס במקום הזה.
 <h2>בא"י אמ"ה מחיה המתים</h2>
-<small>המסירה: Oxford, Bodleian Library, 896</small>
 ב'.
 מחיה המתים.
 <h2>בא"י אמ"ה דין האמת</h2>
-<small>המסירה: Oxford, Bodleian Library, f.47 (2734), 11, 22-25</small>
 ברוך אתה ה' אלהינו מלך העולם.
 דיין האמת.
 <h2>בא"י אמ"ה דין האמת שופט בצדק</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Ar. 37, 176</small>
 ב'.
 דיין האמת שופט בצדק.
 <h2>בא"י אמ"ה דין הרחמים</h2>
-<small>המסירה: Oxford, Bodleian Library, c.20 (2736), 16</small>
 בר' א' ה' אלינו מ'ה.
 דיין הרחמים שופט אמונים.
 שדננו בדיני אמיתו.
 ככ' "הצור תמים פעלו כי כל דרכיו …".
 <h2>ברוך המפר עצות הרעות</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 235, 192</small>
 ברוך המפיר עצות הרעות וגזירות הקשות ומחשבות רעות.
 ממנו ומכם ומכל עמו בית ישראל.
 ומקיים לנו עצת הצדיקים.

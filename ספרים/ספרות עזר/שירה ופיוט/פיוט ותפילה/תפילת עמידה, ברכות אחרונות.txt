@@ -1,409 +1,284 @@
 <h1>תפילת עמידה, ברכות אחרונות</h1>
 
 <h2>ברכה יז</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 רצה ה' אלהינו בעמך ובתפלתם.
 והשב עבודה לדביר ביתיך.
 <h2>ברכה יז - גרסה</h2>
-<small>המסירה: London, British Library, 615</small>
 רצה ה' אלהינו בעמך ישראל ואל תפלתם שעה.
 והשב העבודה לדביר ביתך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 רצה ה' אלינו בעמך (ישראל) ובתפלתם.
 והשב עבודה לדביר ביתיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 5</small>
 רצה ה' בעמך ישראל.
 והשב עבודה לדביר ביתיך.
-<small>המסירה: Cambridge, University Library, Add. 3160, 8</small>
 רצה ה' אלינו בעמך ישראל ובתפלתם.
 ושכון בירושלם עירך.
-<small>המסירה: Cambridge, University Library, Or. 1081, 2, 67</small>
 רצה ה' אלהינו בעמך ישראל ולתפלתם שעה.
 והשב העבדה לדביר ביתך.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 רצה ה' אלהינו בעמך ובתפילתם.
 והשב עבדה לדביר ביתך.
 <h2>ברכה יז</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ואשי ישראל ותפלתם מהרה באהבה תקבל ברצון.
 ותהא לרצון תמיד עבודת ישראל עמך.
 <h2>ברכה יז - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 ואשי יש' עמך ותפלתם מהרה באהבה תקבל ברצון.
 ותהא לרצון תמיד עבודת יש' עמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 5</small>
 ואשי ישראל ותפלתם תקבל באהבה וברצון.
 … לרצון תמיד עבודת ישראל עמך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 ואשי ישראל ותפלתם ועבודתם מהרה תקבל ברצון.
 ותהיה לרצון תמיד עבודת ישראל עמך ותרצינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 41</small>
 ואישי ישראל בתפלתם מהרה באהבה תקבל ברצון.
 ותהא לרצון תמיד עבודת ישראל.
-<small>המסירה: Cambridge, University Library, Or. 1081, 2, 67</small>
 ואשי ישראל ותפלתם מהרה באהבה תקבל ברצון.
 ותהי לרצון תמיד עבודת ישראל עמך.
 ותחפוץ בנו ותרצנו.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 אישי יש' ותפלתם מהרה באהבה תקבל ברצון.
 ותהי לרצון תמיד עבודת יש' עמך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 ואשי ישראל ותפלתם מהרה באהבה תקבל ברצון.
 ותהיה לרצון תמיד עבודת ישראל עמך. ויבטחו בך כל ישראל אוהבי שמיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, Ar. 36, 3</small>
 ואשי ישראל ותפלתם מהרה באהבה תקבל ברצון.
 ותהיה לרצון תמיד עבודת ישראל עמך.
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 27</small>
 ואשי ישראל ותפלתם מהרה באהבה תקבל ברצון.
 ותהא לרצון תמיד עבדת עמך מלך הרוצה בעבודה.
 <h2>ברכה יז</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ותחזינה עינינו בשובך לנוך לציון.
 <h2>ברכה יז - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ותחזינה עינינו בשובך לציון ברחמים.
 ותרצה בנו כמו אז.
-<small>המסירה: Paris, Bibliotheque Nationale, 620</small>
 ותחזינה עינינו בשובך לציון ולירושלם ברחמים כמאז.
-<small>המסירה: Oxford, Bodleian Library, f.20 (2699), 1-3, 14-17</small>
 אנא למענך קבלינו ורצנו. ורצה נא את תפלתינו.
 ותחזינה עינינו בשובך לציון ברחמים כמאז.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 ותחזינה עינינו בשובך לציון ותרצינו כמאז בקרוב.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 9, 12</small>
 ותחזינה עינינו בשובך לנאוך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 5</small>
 ועינינו תחזינה בשובך לנווך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 ותחזנה עינינו בשובך לנוך לציון.
 ותחפוץ בנו ותרצה בנו ובעבודתינו כמאז ברחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 41</small>
 ותחזנה ענינו בשובך לציון.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 10, 6</small>
 ואתה ברחמים תחפוץ בנו ותרצינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, 6H 3, 5</small>
 ותחזינה עינינו בשובך לנאוך לציון ברחמים רבים ותרצנו …
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 14</small>
 ותחזינה עינינו בשובך לנוך לציון כמאז ברחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 156, 169</small>
 ותחזינה עינינו בשובך לנוך לציון ברחמים.
 ותרצה בנו ובעבודתינו כמאז.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 9, 11</small>
 ותחזינה עינינו בשובך לנוך לציון ברחמים.
 ותרצה בנו כמאז.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 616, 1-2</small>
 ותחזינה עינינו בשובך לנוך לציון ברחמים.
 תחפוץ בנו ותרצה בעבודתינו כמאז.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 עולות נעלה זבחים נקריב שלמים נגיש.
 ואתה ברחמים תחפוץ בנו ותרצנו.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 32</small>
 ותחזנה עינינו בתשובה לציון ברחמים.
 ותרצה בנו כמאז.
 <h2>ברכה יז</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ברוך אתה ה' המחזיר מהרה שכינתו לציון.
 <h2>ברכה יז - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 ב' א' ה' המחזיר (מהרה) שכינתו לציון.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 14</small>
 ב' המחזיר מהרה שכינתו לציון.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 ב' א' המחזיר שכינתו לציון.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 ברוך אתה ה' שאותך ביראה נעבוד.
 <h2>ברכה יח</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 מודים אנחנו לך כורעים ומשתחוים לך אתה הוא ה' אלהינו ואלהי אבותינו לעולם ועד.
 <h2>ברכה יח - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 מודים אנחנו לך ומספרים גדלך ומפארים לשמך שאתה ה' אלהינו.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 101</small>
 … אלהינו ואלהי אבותינו לעולם ועד.
 צור חיינו ומגן ישענו אתה הוא לדור ודור. נודה לך ונספר תהלתך.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 מודים אנחנו לך אתה … ה' אלהינו ואלהי אבותינו.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 11</small>
 מודים אנחנו לך שאתה הוא ה' אלהינו ואלהי אבותינו.
 צורנו צור חיינו מגן ישענו לדור ודור.
 נודה לך ונספר תהלתך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 מודים אנחנו לך שאתה הוא ה' אלהינו ואלהי אבותינו לעולם ועד.
 צור חיינו מגן ישעינו אתה הוא לדור ודור.
 נודה לך ונספר ישועתך.
 <h2>ברכה יח</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 על חיינו המסורים בידיך.
 ועל נשמותינו הפקודות לך.
 ועל נסיך שבכל יום עמנו.
 ועל נפלאותיך וטוביך שבכל עת ערב ובקר.
 <h2>ברכה יח - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 על חיינו המסורים בידך.
 ועל נשמותנו הנפקדות לך.
 ועל ניסיך ונפלאותך וטובותך שבכל יום עמנו (ער) ערב ובקר וצהרים.
-<small>המסירה: Oxford, Bodleian Library, 896</small>
 על טובותיך אשר מעולם. ועל חסדיך ורחמיך אשר מימי קדם.
 ועל חיינו המסורים בידיך.
 ועל נשמותינו הפקודות לך.
 ועל נסיך וטוביך ורחמיך וחסדיך שבכל עת ערב ובקר.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 על חיינו המסורים בידך.
 ועל נשמותינו מלכינו ה(מ)פקדות לך.
 ועל נסיך וטוביך ורחמיך (שבכל) יום ויום עמנו.
 ועל נפלאותיך וטוביך שבכל עת ערב ובקר (וצהרים).
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 ועל חיינו המסורים בידך.
 ועל נשמותינו מלכינו הפקודות לך.
 ועל נסיך וטוביך נפלאותיך רחמיך וחסדיך.
 אשר (בעת) בכל עת אתה עושה עמנו ערב ובוקר וצהרים.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 6, 35</small>
 … וטובותיך שבכל יום וים תעשה עימנו.
 ועל נפלאותיך ורחמיך שבכל עת ערב ובוקר וצהרים.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 8, 6</small>
 על חיינו המסורים בידיך.
 ועל נשמותינו מלכינו הפקודות לך.
 ועל נסיך ורחמיך וחסדיך שבכל יום עמנו.
 ועל נפלאותיך וטוביך שבכל עת ערב ובוקר.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 196, 14</small>
 על טובותיך ועל חסדיך ורחמיך אשר מימי קדם.
 על חיינו המסורים בידיך.
 ועל נשמותינו מלכינו הפקודות לך.
 ועל נסיך וטוביך ורחמיך.
 כי לא תמו חסדיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 156, 169</small>
 על חיינו המסורים בידך.
 ועל נשמותינו הפקודות לך.
 ועל נסיך וטובותיך ורחמיך וחסדיך.
 אשר בכל עת תעשה עמנו ערב ובקר וצהרים.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 על חיינו המסורים בידך.
 ועל נשמתינו הפקדות לך.
 ועל נסיך שבכל יום עמנו.
 ועל נפלאתיך וטבתך שבכל עת ערב ובקר.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 616, 1-2</small>
 על חיינו המסורים בידיך.
 ועל נשמותינו מלכנו הפקודות לך.
 ועל נסיך ורחמיך וטובותיך אשר בכל עת אתה עשה עמנו ערב ובקר.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 על טובותיך ורחמיך אשר אתנו מימי קדם.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 על חיינו המסורי' בידך.
 ועל נשמותינו הפקודות לך.
 ועל נסיך שבכל יום עמנו.
 ועל נפלאותיך וטובתיך שבכל יום עת ערב ובקר וצהרים.
-<small>המסירה: Cambridge, University Library, T-S Collection, Ar. 36, 3</small>
 על חיינו המסורים לפניך.
 ועל נשמותינו מלכינו הפקודת לך.
 ועל נסיך וטוביך ורחמך וחסדיך.
 אשר בכל עת אתה עושה עמנו ערב ובוקר תעשה.
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 27</small>
 על טובתיך אשר מעולם. ועל חסדיך ורחמיך אשר מימי קדם.
 על ניסיך שבכל יום עמנו.
 ועל פלאיך שבכל עת ערב ובקר.
 <h2>ברכה יח</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ועל כולם יתברך ויתרומם וישתבח שמך וזכרך מלכינו לעולם ועד.
 <h2>ברכה יח - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ועל כלם תתברך ותתרומם. כי יחיד אתה ואין זולתך.
-<small>המסירה: Paris, Bibliotheque Nationale, 599</small>
 הטוב כי לא כלו רחמיך.
 המרחם כי לא תמו חסדיך.
 ומעולם קיוינו לך. לא הכלמתנו ה' אלהינו. לא עזבתנו. לא הסתרתה פניך ממנו.
 על כולם יתברך ויתרומם שמך מלכינו תמיד.
-<small>המסירה: Oxford, Bodleian Library, f.20 (2699), 1-3, 14-17</small>
 הטוב כי לא כלו רחמיך.
 המרחם כי לא תמו חסדיך.
 כי מעולם קוינו לך. לא הכלמתנו מלכינו. ולא עזבתנו ולא זנחתנו. ולא הסתרת את פניך ממנו. ועל נסיך ונפלאותיך וטובותיך שבכל עת תעשה עמנו.
 ועל כולם יתברך ויתרומם שמך מלכינו לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 (על כלם יתברך ויתרומם שמך זכרך מלכינו לעולם ועד):. זכור רחמיך וכבוש כעסיך ונשמת כל חי תבריך את שמיך. ועל כולם תתברך לעד מלא רחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 הטוב כי לא כלו רחמיך.
 המרחם אמת כי לא תמו חסדיך.
 כימי עולם קוינו לך.
 ועל כולם יתברך וישתבח שמך וזכרך מלכינו לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 6, 35</small>
 הטוב כי לא כלו רחמיך.
 המרחם כי לא תמו חסדיך.
 פעמים רבות קיוינו לך.
 ועל כולם יתברך ויתרומם תמיד שמך מלכינו לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 156, 169</small>
 ועל כולם יתברך ויתרומם וישתבח שמך וזכרך מלכנו לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 101</small>
 על כלם יתברך ויתרומם ויתנשא תמיד שמך מלכנו לעולם ועד.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 ועל כלם יתברך ויתרמם שמך מלכינו לעולם ועד.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 11</small>
 הטוב כי לא כלו רחמיך.
 המרחם כי לא תמו חסדיך.
 כי מעולם קוינו לך.
 על כלם יתברך ויתרומם תמיד שמך מלכנו לעולם ועד.
 <h2>ברכה יח</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 כל החיים יודוך סלה באמת חי העולמים.
 <h2>ברכה יח - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, d.73, 11</small>
 כל החיים יודו לשמך האל ישועתינו ועזרתינו סלה.
-<small>המסירה: Oxford, Bodleian Library, f.20 (2699), 1-3, 14-17</small>
 וכל החיים יודו לשמך.
 האל ישועתינו ועזרתינו סלה חי העולמים האל הטוב באמת.
 כי טוב פעלתה לחוסים בך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 (וכל החיי יודו לשמך.
 האל ישועתינו ועזרתנו סלה):.
 וכל החיים יודוך סלה באמת חי העולמים. כי יחיד אתה ואין זולתך..
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 כל החיים יודך סלה באמת חי העולמים ויהללו לשמך כי טוב.
 מלא רחמים אל ההודאות.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 135</small>
 וכל החיים יודוך סלה ויהללו לשמך הטוב באמת.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 156, 58</small>
 וכל החיים יודוך סלה ויהללו לשמך באמת כי טוב.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 224</small>
 חי העולמים ובעל הרחמים.
 האל ישועתינו ועזרתינו סלה.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 101</small>
 וכל החיים יודוך סלה ויהללו ויברכו את שמך הגדול באמת כי טוב.
 האל ישועתנו ועזרתנו סלה האל הטוב.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 וכל החיים ידוך סלה.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 616, 1-2</small>
 כל החיים יודוך סלה באמת חי העולמים ויהללו לשמך כי טוב.
 אל ההודאות.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 וכל החיים יודוך סלה האל הטוב ויהללו ויברכו את שמך באמת כי טוב.
 <h2>ברכה יח</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ברוך אתה ה' הטוב שמך ולך נאה להודות.
 <h2>ברכה יח - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 ב' א' ה' הטוב שמך ולך נאה להודות.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 ב' א' ה' הטוב שמך ולך נאה להדות.
 <h2>ברכה יט</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 שים שלום טובה וברכה חסד ורחמים.
 וברכינו כולנו כאחד במאור פניך.
 <h2>ברכה יט - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, d.55 (2741), 16</small>
 שים שלום טובה וברכה חסד ורחמים.
 על ישראל עמך.
 וברכינו כולנו כאחת כמאור פניך.
-<small>המסירה: Cambridge, University Library, T-S Collection, 10H 1, 5</small>
 שים שלום טובה וברכה (חן ו)חסד ורחמים.
 עלינו ועל ישראל עמיך.
 וברכנו כלנו כאחד ממאור במאור ….
-<small>המסירה: Cambridge, University Library, Add. 3160, 8</small>
 שים שלום טובה וברכה חסד ורחמים.
 עלינו ועל ישראל עמך.
 וברכינו ה' אינו כלנו כאחד באור פניך.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 שים שלום טובה וברכה חסד ורחמים.
 עלינו ועל יש' עמך.
 וברכינו כלנו כאורה במאור פניך.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 11</small>
 שים שלום טובה וברכה חן וחסד ורחמים.
 עלינו ועל כל ישראל עמך.
 וברכנו כלנו יחד ברב עוז ושלום.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 6</small>
 (שים שלום) שים שלום טובה וברכה חסד ורחמים.
 עלינו ועל ישראל עמך ועל ירושלם עירך.
 וברכינו ה' אלהינו כולנו (כיל) כאחד במאור פניך.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 עושה שלום.
 ברכינו ברב עוז ושלום.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 920, 18-19</small>
 שים שלום טובה וברכה חסד ורחמים.
 עלינו ועל ישראל עמך.
 וברכינו כולנו כאחד מאור פניך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 שים שלום טובה וברכה חן וחסד ורחמים.
 עלינו ועל כל ישראל עמך.
 וברכנו אבינו כלנו יחד באור פניך.
 <h2>ברכה יט</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 כי ממאור פניך נתתה לנו ה' אלהינו.
 תורה וחיים (ו)אהבה וחסד צדקה ורחמים.
 <h2>ברכה יט - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 כי במאור פניך נתת לנו ה' אלהנו.
 תורת חיים אהבת חסד צדקה וברכה ורחמים וחיים ושלום.
-<small>המסירה: Oxford, Bodleian Library, f.20 (2699), 1-3, 14-17</small>
 כי מאור פניך נתתה לנו ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 9, 12</small>
 כי ממאור פניך נתתה ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 כי ממאור פניך נתתה לנו ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Cambridge, University Library, Add. 3160, 8</small>
 כי ממאור פניך נתתה לנו ה' אלינו.
 תרה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 23, 10</small>
 כי ממאור פניך נתתה לנו ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 101</small>
 כי מאור פניך נתתה לנו ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים ברכה ושלום.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 2</small>
 כי ממאור פניך נתתה לנו ה' אלה'.
 תורה וחיים אהבה וחסד צדקה ורחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 כי במאור פניך נתת לנו ה' אלהינו.
 תורה וחיים אהבה וחסד צדקה ורחמים.
 <h2>ברכה יט</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 וטוב בעיניך לברך את עמך ישראל בכל עת.
 <h2>ברכה יט - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 וטוב יהיה בעיניך לברך את עמך ישראל בכל יום ובכל עת ובכל שעה בשלומך.
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 וטוב בעיניך לברך את עמך ישראל בכל עת.
 שים שלום בעולם. ועל עמך ישראל יהי נא שלום מעתה ועד עולם.
-<small>המסירה: Oxford, Bodleian Library, d.73, 11</small>
 שלום רב על יש' עמך תשים לעולם.
 כי אתה הוא מלך אדון (ל)כל השלום.
 וטוב בעיניך לברך את עמך יש' בכל עת ובכל שעה.
-<small>המסירה: Oxford, Bodleian Library, f.20 (2699), 1-3, 14-17</small>
 וטוב בעיניך לברכנו ולברך את עמך ישראל בכל עת ובכל שעה ובכל רגע.
 ושלום רב על ישראל עמך בכל עת תשים לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 9, 12</small>
 וטוב בעיניך לברך את עמך ישראל בכל עת.
 ושים שלום בעולם.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 151, 103</small>
 והטוב בעיניך לברך את עמך ישראל בכל עת בשלום.
 ושים שלום רב בעולם. ולעמך ישראל תשים שלום מעתה ועד עולם למען שמיך.
-<small>המסירה: Cambridge, University Library, Add. 3160, 8</small>
 וטוב בעיניך לברך את עמך יש' בכל עת ובכל שעה.
 ושלום רב על ישר' עמך תשים לעולם.
-<small>המסירה: Cambridge, University Library, T-S Collection, 8H 23, 10</small>
 וטוב בעינך לברך את עמך ישראל בשלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 135</small>
 שלום רב על ישראל עמך תשים לעולם ועד.
 כי אתה הוא מלך אדון כל השלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 224</small>
 שלום רב על כל ישראל תשים לעולם.
 כי אתה הוא מלך אדון השלום.
 וטוב בעיניך לברך את עמך ישראל (בע) בכל עת.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 101</small>
 וטוב יהיה בעיניך לברך את עמך ישראל ברוב עוז ושלום.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 616, 1-2</small>
 והטוב בעיניך לברך את עמך ישראל בכל עת בשלום.
 ושים שלום רב בעולם. ועל עמך ישראל תשים שלום לעולם ועד.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 וטוב בעיניך לברך את עמך ישראל ברב עוז ושלום.
 <h2>ברכה יט</h2>
-<small>המסירה: Oxford, Bodleian Library, d.51 (2742), 77-78</small>
 ברוך אתה ה' המברך את עמו בשלום.
 <h2>ברכה יט - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 224</small>
 ב' המברך את (ע) ישראל עמו בשלום.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 1055, 2</small>
 ברוך אתה ה' עושה השלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 ברוך אתה ה' המברך את עמו ישראל בשלום.
-<small>המסירה: Paris, Bibliotheque Nationale, 606</small>
 ב' א' י' מצוה כל הברכות ועושה השלום.

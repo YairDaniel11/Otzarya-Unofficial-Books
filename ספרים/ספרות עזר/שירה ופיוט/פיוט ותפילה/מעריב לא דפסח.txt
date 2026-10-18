@@ -1,6 +1,5 @@
 <h1>מעריב לא' דפסח</h1>
 
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 14</small>
 <b>זולתך</b>.
 ליל שמורים פסח אכלו פחוזים.
 נפלאות חוזים. בימי חג פסח.
@@ -25,10 +24,8 @@
 פסח כרת לעמו נסים.
 להוציא עמו מחנסים. ב' ח' פ'.
 <h2>- גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1033</small>
 פסח כרת לשמו מסים.
 והוציא עמו בנסים. בימי חג פסח.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 2, 14</small>
 פ' לוחצי ילוחץ.
 וירפאינו ממחץ. ב' ח' פ'.
 פס' מלאה המון הריקה.

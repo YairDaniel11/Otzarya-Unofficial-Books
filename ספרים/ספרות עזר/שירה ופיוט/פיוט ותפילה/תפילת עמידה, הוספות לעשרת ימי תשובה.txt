@@ -1,128 +1,95 @@
 <h1>תפילת עמידה, הוספות לעשרת ימי תשובה</h1>
 
 <h2>זכרנו לחיים</h2>
-<small>המסירה: Jerusalem, National Library of Israel, ~4 781 B</small>
 זכרינו לחיים.
 מלך חפץ בחיים.
 וכתבינו בספר החיים.
 למענך אלהים חיים.
 <h2>זכרנו לחיים - גרסה</h2>
-<small>המסירה: Sassoon Collection, 535</small>
 זוכרינו לחיים טובים.
 אל מלך חפץ בחיים.
 וכותבינו בספר חיים.
 למענך אלה'ים חיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 184</small>
 זכרינו לחיים.
 מלך רחמן חפץ בחיים.
 כתבינו בספר חיים.
 למענך אלהים חיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 59</small>
 זכרנו לחיים.
 אל מלך חפץ בחיים.
 וכתבנו בספר חיים.
 למענך אלהים חיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 33</small>
 זכרינו לחיים.
 אל מלך רחמן חפץ בחיים.
 וכתבינו בספר חיים.
 למענך אלהים חיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 160, 1</small>
 זכרינו לחיים.
 מלך רחמן חפץ בחיים.
 כתבנו בספר חיים.
 לפניך.
-<small>המסירה: London, British Library, Or. 5557A, 15</small>
 זוכרינו לחיים.
 מלך חפץ בחיים.
 וכותבינו בספר החיים.
 למענך אל חי עוזר ומגן.
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 776</small>
 זוכרינו לחיים.
 מלך חפץ בחיי'.
 וכותבי' בספר חיי' טובי'.
 למ' אלה'ים חיים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2111, 3</small>
 זכרינו לחיים.
 אל מלך רחמן חפץ בחיים.
 וחתמינו בספר חיים.
 למענך אלים חיים.
 <h2>זכרנו לחיים</h2>
-<small>המסירה: Jerusalem, National Library of Israel, ~4 781 B</small>
 מי כמוך אב הרחמים.
 זוכר יצוריו לחיים ברחמים.
 <h2>זכרנו לחיים - גרסה</h2>
-<small>המסירה: Paris, Bibliotheque Nationale, 620</small>
 מי כמוך אב הרחמים.
 זכור יצוריך ברחמים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 121, 33</small>
 ומי כמוכה אב הרחמן מלא רחמים.
 מלך זוכר יצוריו ברחמים לחיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 273, 56</small>
 מי כמוך אב הרחמן.
 זוכר יצוריו ברחמים לחיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 160, 1</small>
 מי כמוכה אב הרחמן.
 זוכר יצוריו ברחמים.
 <h2>זכרנו לחיים</h2>
-<small>המסירה: Oxford, Bodleian Library, d.73, 11</small>
 וכתוב לחיים כל בני בריתך.
 <h2>זכרנו לחיים - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 אבינו מלכנו זכור רחמיך וכבוש כעסך מעלנו.
 וכלה דבר וחרב ורעב ושבי ומשחית ועון ומגפה מבני בריתך.
 וכתוב לחיים טובים כל בני בריתך.
-<small>המסירה: Sassoon Collection, 535</small>
 זכור רחמיך וכבוש כעסך.
 וכלה דבר וחרב ורעב ושבי ומשחית ומגיפה מעלינו ומעל כל בני בריתך.
 וכתוב לחיים טובים כל בני בריתך.
-<small>המסירה: Paris, Bibliotheque Nationale, 620</small>
 זכור רחמיך וכבוש כעסך.
 כלה דבר וחרב ומשחית ומגפה וכל מחלה מעלינו ומעל כל בני בריתך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 184</small>
 זכור רחמיך וכבוש כעסיך.
 וכתב לחיים כל בני בריתיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 וכתוב לחיים טובים כל בני בריתיך.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 31</small>
 זכור רחמיך וכבוש כעסך.
 וכלה דבר וחרב ורעב ומשחית ומגפה וכל מחלה וכל תקלה וכל גזרה רעה מעלינו ומעל כל בני בריתך.
 <h2>זכרנו לחיים</h2>
-<small>המסירה: Oxford, Bodleian Library, d.73, 11</small>
 ושים ובספר חיים ברכה ושלום פרנסה וכלכלה ישועה ונחמה.
 נזכר ונפקד ונכתב לפניך אנו וכל עמך יש' לפניך לחיים ברחמים.
 <h2>זכרנו לחיים - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 בספר חיים טובים ברכה ושלו' ופרנסה טובה.
 נזכר ונכת' לפניך אנחנו וכל עמך בית ישראל לחיים טובים לברכה ולשלום.
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ובספר חיים ברכה ושלום ישועה ונחמה כלכלה ופרנסה רוח והצלה.
 נזכר ונכתב ונחשב ונמנה אנו וכל עמך ישראל לחיים ברחמים.
-<small>המסירה: Paris, Bibliotheque Nationale, 620</small>
 בספר חיים ברכה ושלום פרנסה טובה וישועה ונחמה חן וחסד.
 ניזכר ונכתב לפניך אנו וכל עמך ישראל לחיים ולשלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 150, 184</small>
 ובספר חיים ברכה ושלום ישועה ורחמים פרנסה וכלכלה סליחה ומחילה.
 נזכר נכתב נפקד לפניך אנו וכל עמך בית ישראל ברוב עוז ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 122, 98</small>
 ובספר חיים ברכה ושלום.
 נזכר ונפקד ונכתב אנו וכל עמך בית ישראל לחיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 120, 137</small>
 בספר חיים ברכה ושלום פרנסה טובה וישועה ונחמה וגזירות טובות.
 נזכר ונכתב לפניך אנו וכל עמך ישראל ברב עז ושלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 6, 35</small>
 ובספר חיים ניכתב לפניך.
 ואנו וכל עמך בית ישראל לחיים.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 8, 79</small>
 ובספר חיים ישועה ורחמים פרנסה וכלכלה מחילה וסליחה.
 נזכר נפקד נכתב נחשב לפניך אנו וכל עמך בית ישראל ברוב עוז בשלום.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 31</small>
 ובספר חיים ברכה ושלום פרנסה וכלכלה ישועה נחמה.
 נזכר ונפקד ונכתב אנו וכל עמך ישראל לחיים.
-<small>המסירה: Paris, Alliance Israelite Universelle, IVA, 11</small>
 ובספר חיים טובים ברכה ושלום ופרנסה טובה וישועה ונחמה וב
 טובות.
 נזכר ונכתב לפניך … ולשלום.
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 776</small>
 בספר חיים טובים ברכה ושלום ופרנסה טובה.
 נזכר ונכתב לפניך אנו וכל עמך בית ישר' לחיים טובים ולשלום.

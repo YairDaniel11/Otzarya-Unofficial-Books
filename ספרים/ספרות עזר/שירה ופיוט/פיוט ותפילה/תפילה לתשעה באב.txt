@@ -1,7 +1,6 @@
 <h1>תפילה לתשעה באב</h1>
 
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 119, 3-4</small>
 נחם ה' אלהינו.
 את אבילי ציון.
 ואת אבילי ירושלם.
@@ -10,20 +9,16 @@
 והחריב' ממעונותיה.
 והשוממה מאין יושב.
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ואת העיר האבלה החריבה השוממה.
 החריבה ממעונות ישראל.
 השוממה מבלי בניה.
-<small>המסירה: Sassoon Collection, 535</small>
 ואת העיר האבילה והבזויה והחריבה והשוממה.
 החריבבה ממעונות ישר'.
 ושכולה מבלי בניה.
-<small>המסירה: London, British Library, 664</small>
 את העיר האבלה והחריבה והשוממה והמענה והבזויה.
 החריבה ממעונות ישראל.
 והשוממה מבלי בניה.
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 119, 3-4</small>
 והיא יושבת וראשה חפוי.
 כאשה עקרה שלא ילדה.
 ויבלעוה לגיונות.
@@ -35,78 +30,60 @@
 לבי לבי על חלליהם.
 מעי מעי על חלליהם.
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל - גרסה</h2>
-<small>המסירה: London, British Library, 664</small>
 על כן ציון במרר תבכה.
 וירושלם תתן קולה.
 לבי לבי על חלליהם.
 מעי מעי על הרוגיהם.
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 119, 3-4</small>
 כי אתה ה' באש הצתה.
 ובאש אתה עתיד לבנותה.
 כאמור "ואני אהיה לה נאם ה' חומת אש סביב ולכבוד אהיה בתוכה".
 בא'י מנחם ציון ובונה ירושלם.
 <h2>נחם יי אלהינו את אבלי ציון, נוסח בבל - גרסה</h2>
-<small>המסירה: Oxford, Corpus Christi College Library, 133</small>
 ברוך אתה ה' מנחם ציון עירו ובונה ירושלם.
-<small>המסירה: Sassoon Collection, 535</small>
 ברוך אתה ה' מנחם ציון עירך ובונה ירושלים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 10, 115</small>
 רחם ה' אלהינו ברחמיך הרבים ובחסדיך הנאמנים.
 עלינו ועל ישראל עמיך.
 ועל ירושלם עיריך.
 ועל ציון משכן כבודך.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 152, 192</small>
 רחם ה' אלהינו ברחמיך הרבים ובחסדיך הגדולים הנאמנים.
 עלינו ועל ישראל עמך.
 ועל ירושלים עירך.
 ועל ציון משכן כבודך.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 4, 19</small>
 רחם ה' אלהינו.
 על ישראל עמך.
 ועל ירושלים עירך.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 10, 115</small>
 ועל העיר האבילה ההרוסה השומימה.
 הנתונה ביד זרים.
 הרמוסה בכף עריצים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: Oxford, Bodleian Library, 1096</small>
 ועל העיר האבדה האבלה השוממה.
 הנתונה ביד זרים.
 הרמוסה בכף עריצים.
-<small>המסירה: Oxford, Bodleian Library, f.47 (2734), 32-33</small>
 על העיר החריבה האבילה ההרוסה השומימה.
 הנתונה ביד זרים.
 הרמוסה בכף עריצים.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 4, 19</small>
 על העיר האבלה השוממה.
 הנתונה ביד זרים.
 הרמוסה בכף עריצים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2209, 11</small>
 ועל העיר האבדה השוממה.
 הנתונה ביד זרים.
 הרמוסה בכף עריצים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 694, 20</small>
 ועל העיר החרבה והשוממה והבזויה.
 והנתונה ביד זרים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 10, 115</small>
 ויבלעוה לגיונים.
 ויחללוה עובדי פסילים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 4, 19</small>
 ויבלעוה לגאי-יונים.
 ויירשוה עובדי פסילים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2893, 4</small>
 אשר בלעוה הלעגיונות.
 ויחללוה עובדי פסילים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2209, 11</small>
 ויבלעוה לגאיונים.
 וירשוה עובדי פסילים.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 694, 20</small>
 ויבלעוה לגאיונים.
 וירשוה עובדי פסילים. ויטילו את עמך ישראל להרג.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
@@ -114,11 +91,9 @@
 וירושלם תתן קולה.
 לבי לבי על חלליהם.
 מעי מעי על חלליהם.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2893, 4</small>
 ולישראל עמך נתתה לנחלה.
 ולזרע ישורון ירושה הורשתה.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: London, British Library, Or. 5557A, 15</small>
 ולישראל עמך באהבה נתתה.
 ולזרע (יק) יעקב ירושה הורשתה.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
@@ -127,44 +102,31 @@
 נטה עליה סוכת שלומך כנהר שלום.
 וכנחל שוטף שלל גוים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: London, British Library, 685</small>
 נערה ה' אלהינו מעפרה.
 והקיצה מארץ דווייה.
 נטה עליה סוכת שלומך כנהר שלום.
 וכנחל שוטף כבוד גוים.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 10, 115</small>
 כי באש החרבתה.
 ובאש אתה עתיד לבנותה.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 8, 61</small>
 כי באש החרבתה.
 ובאש אתה עתיד לבנותה ולנחמה.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 4, 19</small>
 כי אתה ה' באש הצתה.
 ובאש אתה עתיד לבנותה.
-<small>המסירה: London, British Library, Or. 5557A, 15</small>
 כי באש היצתה.
 ובאש אתה עתיד לבנותה.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2893, 4</small>
 כי באש החרבתה.
 ובאש אתה עתיד לנחמה.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2209, 11</small>
 כי באש יצרתה ובאש החרבתה.
 ובאש אתה עתיד לבנותה.
-<small>המסירה: London, British Library, 685</small>
 כי באש הצתה ובאש החרבתה.
 ובאש אתה עתיד לבנותה.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 10, 115</small>
 כאמור "ואני אהיה לה נאם ה' חומת אש סביב ולכבוד אהיה בתוכה".
 ב' אתה ה' אלהי דוד בנה ירושלם.
 <h2>רחם יי אלהינו ברחמיך הרבים, נוסח הירושלמי - גרסה</h2>
-<small>המסירה: London, British Library, 615</small>
 בא'י מנחם אבילי ציון ואבילי עמו ובונה ירושלם.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 4, 19</small>
 ב' בונה ירושלם.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2893, 4</small>
 ב' מנחם לב אבילי עמו ובונה ירושלים. אמן.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 694, 20</small>
 ברוך אתה ה' מרחם ציון ובונה ירושלם.

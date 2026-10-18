@@ -1,27 +1,19 @@
 <h1>ברכות פדיון</h1>
 
 <h2>בא"י אמ"ה אקב"ו על פדיון הבן</h2>
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 954</small>
 ברוך א' יי אלהינו מ' הע'.
 אשר קידשנו במצותיו וצונו על פדיון הבן.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 26</small>
 הא לך חמש סלעים אילו בפדיון בני זה.
 <h2>בא"י אמ"ה אקב"ו על פדיון הבן - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Ar. 37, 262</small>
 הא לך חמש סלעים אילין בפדיון בני זה.
 <h2>בא"י אמ"ה אקב"ו על פדיון הבן</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 18, 26</small>
 כשם שזכיתה למצוה זו כך תזכה לקיים כל מצותיה שלתורה.
 <h2>בא"י אמ"ה אקב"ו על פדיון הבן - גרסה</h2>
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 954</small>
 כי היכין דזכית וקיימת האדא מצוה דפקדך רחמ' תיזכי ותקיים שש מאות ושלש-עשרה מצות.
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 4036, 33</small>
 כשם שזכיתה לקים מצוה זו. כך תזכה לקים כל מצותיה שלתורה.
 <h2>בא"י אמ"ה אקב"ו על פדיון פטר חמור</h2>
-<small>המסירה: St. Petersburg, Russian National Library, Antonin B, 954</small>
 ב' א' ה' אלי'נו מ' הע'.
 אשר קידשנו במצ' וצונו על פדיון פטר חמור.
 <h2>בא"י אמ"ה אקב"ו על פדיון הכרם</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 24, 1</small>
 ב'.
 א' ק' ב' וצונו על פדיון נטע רבעי.

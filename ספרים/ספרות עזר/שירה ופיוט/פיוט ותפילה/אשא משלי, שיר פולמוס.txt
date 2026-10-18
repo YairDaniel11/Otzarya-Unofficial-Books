@@ -2,7 +2,6 @@
 רב סעדיה גאון
 <h2>שער אה</h2>
 <h3>בית י</h3>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 40 (full panctuation)</small>
 אשא משלי ואחוד.
 ולפועלי אתן ייחוד.
 אל לכם כיחוד.
@@ -79,7 +78,6 @@
 ….
 <h2>שער בה</h2>
 <h3>בית צ</h3>
-<small>המסירה: Oxford, Bodleian Library, e.45 (2787), 11-12</small>
 …
 כי תלמוד דיבוקם.
 והם העידו שהוא נאום אלוה צדקם.
@@ -200,7 +198,6 @@
 יכרת ה' כל שפתי ….
 <h2>שער דה</h2>
 <h3>בית נ</h3>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA NS, 59, 18</small>
 … איש את רעהו ללכדה.
 <h3>בית ס</h3>
 …עזוב הפלא ופלא.
@@ -262,7 +259,6 @@
 <h3>בית י</h3>
 … ישוב ….
 <h3>בית ל</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, AS, 122, 73</small>
 … גרזה נלעוס וגסה.
 תלמוד …
 בדרך נמו לפרוסה.
@@ -306,7 +302,6 @@
 … ובחר ….
 <h2>שער וה</h2>
 <h3>בית א</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 127, 43</small>
 <b>על שמך</b>.
 <h3>בית נ</h3>
 יום הששי איך יהיה העשור.
@@ -367,7 +362,6 @@
 דהם ועלט ויכלא.
 הלב שלא הבין אלה.
 גם זאת הוה על הוה.
-<small>המסירה: Cambridge, University Library, T-S Collection, A 45, 18b</small>
 דעו איפוא כי ….
 … המישור ולא שב אליו.
 ולוהט בצרבת ….
@@ -376,7 +370,6 @@
 והוא צרו ואויבו.
 למען ספות ….
 <h3>בית כ</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, NS, 127, 43</small>
 הט אזנך ושמע דברי חכמים.
 ועזוב פתאים שוממים.
 ותמצא נחת ותאוה.
@@ -390,7 +383,6 @@
 "ולפני כבוד ענוה". <b>נגמרה שתי ידות יר</b>.
 <h2>שער זה</h2>
 <h3>בית י</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, A 45, 18b</small>
 … והתאוששו//.
 הבינו קושו והתקוששו.
 וסורו מני … נלוז//ה.
@@ -437,7 +429,6 @@
 פחים אש וגפרית.
 א…ל….
 <h3>בית ס</h3>
-<small>המסירה: Oxford, Bodleian Library, e.45 (2787), 11-12</small>
 … כל גברימה כי היא תורתו.
 ושר… … היא מצותו.
 השמנה אם: רזה.
@@ -490,7 +481,6 @@
 בוזו בוז ותאוו עשוקות.
 מפני יראת שומע שיחה.
 <h3>בית ל</h3>
-<small>המסירה: Cambridge, Lewis-Gibson (formerly Westminster), Liturgica, III, 40 (partial panctuation)</small>
 יד שלח לשמואל לסמכו.
 ברדתו מן האני לתמכו.
 ולא דן דינו ועדיו לא נחה.
@@ -637,7 +627,6 @@
 ….
 <h2>שער יה</h2>
 <h3>בית צ</h3>
-<small>המסירה: London, British Library, Or. 5557N, 13</small>
 ….
 עד שמי שמי.
 המה ריוו גשמי.
@@ -793,7 +782,6 @@
 כי רוח תעתועים … נמסכה.
 <h2>שער מה</h2>
 <h3>בית ס</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 131</small>
 …ו למצא ….
 …חשבון שלשים ….
 …לה הבה נתחכמה.
@@ -936,7 +924,6 @@
 …יה.
 הלא כל … הממונ/צה בהנה.
 <h3>בית ס</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 35, 80</small>
 זב … זיד.
 ובכמה שערות ….
 אין לזאת בכל המקרא תמונה.
@@ -1096,12 +1083,10 @@
 ובפתרונך לא בא באזנים.
 והיה רק זועה.
 <h3>בית מ</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 5, 131</small>
 קולך זה עליך מחוה.
 כי כן במקרא תפרש ותתוה.
 כל וו הסמוך ….
 <h2>שער קה</h2>
-<small>המסירה: New York, Jewish Theological Seminary (JTS), ENA, 2779, 12</small>
 וכי תמכרו ממכר זה לזה.
 אל תונו אחד את אחד להירזה//.
 ….
@@ -1210,7 +1195,6 @@
 … בניקרת.
 מכל שמץ פרושה.
 <h3>בית מ</h3>
-<small>המסירה: London, British Library, 950</small>
 ברקת וזהב ויהלם.
 וראמות וכדכד ואחלום.
 חבורת צדק הקדושה.
@@ -1218,7 +1202,6 @@
 <h3>בית י</h3>
 תלף תלף האותת.
 <h3>בית מ</h3>
-<small>המסירה: Cambridge, University Library, T-S Collection, Misc. 35, 80</small>
 גדעום ואסוגג. נקף חגים לחוגג.
 גלשו סעפים למוגג. בצים צידים לדוגג.
 גרס כל אוגג. לשמע שיר (רו) רוגג.

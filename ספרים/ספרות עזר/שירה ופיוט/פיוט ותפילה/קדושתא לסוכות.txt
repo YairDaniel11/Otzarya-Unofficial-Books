@@ -1,7 +1,6 @@
 <h1>קדושתא לסוכות</h1>
 
 <h2>אל במעשיו שמח</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 7, 3</small>
 <b>קדושתה "ולקחתם"</b>.
 אל במעשיו שמח.
 … ושמח.
@@ -96,7 +95,6 @@
 בדמים ו' בדוחק.
 בהלילות ….
 בחטיבה ו' בחטיפה.
-<small>המסירה: Cambridge, University Library, T-S Collection, H 16, 5</small>
 בטובה …
 בכשרון ו' בכשלון.
 בלקיחה ו' ….
@@ -120,11 +118,9 @@
 בוועד וועד.
 בהלל הגא. ….
 <h2>בתהלות תוקף בשנוני שבח - גרסה</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 7, 3</small>
 בוויעוד ווסת.
 בהלל הגא. ….
 <h2>בתהלות תוקף בשנוני שבח</h2>
-<small>המסירה: Cambridge, University Library, T-S Collection, H 16, 5</small>
 בביטחון ברית.
 באומרי אומן. ….
 <h2>אמוני סכה ונסוכך</h2>
