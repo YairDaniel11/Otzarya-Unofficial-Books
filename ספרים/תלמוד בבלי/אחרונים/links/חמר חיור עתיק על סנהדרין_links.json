@@ -1,0 +1,2698 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "ref_2": "Sanhedrin 2a:1",
+    "heRef_2": "סנהדרין ב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "ref_2": "Sanhedrin 2a:1",
+    "heRef_2": "סנהדרין ב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "ref_2": "Sanhedrin 2a:1",
+    "heRef_2": "סנהדרין ב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 20,
+    "ref_2": "Sanhedrin 2b:1",
+    "heRef_2": "סנהדרין ב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 31,
+    "ref_2": "Sanhedrin 3a:2",
+    "heRef_2": "סנהדרין ג., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 31,
+    "ref_2": "Sanhedrin 3a:2",
+    "heRef_2": "סנהדרין ג., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 42,
+    "ref_2": "Sanhedrin 3b:1",
+    "heRef_2": "סנהדרין ג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 42,
+    "ref_2": "Sanhedrin 3b:1",
+    "heRef_2": "סנהדרין ג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 60,
+    "ref_2": "Sanhedrin 4a:1",
+    "heRef_2": "סנהדרין ד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 60,
+    "ref_2": "Sanhedrin 4a:1",
+    "heRef_2": "סנהדרין ד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 76,
+    "ref_2": "Sanhedrin 4b:1",
+    "heRef_2": "סנהדרין ד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 76,
+    "ref_2": "Sanhedrin 4b:1",
+    "heRef_2": "סנהדרין ד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 94,
+    "ref_2": "Sanhedrin 5a:1",
+    "heRef_2": "סנהדרין ה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 123,
+    "ref_2": "Sanhedrin 6a:1",
+    "heRef_2": "סנהדרין ו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 190,
+    "ref_2": "Sanhedrin 8a:1",
+    "heRef_2": "סנהדרין ח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 190,
+    "ref_2": "Sanhedrin 8a:1",
+    "heRef_2": "סנהדרין ח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 190,
+    "ref_2": "Sanhedrin 8a:1",
+    "heRef_2": "סנהדרין ח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 190,
+    "ref_2": "Sanhedrin 8a:1",
+    "heRef_2": "סנהדרין ח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 214,
+    "ref_2": "Sanhedrin 9a:1",
+    "heRef_2": "סנהדרין ט., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 214,
+    "ref_2": "Sanhedrin 9a:1",
+    "heRef_2": "סנהדרין ט., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 221,
+    "ref_2": "Sanhedrin 9b:1",
+    "heRef_2": "סנהדרין ט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 221,
+    "ref_2": "Sanhedrin 9b:1",
+    "heRef_2": "סנהדרין ט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 245,
+    "ref_2": "Sanhedrin 10b:1",
+    "heRef_2": "סנהדרין י:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 245,
+    "ref_2": "Sanhedrin 10b:1",
+    "heRef_2": "סנהדרין י:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 245,
+    "ref_2": "Sanhedrin 10b:1",
+    "heRef_2": "סנהדרין י:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 258,
+    "ref_2": "Sanhedrin 11a:1",
+    "heRef_2": "סנהדרין יא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 284,
+    "ref_2": "Sanhedrin 12a:1",
+    "heRef_2": "סנהדרין יב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 284,
+    "ref_2": "Sanhedrin 12a:1",
+    "heRef_2": "סנהדרין יב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 284,
+    "ref_2": "Sanhedrin 12a:1",
+    "heRef_2": "סנהדרין יב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 284,
+    "ref_2": "Sanhedrin 12a:1",
+    "heRef_2": "סנהדרין יב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 284,
+    "ref_2": "Sanhedrin 12a:1",
+    "heRef_2": "סנהדרין יב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 314,
+    "ref_2": "Sanhedrin 13a:1",
+    "heRef_2": "סנהדרין יג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 326,
+    "ref_2": "Sanhedrin 13b:1",
+    "heRef_2": "סנהדרין יג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 326,
+    "ref_2": "Sanhedrin 13b:1",
+    "heRef_2": "סנהדרין יג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 357,
+    "ref_2": "Sanhedrin 14b:1",
+    "heRef_2": "סנהדרין יד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 372,
+    "ref_2": "Sanhedrin 15a:1",
+    "heRef_2": "סנהדרין טו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 372,
+    "ref_2": "Sanhedrin 15a:1",
+    "heRef_2": "סנהדרין טו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 388,
+    "ref_2": "Sanhedrin 15b:1",
+    "heRef_2": "סנהדרין טו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 388,
+    "ref_2": "Sanhedrin 15b:1",
+    "heRef_2": "סנהדרין טו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 402,
+    "ref_2": "Sanhedrin 16a:1",
+    "heRef_2": "סנהדרין טז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 443,
+    "ref_2": "Sanhedrin 17a:1",
+    "heRef_2": "סנהדרין יז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 478,
+    "ref_2": "Sanhedrin 18a:1",
+    "heRef_2": "סנהדרין יח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 491,
+    "ref_2": "Sanhedrin 18a:14",
+    "heRef_2": "סנהדרין יח., יד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 491,
+    "ref_2": "Sanhedrin 18a:14",
+    "heRef_2": "סנהדרין יח., יד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 491,
+    "ref_2": "Sanhedrin 18a:14",
+    "heRef_2": "סנהדרין יח., יד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 499,
+    "ref_2": "Sanhedrin 18b:7",
+    "heRef_2": "סנהדרין יח:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 499,
+    "ref_2": "Sanhedrin 18b:7",
+    "heRef_2": "סנהדרין יח:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 499,
+    "ref_2": "Sanhedrin 18b:7",
+    "heRef_2": "סנהדרין יח:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 499,
+    "ref_2": "Sanhedrin 18b:7",
+    "heRef_2": "סנהדרין יח:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 508,
+    "ref_2": "Sanhedrin 19a:1",
+    "heRef_2": "סנהדרין יט., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 508,
+    "ref_2": "Sanhedrin 19a:1",
+    "heRef_2": "סנהדרין יט., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 526,
+    "ref_2": "Sanhedrin 19b:1",
+    "heRef_2": "סנהדרין יט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 548,
+    "ref_2": "Sanhedrin 20a:1",
+    "heRef_2": "סנהדרין כ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 548,
+    "ref_2": "Sanhedrin 20a:1",
+    "heRef_2": "סנהדרין כ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 548,
+    "ref_2": "Sanhedrin 20a:1",
+    "heRef_2": "סנהדרין כ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 548,
+    "ref_2": "Sanhedrin 20a:1",
+    "heRef_2": "סנהדרין כ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 586,
+    "ref_2": "Sanhedrin 21a:1",
+    "heRef_2": "סנהדרין כא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 611,
+    "ref_2": "Sanhedrin 21b:1",
+    "heRef_2": "סנהדרין כא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 611,
+    "ref_2": "Sanhedrin 21b:1",
+    "heRef_2": "סנהדרין כא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 611,
+    "ref_2": "Sanhedrin 21b:1",
+    "heRef_2": "סנהדרין כא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 611,
+    "ref_2": "Sanhedrin 21b:1",
+    "heRef_2": "סנהדרין כא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 637,
+    "ref_2": "Sanhedrin 22a:1",
+    "heRef_2": "סנהדרין כב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 637,
+    "ref_2": "Sanhedrin 22a:1",
+    "heRef_2": "סנהדרין כב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 637,
+    "ref_2": "Sanhedrin 22a:1",
+    "heRef_2": "סנהדרין כב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 660,
+    "ref_2": "Sanhedrin 22b:1",
+    "heRef_2": "סנהדרין כב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 660,
+    "ref_2": "Sanhedrin 22b:1",
+    "heRef_2": "סנהדרין כב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 660,
+    "ref_2": "Sanhedrin 22b:1",
+    "heRef_2": "סנהדרין כב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 660,
+    "ref_2": "Sanhedrin 22b:1",
+    "heRef_2": "סנהדרין כב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 684,
+    "ref_2": "Sanhedrin 23a:1",
+    "heRef_2": "סנהדרין כג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 713,
+    "ref_2": "Sanhedrin 23b:1",
+    "heRef_2": "סנהדרין כג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 713,
+    "ref_2": "Sanhedrin 23b:1",
+    "heRef_2": "סנהדרין כג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 735,
+    "ref_2": "Sanhedrin 24a:1",
+    "heRef_2": "סנהדרין כד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 794,
+    "ref_2": "Sanhedrin 25a:9",
+    "heRef_2": "סנהדרין כה., ט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 794,
+    "ref_2": "Sanhedrin 25a:9",
+    "heRef_2": "סנהדרין כה., ט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 794,
+    "ref_2": "Sanhedrin 25a:9",
+    "heRef_2": "סנהדרין כה., ט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 806,
+    "ref_2": "Sanhedrin 25b:1",
+    "heRef_2": "סנהדרין כה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 806,
+    "ref_2": "Sanhedrin 25b:1",
+    "heRef_2": "סנהדרין כה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 806,
+    "ref_2": "Sanhedrin 25b:1",
+    "heRef_2": "סנהדרין כה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 818,
+    "ref_2": "Sanhedrin 25b:13",
+    "heRef_2": "סנהדרין כה:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 818,
+    "ref_2": "Sanhedrin 25b:13",
+    "heRef_2": "סנהדרין כה:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 818,
+    "ref_2": "Sanhedrin 25b:13",
+    "heRef_2": "סנהדרין כה:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 831,
+    "ref_2": "Sanhedrin 26a:1",
+    "heRef_2": "סנהדרין כו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 831,
+    "ref_2": "Sanhedrin 26a:1",
+    "heRef_2": "סנהדרין כו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 887,
+    "ref_2": "Sanhedrin 26b:29",
+    "heRef_2": "סנהדרין כו:, כט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 890,
+    "ref_2": "Sanhedrin 27a:1",
+    "heRef_2": "סנהדרין כז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 912,
+    "ref_2": "Sanhedrin 27b:1",
+    "heRef_2": "סנהדרין כז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 912,
+    "ref_2": "Sanhedrin 27b:1",
+    "heRef_2": "סנהדרין כז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 912,
+    "ref_2": "Sanhedrin 27b:1",
+    "heRef_2": "סנהדרין כז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 912,
+    "ref_2": "Sanhedrin 27b:1",
+    "heRef_2": "סנהדרין כז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 933,
+    "ref_2": "Sanhedrin 28a:1",
+    "heRef_2": "סנהדרין כח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 933,
+    "ref_2": "Sanhedrin 28a:1",
+    "heRef_2": "סנהדרין כח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 966,
+    "ref_2": "Sanhedrin 28b:1",
+    "heRef_2": "סנהדרין כח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 966,
+    "ref_2": "Sanhedrin 28b:1",
+    "heRef_2": "סנהדרין כח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 966,
+    "ref_2": "Sanhedrin 28b:1",
+    "heRef_2": "סנהדרין כח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 966,
+    "ref_2": "Sanhedrin 28b:1",
+    "heRef_2": "סנהדרין כח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 966,
+    "ref_2": "Sanhedrin 28b:1",
+    "heRef_2": "סנהדרין כח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1005,
+    "ref_2": "Sanhedrin 29a:11",
+    "heRef_2": "סנהדרין כט., יא",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 1004,
+    "ref_2": "Sanhedrin 29a:10",
+    "heRef_2": "סנהדרין כט., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 1056,
+    "ref_2": "Sanhedrin 30a:1",
+    "heRef_2": "סנהדרין ל., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 1090,
+    "ref_2": "Sanhedrin 30b:1",
+    "heRef_2": "סנהדרין ל:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 1122,
+    "ref_2": "Sanhedrin 31a:6",
+    "heRef_2": "סנהדרין לא., ו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 1122,
+    "ref_2": "Sanhedrin 31a:6",
+    "heRef_2": "סנהדרין לא., ו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 1122,
+    "ref_2": "Sanhedrin 31a:6",
+    "heRef_2": "סנהדרין לא., ו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 1147,
+    "ref_2": "Sanhedrin 31b:1",
+    "heRef_2": "סנהדרין לא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 1147,
+    "ref_2": "Sanhedrin 31b:1",
+    "heRef_2": "סנהדרין לא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 1147,
+    "ref_2": "Sanhedrin 31b:1",
+    "heRef_2": "סנהדרין לא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 1159,
+    "ref_2": "Sanhedrin 31b:13",
+    "heRef_2": "סנהדרין לא:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 1159,
+    "ref_2": "Sanhedrin 31b:13",
+    "heRef_2": "סנהדרין לא:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 1159,
+    "ref_2": "Sanhedrin 31b:13",
+    "heRef_2": "סנהדרין לא:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 1159,
+    "ref_2": "Sanhedrin 31b:13",
+    "heRef_2": "סנהדרין לא:, יג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 1169,
+    "ref_2": "Sanhedrin 32a:1",
+    "heRef_2": "סנהדרין לב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 1169,
+    "ref_2": "Sanhedrin 32a:1",
+    "heRef_2": "סנהדרין לב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 1187,
+    "ref_2": "Sanhedrin 32b:1",
+    "heRef_2": "סנהדרין לב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 1206,
+    "ref_2": "Sanhedrin 33a:1",
+    "heRef_2": "סנהדרין לג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 1224,
+    "ref_2": "Sanhedrin 33b:1",
+    "heRef_2": "סנהדרין לג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 1224,
+    "ref_2": "Sanhedrin 33b:1",
+    "heRef_2": "סנהדרין לג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 1241,
+    "ref_2": "Sanhedrin 34a:1",
+    "heRef_2": "סנהדרין לד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 1241,
+    "ref_2": "Sanhedrin 34a:1",
+    "heRef_2": "סנהדרין לד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 1241,
+    "ref_2": "Sanhedrin 34a:1",
+    "heRef_2": "סנהדרין לד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 1257,
+    "ref_2": "Sanhedrin 34a:17",
+    "heRef_2": "סנהדרין לד., יז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 1260,
+    "ref_2": "Sanhedrin 34b:1",
+    "heRef_2": "סנהדרין לד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 1282,
+    "ref_2": "Sanhedrin 35a:1",
+    "heRef_2": "סנהדרין לה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 1282,
+    "ref_2": "Sanhedrin 35a:1",
+    "heRef_2": "סנהדרין לה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 1282,
+    "ref_2": "Sanhedrin 35a:1",
+    "heRef_2": "סנהדרין לה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 1296,
+    "ref_2": "Sanhedrin 35b:1",
+    "heRef_2": "סנהדרין לה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 1310,
+    "ref_2": "Sanhedrin 36a:1",
+    "heRef_2": "סנהדרין לו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 1321,
+    "ref_2": "Sanhedrin 36a:12",
+    "heRef_2": "סנהדרין לו., יב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 1321,
+    "ref_2": "Sanhedrin 36a:12",
+    "heRef_2": "סנהדרין לו., יב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 1327,
+    "ref_2": "Sanhedrin 36b:1",
+    "heRef_2": "סנהדרין לו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 1327,
+    "ref_2": "Sanhedrin 36b:1",
+    "heRef_2": "סנהדרין לו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 1327,
+    "ref_2": "Sanhedrin 36b:1",
+    "heRef_2": "סנהדרין לו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 1327,
+    "ref_2": "Sanhedrin 36b:1",
+    "heRef_2": "סנהדרין לו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 1340,
+    "ref_2": "Sanhedrin 37a:1",
+    "heRef_2": "סנהדרין לז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 1340,
+    "ref_2": "Sanhedrin 37a:1",
+    "heRef_2": "סנהדרין לז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 1340,
+    "ref_2": "Sanhedrin 37a:1",
+    "heRef_2": "סנהדרין לז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 1353,
+    "ref_2": "Sanhedrin 37a:14",
+    "heRef_2": "סנהדרין לז., יד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 1357,
+    "ref_2": "Sanhedrin 37b:1",
+    "heRef_2": "סנהדרין לז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 1357,
+    "ref_2": "Sanhedrin 37b:1",
+    "heRef_2": "סנהדרין לז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 1357,
+    "ref_2": "Sanhedrin 37b:1",
+    "heRef_2": "סנהדרין לז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 1372,
+    "ref_2": "Sanhedrin 38a:1",
+    "heRef_2": "סנהדרין לח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 1391,
+    "ref_2": "Sanhedrin 38b:1",
+    "heRef_2": "סנהדרין לח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 1391,
+    "ref_2": "Sanhedrin 38b:1",
+    "heRef_2": "סנהדרין לח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 1431,
+    "ref_2": "Sanhedrin 39b:1",
+    "heRef_2": "סנהדרין לט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 1431,
+    "ref_2": "Sanhedrin 39b:1",
+    "heRef_2": "סנהדרין לט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 1431,
+    "ref_2": "Sanhedrin 39b:1",
+    "heRef_2": "סנהדרין לט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 1431,
+    "ref_2": "Sanhedrin 39b:1",
+    "heRef_2": "סנהדרין לט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 1454,
+    "ref_2": "Sanhedrin 40a:1",
+    "heRef_2": "סנהדרין מ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 1454,
+    "ref_2": "Sanhedrin 40a:1",
+    "heRef_2": "סנהדרין מ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 1470,
+    "ref_2": "Sanhedrin 40b:1",
+    "heRef_2": "סנהדרין מ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 1470,
+    "ref_2": "Sanhedrin 40b:1",
+    "heRef_2": "סנהדרין מ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 1470,
+    "ref_2": "Sanhedrin 40b:1",
+    "heRef_2": "סנהדרין מ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 1470,
+    "ref_2": "Sanhedrin 40b:1",
+    "heRef_2": "סנהדרין מ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 1470,
+    "ref_2": "Sanhedrin 40b:1",
+    "heRef_2": "סנהדרין מ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 1510,
+    "ref_2": "Sanhedrin 41a:19",
+    "heRef_2": "סנהדרין מא., יט",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 1514,
+    "ref_2": "Sanhedrin 41a:23",
+    "heRef_2": "סנהדרין מא., כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 1521,
+    "ref_2": "Sanhedrin 41b:1",
+    "heRef_2": "סנהדרין מא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 1521,
+    "ref_2": "Sanhedrin 41b:1",
+    "heRef_2": "סנהדרין מא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 1521,
+    "ref_2": "Sanhedrin 41b:1",
+    "heRef_2": "סנהדרין מא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 1521,
+    "ref_2": "Sanhedrin 41b:1",
+    "heRef_2": "סנהדרין מא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 1521,
+    "ref_2": "Sanhedrin 41b:1",
+    "heRef_2": "סנהדרין מא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 1572,
+    "ref_2": "Sanhedrin 43a:1",
+    "heRef_2": "סנהדרין מג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 1599,
+    "ref_2": "Sanhedrin 43b:1",
+    "heRef_2": "סנהדרין מג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 1611,
+    "ref_2": "Sanhedrin 44a:1",
+    "heRef_2": "סנהדרין מד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 1611,
+    "ref_2": "Sanhedrin 44a:1",
+    "heRef_2": "סנהדרין מד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 1611,
+    "ref_2": "Sanhedrin 44a:1",
+    "heRef_2": "סנהדרין מד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 1632,
+    "ref_2": "Sanhedrin 44b:1",
+    "heRef_2": "סנהדרין מד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 1632,
+    "ref_2": "Sanhedrin 44b:1",
+    "heRef_2": "סנהדרין מד:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 1647,
+    "ref_2": "Sanhedrin 45a:1",
+    "heRef_2": "סנהדרין מה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 1647,
+    "ref_2": "Sanhedrin 45a:1",
+    "heRef_2": "סנהדרין מה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 1647,
+    "ref_2": "Sanhedrin 45a:1",
+    "heRef_2": "סנהדרין מה., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 1663,
+    "ref_2": "Sanhedrin 45b:1",
+    "heRef_2": "סנהדרין מה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 1663,
+    "ref_2": "Sanhedrin 45b:1",
+    "heRef_2": "סנהדרין מה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 1663,
+    "ref_2": "Sanhedrin 45b:1",
+    "heRef_2": "סנהדרין מה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 1663,
+    "ref_2": "Sanhedrin 45b:1",
+    "heRef_2": "סנהדרין מה:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 1687,
+    "ref_2": "Sanhedrin 45b:25",
+    "heRef_2": "סנהדרין מה:, כה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 1687,
+    "ref_2": "Sanhedrin 45b:25",
+    "heRef_2": "סנהדרין מה:, כה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 1689,
+    "ref_2": "Sanhedrin 46a:1",
+    "heRef_2": "סנהדרין מו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 1689,
+    "ref_2": "Sanhedrin 46a:1",
+    "heRef_2": "סנהדרין מו., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 1707,
+    "ref_2": "Sanhedrin 46b:1",
+    "heRef_2": "סנהדרין מו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 1707,
+    "ref_2": "Sanhedrin 46b:1",
+    "heRef_2": "סנהדרין מו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 1721,
+    "ref_2": "Sanhedrin 46b:15",
+    "heRef_2": "סנהדרין מו:, טו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 1732,
+    "ref_2": "Sanhedrin 47a:1",
+    "heRef_2": "סנהדרין מז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 1736,
+    "ref_2": "Sanhedrin 47a:5",
+    "heRef_2": "סנהדרין מז., ה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 1736,
+    "ref_2": "Sanhedrin 47a:5",
+    "heRef_2": "סנהדרין מז., ה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 1736,
+    "ref_2": "Sanhedrin 47a:5",
+    "heRef_2": "סנהדרין מז., ה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 361,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 1753,
+    "ref_2": "Sanhedrin 47b:1",
+    "heRef_2": "סנהדרין מז:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 1776,
+    "ref_2": "Sanhedrin 48a:4",
+    "heRef_2": "סנהדרין מח., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 1796,
+    "ref_2": "Sanhedrin 48b:1",
+    "heRef_2": "סנהדרין מח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 1796,
+    "ref_2": "Sanhedrin 48b:1",
+    "heRef_2": "סנהדרין מח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 1796,
+    "ref_2": "Sanhedrin 48b:1",
+    "heRef_2": "סנהדרין מח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 1796,
+    "ref_2": "Sanhedrin 48b:1",
+    "heRef_2": "סנהדרין מח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 1796,
+    "ref_2": "Sanhedrin 48b:1",
+    "heRef_2": "סנהדרין מח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 1834,
+    "ref_2": "Sanhedrin 49b:1",
+    "heRef_2": "סנהדרין מט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 1834,
+    "ref_2": "Sanhedrin 49b:1",
+    "heRef_2": "סנהדרין מט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 1840,
+    "ref_2": "Sanhedrin 49b:7",
+    "heRef_2": "סנהדרין מט:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 1840,
+    "ref_2": "Sanhedrin 49b:7",
+    "heRef_2": "סנהדרין מט:, ז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 1853,
+    "ref_2": "Sanhedrin 50a:1",
+    "heRef_2": "סנהדרין נ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 1853,
+    "ref_2": "Sanhedrin 50a:1",
+    "heRef_2": "סנהדרין נ., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 1862,
+    "ref_2": "Sanhedrin 50a:10",
+    "heRef_2": "סנהדרין נ., י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 1879,
+    "ref_2": "Sanhedrin 50b:1",
+    "heRef_2": "סנהדרין נ:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 1894,
+    "ref_2": "Sanhedrin 50b:16",
+    "heRef_2": "סנהדרין נ:, טז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 1895,
+    "ref_2": "Sanhedrin 50b:17",
+    "heRef_2": "סנהדרין נ:, יז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 1901,
+    "ref_2": "Sanhedrin 50b:23",
+    "heRef_2": "סנהדרין נ:, כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 1901,
+    "ref_2": "Sanhedrin 50b:23",
+    "heRef_2": "סנהדרין נ:, כג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 1904,
+    "ref_2": "Sanhedrin 51a:1",
+    "heRef_2": "סנהדרין נא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 1904,
+    "ref_2": "Sanhedrin 51a:1",
+    "heRef_2": "סנהדרין נא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 1904,
+    "ref_2": "Sanhedrin 51a:1",
+    "heRef_2": "סנהדרין נא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 1904,
+    "ref_2": "Sanhedrin 51a:1",
+    "heRef_2": "סנהדרין נא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 1935,
+    "ref_2": "Sanhedrin 51b:1",
+    "heRef_2": "סנהדרין נא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 1935,
+    "ref_2": "Sanhedrin 51b:1",
+    "heRef_2": "סנהדרין נא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 1935,
+    "ref_2": "Sanhedrin 51b:1",
+    "heRef_2": "סנהדרין נא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 1960,
+    "ref_2": "Sanhedrin 52a:2",
+    "heRef_2": "סנהדרין נב., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 1960,
+    "ref_2": "Sanhedrin 52a:2",
+    "heRef_2": "סנהדרין נב., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 1979,
+    "ref_2": "Sanhedrin 52a:21",
+    "heRef_2": "סנהדרין נב., כא",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 1987,
+    "ref_2": "Sanhedrin 52b:1",
+    "heRef_2": "סנהדרין נב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 1996,
+    "ref_2": "Sanhedrin 52b:10",
+    "heRef_2": "סנהדרין נב:, י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 1996,
+    "ref_2": "Sanhedrin 52b:10",
+    "heRef_2": "סנהדרין נב:, י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 1996,
+    "ref_2": "Sanhedrin 52b:10",
+    "heRef_2": "סנהדרין נב:, י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 1996,
+    "ref_2": "Sanhedrin 52b:10",
+    "heRef_2": "סנהדרין נב:, י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 2012,
+    "ref_2": "Sanhedrin 52b:26",
+    "heRef_2": "סנהדרין נב:, כו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 2014,
+    "ref_2": "Sanhedrin 53a:1",
+    "heRef_2": "סנהדרין נג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 2014,
+    "ref_2": "Sanhedrin 53a:1",
+    "heRef_2": "סנהדרין נג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 2014,
+    "ref_2": "Sanhedrin 53a:1",
+    "heRef_2": "סנהדרין נג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 2014,
+    "ref_2": "Sanhedrin 53a:1",
+    "heRef_2": "סנהדרין נג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 2014,
+    "ref_2": "Sanhedrin 53a:1",
+    "heRef_2": "סנהדרין נג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 2036,
+    "ref_2": "Sanhedrin 53b:1",
+    "heRef_2": "סנהדרין נג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 2036,
+    "ref_2": "Sanhedrin 53b:1",
+    "heRef_2": "סנהדרין נג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 2036,
+    "ref_2": "Sanhedrin 53b:1",
+    "heRef_2": "סנהדרין נג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 2036,
+    "ref_2": "Sanhedrin 53b:1",
+    "heRef_2": "סנהדרין נג:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 12,
+    "ref_2": "Berakhot 2a:10",
+    "heRef_2": "ברכות ב., י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 18,
+    "ref_2": "Berakhot 2b:1",
+    "heRef_2": "ברכות ב:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 57,
+    "ref_2": "Berakhot 3b:4",
+    "heRef_2": "ברכות ג:, ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 68,
+    "ref_2": "Berakhot 3b:15",
+    "heRef_2": "ברכות ג:, טו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 68,
+    "ref_2": "Berakhot 3b:15",
+    "heRef_2": "ברכות ג:, טו",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 136,
+    "ref_2": "Berakhot 5a:1",
+    "heRef_2": "ברכות ה., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 161,
+    "ref_2": "Berakhot 5b:1",
+    "heRef_2": "ברכות ה:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 41,
+    "ref_2": "Tosafot on Berakhot 5b:21:2",
+    "heRef_2": "תוספות על ברכות ה:, כא, ב",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 63,
+    "ref_2": "Tosafot on Berakhot 8b:20:1",
+    "heRef_2": "תוספות על ברכות ח:, כ, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 374,
+    "ref_2": "Berakhot 9a:1",
+    "heRef_2": "ברכות ט., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 79,
+    "ref_2": "Tosafot on Berakhot 11a:20:1",
+    "heRef_2": "תוספות על ברכות יא., כ, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 659,
+    "ref_2": "Berakhot 13b:1",
+    "heRef_2": "ברכות יג:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 711,
+    "ref_2": "Berakhot 14b:1",
+    "heRef_2": "ברכות יד:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 737,
+    "ref_2": "Berakhot 15a:1",
+    "heRef_2": "ברכות טו., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 125,
+    "ref_2": "Tosafot on Berakhot 15a:16:1",
+    "heRef_2": "תוספות על ברכות טו., טז, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 125,
+    "ref_2": "Tosafot on Berakhot 15a:16:1",
+    "heRef_2": "תוספות על ברכות טו., טז, א",
+    "path_2": "תוספות על ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 1277,
+    "ref_2": "Berakhot 27b:1",
+    "heRef_2": "ברכות כז:, א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 1802,
+    "ref_2": "Berakhot 38a:1",
+    "heRef_2": "ברכות לח., א",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 2169,
+    "ref_2": "Berakhot 48b:10",
+    "heRef_2": "ברכות מח:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 2169,
+    "ref_2": "Berakhot 48b:10",
+    "heRef_2": "ברכות מח:, י",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 3,
+    "ref_2": "Ketubot 2a:1",
+    "heRef_2": "כתובות ב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 3,
+    "ref_2": "Ketubot 2a:1",
+    "heRef_2": "כתובות ב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 7,
+    "ref_2": "Tosafot on Ketubot 2a:1:4",
+    "heRef_2": "תוספות על כתובות ב., א, ד",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 16,
+    "ref_2": "Ketubot 2b:2",
+    "heRef_2": "כתובות ב:, ב",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 14,
+    "ref_2": "Tosafot on Ketubot 2b:1:1",
+    "heRef_2": "תוספות על כתובות ב:, א, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 44,
+    "ref_2": "Tosafot on Ketubot 4a:1:1",
+    "heRef_2": "תוספות על כתובות ד., א, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 46,
+    "ref_2": "Tosafot on Ketubot 4a:2:1",
+    "heRef_2": "תוספות על כתובות ד., ב, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 381,
+    "ref_2": "Tosafot on Ketubot 29a:2:1",
+    "heRef_2": "תוספות על כתובות כט., ב, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 403,
+    "ref_2": "Tosafot on Ketubot 30b:5:2",
+    "heRef_2": "תוספות על כתובות ל:, ה, ב",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 584,
+    "ref_2": "Tosafot on Ketubot 42a:6:1",
+    "heRef_2": "תוספות על כתובות מב., ו, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 585,
+    "ref_2": "Tosafot on Ketubot 42a:7:1",
+    "heRef_2": "תוספות על כתובות מב., ז, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 641,
+    "ref_2": "Tosafot on Ketubot 46b:5:1",
+    "heRef_2": "תוספות על כתובות מו:, ה, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 671,
+    "ref_2": "Tosafot on Ketubot 48b:3:1",
+    "heRef_2": "תוספות על כתובות מח:, ג, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 1229,
+    "ref_2": "Ketubot 48b:5",
+    "heRef_2": "כתובות מח:, ה",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 1895,
+    "ref_2": "Ketubot 70b:1",
+    "heRef_2": "כתובות ע:, א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 968,
+    "ref_2": "Tosafot on Ketubot 71a:5:1",
+    "heRef_2": "תוספות על כתובות עא., ה, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 970,
+    "ref_2": "Tosafot on Ketubot 71a:6:2",
+    "heRef_2": "תוספות על כתובות עא., ו, ב",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 970,
+    "ref_2": "Tosafot on Ketubot 71a:6:2",
+    "heRef_2": "תוספות על כתובות עא., ו, ב",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 998,
+    "ref_2": "Tosafot on Ketubot 72b:8:1",
+    "heRef_2": "תוספות על כתובות עב:, ח, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 1002,
+    "ref_2": "Tosafot on Ketubot 73a:1:1",
+    "heRef_2": "תוספות על כתובות עג., א, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 2532,
+    "ref_2": "Ketubot 92a:1",
+    "heRef_2": "כתובות צב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 2532,
+    "ref_2": "Ketubot 92a:1",
+    "heRef_2": "כתובות צב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 2532,
+    "ref_2": "Ketubot 92a:1",
+    "heRef_2": "כתובות צב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 2532,
+    "ref_2": "Ketubot 92a:1",
+    "heRef_2": "כתובות צב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 1241,
+    "ref_2": "Tosafot on Ketubot 93a:5:1",
+    "heRef_2": "תוספות על כתובות צג., ה, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 2579,
+    "ref_2": "Ketubot 94a:1",
+    "heRef_2": "כתובות צד., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1254,
+    "ref_2": "Tosafot on Ketubot 94a:13:1",
+    "heRef_2": "תוספות על כתובות צד., יג, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 1254,
+    "ref_2": "Tosafot on Ketubot 94a:13:1",
+    "heRef_2": "תוספות על כתובות צד., יג, א",
+    "path_2": "תוספות על כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 2645,
+    "ref_2": "Ketubot 96a:1",
+    "heRef_2": "כתובות צו., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 2662,
+    "ref_2": "Ketubot 96b:1",
+    "heRef_2": "כתובות צו:, א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 2670,
+    "ref_2": "Ketubot 97a:1",
+    "heRef_2": "כתובות צז., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 2670,
+    "ref_2": "Ketubot 97a:1",
+    "heRef_2": "כתובות צז., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 14,
+    "ref_2": "Tosafot on Gittin 2b:3:2",
+    "heRef_2": "תוספות על גיטין ב:, ג, ב",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 15,
+    "ref_2": "Tosafot on Gittin 2b:5:1",
+    "heRef_2": "תוספות על גיטין ב:, ה, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 26,
+    "ref_2": "Tosafot on Gittin 3a:13:1",
+    "heRef_2": "תוספות על גיטין ג., יג, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 61,
+    "ref_2": "Gittin 4b:6",
+    "heRef_2": "גיטין ד:, ו",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 404,
+    "ref_2": "Gittin 15a:1",
+    "heRef_2": "גיטין טו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 443,
+    "ref_2": "Gittin 16b:1",
+    "heRef_2": "גיטין טז:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 231,
+    "ref_2": "Tosafot on Gittin 16b:1:1",
+    "heRef_2": "תוספות על גיטין טז:, א, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 589,
+    "ref_2": "Gittin 21a:1",
+    "heRef_2": "גיטין כא., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 297,
+    "ref_2": "Tosafot on Gittin 21a:5:1",
+    "heRef_2": "תוספות על גיטין כא., ה, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 650,
+    "ref_2": "Gittin 23a:1",
+    "heRef_2": "גיטין כג., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 323,
+    "ref_2": "Tosafot on Gittin 23a:2:1",
+    "heRef_2": "תוספות על גיטין כג., ב, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 1591,
+    "ref_2": "Rashi on Gittin 35b:6:2",
+    "heRef_2": "רש\"י על גיטין לה:, ו, ב",
+    "path_2": "רש\"י על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 1591,
+    "ref_2": "Rashi on Gittin 35b:6:2",
+    "heRef_2": "רש\"י על גיטין לה:, ו, ב",
+    "path_2": "רש\"י על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 1400,
+    "ref_2": "Gittin 46a:1",
+    "heRef_2": "גיטין מו., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 1434,
+    "ref_2": "Gittin 47a:1",
+    "heRef_2": "גיטין מז., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 630,
+    "ref_2": "Tosafot on Gittin 47b:12:1",
+    "heRef_2": "תוספות על גיטין מז:, יב, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 1468,
+    "ref_2": "Gittin 48a:1",
+    "heRef_2": "גיטין מח., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 795,
+    "ref_2": "Tosafot on Gittin 62b:4:1",
+    "heRef_2": "תוספות על גיטין סב:, ד, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 795,
+    "ref_2": "Tosafot on Gittin 62b:4:1",
+    "heRef_2": "תוספות על גיטין סב:, ד, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 3255,
+    "ref_2": "Rashi on Gittin 64b:6:1",
+    "heRef_2": "רש\"י על גיטין סד:, ו, א",
+    "path_2": "רש\"י על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 819,
+    "ref_2": "Tosafot on Gittin 64b:4:2",
+    "heRef_2": "תוספות על גיטין סד:, ד, ב",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 819,
+    "ref_2": "Tosafot on Gittin 64b:4:2",
+    "heRef_2": "תוספות על גיטין סד:, ד, ב",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 2161,
+    "ref_2": "Gittin 66b:1",
+    "heRef_2": "גיטין סו:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 840,
+    "ref_2": "Tosafot on Gittin 66b:5:1",
+    "heRef_2": "תוספות על גיטין סו:, ה, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 842,
+    "ref_2": "Tosafot on Gittin 66b:10:1",
+    "heRef_2": "תוספות על גיטין סו:, י, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 843,
+    "ref_2": "Tosafot on Gittin 66b:12:1",
+    "heRef_2": "תוספות על גיטין סו:, יב, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 886,
+    "ref_2": "Tosafot on Gittin 71a:7:1",
+    "heRef_2": "תוספות על גיטין עא., ז, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 889,
+    "ref_2": "Tosafot on Gittin 71a:12:1",
+    "heRef_2": "תוספות על גיטין עא., יב, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 2374,
+    "ref_2": "Gittin 72a:1",
+    "heRef_2": "גיטין עב., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 2374,
+    "ref_2": "Gittin 72a:1",
+    "heRef_2": "גיטין עב., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 920,
+    "ref_2": "Tosafot on Gittin 74a:9:1",
+    "heRef_2": "תוספות על גיטין עד., ט, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 921,
+    "ref_2": "Tosafot on Gittin 74a:12:1",
+    "heRef_2": "תוספות על גיטין עד., יב, א",
+    "path_2": "תוספות על גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 2472,
+    "ref_2": "Gittin 74a:19",
+    "heRef_2": "גיטין עד., יט",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 524,
+    "ref_2": "Bava Kamma 14b:6",
+    "heRef_2": "בבא קמא יד:, ו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 524,
+    "ref_2": "Bava Kamma 14b:6",
+    "heRef_2": "בבא קמא יד:, ו",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Bava Kamma 15a:24:1",
+    "heRef_2": "תוספות על בבא קמא טו., כד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Bava Kamma 15a:24:1",
+    "heRef_2": "תוספות על בבא קמא טו., כד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 219,
+    "ref_2": "Tosafot on Bava Kamma 15a:24:2",
+    "heRef_2": "תוספות על בבא קמא טו., כד, ב",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 223,
+    "ref_2": "Tosafot on Bava Kamma 15b:15:1",
+    "heRef_2": "תוספות על בבא קמא טו:, טו, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 961,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 971,
+    "ref_2": "Bava Kamma 26a:11",
+    "heRef_2": "בבא קמא כו., יא",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 967,
+    "ref_2": "Bava Kamma 26a:7",
+    "heRef_2": "בבא קמא כו., ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 967,
+    "ref_2": "Bava Kamma 26a:7",
+    "heRef_2": "בבא קמא כו., ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 997,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 997,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 1304,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 1304,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 1304,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 1358,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 511,
+    "ref_2": "Tosafot on Bava Kamma 35b:13:1",
+    "heRef_2": "תוספות על בבא קמא לה:, יג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 1416,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 1505,
+    "ref_2": "Bava Kamma 39a:10",
+    "heRef_2": "בבא קמא לט., י",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 1742,
+    "ref_2": "Bava Kamma 45a:1",
+    "heRef_2": "בבא קמא מה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 1742,
+    "ref_2": "Bava Kamma 45a:1",
+    "heRef_2": "בבא קמא מה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 641,
+    "ref_2": "Tosafot on Bava Kamma 45a:10:1",
+    "heRef_2": "תוספות על בבא קמא מה., י, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 1755,
+    "ref_2": "Bava Kamma 45b:1",
+    "heRef_2": "בבא קמא מה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 1755,
+    "ref_2": "Bava Kamma 45b:1",
+    "heRef_2": "בבא קמא מה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 1792,
+    "ref_2": "Bava Kamma 46b:1",
+    "heRef_2": "בבא קמא מו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 660,
+    "ref_2": "Tosafot on Bava Kamma 47a:1:1",
+    "heRef_2": "תוספות על בבא קמא מז., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 1820,
+    "ref_2": "Bava Kamma 47b:1",
+    "heRef_2": "בבא קמא מז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 1820,
+    "ref_2": "Bava Kamma 47b:1",
+    "heRef_2": "בבא קמא מז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 668,
+    "ref_2": "Tosafot on Bava Kamma 47b:5:1",
+    "heRef_2": "תוספות על בבא קמא מז:, ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 1842,
+    "ref_2": "Bava Kamma 48a:1",
+    "heRef_2": "בבא קמא מח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 677,
+    "ref_2": "Tosafot on Bava Kamma 48a:12:1",
+    "heRef_2": "תוספות על בבא קמא מח., יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 1947,
+    "ref_2": "Bava Kamma 50b:1",
+    "heRef_2": "בבא קמא נ:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 1947,
+    "ref_2": "Bava Kamma 50b:1",
+    "heRef_2": "בבא קמא נ:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 1947,
+    "ref_2": "Bava Kamma 50b:1",
+    "heRef_2": "בבא קמא נ:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 713,
+    "ref_2": "Tosafot on Bava Kamma 51a:1:1",
+    "heRef_2": "תוספות על בבא קמא נא., א, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 715,
+    "ref_2": "Tosafot on Bava Kamma 51a:14:1",
+    "heRef_2": "תוספות על בבא קמא נא., יד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 715,
+    "ref_2": "Tosafot on Bava Kamma 51a:14:1",
+    "heRef_2": "תוספות על בבא קמא נא., יד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 1998,
+    "ref_2": "Bava Kamma 51b:1",
+    "heRef_2": "בבא קמא נא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 2073,
+    "ref_2": "Bava Kamma 53b:1",
+    "heRef_2": "בבא קמא נג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 2073,
+    "ref_2": "Bava Kamma 53b:1",
+    "heRef_2": "בבא קמא נג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 846,
+    "ref_2": "Tosafot on Bava Kamma 61b:12:1",
+    "heRef_2": "תוספות על בבא קמא סא:, יב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 2391,
+    "ref_2": "Bava Kamma 62a:1",
+    "heRef_2": "בבא קמא סב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 850,
+    "ref_2": "Tosafot on Bava Kamma 62a:2:1",
+    "heRef_2": "תוספות על בבא קמא סב., ב, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 874,
+    "ref_2": "Tosafot on Bava Kamma 63b:13:1",
+    "heRef_2": "תוספות על בבא קמא סג:, יג, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 2453,
+    "ref_2": "Bava Kamma 63b:19",
+    "heRef_2": "בבא קמא סג:, יט",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 2496,
+    "ref_2": "Bava Kamma 65a:1",
+    "heRef_2": "בבא קמא סה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 2698,
+    "ref_2": "Bava Kamma 70b:1",
+    "heRef_2": "בבא קמא ע:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 2717,
+    "ref_2": "Bava Kamma 71a:1",
+    "heRef_2": "בבא קמא עא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 2723,
+    "ref_2": "Bava Kamma 71a:7",
+    "heRef_2": "בבא קמא עא., ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 973,
+    "ref_2": "Tosafot on Bava Kamma 71a:18:1",
+    "heRef_2": "תוספות על בבא קמא עא., יח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 977,
+    "ref_2": "Tosafot on Bava Kamma 71b:4:1",
+    "heRef_2": "תוספות על בבא קמא עא:, ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 977,
+    "ref_2": "Tosafot on Bava Kamma 71b:4:1",
+    "heRef_2": "תוספות על בבא קמא עא:, ד, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 2761,
+    "ref_2": "Bava Kamma 72a:1",
+    "heRef_2": "בבא קמא עב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 2767,
+    "ref_2": "Bava Kamma 72a:7",
+    "heRef_2": "בבא קמא עב., ז",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 985,
+    "ref_2": "Tosafot on Bava Kamma 72a:5:1",
+    "heRef_2": "תוספות על בבא קמא עב., ה, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 987,
+    "ref_2": "Tosafot on Bava Kamma 72a:8:1",
+    "heRef_2": "תוספות על בבא קמא עב., ח, א",
+    "path_2": "תוספות על בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 2770,
+    "ref_2": "Bava Kamma 72b:1",
+    "heRef_2": "בבא קמא עב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 2770,
+    "ref_2": "Bava Kamma 72b:1",
+    "heRef_2": "בבא קמא עב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 2804,
+    "ref_2": "Bava Kamma 73b:1",
+    "heRef_2": "בבא קמא עג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 2804,
+    "ref_2": "Bava Kamma 73b:1",
+    "heRef_2": "בבא קמא עג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  }
+]

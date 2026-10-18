@@ -1,0 +1,4562 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "ref_2": "Megillah 2a:1",
+    "heRef_2": "מגילה ב., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 5,
+    "ref_2": "Rashi on Megillah 2a:1:2",
+    "heRef_2": "רש\"י על מגילה ב., א, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 5,
+    "ref_2": "Rashi on Megillah 2a:1:2",
+    "heRef_2": "רש\"י על מגילה ב., א, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 5,
+    "ref_2": "Rashi on Megillah 2a:1:2",
+    "heRef_2": "רש\"י על מגילה ב., א, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 5,
+    "ref_2": "Rashi on Megillah 2a:1:2",
+    "heRef_2": "רש\"י על מגילה ב., א, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 6,
+    "ref_2": "Megillah 2a:4",
+    "heRef_2": "מגילה ב., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 21,
+    "ref_2": "Rashi on Megillah 2a:11:1",
+    "heRef_2": "רש\"י על מגילה ב., יא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 21,
+    "ref_2": "Rashi on Megillah 2a:11:1",
+    "heRef_2": "רש\"י על מגילה ב., יא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 21,
+    "ref_2": "Rashi on Megillah 2a:11:1",
+    "heRef_2": "רש\"י על מגילה ב., יא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 23,
+    "ref_2": "Rashi on Megillah 2a:14:1",
+    "heRef_2": "רש\"י על מגילה ב., יד, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 23,
+    "ref_2": "Rashi on Megillah 2a:14:1",
+    "heRef_2": "רש\"י על מגילה ב., יד, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 23,
+    "ref_2": "Rashi on Megillah 2a:14:1",
+    "heRef_2": "רש\"י על מגילה ב., יד, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 23,
+    "ref_2": "Rashi on Megillah 2a:14:1",
+    "heRef_2": "רש\"י על מגילה ב., יד, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 20,
+    "ref_2": "Megillah 2a:18",
+    "heRef_2": "מגילה ב., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 20,
+    "ref_2": "Megillah 2a:18",
+    "heRef_2": "מגילה ב., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 20,
+    "ref_2": "Megillah 2a:18",
+    "heRef_2": "מגילה ב., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 24,
+    "ref_2": "Megillah 2a:22",
+    "heRef_2": "מגילה ב., כב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 24,
+    "ref_2": "Megillah 2a:22",
+    "heRef_2": "מגילה ב., כב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 28,
+    "ref_2": "Megillah 2b:1",
+    "heRef_2": "מגילה ב:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 38,
+    "ref_2": "Megillah 2b:11",
+    "heRef_2": "מגילה ב:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 63,
+    "ref_2": "Rashi on Megillah 2b:21:1",
+    "heRef_2": "רש\"י על מגילה ב:, כא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 64,
+    "ref_2": "Rashi on Megillah 2b:21:2",
+    "heRef_2": "רש\"י על מגילה ב:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 54,
+    "ref_2": "Megillah 3a:2",
+    "heRef_2": "מגילה ג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 67,
+    "ref_2": "Megillah 3a:15",
+    "heRef_2": "מגילה ג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 6,
+    "ref_2": "Tosafot on Megillah 3a:16:1",
+    "heRef_2": "תוספות על מגילה ג., טז, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 83,
+    "ref_2": "Rashi on Megillah 3a:19:1",
+    "heRef_2": "רש\"י על מגילה ג., יט, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 78,
+    "ref_2": "Megillah 3b:4",
+    "heRef_2": "מגילה ג:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 89,
+    "ref_2": "Rashi on Megillah 3b:2:1",
+    "heRef_2": "רש\"י על מגילה ג:, ב, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 89,
+    "ref_2": "Rashi on Megillah 3b:2:1",
+    "heRef_2": "רש\"י על מגילה ג:, ב, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 89,
+    "ref_2": "Rashi on Megillah 3b:2:1",
+    "heRef_2": "רש\"י על מגילה ג:, ב, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 89,
+    "ref_2": "Rashi on Megillah 3b:2:1",
+    "heRef_2": "רש\"י על מגילה ג:, ב, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 100,
+    "ref_2": "Rashi on Megillah 3b:13:1",
+    "heRef_2": "רש\"י על מגילה ג:, יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 100,
+    "ref_2": "Rashi on Megillah 3b:13:1",
+    "heRef_2": "רש\"י על מגילה ג:, יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 100,
+    "ref_2": "Rashi on Megillah 3b:13:1",
+    "heRef_2": "רש\"י על מגילה ג:, יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 100,
+    "ref_2": "Rashi on Megillah 3b:13:1",
+    "heRef_2": "רש\"י על מגילה ג:, יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 100,
+    "ref_2": "Rashi on Megillah 3b:13:1",
+    "heRef_2": "רש\"י על מגילה ג:, יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 104,
+    "ref_2": "Rashi on Megillah 3b:14:3",
+    "heRef_2": "רש\"י על מגילה ג:, יד, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 104,
+    "ref_2": "Rashi on Megillah 3b:14:3",
+    "heRef_2": "רש\"י על מגילה ג:, יד, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 26,
+    "ref_2": "Tosafot on Megillah 4a:5:2",
+    "heRef_2": "תוספות על מגילה ד., ה, ב",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 26,
+    "ref_2": "Tosafot on Megillah 4a:5:2",
+    "heRef_2": "תוספות על מגילה ד., ה, ב",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 26,
+    "ref_2": "Tosafot on Megillah 4a:5:2",
+    "heRef_2": "תוספות על מגילה ד., ה, ב",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 98,
+    "ref_2": "Megillah 4a:6",
+    "heRef_2": "מגילה ד., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 116,
+    "ref_2": "Rashi on Megillah 4a:8:1",
+    "heRef_2": "רש\"י על מגילה ד., ח, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 116,
+    "ref_2": "Rashi on Megillah 4a:8:1",
+    "heRef_2": "רש\"י על מגילה ד., ח, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 116,
+    "ref_2": "Rashi on Megillah 4a:8:1",
+    "heRef_2": "רש\"י על מגילה ד., ח, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 122,
+    "ref_2": "Rashi on Megillah 4a:10:2",
+    "heRef_2": "רש\"י על מגילה ד., י, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 105,
+    "ref_2": "Megillah 4b:1",
+    "heRef_2": "מגילה ד:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 105,
+    "ref_2": "Megillah 4b:1",
+    "heRef_2": "מגילה ד:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 105,
+    "ref_2": "Megillah 4b:1",
+    "heRef_2": "מגילה ד:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 125,
+    "ref_2": "Megillah 4b:21",
+    "heRef_2": "מגילה ד:, כא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 125,
+    "ref_2": "Megillah 4b:21",
+    "heRef_2": "מגילה ד:, כא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 125,
+    "ref_2": "Megillah 4b:21",
+    "heRef_2": "מגילה ד:, כא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 135,
+    "ref_2": "Rashi on Megillah 4b:21:2",
+    "heRef_2": "רש\"י על מגילה ד:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 135,
+    "ref_2": "Rashi on Megillah 4b:21:2",
+    "heRef_2": "רש\"י על מגילה ד:, כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 34,
+    "ref_2": "Tosafot on Megillah 4b:23:1",
+    "heRef_2": "תוספות על מגילה ד:, כג, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 34,
+    "ref_2": "Tosafot on Megillah 4b:23:1",
+    "heRef_2": "תוספות על מגילה ד:, כג, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 142,
+    "ref_2": "Rashi on Megillah 5a:2:2",
+    "heRef_2": "רש\"י על מגילה ה., ב, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 143,
+    "ref_2": "Rashi on Megillah 5a:2:3",
+    "heRef_2": "רש\"י על מגילה ה., ב, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 132,
+    "ref_2": "Megillah 5a:3",
+    "heRef_2": "מגילה ה., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 132,
+    "ref_2": "Megillah 5a:3",
+    "heRef_2": "מגילה ה., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 132,
+    "ref_2": "Megillah 5a:3",
+    "heRef_2": "מגילה ה., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 147,
+    "ref_2": "Rashi on Megillah 5a:6:2",
+    "heRef_2": "רש\"י על מגילה ה., ו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 151,
+    "ref_2": "Rashi on Megillah 5a:10:1",
+    "heRef_2": "רש\"י על מגילה ה., י, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 141,
+    "ref_2": "Megillah 5a:12",
+    "heRef_2": "מגילה ה., יב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 164,
+    "ref_2": "Rashi on Megillah 5b:1:1",
+    "heRef_2": "רש\"י על מגילה ה:, א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 165,
+    "ref_2": "Rashi on Megillah 5b:1:2",
+    "heRef_2": "רש\"י על מגילה ה:, א, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 39,
+    "ref_2": "Tosafot on Megillah 5b:1:1",
+    "heRef_2": "תוספות על מגילה ה:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 39,
+    "ref_2": "Tosafot on Megillah 5b:1:1",
+    "heRef_2": "תוספות על מגילה ה:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 154,
+    "ref_2": "Megillah 5b:5",
+    "heRef_2": "מגילה ה:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 155,
+    "ref_2": "Megillah 5b:6",
+    "heRef_2": "מגילה ה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 169,
+    "ref_2": "Megillah 6a:1",
+    "heRef_2": "מגילה ו., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 189,
+    "ref_2": "Megillah 6b:1",
+    "heRef_2": "מגילה ו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 189,
+    "ref_2": "Megillah 6b:1",
+    "heRef_2": "מגילה ו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 189,
+    "ref_2": "Megillah 6b:1",
+    "heRef_2": "מגילה ו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 189,
+    "ref_2": "Megillah 6b:1",
+    "heRef_2": "מגילה ו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 219,
+    "ref_2": "Megillah 7a:1",
+    "heRef_2": "מגילה ז., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 219,
+    "ref_2": "Megillah 7a:1",
+    "heRef_2": "מגילה ז., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 219,
+    "ref_2": "Megillah 7a:1",
+    "heRef_2": "מגילה ז., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 241,
+    "ref_2": "Megillah 7b:1",
+    "heRef_2": "מגילה ז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 243,
+    "ref_2": "Megillah 7b:3",
+    "heRef_2": "מגילה ז:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 242,
+    "ref_2": "Megillah 7b:2",
+    "heRef_2": "מגילה ז:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 244,
+    "ref_2": "Megillah 7b:4",
+    "heRef_2": "מגילה ז:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 245,
+    "ref_2": "Megillah 7b:5",
+    "heRef_2": "מגילה ז:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 245,
+    "ref_2": "Megillah 7b:5",
+    "heRef_2": "מגילה ז:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 245,
+    "ref_2": "Megillah 7b:5",
+    "heRef_2": "מגילה ז:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 245,
+    "ref_2": "Megillah 7b:5",
+    "heRef_2": "מגילה ז:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 59,
+    "ref_2": "Tosafot on Megillah 7b:7:1",
+    "heRef_2": "תוספות על מגילה ז:, ז, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 59,
+    "ref_2": "Tosafot on Megillah 7b:7:1",
+    "heRef_2": "תוספות על מגילה ז:, ז, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 59,
+    "ref_2": "Tosafot on Megillah 7b:7:1",
+    "heRef_2": "תוספות על מגילה ז:, ז, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 264,
+    "ref_2": "Megillah 8a:1",
+    "heRef_2": "מגילה ח., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 264,
+    "ref_2": "Megillah 8a:1",
+    "heRef_2": "מגילה ח., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 404,
+    "ref_2": "Rashi on Megillah 9a:15:2",
+    "heRef_2": "רש\"י על מגילה ט., טו, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 330,
+    "ref_2": "Megillah 9b:7",
+    "heRef_2": "מגילה ט:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 330,
+    "ref_2": "Megillah 9b:7",
+    "heRef_2": "מגילה ט:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 416,
+    "ref_2": "Rashi on Megillah 9b:7:1",
+    "heRef_2": "רש\"י על מגילה ט:, ז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 330,
+    "ref_2": "Megillah 9b:7",
+    "heRef_2": "מגילה ט:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 428,
+    "ref_2": "Rashi on Megillah 9b:16:2",
+    "heRef_2": "רש\"י על מגילה ט:, טז, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 330,
+    "ref_2": "Megillah 9b:7",
+    "heRef_2": "מגילה ט:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 359,
+    "ref_2": "Megillah 10b:4",
+    "heRef_2": "מגילה י:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 359,
+    "ref_2": "Megillah 10b:4",
+    "heRef_2": "מגילה י:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 359,
+    "ref_2": "Megillah 10b:4",
+    "heRef_2": "מגילה י:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 359,
+    "ref_2": "Megillah 10b:4",
+    "heRef_2": "מגילה י:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 368,
+    "ref_2": "Megillah 10b:13",
+    "heRef_2": "מגילה י:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 368,
+    "ref_2": "Megillah 10b:13",
+    "heRef_2": "מגילה י:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 368,
+    "ref_2": "Megillah 10b:13",
+    "heRef_2": "מגילה י:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 373,
+    "ref_2": "Megillah 10b:18",
+    "heRef_2": "מגילה י:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 88,
+    "ref_2": "Tosafot on Megillah 10b:18:1",
+    "heRef_2": "תוספות על מגילה י:, יח, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 374,
+    "ref_2": "Megillah 10b:19",
+    "heRef_2": "מגילה י:, יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 374,
+    "ref_2": "Megillah 10b:19",
+    "heRef_2": "מגילה י:, יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 374,
+    "ref_2": "Megillah 10b:19",
+    "heRef_2": "מגילה י:, יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 374,
+    "ref_2": "Megillah 10b:19",
+    "heRef_2": "מגילה י:, יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 379,
+    "ref_2": "Megillah 10b:24",
+    "heRef_2": "מגילה י:, כד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 381,
+    "ref_2": "Megillah 10b:26",
+    "heRef_2": "מגילה י:, כו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 381,
+    "ref_2": "Megillah 10b:26",
+    "heRef_2": "מגילה י:, כו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 383,
+    "ref_2": "Megillah 10b:28",
+    "heRef_2": "מגילה י:, כח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 383,
+    "ref_2": "Megillah 10b:28",
+    "heRef_2": "מגילה י:, כח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 383,
+    "ref_2": "Megillah 10b:28",
+    "heRef_2": "מגילה י:, כח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 383,
+    "ref_2": "Megillah 10b:28",
+    "heRef_2": "מגילה י:, כח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 384,
+    "ref_2": "Megillah 10b:29",
+    "heRef_2": "מגילה י:, כט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 385,
+    "ref_2": "Megillah 10b:30",
+    "heRef_2": "מגילה י:, ל",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 385,
+    "ref_2": "Megillah 10b:30",
+    "heRef_2": "מגילה י:, ל",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 385,
+    "ref_2": "Megillah 10b:30",
+    "heRef_2": "מגילה י:, ל",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 465,
+    "ref_2": "Rashi on Megillah 11a:1:1",
+    "heRef_2": "רש\"י על מגילה יא., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 465,
+    "ref_2": "Rashi on Megillah 11a:1:1",
+    "heRef_2": "רש\"י על מגילה יא., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 465,
+    "ref_2": "Rashi on Megillah 11a:1:1",
+    "heRef_2": "רש\"י על מגילה יא., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 465,
+    "ref_2": "Rashi on Megillah 11a:1:1",
+    "heRef_2": "רש\"י על מגילה יא., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 465,
+    "ref_2": "Rashi on Megillah 11a:1:1",
+    "heRef_2": "רש\"י על מגילה יא., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 388,
+    "ref_2": "Megillah 11a:2",
+    "heRef_2": "מגילה יא., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 389,
+    "ref_2": "Megillah 11a:3",
+    "heRef_2": "מגילה יא., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 390,
+    "ref_2": "Megillah 11a:4",
+    "heRef_2": "מגילה יא., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 390,
+    "ref_2": "Megillah 11a:4",
+    "heRef_2": "מגילה יא., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 392,
+    "ref_2": "Megillah 11a:6",
+    "heRef_2": "מגילה יא., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 392,
+    "ref_2": "Megillah 11a:6",
+    "heRef_2": "מגילה יא., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 392,
+    "ref_2": "Megillah 11a:6",
+    "heRef_2": "מגילה יא., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 393,
+    "ref_2": "Megillah 11a:7",
+    "heRef_2": "מגילה יא., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 393,
+    "ref_2": "Megillah 11a:7",
+    "heRef_2": "מגילה יא., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 393,
+    "ref_2": "Megillah 11a:7",
+    "heRef_2": "מגילה יא., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 393,
+    "ref_2": "Megillah 11a:7",
+    "heRef_2": "מגילה יא., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 393,
+    "ref_2": "Megillah 11a:7",
+    "heRef_2": "מגילה יא., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 394,
+    "ref_2": "Megillah 11a:8",
+    "heRef_2": "מגילה יא., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 394,
+    "ref_2": "Megillah 11a:8",
+    "heRef_2": "מגילה יא., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 394,
+    "ref_2": "Megillah 11a:8",
+    "heRef_2": "מגילה יא., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 395,
+    "ref_2": "Megillah 11a:9",
+    "heRef_2": "מגילה יא., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 395,
+    "ref_2": "Megillah 11a:9",
+    "heRef_2": "מגילה יא., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 396,
+    "ref_2": "Megillah 11a:10",
+    "heRef_2": "מגילה יא., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 397,
+    "ref_2": "Megillah 11a:11",
+    "heRef_2": "מגילה יא., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 398,
+    "ref_2": "Megillah 11a:12",
+    "heRef_2": "מגילה יא., יב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 399,
+    "ref_2": "Megillah 11a:13",
+    "heRef_2": "מגילה יא., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 400,
+    "ref_2": "Megillah 11a:14",
+    "heRef_2": "מגילה יא., יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 401,
+    "ref_2": "Megillah 11a:15",
+    "heRef_2": "מגילה יא., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 401,
+    "ref_2": "Megillah 11a:15",
+    "heRef_2": "מגילה יא., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 412,
+    "ref_2": "Megillah 11b:1",
+    "heRef_2": "מגילה יא:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 432,
+    "ref_2": "Megillah 12a:6",
+    "heRef_2": "מגילה יב., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 433,
+    "ref_2": "Megillah 12a:7",
+    "heRef_2": "מגילה יב., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 433,
+    "ref_2": "Megillah 12a:7",
+    "heRef_2": "מגילה יב., ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 434,
+    "ref_2": "Megillah 12a:8",
+    "heRef_2": "מגילה יב., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 434,
+    "ref_2": "Megillah 12a:8",
+    "heRef_2": "מגילה יב., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 435,
+    "ref_2": "Megillah 12a:9",
+    "heRef_2": "מגילה יב., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 435,
+    "ref_2": "Megillah 12a:9",
+    "heRef_2": "מגילה יב., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 435,
+    "ref_2": "Megillah 12a:9",
+    "heRef_2": "מגילה יב., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 435,
+    "ref_2": "Megillah 12a:9",
+    "heRef_2": "מגילה יב., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 436,
+    "ref_2": "Megillah 12a:10",
+    "heRef_2": "מגילה יב., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 436,
+    "ref_2": "Megillah 12a:10",
+    "heRef_2": "מגילה יב., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 437,
+    "ref_2": "Megillah 12a:11",
+    "heRef_2": "מגילה יב., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 534,
+    "ref_2": "Rashi on Megillah 12a:13:1",
+    "heRef_2": "רש\"י על מגילה יב., יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 534,
+    "ref_2": "Rashi on Megillah 12a:13:1",
+    "heRef_2": "רש\"י על מגילה יב., יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 534,
+    "ref_2": "Rashi on Megillah 12a:13:1",
+    "heRef_2": "רש\"י על מגילה יב., יג, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 440,
+    "ref_2": "Megillah 12a:14",
+    "heRef_2": "מגילה יב., יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 441,
+    "ref_2": "Megillah 12a:15",
+    "heRef_2": "מגילה יב., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 441,
+    "ref_2": "Megillah 12a:15",
+    "heRef_2": "מגילה יב., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 441,
+    "ref_2": "Megillah 12a:15",
+    "heRef_2": "מגילה יב., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 442,
+    "ref_2": "Megillah 12a:16",
+    "heRef_2": "מגילה יב., טז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 442,
+    "ref_2": "Megillah 12a:16",
+    "heRef_2": "מגילה יב., טז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 443,
+    "ref_2": "Megillah 12a:17",
+    "heRef_2": "מגילה יב., יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 444,
+    "ref_2": "Megillah 12a:18",
+    "heRef_2": "מגילה יב., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 444,
+    "ref_2": "Megillah 12a:18",
+    "heRef_2": "מגילה יב., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 445,
+    "ref_2": "Megillah 12a:19",
+    "heRef_2": "מגילה יב., יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 448,
+    "ref_2": "Megillah 12b:2",
+    "heRef_2": "מגילה יב:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 449,
+    "ref_2": "Megillah 12b:3",
+    "heRef_2": "מגילה יב:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 449,
+    "ref_2": "Megillah 12b:3",
+    "heRef_2": "מגילה יב:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 449,
+    "ref_2": "Megillah 12b:3",
+    "heRef_2": "מגילה יב:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 449,
+    "ref_2": "Megillah 12b:3",
+    "heRef_2": "מגילה יב:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 361,
+    "line_index_2": 453,
+    "ref_2": "Megillah 12b:7",
+    "heRef_2": "מגילה יב:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 453,
+    "ref_2": "Megillah 12b:7",
+    "heRef_2": "מגילה יב:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 453,
+    "ref_2": "Megillah 12b:7",
+    "heRef_2": "מגילה יב:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 554,
+    "ref_2": "Rashi on Megillah 12b:9:1",
+    "heRef_2": "רש\"י על מגילה יב:, ט, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 559,
+    "ref_2": "Rashi on Megillah 12b:11:1",
+    "heRef_2": "רש\"י על מגילה יב:, יא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 455,
+    "ref_2": "Megillah 12b:9",
+    "heRef_2": "מגילה יב:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 367,
+    "line_index_2": 455,
+    "ref_2": "Megillah 12b:9",
+    "heRef_2": "מגילה יב:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 464,
+    "ref_2": "Megillah 12b:18",
+    "heRef_2": "מגילה יב:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 464,
+    "ref_2": "Megillah 12b:18",
+    "heRef_2": "מגילה יב:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 466,
+    "ref_2": "Megillah 12b:20",
+    "heRef_2": "מגילה יב:, כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 469,
+    "ref_2": "Megillah 13a:2",
+    "heRef_2": "מגילה יג., ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 470,
+    "ref_2": "Megillah 13a:3",
+    "heRef_2": "מגילה יג., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 476,
+    "ref_2": "Megillah 13a:9",
+    "heRef_2": "מגילה יג., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 478,
+    "ref_2": "Megillah 13a:11",
+    "heRef_2": "מגילה יג., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 480,
+    "ref_2": "Megillah 13a:13",
+    "heRef_2": "מגילה יג., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 480,
+    "ref_2": "Megillah 13a:13",
+    "heRef_2": "מגילה יג., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 584,
+    "ref_2": "Rashi on Megillah 13a:13:2",
+    "heRef_2": "רש\"י על מגילה יג., יג, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 482,
+    "ref_2": "Megillah 13a:15",
+    "heRef_2": "מגילה יג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 482,
+    "ref_2": "Megillah 13a:15",
+    "heRef_2": "מגילה יג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 482,
+    "ref_2": "Megillah 13a:15",
+    "heRef_2": "מגילה יג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 482,
+    "ref_2": "Megillah 13a:15",
+    "heRef_2": "מגילה יג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 482,
+    "ref_2": "Megillah 13a:15",
+    "heRef_2": "מגילה יג., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 483,
+    "ref_2": "Megillah 13a:16",
+    "heRef_2": "מגילה יג., טז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 483,
+    "ref_2": "Megillah 13a:16",
+    "heRef_2": "מגילה יג., טז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 484,
+    "ref_2": "Megillah 13a:17",
+    "heRef_2": "מגילה יג., יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 484,
+    "ref_2": "Megillah 13a:17",
+    "heRef_2": "מגילה יג., יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 484,
+    "ref_2": "Megillah 13a:17",
+    "heRef_2": "מגילה יג., יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 487,
+    "ref_2": "Megillah 13a:20",
+    "heRef_2": "מגילה יג., כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 487,
+    "ref_2": "Megillah 13a:20",
+    "heRef_2": "מגילה יג., כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 487,
+    "ref_2": "Megillah 13a:20",
+    "heRef_2": "מגילה יג., כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 487,
+    "ref_2": "Megillah 13a:20",
+    "heRef_2": "מגילה יג., כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 487,
+    "ref_2": "Megillah 13a:20",
+    "heRef_2": "מגילה יג., כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 490,
+    "ref_2": "Megillah 13a:23",
+    "heRef_2": "מגילה יג., כג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 602,
+    "ref_2": "Rashi on Megillah 13b:1:3",
+    "heRef_2": "רש\"י על מגילה יג:, א, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 602,
+    "ref_2": "Rashi on Megillah 13b:1:3",
+    "heRef_2": "רש\"י על מגילה יג:, א, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 602,
+    "ref_2": "Rashi on Megillah 13b:1:3",
+    "heRef_2": "רש\"י על מגילה יג:, א, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 603,
+    "ref_2": "Rashi on Megillah 13b:5:1",
+    "heRef_2": "רש\"י על מגילה יג:, ה, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 603,
+    "ref_2": "Rashi on Megillah 13b:5:1",
+    "heRef_2": "רש\"י על מגילה יג:, ה, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 603,
+    "ref_2": "Rashi on Megillah 13b:5:1",
+    "heRef_2": "רש\"י על מגילה יג:, ה, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 499,
+    "ref_2": "Megillah 13b:7",
+    "heRef_2": "מגילה יג:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 499,
+    "ref_2": "Megillah 13b:7",
+    "heRef_2": "מגילה יג:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 500,
+    "ref_2": "Megillah 13b:8",
+    "heRef_2": "מגילה יג:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 500,
+    "ref_2": "Megillah 13b:8",
+    "heRef_2": "מגילה יג:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 500,
+    "ref_2": "Megillah 13b:8",
+    "heRef_2": "מגילה יג:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 500,
+    "ref_2": "Megillah 13b:8",
+    "heRef_2": "מגילה יג:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 506,
+    "ref_2": "Megillah 13b:14",
+    "heRef_2": "מגילה יג:, יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 506,
+    "ref_2": "Megillah 13b:14",
+    "heRef_2": "מגילה יג:, יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 506,
+    "ref_2": "Megillah 13b:14",
+    "heRef_2": "מגילה יג:, יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 506,
+    "ref_2": "Megillah 13b:14",
+    "heRef_2": "מגילה יג:, יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 425,
+    "line_index_2": 506,
+    "ref_2": "Megillah 13b:14",
+    "heRef_2": "מגילה יג:, יד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 105,
+    "ref_2": "Tosafot on Megillah 13b:22:1",
+    "heRef_2": "תוספות על מגילה יג:, כב, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 628,
+    "ref_2": "Rashi on Megillah 14a:1:1",
+    "heRef_2": "רש\"י על מגילה יד., א, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 518,
+    "ref_2": "Megillah 14a:3",
+    "heRef_2": "מגילה יד., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 518,
+    "ref_2": "Megillah 14a:3",
+    "heRef_2": "מגילה יד., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 518,
+    "ref_2": "Megillah 14a:3",
+    "heRef_2": "מגילה יד., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 518,
+    "ref_2": "Megillah 14a:3",
+    "heRef_2": "מגילה יד., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 518,
+    "ref_2": "Megillah 14a:3",
+    "heRef_2": "מגילה יד., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 523,
+    "ref_2": "Megillah 14a:8",
+    "heRef_2": "מגילה יד., ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 435,
+    "line_index_2": 639,
+    "ref_2": "Rashi on Megillah 14a:11:1",
+    "heRef_2": "רש\"י על מגילה יד., יא, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 528,
+    "ref_2": "Megillah 14a:13",
+    "heRef_2": "מגילה יד., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 647,
+    "ref_2": "Rashi on Megillah 14a:22:2",
+    "heRef_2": "רש\"י על מגילה יד., כב, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 110,
+    "ref_2": "Tosafot on Megillah 14b:1:1",
+    "heRef_2": "תוספות על מגילה יד:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 110,
+    "ref_2": "Tosafot on Megillah 14b:1:1",
+    "heRef_2": "תוספות על מגילה יד:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 450,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 551,
+    "ref_2": "Megillah 14b:13",
+    "heRef_2": "מגילה יד:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 663,
+    "ref_2": "Rashi on Megillah 14b:10:1",
+    "heRef_2": "רש\"י על מגילה יד:, י, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 113,
+    "ref_2": "Tosafot on Megillah 14b:13:1",
+    "heRef_2": "תוספות על מגילה יד:, יג, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 553,
+    "ref_2": "Megillah 15a:1",
+    "heRef_2": "מגילה טו., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 553,
+    "ref_2": "Megillah 15a:1",
+    "heRef_2": "מגילה טו., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 461,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 561,
+    "ref_2": "Megillah 15a:9",
+    "heRef_2": "מגילה טו., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 567,
+    "ref_2": "Megillah 15a:15",
+    "heRef_2": "מגילה טו., טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 574,
+    "ref_2": "Megillah 15a:22",
+    "heRef_2": "מגילה טו., כב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 576,
+    "ref_2": "Megillah 15b:1",
+    "heRef_2": "מגילה טו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 582,
+    "ref_2": "Megillah 15b:7",
+    "heRef_2": "מגילה טו:, ז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 584,
+    "ref_2": "Megillah 15b:9",
+    "heRef_2": "מגילה טו:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 584,
+    "ref_2": "Megillah 15b:9",
+    "heRef_2": "מגילה טו:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 586,
+    "ref_2": "Megillah 15b:11",
+    "heRef_2": "מגילה טו:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 586,
+    "ref_2": "Megillah 15b:11",
+    "heRef_2": "מגילה טו:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 588,
+    "ref_2": "Megillah 15b:13",
+    "heRef_2": "מגילה טו:, יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 595,
+    "ref_2": "Megillah 15b:20",
+    "heRef_2": "מגילה טו:, כ",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 485,
+    "line_index_2": 593,
+    "ref_2": "Megillah 15b:18",
+    "heRef_2": "מגילה טו:, יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 719,
+    "ref_2": "Rashi on Megillah 15b:20:2",
+    "heRef_2": "רש\"י על מגילה טו:, כ, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 719,
+    "ref_2": "Rashi on Megillah 15b:20:2",
+    "heRef_2": "רש\"י על מגילה טו:, כ, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 599,
+    "ref_2": "Megillah 16a:1",
+    "heRef_2": "מגילה טז., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 601,
+    "ref_2": "Megillah 16a:3",
+    "heRef_2": "מגילה טז., ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 602,
+    "ref_2": "Megillah 16a:4",
+    "heRef_2": "מגילה טז., ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 493,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 495,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 604,
+    "ref_2": "Megillah 16a:6",
+    "heRef_2": "מגילה טז., ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 512,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 514,
+    "line_index_2": 624,
+    "ref_2": "Megillah 16b:1",
+    "heRef_2": "מגילה טז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 754,
+    "ref_2": "Rashi on Megillah 16b:8:4",
+    "heRef_2": "רש\"י על מגילה טז:, ח, ד",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 632,
+    "ref_2": "Megillah 16b:9",
+    "heRef_2": "מגילה טז:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 632,
+    "ref_2": "Megillah 16b:9",
+    "heRef_2": "מגילה טז:, ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 756,
+    "ref_2": "Rashi on Megillah 16b:10:2",
+    "heRef_2": "רש\"י על מגילה טז:, י, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 756,
+    "ref_2": "Rashi on Megillah 16b:10:2",
+    "heRef_2": "רש\"י על מגילה טז:, י, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 653,
+    "ref_2": "Megillah 17a:9",
+    "heRef_2": "מגילה יז., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 653,
+    "ref_2": "Megillah 17a:9",
+    "heRef_2": "מגילה יז., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 653,
+    "ref_2": "Megillah 17a:9",
+    "heRef_2": "מגילה יז., ט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 654,
+    "ref_2": "Megillah 17a:10",
+    "heRef_2": "מגילה יז., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 526,
+    "line_index_2": 655,
+    "ref_2": "Megillah 17a:11",
+    "heRef_2": "מגילה יז., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 655,
+    "ref_2": "Megillah 17a:11",
+    "heRef_2": "מגילה יז., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 786,
+    "ref_2": "Rashi on Megillah 17a:10:2",
+    "heRef_2": "רש\"י על מגילה יז., י, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 786,
+    "ref_2": "Rashi on Megillah 17a:10:2",
+    "heRef_2": "רש\"י על מגילה יז., י, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 531,
+    "line_index_2": 132,
+    "ref_2": "Tosafot on Megillah 17b:4:1",
+    "heRef_2": "תוספות על מגילה יז:, ד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 134,
+    "ref_2": "Tosafot on Megillah 17b:8:1",
+    "heRef_2": "תוספות על מגילה יז:, ח, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 696,
+    "ref_2": "Megillah 18a:13",
+    "heRef_2": "מגילה יח., יג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 822,
+    "ref_2": "Rashi on Megillah 18a:15:1",
+    "heRef_2": "רש\"י על מגילה יח., טו, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 822,
+    "ref_2": "Rashi on Megillah 18a:15:1",
+    "heRef_2": "רש\"י על מגילה יח., טו, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 822,
+    "ref_2": "Rashi on Megillah 18a:15:1",
+    "heRef_2": "רש\"י על מגילה יח., טו, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 724,
+    "ref_2": "Megillah 18b:10",
+    "heRef_2": "מגילה יח:, י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 540,
+    "line_index_2": 852,
+    "ref_2": "Rashi on Megillah 18b:17:1",
+    "heRef_2": "רש\"י על מגילה יח:, יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 871,
+    "ref_2": "Rashi on Megillah 19a:8:1",
+    "heRef_2": "רש\"י על מגילה יט., ח, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 759,
+    "ref_2": "Megillah 19b:3",
+    "heRef_2": "מגילה יט:, ג",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 150,
+    "ref_2": "Tosafot on Megillah 19b:6:1",
+    "heRef_2": "תוספות על מגילה יט:, ו, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 814,
+    "ref_2": "Megillah 21a:10",
+    "heRef_2": "מגילה כא., י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 822,
+    "ref_2": "Megillah 21a:18",
+    "heRef_2": "מגילה כא., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 551,
+    "line_index_2": 822,
+    "ref_2": "Megillah 21a:18",
+    "heRef_2": "מגילה כא., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 822,
+    "ref_2": "Megillah 21a:18",
+    "heRef_2": "מגילה כא., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 822,
+    "ref_2": "Megillah 21a:18",
+    "heRef_2": "מגילה כא., יח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 950,
+    "ref_2": "Rashi on Megillah 21a:11:3",
+    "heRef_2": "רש\"י על מגילה כא., יא, ג",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 172,
+    "ref_2": "Tosafot on Megillah 21a:11:2",
+    "heRef_2": "תוספות על מגילה כא., יא, ב",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 172,
+    "ref_2": "Tosafot on Megillah 21a:11:2",
+    "heRef_2": "תוספות על מגילה כא., יא, ב",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 991,
+    "ref_2": "Rashi on Megillah 22a:16:1",
+    "heRef_2": "רש\"י על מגילה כב., טז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 869,
+    "ref_2": "Megillah 22b:1",
+    "heRef_2": "מגילה כב:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 869,
+    "ref_2": "Megillah 22b:1",
+    "heRef_2": "מגילה כב:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 562,
+    "line_index_2": 883,
+    "ref_2": "Megillah 22b:15",
+    "heRef_2": "מגילה כב:, טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 883,
+    "ref_2": "Megillah 22b:15",
+    "heRef_2": "מגילה כב:, טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 564,
+    "line_index_2": 883,
+    "ref_2": "Megillah 22b:15",
+    "heRef_2": "מגילה כב:, טו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 187,
+    "ref_2": "Tosafot on Megillah 22b:13:1",
+    "heRef_2": "תוספות על מגילה כב:, יג, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 567,
+    "line_index_2": 889,
+    "ref_2": "Megillah 23a:1",
+    "heRef_2": "מגילה כג., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 1031,
+    "ref_2": "Rashi on Megillah 23a:7:2",
+    "heRef_2": "רש\"י על מגילה כג., ז, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 194,
+    "ref_2": "Tosafot on Megillah 23a:12:1",
+    "heRef_2": "תוספות על מגילה כג., יב, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 194,
+    "ref_2": "Tosafot on Megillah 23a:12:1",
+    "heRef_2": "תוספות על מגילה כג., יב, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 904,
+    "ref_2": "Megillah 23b:1",
+    "heRef_2": "מגילה כג:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 932,
+    "ref_2": "Megillah 24a:11",
+    "heRef_2": "מגילה כד., יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 940,
+    "ref_2": "Megillah 24b:1",
+    "heRef_2": "מגילה כד:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 579,
+    "line_index_2": 213,
+    "ref_2": "Tosafot on Megillah 24b:11:1",
+    "heRef_2": "תוספות על מגילה כד:, יא, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 961,
+    "ref_2": "Megillah 25a:1",
+    "heRef_2": "מגילה כה., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 981,
+    "ref_2": "Megillah 25b:1",
+    "heRef_2": "מגילה כה:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 982,
+    "ref_2": "Megillah 25b:2",
+    "heRef_2": "מגילה כה:, ב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 985,
+    "ref_2": "Megillah 25b:5",
+    "heRef_2": "מגילה כה:, ה",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 986,
+    "ref_2": "Megillah 25b:6",
+    "heRef_2": "מגילה כה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 986,
+    "ref_2": "Megillah 25b:6",
+    "heRef_2": "מגילה כה:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 988,
+    "ref_2": "Megillah 25b:8",
+    "heRef_2": "מגילה כה:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 988,
+    "ref_2": "Megillah 25b:8",
+    "heRef_2": "מגילה כה:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 988,
+    "ref_2": "Megillah 25b:8",
+    "heRef_2": "מגילה כה:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 988,
+    "ref_2": "Megillah 25b:8",
+    "heRef_2": "מגילה כה:, ח",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 1002,
+    "ref_2": "Megillah 26a:1",
+    "heRef_2": "מגילה כו., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 597,
+    "line_index_2": 1002,
+    "ref_2": "Megillah 26a:1",
+    "heRef_2": "מגילה כו., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 237,
+    "ref_2": "Tosafot on Megillah 26b:8:1",
+    "heRef_2": "תוספות על מגילה כו:, ח, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 601,
+    "line_index_2": 241,
+    "ref_2": "Tosafot on Megillah 27a:20:1",
+    "heRef_2": "תוספות על מגילה כז., כ, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 603,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 604,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 1065,
+    "ref_2": "Megillah 27b:1",
+    "heRef_2": "מגילה כז:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 250,
+    "ref_2": "Tosafot on Megillah 27b:24:1",
+    "heRef_2": "תוספות על מגילה כז:, כד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 610,
+    "line_index_2": 250,
+    "ref_2": "Tosafot on Megillah 27b:24:1",
+    "heRef_2": "תוספות על מגילה כז:, כד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 1090,
+    "ref_2": "Megillah 28a:1",
+    "heRef_2": "מגילה כח., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 1090,
+    "ref_2": "Megillah 28a:1",
+    "heRef_2": "מגילה כח., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 1294,
+    "ref_2": "Rashi on Megillah 28a:21:2",
+    "heRef_2": "רש\"י על מגילה כח., כא, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 634,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Megillah 28b:4:1",
+    "heRef_2": "תוספות על מגילה כח:, ד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Megillah 28b:4:1",
+    "heRef_2": "תוספות על מגילה כח:, ד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Megillah 28b:4:1",
+    "heRef_2": "תוספות על מגילה כח:, ד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 637,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Megillah 28b:4:1",
+    "heRef_2": "תוספות על מגילה כח:, ד, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 1132,
+    "ref_2": "Megillah 28b:17",
+    "heRef_2": "מגילה כח:, יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 1132,
+    "ref_2": "Megillah 28b:17",
+    "heRef_2": "מגילה כח:, יז",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 1135,
+    "ref_2": "Megillah 29a:1",
+    "heRef_2": "מגילה כט., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 642,
+    "line_index_2": 1153,
+    "ref_2": "Megillah 29a:19",
+    "heRef_2": "מגילה כט., יט",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 643,
+    "line_index_2": 265,
+    "ref_2": "Tosafot on Megillah 29a:19:1",
+    "heRef_2": "תוספות על מגילה כט., יט, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 265,
+    "ref_2": "Tosafot on Megillah 29a:19:1",
+    "heRef_2": "תוספות על מגילה כט., יט, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 646,
+    "line_index_2": 1161,
+    "ref_2": "Megillah 29b:6",
+    "heRef_2": "מגילה כט:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 1161,
+    "ref_2": "Megillah 29b:6",
+    "heRef_2": "מגילה כט:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 1161,
+    "ref_2": "Megillah 29b:6",
+    "heRef_2": "מגילה כט:, ו",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 651,
+    "line_index_2": 1186,
+    "ref_2": "Megillah 30a:1",
+    "heRef_2": "מגילה ל., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 1380,
+    "ref_2": "Rashi on Megillah 30a:14:2",
+    "heRef_2": "רש\"י על מגילה ל., יד, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 1380,
+    "ref_2": "Rashi on Megillah 30a:14:2",
+    "heRef_2": "רש\"י על מגילה ל., יד, ב",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 656,
+    "line_index_2": 274,
+    "ref_2": "Tosafot on Megillah 30b:9:1",
+    "heRef_2": "תוספות על מגילה ל:, ט, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 658,
+    "line_index_2": 1234,
+    "ref_2": "Megillah 31a:12",
+    "heRef_2": "מגילה לא., יב",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 659,
+    "line_index_2": 277,
+    "ref_2": "Tosafot on Megillah 31a:11:1",
+    "heRef_2": "תוספות על מגילה לא., יא, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 280,
+    "ref_2": "Tosafot on Megillah 31a:18:1",
+    "heRef_2": "תוספות על מגילה לא., יח, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 663,
+    "line_index_2": 282,
+    "ref_2": "Tosafot on Megillah 31b:1:1",
+    "heRef_2": "תוספות על מגילה לא:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 664,
+    "line_index_2": 282,
+    "ref_2": "Tosafot on Megillah 31b:1:1",
+    "heRef_2": "תוספות על מגילה לא:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 282,
+    "ref_2": "Tosafot on Megillah 31b:1:1",
+    "heRef_2": "תוספות על מגילה לא:, א, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 666,
+    "line_index_2": 1246,
+    "ref_2": "Megillah 31b:4",
+    "heRef_2": "מגילה לא:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 667,
+    "line_index_2": 1246,
+    "ref_2": "Megillah 31b:4",
+    "heRef_2": "מגילה לא:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 668,
+    "line_index_2": 1246,
+    "ref_2": "Megillah 31b:4",
+    "heRef_2": "מגילה לא:, ד",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 669,
+    "line_index_2": 1252,
+    "ref_2": "Megillah 31b:10",
+    "heRef_2": "מגילה לא:, י",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 670,
+    "line_index_2": 285,
+    "ref_2": "Tosafot on Megillah 31b:8:1",
+    "heRef_2": "תוספות על מגילה לא:, ח, א",
+    "path_2": "תוספות על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 672,
+    "line_index_2": 1258,
+    "ref_2": "Megillah 32a:1",
+    "heRef_2": "מגילה לב., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 1258,
+    "ref_2": "Megillah 32a:1",
+    "heRef_2": "מגילה לב., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 1258,
+    "ref_2": "Megillah 32a:1",
+    "heRef_2": "מגילה לב., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 675,
+    "line_index_2": 1258,
+    "ref_2": "Megillah 32a:1",
+    "heRef_2": "מגילה לב., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 1455,
+    "ref_2": "Rashi on Megillah 32a:4:1",
+    "heRef_2": "רש\"י על מגילה לב., ד, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 677,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 681,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 682,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 683,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 684,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 685,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 686,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 687,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 1469,
+    "ref_2": "Rashi on Megillah 32a:17:1",
+    "heRef_2": "רש\"י על מגילה לב., יז, א",
+    "path_2": "רש\"י על מגילה.txt",
+    "Conection Type": "source"
+  }
+]

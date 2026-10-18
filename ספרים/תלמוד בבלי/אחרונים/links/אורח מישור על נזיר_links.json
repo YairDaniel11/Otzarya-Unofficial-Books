@@ -1,0 +1,6130 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "ref_2": "Nazir 2a:1",
+    "heRef_2": "נזיר ב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "ref_2": "Nazir 2a:1",
+    "heRef_2": "נזיר ב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 5,
+    "ref_2": "Tosafot on Nazir 2a:2:1",
+    "heRef_2": "תוספות על נזיר ב., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 6,
+    "ref_2": "Tosafot on Nazir 2a:2:2",
+    "heRef_2": "תוספות על נזיר ב., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 7,
+    "ref_2": "Tosafot on Nazir 2a:2:3",
+    "heRef_2": "תוספות על נזיר ב., ב, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 7,
+    "ref_2": "Tosafot on Nazir 2a:2:3",
+    "heRef_2": "תוספות על נזיר ב., ב, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 7,
+    "ref_2": "Tosafot on Nazir 2a:2:3",
+    "heRef_2": "תוספות על נזיר ב., ב, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 8,
+    "ref_2": "Tosafot on Nazir 2a:2:4",
+    "heRef_2": "תוספות על נזיר ב., ב, ד",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 11,
+    "ref_2": "Tosafot on Nazir 2a:13:1",
+    "heRef_2": "תוספות על נזיר ב., יג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 19,
+    "ref_2": "Nazir 2b:2",
+    "heRef_2": "נזיר ב:, ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 26,
+    "ref_2": "Nazir 2b:9",
+    "heRef_2": "נזיר ב:, ט",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 14,
+    "ref_2": "Rashi on Nazir 2b:1:1",
+    "heRef_2": "רש\"י על נזיר ב:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 15,
+    "ref_2": "Rashi on Nazir 2b:2:1",
+    "heRef_2": "רש\"י על נזיר ב:, ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 21,
+    "ref_2": "Rashi on Nazir 2b:5:1",
+    "heRef_2": "רש\"י על נזיר ב:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 20,
+    "ref_2": "Tosafot on Nazir 2b:7:1",
+    "heRef_2": "תוספות על נזיר ב:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 22,
+    "ref_2": "Tosafot on Nazir 2b:9:1",
+    "heRef_2": "תוספות על נזיר ב:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 29,
+    "ref_2": "Nazir 3a:1",
+    "heRef_2": "נזיר ג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 29,
+    "ref_2": "Nazir 3a:1",
+    "heRef_2": "נזיר ג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 31,
+    "ref_2": "Rashi on Nazir 3a:1:1",
+    "heRef_2": "רש\"י על נזיר ג., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 40,
+    "ref_2": "Rashi on Nazir 3a:5:2",
+    "heRef_2": "רש\"י על נזיר ג., ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 44,
+    "ref_2": "Rashi on Nazir 3a:7:3",
+    "heRef_2": "רש\"י על נזיר ג., ז, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 46,
+    "ref_2": "Rashi on Nazir 3a:9:1",
+    "heRef_2": "רש\"י על נזיר ג., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 29,
+    "ref_2": "Tosafot on Nazir 3a:9:1",
+    "heRef_2": "תוספות על נזיר ג., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 30,
+    "ref_2": "Tosafot on Nazir 3a:10:1",
+    "heRef_2": "תוספות על נזיר ג., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 32,
+    "ref_2": "Tosafot on Nazir 3a:11:2",
+    "heRef_2": "תוספות על נזיר ג., יא, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 42,
+    "ref_2": "Nazir 3b:1",
+    "heRef_2": "נזיר ג:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 53,
+    "ref_2": "Rashi on Nazir 3b:2:2",
+    "heRef_2": "רש\"י על נזיר ג:, ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 54,
+    "ref_2": "Rashi on Nazir 3b:3:1",
+    "heRef_2": "רש\"י על נזיר ג:, ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 57,
+    "ref_2": "Rashi on Nazir 3b:4:2",
+    "heRef_2": "רש\"י על נזיר ג:, ד, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 39,
+    "ref_2": "Tosafot on Nazir 3b:5:1",
+    "heRef_2": "תוספות על נזיר ג:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 39,
+    "ref_2": "Tosafot on Nazir 3b:5:1",
+    "heRef_2": "תוספות על נזיר ג:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 41,
+    "ref_2": "Tosafot on Nazir 3b:7:1",
+    "heRef_2": "תוספות על נזיר ג:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 63,
+    "ref_2": "Nazir 4a:8",
+    "heRef_2": "נזיר ד., ח",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 72,
+    "ref_2": "Rashi on Nazir 4a:2:1",
+    "heRef_2": "רש\"י על נזיר ד., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 84,
+    "ref_2": "Rashi on Nazir 4a:15:1",
+    "heRef_2": "רש\"י על נזיר ד., טו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 55,
+    "ref_2": "Tosafot on Nazir 4a:13:2",
+    "heRef_2": "תוספות על נזיר ד., יג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 55,
+    "ref_2": "Tosafot on Nazir 4a:13:2",
+    "heRef_2": "תוספות על נזיר ד., יג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 55,
+    "ref_2": "Tosafot on Nazir 4a:13:2",
+    "heRef_2": "תוספות על נזיר ד., יג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 50,
+    "ref_2": "Tosafot on Nazir 4a:4:1",
+    "heRef_2": "תוספות על נזיר ד., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 52,
+    "ref_2": "Tosafot on Nazir 4a:9:1",
+    "heRef_2": "תוספות על נזיר ד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 103,
+    "ref_2": "Nazir 5a:10",
+    "heRef_2": "נזיר ה., י",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 128,
+    "ref_2": "Rashi on Nazir 5a:14:1",
+    "heRef_2": "רש\"י על נזיר ה., יד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 132,
+    "ref_2": "Rashi on Nazir 5a:19:1",
+    "heRef_2": "רש\"י על נזיר ה., יט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 78,
+    "ref_2": "Tosafot on Nazir 5a:3:1",
+    "heRef_2": "תוספות על נזיר ה., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 79,
+    "ref_2": "Tosafot on Nazir 5a:11:1",
+    "heRef_2": "תוספות על נזיר ה., יא, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 135,
+    "ref_2": "Rashi on Nazir 5b:1:2",
+    "heRef_2": "רש\"י על נזיר ה:, א, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 142,
+    "ref_2": "Rashi on Nazir 5b:6:1",
+    "heRef_2": "רש\"י על נזיר ה:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 138,
+    "ref_2": "Rashi on Nazir 5b:5:1",
+    "heRef_2": "רש\"י על נזיר ה:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 88,
+    "ref_2": "Tosafot on Nazir 5b:2:1",
+    "heRef_2": "תוספות על נזיר ה:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 88,
+    "ref_2": "Tosafot on Nazir 5b:2:1",
+    "heRef_2": "תוספות על נזיר ה:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 88,
+    "ref_2": "Tosafot on Nazir 5b:2:1",
+    "heRef_2": "תוספות על נזיר ה:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 90,
+    "ref_2": "Tosafot on Nazir 5b:5:1",
+    "heRef_2": "תוספות על נזיר ה:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 90,
+    "ref_2": "Tosafot on Nazir 5b:5:1",
+    "heRef_2": "תוספות על נזיר ה:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 91,
+    "ref_2": "Tosafot on Nazir 5b:6:1",
+    "heRef_2": "תוספות על נזיר ה:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 93,
+    "ref_2": "Tosafot on Nazir 5b:8:1",
+    "heRef_2": "תוספות על נזיר ה:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 97,
+    "ref_2": "Tosafot on Nazir 6a:3:1",
+    "heRef_2": "תוספות על נזיר ו., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 131,
+    "ref_2": "Nazir 6b:1",
+    "heRef_2": "נזיר ו:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 158,
+    "ref_2": "Rashi on Nazir 6b:3:1",
+    "heRef_2": "רש\"י על נזיר ו:, ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 104,
+    "ref_2": "Tosafot on Nazir 6b:4:1",
+    "heRef_2": "תוספות על נזיר ו:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 105,
+    "ref_2": "Tosafot on Nazir 6b:6:1",
+    "heRef_2": "תוספות על נזיר ו:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 107,
+    "ref_2": "Tosafot on Nazir 6b:8:1",
+    "heRef_2": "תוספות על נזיר ו:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 143,
+    "ref_2": "Nazir 7a:2",
+    "heRef_2": "נזיר ז., ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 175,
+    "ref_2": "Rashi on Nazir 7a:6:1",
+    "heRef_2": "רש\"י על נזיר ז., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 179,
+    "ref_2": "Rashi on Nazir 7a:8:1",
+    "heRef_2": "רש\"י על נזיר ז., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 179,
+    "ref_2": "Rashi on Nazir 7a:8:1",
+    "heRef_2": "רש\"י על נזיר ז., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 111,
+    "ref_2": "Tosafot on Nazir 7a:1:1",
+    "heRef_2": "תוספות על נזיר ז., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 112,
+    "ref_2": "Tosafot on Nazir 7a:1:2",
+    "heRef_2": "תוספות על נזיר ז., א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 120,
+    "ref_2": "Tosafot on Nazir 7a:13:1",
+    "heRef_2": "תוספות על נזיר ז., יג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 157,
+    "ref_2": "Nazir 7b:1",
+    "heRef_2": "נזיר ז:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 124,
+    "ref_2": "Tosafot on Nazir 7b:2:1",
+    "heRef_2": "תוספות על נזיר ז:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 124,
+    "ref_2": "Tosafot on Nazir 7b:2:1",
+    "heRef_2": "תוספות על נזיר ז:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 124,
+    "ref_2": "Tosafot on Nazir 7b:2:1",
+    "heRef_2": "תוספות על נזיר ז:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 125,
+    "ref_2": "Tosafot on Nazir 7b:3:1",
+    "heRef_2": "תוספות על נזיר ז:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 125,
+    "ref_2": "Tosafot on Nazir 7b:3:1",
+    "heRef_2": "תוספות על נזיר ז:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 207,
+    "ref_2": "Rashi on Nazir 8a:7:2",
+    "heRef_2": "רש\"י על נזיר ח., ז, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 207,
+    "ref_2": "Rashi on Nazir 8a:7:2",
+    "heRef_2": "רש\"י על נזיר ח., ז, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 130,
+    "ref_2": "Tosafot on Nazir 8a:1:1",
+    "heRef_2": "תוספות על נזיר ח., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 135,
+    "ref_2": "Tosafot on Nazir 8a:5:2",
+    "heRef_2": "תוספות על נזיר ח., ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 136,
+    "ref_2": "Tosafot on Nazir 8a:6:1",
+    "heRef_2": "תוספות על נזיר ח., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 137,
+    "ref_2": "Tosafot on Nazir 8a:8:1",
+    "heRef_2": "תוספות על נזיר ח., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 137,
+    "ref_2": "Tosafot on Nazir 8a:8:1",
+    "heRef_2": "תוספות על נזיר ח., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 139,
+    "ref_2": "Tosafot on Nazir 8a:10:1",
+    "heRef_2": "תוספות על נזיר ח., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 176,
+    "ref_2": "Nazir 8b:1",
+    "heRef_2": "נזיר ח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 217,
+    "ref_2": "Rashi on Nazir 8b:3:1",
+    "heRef_2": "רש\"י על נזיר ח:, ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 217,
+    "ref_2": "Rashi on Nazir 8b:3:1",
+    "heRef_2": "רש\"י על נזיר ח:, ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 219,
+    "ref_2": "Rashi on Nazir 8b:4:1",
+    "heRef_2": "רש\"י על נזיר ח:, ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 224,
+    "ref_2": "Rashi on Nazir 8b:7:1",
+    "heRef_2": "רש\"י על נזיר ח:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 142,
+    "ref_2": "Tosafot on Nazir 8b:2:1",
+    "heRef_2": "תוספות על נזיר ח:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 142,
+    "ref_2": "Tosafot on Nazir 8b:2:1",
+    "heRef_2": "תוספות על נזיר ח:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 148,
+    "ref_2": "Tosafot on Nazir 8b:9:1",
+    "heRef_2": "תוספות על נזיר ח:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 148,
+    "ref_2": "Tosafot on Nazir 8b:9:1",
+    "heRef_2": "תוספות על נזיר ח:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 148,
+    "ref_2": "Tosafot on Nazir 8b:9:1",
+    "heRef_2": "תוספות על נזיר ח:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 148,
+    "ref_2": "Tosafot on Nazir 8b:9:1",
+    "heRef_2": "תוספות על נזיר ח:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 148,
+    "ref_2": "Tosafot on Nazir 8b:9:1",
+    "heRef_2": "תוספות על נזיר ח:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 149,
+    "ref_2": "Tosafot on Nazir 8b:10:1",
+    "heRef_2": "תוספות על נזיר ח:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 149,
+    "ref_2": "Tosafot on Nazir 8b:10:1",
+    "heRef_2": "תוספות על נזיר ח:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 149,
+    "ref_2": "Tosafot on Nazir 8b:10:1",
+    "heRef_2": "תוספות על נזיר ח:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 196,
+    "ref_2": "Nazir 9b:1",
+    "heRef_2": "נזיר ט:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 196,
+    "ref_2": "Nazir 9b:1",
+    "heRef_2": "נזיר ט:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 160,
+    "ref_2": "Tosafot on Nazir 9b:1:1",
+    "heRef_2": "תוספות על נזיר ט:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 161,
+    "ref_2": "Tosafot on Nazir 9b:1:2",
+    "heRef_2": "תוספות על נזיר ט:, א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 165,
+    "ref_2": "Tosafot on Nazir 9b:5:1",
+    "heRef_2": "תוספות על נזיר ט:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 165,
+    "ref_2": "Tosafot on Nazir 9b:5:1",
+    "heRef_2": "תוספות על נזיר ט:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 272,
+    "ref_2": "Rashi on Nazir 10a:8:3",
+    "heRef_2": "רש\"י על נזיר י., ח, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 267,
+    "ref_2": "Rashi on Nazir 10a:6:1",
+    "heRef_2": "רש\"י על נזיר י., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 272,
+    "ref_2": "Rashi on Nazir 10a:8:3",
+    "heRef_2": "רש\"י על נזיר י., ח, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 174,
+    "ref_2": "Tosafot on Nazir 10a:5:1",
+    "heRef_2": "תוספות על נזיר י., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 174,
+    "ref_2": "Tosafot on Nazir 10a:5:1",
+    "heRef_2": "תוספות על נזיר י., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 175,
+    "ref_2": "Tosafot on Nazir 10a:8:1",
+    "heRef_2": "תוספות על נזיר י., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 176,
+    "ref_2": "Tosafot on Nazir 10a:8:2",
+    "heRef_2": "תוספות על נזיר י., ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 275,
+    "ref_2": "Rashi on Nazir 10b:1:1",
+    "heRef_2": "רש\"י על נזיר י:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 222,
+    "ref_2": "Nazir 11a:1",
+    "heRef_2": "נזיר יא., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 287,
+    "ref_2": "Rashi on Nazir 11a:5:2",
+    "heRef_2": "רש\"י על נזיר יא., ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 292,
+    "ref_2": "Rashi on Nazir 11a:7:1",
+    "heRef_2": "רש\"י על נזיר יא., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 295,
+    "ref_2": "Rashi on Nazir 11a:8:1",
+    "heRef_2": "רש\"י על נזיר יא., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 186,
+    "ref_2": "Tosafot on Nazir 11a:4:1",
+    "heRef_2": "תוספות על נזיר יא., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 191,
+    "ref_2": "Tosafot on Nazir 11a:7:2",
+    "heRef_2": "תוספות על נזיר יא., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 192,
+    "ref_2": "Tosafot on Nazir 11a:8:1",
+    "heRef_2": "תוספות על נזיר יא., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 232,
+    "ref_2": "Nazir 11b:1",
+    "heRef_2": "נזיר יא:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 298,
+    "ref_2": "Rashi on Nazir 11b:1:1",
+    "heRef_2": "רש\"י על נזיר יא:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 314,
+    "ref_2": "Rashi on Nazir 11b:11:1",
+    "heRef_2": "רש\"י על נזיר יא:, יא, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 198,
+    "ref_2": "Tosafot on Nazir 11b:4:2",
+    "heRef_2": "תוספות על נזיר יא:, ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 199,
+    "ref_2": "Tosafot on Nazir 11b:4:3",
+    "heRef_2": "תוספות על נזיר יא:, ד, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 202,
+    "ref_2": "Tosafot on Nazir 11b:7:1",
+    "heRef_2": "תוספות על נזיר יא:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 203,
+    "ref_2": "Tosafot on Nazir 11b:7:2",
+    "heRef_2": "תוספות על נזיר יא:, ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 204,
+    "ref_2": "Tosafot on Nazir 11b:7:3",
+    "heRef_2": "תוספות על נזיר יא:, ז, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 206,
+    "ref_2": "Tosafot on Nazir 11b:9:1",
+    "heRef_2": "תוספות על נזיר יא:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 245,
+    "ref_2": "Nazir 12a:1",
+    "heRef_2": "נזיר יב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 245,
+    "ref_2": "Nazir 12a:1",
+    "heRef_2": "נזיר יב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 318,
+    "ref_2": "Rashi on Nazir 12a:2:1",
+    "heRef_2": "רש\"י על נזיר יב., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 324,
+    "ref_2": "Rashi on Nazir 12a:7:1",
+    "heRef_2": "רש\"י על נזיר יב., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 212,
+    "ref_2": "Tosafot on Nazir 12a:1:1",
+    "heRef_2": "תוספות על נזיר יב., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 212,
+    "ref_2": "Tosafot on Nazir 12a:1:1",
+    "heRef_2": "תוספות על נזיר יב., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 214,
+    "ref_2": "Tosafot on Nazir 12a:4:1",
+    "heRef_2": "תוספות על נזיר יב., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 216,
+    "ref_2": "Tosafot on Nazir 12a:6:1",
+    "heRef_2": "תוספות על נזיר יב., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 218,
+    "ref_2": "Tosafot on Nazir 12a:7:1",
+    "heRef_2": "תוספות על נזיר יב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 266,
+    "ref_2": "Nazir 13a:1",
+    "heRef_2": "נזיר יג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 354,
+    "ref_2": "Rashi on Nazir 13a:8:1",
+    "heRef_2": "רש\"י על נזיר יג., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 357,
+    "ref_2": "Rashi on Nazir 13a:10:1",
+    "heRef_2": "רש\"י על נזיר יג., י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 240,
+    "ref_2": "Tosafot on Nazir 13a:6:1",
+    "heRef_2": "תוספות על נזיר יג., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 242,
+    "ref_2": "Tosafot on Nazir 13a:9:1",
+    "heRef_2": "תוספות על נזיר יג., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 282,
+    "ref_2": "Nazir 14a:1",
+    "heRef_2": "נזיר יד., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 374,
+    "ref_2": "Rashi on Nazir 14a:1:1",
+    "heRef_2": "רש\"י על נזיר יד., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 380,
+    "ref_2": "Rashi on Nazir 14a:3:4",
+    "heRef_2": "רש\"י על נזיר יד., ג, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 380,
+    "ref_2": "Rashi on Nazir 14a:3:4",
+    "heRef_2": "רש\"י על נזיר יד., ג, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 255,
+    "ref_2": "Tosafot on Nazir 14a:2:2",
+    "heRef_2": "תוספות על נזיר יד., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 255,
+    "ref_2": "Tosafot on Nazir 14a:2:2",
+    "heRef_2": "תוספות על נזיר יד., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 256,
+    "ref_2": "Tosafot on Nazir 14a:3:1",
+    "heRef_2": "תוספות על נזיר יד., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Nazir 14a:3:2",
+    "heRef_2": "תוספות על נזיר יד., ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 257,
+    "ref_2": "Tosafot on Nazir 14a:3:2",
+    "heRef_2": "תוספות על נזיר יד., ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 258,
+    "ref_2": "Tosafot on Nazir 14a:3:3",
+    "heRef_2": "תוספות על נזיר יד., ג, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 301,
+    "ref_2": "Nazir 15a:2",
+    "heRef_2": "נזיר טו., ב",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 404,
+    "ref_2": "Rashi on Nazir 15a:2:2",
+    "heRef_2": "רש\"י על נזיר טו., ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 411,
+    "ref_2": "Rashi on Nazir 15a:5:1",
+    "heRef_2": "רש\"י על נזיר טו., ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 280,
+    "ref_2": "Tosafot on Nazir 15a:3:1",
+    "heRef_2": "תוספות על נזיר טו., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 289,
+    "ref_2": "Tosafot on Nazir 15a:6:2",
+    "heRef_2": "תוספות על נזיר טו., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 289,
+    "ref_2": "Tosafot on Nazir 15a:6:2",
+    "heRef_2": "תוספות על נזיר טו., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 289,
+    "ref_2": "Tosafot on Nazir 15a:6:2",
+    "heRef_2": "תוספות על נזיר טו., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 289,
+    "ref_2": "Tosafot on Nazir 15a:6:2",
+    "heRef_2": "תוספות על נזיר טו., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 289,
+    "ref_2": "Tosafot on Nazir 15a:6:2",
+    "heRef_2": "תוספות על נזיר טו., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 308,
+    "ref_2": "Nazir 15b:1",
+    "heRef_2": "נזיר טו:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 421,
+    "ref_2": "Rashi on Nazir 15b:2:2",
+    "heRef_2": "רש\"י על נזיר טו:, ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 425,
+    "ref_2": "Rashi on Nazir 15b:5:2",
+    "heRef_2": "רש\"י על נזיר טו:, ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 291,
+    "ref_2": "Tosafot on Nazir 15b:1:1",
+    "heRef_2": "תוספות על נזיר טו:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 293,
+    "ref_2": "Tosafot on Nazir 15b:3:1",
+    "heRef_2": "תוספות על נזיר טו:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 298,
+    "ref_2": "Tosafot on Nazir 15b:9:1",
+    "heRef_2": "תוספות על נזיר טו:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 299,
+    "ref_2": "Tosafot on Nazir 15b:10:1",
+    "heRef_2": "תוספות על נזיר טו:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 437,
+    "ref_2": "Rashi on Nazir 16a:2:1",
+    "heRef_2": "רש\"י על נזיר טז., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 306,
+    "ref_2": "Tosafot on Nazir 16a:2:1",
+    "heRef_2": "תוספות על נזיר טז., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 306,
+    "ref_2": "Tosafot on Nazir 16a:2:1",
+    "heRef_2": "תוספות על נזיר טז., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 307,
+    "ref_2": "Tosafot on Nazir 16a:2:2",
+    "heRef_2": "תוספות על נזיר טז., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 323,
+    "ref_2": "Nazir 16a:4",
+    "heRef_2": "נזיר טז., ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 361,
+    "line_index_2": 310,
+    "ref_2": "Tosafot on Nazir 16a:7:1",
+    "heRef_2": "תוספות על נזיר טז., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 316,
+    "ref_2": "Tosafot on Nazir 16a:7:7",
+    "heRef_2": "תוספות על נזיר טז., ז, ז",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 310,
+    "ref_2": "Tosafot on Nazir 16a:7:1",
+    "heRef_2": "תוספות על נזיר טז., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 329,
+    "ref_2": "Nazir 16b:1",
+    "heRef_2": "נזיר טז:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 445,
+    "ref_2": "Rashi on Nazir 16b:1:1",
+    "heRef_2": "רש\"י על נזיר טז:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 323,
+    "ref_2": "Tosafot on Nazir 16b:4:1",
+    "heRef_2": "תוספות על נזיר טז:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 323,
+    "ref_2": "Tosafot on Nazir 16b:4:1",
+    "heRef_2": "תוספות על נזיר טז:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 331,
+    "ref_2": "Tosafot on Nazir 17a:1:1",
+    "heRef_2": "תוספות על נזיר יז., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 332,
+    "ref_2": "Tosafot on Nazir 17a:2:1",
+    "heRef_2": "תוספות על נזיר יז., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 335,
+    "ref_2": "Tosafot on Nazir 17a:4:1",
+    "heRef_2": "תוספות על נזיר יז., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 338,
+    "ref_2": "Tosafot on Nazir 17a:6:2",
+    "heRef_2": "תוספות על נזיר יז., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 339,
+    "ref_2": "Tosafot on Nazir 17a:7:1",
+    "heRef_2": "תוספות על נזיר יז., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 341,
+    "ref_2": "Tosafot on Nazir 17a:9:1",
+    "heRef_2": "תוספות על נזיר יז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 341,
+    "ref_2": "Tosafot on Nazir 17a:9:1",
+    "heRef_2": "תוספות על נזיר יז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 482,
+    "ref_2": "Rashi on Nazir 17b:6:1",
+    "heRef_2": "רש\"י על נזיר יז:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 486,
+    "ref_2": "Rashi on Nazir 17b:7:4",
+    "heRef_2": "רש\"י על נזיר יז:, ז, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 348,
+    "ref_2": "Tosafot on Nazir 17b:4:2",
+    "heRef_2": "תוספות על נזיר יז:, ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 351,
+    "ref_2": "Tosafot on Nazir 17b:7:1",
+    "heRef_2": "תוספות על נזיר יז:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 353,
+    "ref_2": "Tosafot on Nazir 17b:8:1",
+    "heRef_2": "תוספות על נזיר יז:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 355,
+    "ref_2": "Tosafot on Nazir 17b:10:1",
+    "heRef_2": "תוספות על נזיר יז:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 504,
+    "ref_2": "Rashi on Nazir 18a:8:3",
+    "heRef_2": "רש\"י על נזיר יח., ח, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 358,
+    "ref_2": "Tosafot on Nazir 18a:1:2",
+    "heRef_2": "תוספות על נזיר יח., א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 361,
+    "ref_2": "Tosafot on Nazir 18a:3:1",
+    "heRef_2": "תוספות על נזיר יח., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 363,
+    "ref_2": "Tosafot on Nazir 18a:7:2",
+    "heRef_2": "תוספות על נזיר יח., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 367,
+    "ref_2": "Tosafot on Nazir 18a:9:1",
+    "heRef_2": "תוספות על נזיר יח., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 367,
+    "ref_2": "Tosafot on Nazir 18a:9:1",
+    "heRef_2": "תוספות על נזיר יח., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 528,
+    "ref_2": "Rashi on Nazir 19a:3:2",
+    "heRef_2": "רש\"י על נזיר יט., ג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 529,
+    "ref_2": "Rashi on Nazir 19a:4:1",
+    "heRef_2": "רש\"י על נזיר יט., ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 385,
+    "ref_2": "Tosafot on Nazir 19a:1:1",
+    "heRef_2": "תוספות על נזיר יט., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 385,
+    "ref_2": "Tosafot on Nazir 19a:1:1",
+    "heRef_2": "תוספות על נזיר יט., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 386,
+    "ref_2": "Tosafot on Nazir 19a:2:1",
+    "heRef_2": "תוספות על נזיר יט., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 387,
+    "ref_2": "Tosafot on Nazir 19a:3:1",
+    "heRef_2": "תוספות על נזיר יט., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 390,
+    "ref_2": "Tosafot on Nazir 19a:4:3",
+    "heRef_2": "תוספות על נזיר יט., ד, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 392,
+    "ref_2": "Tosafot on Nazir 19a:5:1",
+    "heRef_2": "תוספות על נזיר יט., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 396,
+    "ref_2": "Tosafot on Nazir 19a:8:1",
+    "heRef_2": "תוספות על נזיר יט., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 540,
+    "ref_2": "Rashi on Nazir 19b:1:2",
+    "heRef_2": "רש\"י על נזיר יט:, א, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 544,
+    "ref_2": "Rashi on Nazir 19b:5:2",
+    "heRef_2": "רש\"י על נזיר יט:, ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 546,
+    "ref_2": "Rashi on Nazir 19b:6:1",
+    "heRef_2": "רש\"י על נזיר יט:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 402,
+    "ref_2": "Tosafot on Nazir 19b:4:1",
+    "heRef_2": "תוספות על נזיר יט:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 402,
+    "ref_2": "Tosafot on Nazir 19b:4:1",
+    "heRef_2": "תוספות על נזיר יט:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 402,
+    "ref_2": "Nazir 20a:1",
+    "heRef_2": "נזיר כ., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 555,
+    "ref_2": "Rashi on Nazir 20a:3:1",
+    "heRef_2": "רש\"י על נזיר כ., ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 556,
+    "ref_2": "Rashi on Nazir 20a:6:1",
+    "heRef_2": "רש\"י על נזיר כ., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 560,
+    "ref_2": "Rashi on Nazir 20a:7:2",
+    "heRef_2": "רש\"י על נזיר כ., ז, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 414,
+    "ref_2": "Tosafot on Nazir 20a:5:1",
+    "heRef_2": "תוספות על נזיר כ., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 412,
+    "ref_2": "Tosafot on Nazir 20a:2:1",
+    "heRef_2": "תוספות על נזיר כ., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 416,
+    "ref_2": "Tosafot on Nazir 20a:7:1",
+    "heRef_2": "תוספות על נזיר כ., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 450,
+    "line_index_2": 410,
+    "ref_2": "Nazir 20b:1",
+    "heRef_2": "נזיר כ:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 424,
+    "ref_2": "Tosafot on Nazir 20b:4:2",
+    "heRef_2": "תוספות על נזיר כ:, ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 573,
+    "ref_2": "Rashi on Nazir 21a:2:1",
+    "heRef_2": "רש\"י על נזיר כא., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 575,
+    "ref_2": "Rashi on Nazir 21a:4:1",
+    "heRef_2": "רש\"י על נזיר כא., ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 579,
+    "ref_2": "Rashi on Nazir 21a:9:1",
+    "heRef_2": "רש\"י על נזיר כא., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 432,
+    "ref_2": "Tosafot on Nazir 21a:2:1",
+    "heRef_2": "תוספות על נזיר כא., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 433,
+    "ref_2": "Tosafot on Nazir 21a:3:1",
+    "heRef_2": "תוספות על נזיר כא., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 445,
+    "ref_2": "Tosafot on Nazir 21b:3:1",
+    "heRef_2": "תוספות על נזיר כא:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 452,
+    "ref_2": "Tosafot on Nazir 21b:12:1",
+    "heRef_2": "תוספות על נזיר כא:, יב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 455,
+    "ref_2": "Tosafot on Nazir 22a:3:1",
+    "heRef_2": "תוספות על נזיר כב., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 455,
+    "ref_2": "Tosafot on Nazir 22a:3:1",
+    "heRef_2": "תוספות על נזיר כב., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 450,
+    "ref_2": "Nazir 22b:1",
+    "heRef_2": "נזיר כב:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 612,
+    "ref_2": "Rashi on Nazir 22b:3:1",
+    "heRef_2": "רש\"י על נזיר כב:, ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 485,
+    "line_index_2": 614,
+    "ref_2": "Rashi on Nazir 22b:3:3",
+    "heRef_2": "רש\"י על נזיר כב:, ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 464,
+    "ref_2": "Tosafot on Nazir 22b:9:2",
+    "heRef_2": "תוספות על נזיר כב:, ט, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 466,
+    "ref_2": "Nazir 23a:7",
+    "heRef_2": "נזיר כג., ז",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 466,
+    "ref_2": "Nazir 23a:7",
+    "heRef_2": "נזיר כג., ז",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 466,
+    "ref_2": "Nazir 23a:7",
+    "heRef_2": "נזיר כג., ז",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 466,
+    "ref_2": "Nazir 23a:7",
+    "heRef_2": "נזיר כג., ז",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 630,
+    "ref_2": "Rashi on Nazir 23a:9:1",
+    "heRef_2": "רש\"י על נזיר כג., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 472,
+    "ref_2": "Tosafot on Nazir 23a:13:1",
+    "heRef_2": "תוספות על נזיר כג., יג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 472,
+    "ref_2": "Tosafot on Nazir 23a:13:1",
+    "heRef_2": "תוספות על נזיר כג., יג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 474,
+    "ref_2": "Tosafot on Nazir 23a:14:2",
+    "heRef_2": "תוספות על נזיר כג., יד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 486,
+    "ref_2": "Nazir 23b:6",
+    "heRef_2": "נזיר כג:, ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 514,
+    "line_index_2": 486,
+    "ref_2": "Nazir 23b:6",
+    "heRef_2": "נזיר כג:, ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 645,
+    "ref_2": "Rashi on Nazir 23b:2:2",
+    "heRef_2": "רש\"י על נזיר כג:, ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 653,
+    "ref_2": "Rashi on Nazir 23b:6:2",
+    "heRef_2": "רש\"י על נזיר כג:, ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 653,
+    "ref_2": "Rashi on Nazir 23b:6:2",
+    "heRef_2": "רש\"י על נזיר כג:, ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 654,
+    "ref_2": "Rashi on Nazir 23b:6:3",
+    "heRef_2": "רש\"י על נזיר כג:, ו, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 657,
+    "ref_2": "Rashi on Nazir 23b:9:1",
+    "heRef_2": "רש\"י על נזיר כג:, ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 663,
+    "ref_2": "Rashi on Nazir 23b:12:2",
+    "heRef_2": "רש\"י על נזיר כג:, יב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 484,
+    "ref_2": "Tosafot on Nazir 23b:5:1",
+    "heRef_2": "תוספות על נזיר כג:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 486,
+    "ref_2": "Tosafot on Nazir 23b:6:1",
+    "heRef_2": "תוספות על נזיר כג:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 488,
+    "ref_2": "Tosafot on Nazir 23b:8:1",
+    "heRef_2": "תוספות על נזיר כג:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 526,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 530,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 531,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 490,
+    "ref_2": "Tosafot on Nazir 23b:10:2",
+    "heRef_2": "תוספות על נזיר כג:, י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 495,
+    "ref_2": "Nazir 24a:1",
+    "heRef_2": "נזיר כד., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 494,
+    "ref_2": "Tosafot on Nazir 24a:3:1",
+    "heRef_2": "תוספות על נזיר כד., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 496,
+    "ref_2": "Tosafot on Nazir 24a:3:3",
+    "heRef_2": "תוספות על נזיר כד., ג, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 497,
+    "ref_2": "Tosafot on Nazir 24a:3:4",
+    "heRef_2": "תוספות על נזיר כד., ג, ד",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 499,
+    "ref_2": "Tosafot on Nazir 24a:4:1",
+    "heRef_2": "תוספות על נזיר כד., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 500,
+    "ref_2": "Tosafot on Nazir 24a:4:2",
+    "heRef_2": "תוספות על נזיר כד., ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 540,
+    "line_index_2": 501,
+    "ref_2": "Tosafot on Nazir 24a:4:3",
+    "heRef_2": "תוספות על נזיר כד., ד, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 541,
+    "line_index_2": 502,
+    "ref_2": "Tosafot on Nazir 24a:5:1",
+    "heRef_2": "תוספות על נזיר כד., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 505,
+    "ref_2": "Tosafot on Nazir 24a:6:2",
+    "heRef_2": "תוספות על נזיר כד., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 506,
+    "ref_2": "Tosafot on Nazir 24a:6:3",
+    "heRef_2": "תוספות על נזיר כד., ו, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 507,
+    "ref_2": "Tosafot on Nazir 24a:6:4",
+    "heRef_2": "תוספות על נזיר כד., ו, ד",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 509,
+    "ref_2": "Tosafot on Nazir 24a:9:1",
+    "heRef_2": "תוספות על נזיר כד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 510,
+    "ref_2": "Tosafot on Nazir 24a:10:1",
+    "heRef_2": "תוספות על נזיר כד., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 510,
+    "ref_2": "Tosafot on Nazir 24a:10:1",
+    "heRef_2": "תוספות על נזיר כד., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 683,
+    "ref_2": "Rashi on Nazir 24b:5:1",
+    "heRef_2": "רש\"י על נזיר כד:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 686,
+    "ref_2": "Rashi on Nazir 24b:7:1",
+    "heRef_2": "רש\"י על נזיר כד:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 689,
+    "ref_2": "Rashi on Nazir 24b:9:2",
+    "heRef_2": "רש\"י על נזיר כד:, ט, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 690,
+    "ref_2": "Rashi on Nazir 24b:9:3",
+    "heRef_2": "רש\"י על נזיר כד:, ט, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 513,
+    "ref_2": "Tosafot on Nazir 24b:2:2",
+    "heRef_2": "תוספות על נזיר כד:, ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 515,
+    "ref_2": "Tosafot on Nazir 24b:3:1",
+    "heRef_2": "תוספות על נזיר כד:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 516,
+    "ref_2": "Tosafot on Nazir 24b:3:2",
+    "heRef_2": "תוספות על נזיר כד:, ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 517,
+    "ref_2": "Tosafot on Nazir 24b:4:1",
+    "heRef_2": "תוספות על נזיר כד:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 519,
+    "ref_2": "Tosafot on Nazir 24b:6:1",
+    "heRef_2": "תוספות על נזיר כד:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 524,
+    "ref_2": "Tosafot on Nazir 24b:9:1",
+    "heRef_2": "תוספות על נזיר כד:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 566,
+    "line_index_2": 519,
+    "ref_2": "Nazir 25a:1",
+    "heRef_2": "נזיר כה., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 567,
+    "line_index_2": 703,
+    "ref_2": "Rashi on Nazir 25a:7:1",
+    "heRef_2": "רש\"י על נזיר כה., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 531,
+    "ref_2": "Tosafot on Nazir 25a:1:2",
+    "heRef_2": "תוספות על נזיר כה., א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 532,
+    "ref_2": "Tosafot on Nazir 25a:2:1",
+    "heRef_2": "תוספות על נזיר כה., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 533,
+    "ref_2": "Tosafot on Nazir 25a:3:1",
+    "heRef_2": "תוספות על נזיר כה., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 534,
+    "ref_2": "Tosafot on Nazir 25a:3:2",
+    "heRef_2": "תוספות על נזיר כה., ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 537,
+    "ref_2": "Tosafot on Nazir 25a:5:1",
+    "heRef_2": "תוספות על נזיר כה., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 539,
+    "ref_2": "Tosafot on Nazir 25a:7:1",
+    "heRef_2": "תוספות על נזיר כה., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 539,
+    "ref_2": "Tosafot on Nazir 25a:7:1",
+    "heRef_2": "תוספות על נזיר כה., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 538,
+    "ref_2": "Tosafot on Nazir 25a:6:1",
+    "heRef_2": "תוספות על נזיר כה., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 538,
+    "ref_2": "Tosafot on Nazir 25a:6:1",
+    "heRef_2": "תוספות על נזיר כה., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 538,
+    "ref_2": "Tosafot on Nazir 25a:6:1",
+    "heRef_2": "תוספות על נזיר כה., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 720,
+    "ref_2": "Rashi on Nazir 26a:1:1",
+    "heRef_2": "רש\"י על נזיר כו., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 721,
+    "ref_2": "Rashi on Nazir 26a:1:2",
+    "heRef_2": "רש\"י על נזיר כו., א, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 723,
+    "ref_2": "Rashi on Nazir 26a:2:2",
+    "heRef_2": "רש\"י על נזיר כו., ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 598,
+    "line_index_2": 727,
+    "ref_2": "Rashi on Nazir 26a:6:2",
+    "heRef_2": "רש\"י על נזיר כו., ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 601,
+    "line_index_2": 553,
+    "ref_2": "Tosafot on Nazir 26a:4:1",
+    "heRef_2": "תוספות על נזיר כו., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 604,
+    "line_index_2": 554,
+    "ref_2": "Tosafot on Nazir 26a:6:1",
+    "heRef_2": "תוספות על נזיר כו., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 543,
+    "ref_2": "Nazir 26b:1",
+    "heRef_2": "נזיר כו:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 732,
+    "ref_2": "Rashi on Nazir 26b:2:1",
+    "heRef_2": "רש\"י על נזיר כו:, ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 734,
+    "ref_2": "Rashi on Nazir 26b:2:3",
+    "heRef_2": "רש\"י על נזיר כו:, ב, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 740,
+    "ref_2": "Rashi on Nazir 26b:5:2",
+    "heRef_2": "רש\"י על נזיר כו:, ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 558,
+    "ref_2": "Tosafot on Nazir 26b:2:1",
+    "heRef_2": "תוספות על נזיר כו:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 561,
+    "ref_2": "Tosafot on Nazir 26b:3:1",
+    "heRef_2": "תוספות על נזיר כו:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 614,
+    "line_index_2": 563,
+    "ref_2": "Tosafot on Nazir 26b:5:2",
+    "heRef_2": "תוספות על נזיר כו:, ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 617,
+    "line_index_2": 567,
+    "ref_2": "Tosafot on Nazir 27a:1:2",
+    "heRef_2": "תוספות על נזיר כז., א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 555,
+    "ref_2": "Nazir 27b:1",
+    "heRef_2": "נזיר כז:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 621,
+    "line_index_2": 758,
+    "ref_2": "Rashi on Nazir 27b:6:3",
+    "heRef_2": "רש\"י על נזיר כז:, ו, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 626,
+    "line_index_2": 569,
+    "ref_2": "Tosafot on Nazir 27b:2:1",
+    "heRef_2": "תוספות על נזיר כז:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 570,
+    "ref_2": "Tosafot on Nazir 27b:3:1",
+    "heRef_2": "תוספות על נזיר כז:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 571,
+    "ref_2": "Tosafot on Nazir 27b:4:1",
+    "heRef_2": "תוספות על נזיר כז:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 572,
+    "ref_2": "Tosafot on Nazir 27b:4:2",
+    "heRef_2": "תוספות על נזיר כז:, ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 572,
+    "ref_2": "Tosafot on Nazir 27b:4:2",
+    "heRef_2": "תוספות על נזיר כז:, ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 634,
+    "line_index_2": 564,
+    "ref_2": "Nazir 28a:1",
+    "heRef_2": "נזיר כח., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 766,
+    "ref_2": "Rashi on Nazir 28a:2:2",
+    "heRef_2": "רש\"י על נזיר כח., ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 581,
+    "ref_2": "Tosafot on Nazir 28a:7:1",
+    "heRef_2": "תוספות על נזיר כח., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 584,
+    "ref_2": "Tosafot on Nazir 28a:10:1",
+    "heRef_2": "תוספות על נזיר כח., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 654,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 656,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 657,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 658,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 659,
+    "line_index_2": 589,
+    "ref_2": "Nazir 29a:1",
+    "heRef_2": "נזיר כט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 660,
+    "line_index_2": 602,
+    "ref_2": "Nazir 29a:14",
+    "heRef_2": "נזיר כט., יד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 602,
+    "ref_2": "Nazir 29a:14",
+    "heRef_2": "נזיר כט., יד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 612,
+    "ref_2": "Tosafot on Nazir 29a:15:2",
+    "heRef_2": "תוספות על נזיר כט., טו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 666,
+    "line_index_2": 613,
+    "ref_2": "Tosafot on Nazir 29a:15:3",
+    "heRef_2": "תוספות על נזיר כט., טו, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 667,
+    "line_index_2": 613,
+    "ref_2": "Tosafot on Nazir 29a:15:3",
+    "heRef_2": "תוספות על נזיר כט., טו, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 668,
+    "line_index_2": 614,
+    "ref_2": "Tosafot on Nazir 29a:16:1",
+    "heRef_2": "תוספות על נזיר כט., טז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 670,
+    "line_index_2": 606,
+    "ref_2": "Nazir 29b:1",
+    "heRef_2": "נזיר כט:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 617,
+    "ref_2": "Tosafot on Nazir 29b:2:1",
+    "heRef_2": "תוספות על נזיר כט:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 619,
+    "ref_2": "Tosafot on Nazir 29b:4:1",
+    "heRef_2": "תוספות על נזיר כט:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 685,
+    "line_index_2": 835,
+    "ref_2": "Rashi on Nazir 30a:2:3",
+    "heRef_2": "רש\"י על נזיר ל., ב, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 628,
+    "ref_2": "Tosafot on Nazir 30a:1:1",
+    "heRef_2": "תוספות על נזיר ל., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 689,
+    "line_index_2": 628,
+    "ref_2": "Tosafot on Nazir 30a:1:1",
+    "heRef_2": "תוספות על נזיר ל., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 690,
+    "line_index_2": 630,
+    "ref_2": "Tosafot on Nazir 30a:3:1",
+    "heRef_2": "תוספות על נזיר ל., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 691,
+    "line_index_2": 631,
+    "ref_2": "Tosafot on Nazir 30a:4:1",
+    "heRef_2": "תוספות על נזיר ל., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 692,
+    "line_index_2": 631,
+    "ref_2": "Tosafot on Nazir 30a:4:1",
+    "heRef_2": "תוספות על נזיר ל., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 696,
+    "line_index_2": 848,
+    "ref_2": "Rashi on Nazir 30b:2:2",
+    "heRef_2": "רש\"י על נזיר ל:, ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 850,
+    "ref_2": "Rashi on Nazir 30b:5:1",
+    "heRef_2": "רש\"י על נזיר ל:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 700,
+    "line_index_2": 638,
+    "ref_2": "Tosafot on Nazir 30b:5:1",
+    "heRef_2": "תוספות על נזיר ל:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 701,
+    "line_index_2": 641,
+    "ref_2": "Tosafot on Nazir 30b:6:1",
+    "heRef_2": "תוספות על נזיר ל:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 702,
+    "line_index_2": 642,
+    "ref_2": "Tosafot on Nazir 30b:7:1",
+    "heRef_2": "תוספות על נזיר ל:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 706,
+    "line_index_2": 639,
+    "ref_2": "Nazir 31a:1",
+    "heRef_2": "נזיר לא., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 709,
+    "line_index_2": 866,
+    "ref_2": "Rashi on Nazir 31a:6:2",
+    "heRef_2": "רש\"י על נזיר לא., ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 711,
+    "line_index_2": 865,
+    "ref_2": "Rashi on Nazir 31a:6:1",
+    "heRef_2": "רש\"י על נזיר לא., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 879,
+    "ref_2": "Rashi on Nazir 31b:1:2",
+    "heRef_2": "רש\"י על נזיר לא:, א, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 721,
+    "line_index_2": 887,
+    "ref_2": "Rashi on Nazir 31b:5:3",
+    "heRef_2": "רש\"י על נזיר לא:, ה, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 722,
+    "line_index_2": 889,
+    "ref_2": "Rashi on Nazir 31b:6:2",
+    "heRef_2": "רש\"י על נזיר לא:, ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 724,
+    "line_index_2": 891,
+    "ref_2": "Rashi on Nazir 31b:7:2",
+    "heRef_2": "רש\"י על נזיר לא:, ז, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 725,
+    "line_index_2": 895,
+    "ref_2": "Rashi on Nazir 31b:9:3",
+    "heRef_2": "רש\"י על נזיר לא:, ט, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 731,
+    "line_index_2": 903,
+    "ref_2": "Rashi on Nazir 32a:3:2",
+    "heRef_2": "רש\"י על נזיר לב., ג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 903,
+    "ref_2": "Rashi on Nazir 32a:3:2",
+    "heRef_2": "רש\"י על נזיר לב., ג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 907,
+    "ref_2": "Rashi on Nazir 32a:5:2",
+    "heRef_2": "רש\"י על נזיר לב., ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 734,
+    "line_index_2": 910,
+    "ref_2": "Rashi on Nazir 32a:9:1",
+    "heRef_2": "רש\"י על נזיר לב., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 911,
+    "ref_2": "Rashi on Nazir 32a:10:1",
+    "heRef_2": "רש\"י על נזיר לב., י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 914,
+    "ref_2": "Rashi on Nazir 32a:12:1",
+    "heRef_2": "רש\"י על נזיר לב., יב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 915,
+    "ref_2": "Rashi on Nazir 32a:13:1",
+    "heRef_2": "רש\"י על נזיר לב., יג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 738,
+    "line_index_2": 916,
+    "ref_2": "Rashi on Nazir 32a:13:2",
+    "heRef_2": "רש\"י על נזיר לב., יג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 740,
+    "line_index_2": 686,
+    "ref_2": "Tosafot on Nazir 32a:14:1",
+    "heRef_2": "תוספות על נזיר לב., יד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 743,
+    "line_index_2": 679,
+    "ref_2": "Nazir 32b:1",
+    "heRef_2": "נזיר לב:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 745,
+    "line_index_2": 688,
+    "ref_2": "Tosafot on Nazir 32b:1:1",
+    "heRef_2": "תוספות על נזיר לב:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 746,
+    "line_index_2": 689,
+    "ref_2": "Tosafot on Nazir 32b:1:2",
+    "heRef_2": "תוספות על נזיר לב:, א, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 748,
+    "line_index_2": 697,
+    "ref_2": "Tosafot on Nazir 32b:9:1",
+    "heRef_2": "תוספות על נזיר לב:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 690,
+    "ref_2": "Nazir 33a:1",
+    "heRef_2": "נזיר לג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 779,
+    "line_index_2": 947,
+    "ref_2": "Rashi on Nazir 34a:7:1",
+    "heRef_2": "רש\"י על נזיר לד., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 783,
+    "line_index_2": 704,
+    "ref_2": "Tosafot on Nazir 34a:2:1",
+    "heRef_2": "תוספות על נזיר לד., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 704,
+    "ref_2": "Tosafot on Nazir 34a:2:1",
+    "heRef_2": "תוספות על נזיר לד., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 785,
+    "line_index_2": 707,
+    "ref_2": "Tosafot on Nazir 34a:6:1",
+    "heRef_2": "תוספות על נזיר לד., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 708,
+    "ref_2": "Tosafot on Nazir 34a:6:2",
+    "heRef_2": "תוספות על נזיר לד., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 951,
+    "ref_2": "Rashi on Nazir 34a:10:2",
+    "heRef_2": "רש\"י על נזיר לד., י, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 802,
+    "line_index_2": 718,
+    "ref_2": "Nazir 35a:1",
+    "heRef_2": "נזיר לה., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 728,
+    "ref_2": "Tosafot on Nazir 35a:1:1",
+    "heRef_2": "תוספות על נזיר לה., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 731,
+    "ref_2": "Tosafot on Nazir 35a:4:1",
+    "heRef_2": "תוספות על נזיר לה., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 734,
+    "ref_2": "Tosafot on Nazir 35a:8:1",
+    "heRef_2": "תוספות על נזיר לה., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 809,
+    "line_index_2": 728,
+    "ref_2": "Nazir 35b:1",
+    "heRef_2": "נזיר לה:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 810,
+    "line_index_2": 989,
+    "ref_2": "Rashi on Nazir 35b:9:1",
+    "heRef_2": "רש\"י על נזיר לה:, ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 811,
+    "line_index_2": 990,
+    "ref_2": "Rashi on Nazir 35b:10:1",
+    "heRef_2": "רש\"י על נזיר לה:, י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 812,
+    "line_index_2": 990,
+    "ref_2": "Rashi on Nazir 35b:10:1",
+    "heRef_2": "רש\"י על נזיר לה:, י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 738,
+    "ref_2": "Tosafot on Nazir 35b:3:1",
+    "heRef_2": "תוספות על נזיר לה:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 815,
+    "line_index_2": 739,
+    "ref_2": "Tosafot on Nazir 35b:5:1",
+    "heRef_2": "תוספות על נזיר לה:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 816,
+    "line_index_2": 740,
+    "ref_2": "Tosafot on Nazir 35b:6:1",
+    "heRef_2": "תוספות על נזיר לה:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 741,
+    "ref_2": "Nazir 36a:1",
+    "heRef_2": "נזיר לו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 821,
+    "line_index_2": 999,
+    "ref_2": "Rashi on Nazir 36a:3:3",
+    "heRef_2": "רש\"י על נזיר לו., ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 823,
+    "line_index_2": 747,
+    "ref_2": "Tosafot on Nazir 36a:1:1",
+    "heRef_2": "תוספות על נזיר לו., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 826,
+    "line_index_2": 752,
+    "ref_2": "Tosafot on Nazir 36a:3:2",
+    "heRef_2": "תוספות על נזיר לו., ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 827,
+    "line_index_2": 753,
+    "ref_2": "Tosafot on Nazir 36a:4:1",
+    "heRef_2": "תוספות על נזיר לו., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 832,
+    "line_index_2": 747,
+    "ref_2": "Nazir 36b:1",
+    "heRef_2": "נזיר לו:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 1007,
+    "ref_2": "Rashi on Nazir 36b:3:2",
+    "heRef_2": "רש\"י על נזיר לו:, ג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 835,
+    "line_index_2": 1011,
+    "ref_2": "Rashi on Nazir 36b:6:1",
+    "heRef_2": "רש\"י על נזיר לו:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 837,
+    "line_index_2": 760,
+    "ref_2": "Tosafot on Nazir 36b:2:1",
+    "heRef_2": "תוספות על נזיר לו:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 838,
+    "line_index_2": 761,
+    "ref_2": "Tosafot on Nazir 36b:2:2",
+    "heRef_2": "תוספות על נזיר לו:, ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 840,
+    "line_index_2": 763,
+    "ref_2": "Tosafot on Nazir 36b:3:2",
+    "heRef_2": "תוספות על נזיר לו:, ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 841,
+    "line_index_2": 764,
+    "ref_2": "Tosafot on Nazir 36b:4:1",
+    "heRef_2": "תוספות על נזיר לו:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 842,
+    "line_index_2": 765,
+    "ref_2": "Tosafot on Nazir 36b:6:1",
+    "heRef_2": "תוספות על נזיר לו:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 843,
+    "line_index_2": 766,
+    "ref_2": "Tosafot on Nazir 36b:7:1",
+    "heRef_2": "תוספות על נזיר לו:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 845,
+    "line_index_2": 756,
+    "ref_2": "Nazir 37a:1",
+    "heRef_2": "נזיר לז., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 847,
+    "line_index_2": 770,
+    "ref_2": "Tosafot on Nazir 37a:6:1",
+    "heRef_2": "תוספות על נזיר לז., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 848,
+    "line_index_2": 771,
+    "ref_2": "Tosafot on Nazir 37a:7:1",
+    "heRef_2": "תוספות על נזיר לז., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 849,
+    "line_index_2": 773,
+    "ref_2": "Tosafot on Nazir 37a:9:1",
+    "heRef_2": "תוספות על נזיר לז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 850,
+    "line_index_2": 774,
+    "ref_2": "Tosafot on Nazir 37a:9:2",
+    "heRef_2": "תוספות על נזיר לז., ט, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 852,
+    "line_index_2": 778,
+    "ref_2": "Tosafot on Nazir 37a:12:1",
+    "heRef_2": "תוספות על נזיר לז., יב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 854,
+    "line_index_2": 1040,
+    "ref_2": "Rashi on Nazir 37b:7:1",
+    "heRef_2": "רש\"י על נזיר לז:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 855,
+    "line_index_2": 1042,
+    "ref_2": "Rashi on Nazir 37b:9:2",
+    "heRef_2": "רש\"י על נזיר לז:, ט, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 858,
+    "line_index_2": 780,
+    "ref_2": "Tosafot on Nazir 37b:1:1",
+    "heRef_2": "תוספות על נזיר לז:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 862,
+    "line_index_2": 788,
+    "ref_2": "Tosafot on Nazir 37b:17:1",
+    "heRef_2": "תוספות על נזיר לז:, יז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 788,
+    "ref_2": "Tosafot on Nazir 37b:17:1",
+    "heRef_2": "תוספות על נזיר לז:, יז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 865,
+    "line_index_2": 792,
+    "ref_2": "Nazir 38a:1",
+    "heRef_2": "נזיר לח., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 866,
+    "line_index_2": 1048,
+    "ref_2": "Rashi on Nazir 38a:2:1",
+    "heRef_2": "רש\"י על נזיר לח., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 867,
+    "line_index_2": 1058,
+    "ref_2": "Rashi on Nazir 38a:6:1",
+    "heRef_2": "רש\"י על נזיר לח., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 869,
+    "line_index_2": 1066,
+    "ref_2": "Rashi on Nazir 38a:10:1",
+    "heRef_2": "רש\"י על נזיר לח., י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 870,
+    "line_index_2": 1069,
+    "ref_2": "Rashi on Nazir 38a:11:3",
+    "heRef_2": "רש\"י על נזיר לח., יא, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 871,
+    "line_index_2": 791,
+    "ref_2": "Tosafot on Nazir 38a:1:1",
+    "heRef_2": "תוספות על נזיר לח., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 873,
+    "line_index_2": 795,
+    "ref_2": "Tosafot on Nazir 38a:6:1",
+    "heRef_2": "תוספות על נזיר לח., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 874,
+    "line_index_2": 797,
+    "ref_2": "Tosafot on Nazir 38a:7:2",
+    "heRef_2": "תוספות על נזיר לח., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 801,
+    "ref_2": "Tosafot on Nazir 38a:11:3",
+    "heRef_2": "תוספות על נזיר לח., יא, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 877,
+    "line_index_2": 804,
+    "ref_2": "Nazir 38b:1",
+    "heRef_2": "נזיר לח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 878,
+    "line_index_2": 1073,
+    "ref_2": "Rashi on Nazir 38b:1:1",
+    "heRef_2": "רש\"י על נזיר לח:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 879,
+    "line_index_2": 1073,
+    "ref_2": "Rashi on Nazir 38b:1:1",
+    "heRef_2": "רש\"י על נזיר לח:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 880,
+    "line_index_2": 1073,
+    "ref_2": "Rashi on Nazir 38b:1:1",
+    "heRef_2": "רש\"י על נזיר לח:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 883,
+    "line_index_2": 1081,
+    "ref_2": "Rashi on Nazir 38b:4:4",
+    "heRef_2": "רש\"י על נזיר לח:, ד, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 884,
+    "line_index_2": 803,
+    "ref_2": "Tosafot on Nazir 38b:1:1",
+    "heRef_2": "תוספות על נזיר לח:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 808,
+    "ref_2": "Tosafot on Nazir 38b:5:1",
+    "heRef_2": "תוספות על נזיר לח:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 886,
+    "line_index_2": 810,
+    "ref_2": "Tosafot on Nazir 38b:5:3",
+    "heRef_2": "תוספות על נזיר לח:, ה, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 888,
+    "line_index_2": 813,
+    "ref_2": "Tosafot on Nazir 38b:8:1",
+    "heRef_2": "תוספות על נזיר לח:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 891,
+    "line_index_2": 1090,
+    "ref_2": "Rashi on Nazir 39a:2:2",
+    "heRef_2": "רש\"י על נזיר לט., ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 892,
+    "line_index_2": 1111,
+    "ref_2": "Rashi on Nazir 39a:9:1",
+    "heRef_2": "רש\"י על נזיר לט., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 893,
+    "line_index_2": 816,
+    "ref_2": "Tosafot on Nazir 39a:1:1",
+    "heRef_2": "תוספות על נזיר לט., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 816,
+    "ref_2": "Tosafot on Nazir 39a:1:1",
+    "heRef_2": "תוספות על נזיר לט., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 895,
+    "line_index_2": 819,
+    "ref_2": "Tosafot on Nazir 39a:3:1",
+    "heRef_2": "תוספות על נזיר לט., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 896,
+    "line_index_2": 820,
+    "ref_2": "Tosafot on Nazir 39a:3:2",
+    "heRef_2": "תוספות על נזיר לט., ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 897,
+    "line_index_2": 818,
+    "ref_2": "Tosafot on Nazir 39a:2:1",
+    "heRef_2": "תוספות על נזיר לט., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 821,
+    "ref_2": "Tosafot on Nazir 39a:4:1",
+    "heRef_2": "תוספות על נזיר לט., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 902,
+    "line_index_2": 823,
+    "ref_2": "Nazir 39b:1",
+    "heRef_2": "נזיר לט:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 903,
+    "line_index_2": 1114,
+    "ref_2": "Rashi on Nazir 39b:2:1",
+    "heRef_2": "רש\"י על נזיר לט:, ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 904,
+    "line_index_2": 1115,
+    "ref_2": "Rashi on Nazir 39b:2:2",
+    "heRef_2": "רש\"י על נזיר לט:, ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 906,
+    "line_index_2": 1121,
+    "ref_2": "Rashi on Nazir 39b:6:2",
+    "heRef_2": "רש\"י על נזיר לט:, ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 909,
+    "line_index_2": 831,
+    "ref_2": "Tosafot on Nazir 39b:1:1",
+    "heRef_2": "תוספות על נזיר לט:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 912,
+    "line_index_2": 838,
+    "ref_2": "Tosafot on Nazir 39b:6:1",
+    "heRef_2": "תוספות על נזיר לט:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 915,
+    "line_index_2": 832,
+    "ref_2": "Nazir 40a:1",
+    "heRef_2": "נזיר מ., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 916,
+    "line_index_2": 1130,
+    "ref_2": "Rashi on Nazir 40a:2:1",
+    "heRef_2": "רש\"י על נזיר מ., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 917,
+    "line_index_2": 1132,
+    "ref_2": "Rashi on Nazir 40a:4:1",
+    "heRef_2": "רש\"י על נזיר מ., ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 918,
+    "line_index_2": 1135,
+    "ref_2": "Rashi on Nazir 40a:5:3",
+    "heRef_2": "רש\"י על נזיר מ., ה, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 919,
+    "line_index_2": 1138,
+    "ref_2": "Rashi on Nazir 40a:7:1",
+    "heRef_2": "רש\"י על נזיר מ., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 920,
+    "line_index_2": 1140,
+    "ref_2": "Rashi on Nazir 40a:8:1",
+    "heRef_2": "רש\"י על נזיר מ., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 921,
+    "line_index_2": 1141,
+    "ref_2": "Rashi on Nazir 40a:9:1",
+    "heRef_2": "רש\"י על נזיר מ., ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 922,
+    "line_index_2": 845,
+    "ref_2": "Tosafot on Nazir 40a:2:1",
+    "heRef_2": "תוספות על נזיר מ., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 924,
+    "line_index_2": 850,
+    "ref_2": "Tosafot on Nazir 40a:7:1",
+    "heRef_2": "תוספות על נזיר מ., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 926,
+    "line_index_2": 853,
+    "ref_2": "Tosafot on Nazir 40a:7:4",
+    "heRef_2": "תוספות על נזיר מ., ז, ד",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 927,
+    "line_index_2": 854,
+    "ref_2": "Tosafot on Nazir 40a:8:1",
+    "heRef_2": "תוספות על נזיר מ., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 928,
+    "line_index_2": 856,
+    "ref_2": "Tosafot on Nazir 40a:9:2",
+    "heRef_2": "תוספות על נזיר מ., ט, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 930,
+    "line_index_2": 858,
+    "ref_2": "Tosafot on Nazir 40a:10:1",
+    "heRef_2": "תוספות על נזיר מ., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 931,
+    "line_index_2": 859,
+    "ref_2": "Tosafot on Nazir 40a:11:1",
+    "heRef_2": "תוספות על נזיר מ., יא, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 933,
+    "line_index_2": 848,
+    "ref_2": "Nazir 40b:1",
+    "heRef_2": "נזיר מ:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 935,
+    "line_index_2": 1152,
+    "ref_2": "Rashi on Nazir 40b:3:3",
+    "heRef_2": "רש\"י על נזיר מ:, ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 936,
+    "line_index_2": 1157,
+    "ref_2": "Rashi on Nazir 40b:5:2",
+    "heRef_2": "רש\"י על נזיר מ:, ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 864,
+    "ref_2": "Tosafot on Nazir 40b:4:1",
+    "heRef_2": "תוספות על נזיר מ:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 939,
+    "line_index_2": 866,
+    "ref_2": "Tosafot on Nazir 40b:5:2",
+    "heRef_2": "תוספות על נזיר מ:, ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 940,
+    "line_index_2": 868,
+    "ref_2": "Tosafot on Nazir 40b:6:1",
+    "heRef_2": "תוספות על נזיר מ:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 943,
+    "line_index_2": 869,
+    "ref_2": "Tosafot on Nazir 40b:8:1",
+    "heRef_2": "תוספות על נזיר מ:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 944,
+    "line_index_2": 871,
+    "ref_2": "Tosafot on Nazir 40b:8:3",
+    "heRef_2": "תוספות על נזיר מ:, ח, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 946,
+    "line_index_2": 1164,
+    "ref_2": "Rashi on Nazir 41a:1:1",
+    "heRef_2": "רש\"י על נזיר מא., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 947,
+    "line_index_2": 1167,
+    "ref_2": "Rashi on Nazir 41a:3:3",
+    "heRef_2": "רש\"י על נזיר מא., ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 949,
+    "line_index_2": 873,
+    "ref_2": "Tosafot on Nazir 41a:1:1",
+    "heRef_2": "תוספות על נזיר מא., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 955,
+    "line_index_2": 1173,
+    "ref_2": "Rashi on Nazir 41b:1:1",
+    "heRef_2": "רש\"י על נזיר מא:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 959,
+    "line_index_2": 884,
+    "ref_2": "Tosafot on Nazir 41b:2:1",
+    "heRef_2": "תוספות על נזיר מא:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 869,
+    "ref_2": "Nazir 42a:1",
+    "heRef_2": "נזיר מב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 963,
+    "line_index_2": 869,
+    "ref_2": "Nazir 42a:1",
+    "heRef_2": "נזיר מב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 964,
+    "line_index_2": 1181,
+    "ref_2": "Rashi on Nazir 42a:4:3",
+    "heRef_2": "רש\"י על נזיר מב., ד, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 968,
+    "line_index_2": 890,
+    "ref_2": "Tosafot on Nazir 42a:4:2",
+    "heRef_2": "תוספות על נזיר מב., ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 969,
+    "line_index_2": 891,
+    "ref_2": "Tosafot on Nazir 42a:4:3",
+    "heRef_2": "תוספות על נזיר מב., ד, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 970,
+    "line_index_2": 892,
+    "ref_2": "Tosafot on Nazir 42a:5:1",
+    "heRef_2": "תוספות על נזיר מב., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 971,
+    "line_index_2": 893,
+    "ref_2": "Tosafot on Nazir 42a:6:1",
+    "heRef_2": "תוספות על נזיר מב., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 973,
+    "line_index_2": 898,
+    "ref_2": "Tosafot on Nazir 42a:8:2",
+    "heRef_2": "תוספות על נזיר מב., ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 975,
+    "line_index_2": 1194,
+    "ref_2": "Rashi on Nazir 42b:1:1",
+    "heRef_2": "רש\"י על נזיר מב:, א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 976,
+    "line_index_2": 1202,
+    "ref_2": "Rashi on Nazir 42b:6:1",
+    "heRef_2": "רש\"י על נזיר מב:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 977,
+    "line_index_2": 1206,
+    "ref_2": "Rashi on Nazir 42b:7:1",
+    "heRef_2": "רש\"י על נזיר מב:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 978,
+    "line_index_2": 1207,
+    "ref_2": "Rashi on Nazir 42b:9:1",
+    "heRef_2": "רש\"י על נזיר מב:, ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 979,
+    "line_index_2": 904,
+    "ref_2": "Tosafot on Nazir 42b:1:1",
+    "heRef_2": "תוספות על נזיר מב:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 981,
+    "line_index_2": 906,
+    "ref_2": "Tosafot on Nazir 42b:3:1",
+    "heRef_2": "תוספות על נזיר מב:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 983,
+    "line_index_2": 911,
+    "ref_2": "Tosafot on Nazir 42b:7:1",
+    "heRef_2": "תוספות על נזיר מב:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 986,
+    "line_index_2": 895,
+    "ref_2": "Nazir 43a:1",
+    "heRef_2": "נזיר מג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 987,
+    "line_index_2": 1214,
+    "ref_2": "Rashi on Nazir 43a:2:4",
+    "heRef_2": "רש\"י על נזיר מג., ב, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 988,
+    "line_index_2": 1220,
+    "ref_2": "Rashi on Nazir 43a:6:1",
+    "heRef_2": "רש\"י על נזיר מג., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 989,
+    "line_index_2": 916,
+    "ref_2": "Tosafot on Nazir 43a:1:1",
+    "heRef_2": "תוספות על נזיר מג., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 991,
+    "line_index_2": 920,
+    "ref_2": "Tosafot on Nazir 43a:3:1",
+    "heRef_2": "תוספות על נזיר מג., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 993,
+    "line_index_2": 923,
+    "ref_2": "Tosafot on Nazir 43a:4:2",
+    "heRef_2": "תוספות על נזיר מג., ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 994,
+    "line_index_2": 925,
+    "ref_2": "Tosafot on Nazir 43a:5:1",
+    "heRef_2": "תוספות על נזיר מג., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1000,
+    "line_index_2": 937,
+    "ref_2": "Tosafot on Nazir 43b:3:1",
+    "heRef_2": "תוספות על נזיר מג:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1001,
+    "line_index_2": 938,
+    "ref_2": "Tosafot on Nazir 43b:4:1",
+    "heRef_2": "תוספות על נזיר מג:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1005,
+    "line_index_2": 916,
+    "ref_2": "Nazir 44a:1",
+    "heRef_2": "נזיר מד., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1006,
+    "line_index_2": 947,
+    "ref_2": "Tosafot on Nazir 44a:4:1",
+    "heRef_2": "תוספות על נזיר מד., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1007,
+    "line_index_2": 950,
+    "ref_2": "Tosafot on Nazir 44a:9:1",
+    "heRef_2": "תוספות על נזיר מד., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1008,
+    "line_index_2": 952,
+    "ref_2": "Tosafot on Nazir 44a:11:1",
+    "heRef_2": "תוספות על נזיר מד., יא, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1011,
+    "line_index_2": 1276,
+    "ref_2": "Rashi on Nazir 44b:4:2",
+    "heRef_2": "רש\"י על נזיר מד:, ד, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1012,
+    "line_index_2": 959,
+    "ref_2": "Tosafot on Nazir 44b:1:1",
+    "heRef_2": "תוספות על נזיר מד:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1013,
+    "line_index_2": 964,
+    "ref_2": "Tosafot on Nazir 44b:5:1",
+    "heRef_2": "תוספות על נזיר מד:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1015,
+    "line_index_2": 967,
+    "ref_2": "Tosafot on Nazir 44b:7:1",
+    "heRef_2": "תוספות על נזיר מד:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1017,
+    "line_index_2": 945,
+    "ref_2": "Nazir 45a:1",
+    "heRef_2": "נזיר מה., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1018,
+    "line_index_2": 1283,
+    "ref_2": "Rashi on Nazir 45a:3:1",
+    "heRef_2": "רש\"י על נזיר מה., ג, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1023,
+    "line_index_2": 974,
+    "ref_2": "Tosafot on Nazir 45a:6:1",
+    "heRef_2": "תוספות על נזיר מה., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1024,
+    "line_index_2": 975,
+    "ref_2": "Tosafot on Nazir 45a:6:2",
+    "heRef_2": "תוספות על נזיר מה., ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1025,
+    "line_index_2": 976,
+    "ref_2": "Tosafot on Nazir 45a:7:1",
+    "heRef_2": "תוספות על נזיר מה., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1027,
+    "line_index_2": 961,
+    "ref_2": "Nazir 45b:1",
+    "heRef_2": "נזיר מה:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1028,
+    "line_index_2": 1309,
+    "ref_2": "Rashi on Nazir 45b:7:1",
+    "heRef_2": "רש\"י על נזיר מה:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1029,
+    "line_index_2": 1315,
+    "ref_2": "Rashi on Nazir 45b:10:2",
+    "heRef_2": "רש\"י על נזיר מה:, י, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1030,
+    "line_index_2": 985,
+    "ref_2": "Tosafot on Nazir 45b:3:3",
+    "heRef_2": "תוספות על נזיר מה:, ג, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1036,
+    "line_index_2": 990,
+    "ref_2": "Tosafot on Nazir 45b:6:1",
+    "heRef_2": "תוספות על נזיר מה:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1037,
+    "line_index_2": 993,
+    "ref_2": "Tosafot on Nazir 45b:9:1",
+    "heRef_2": "תוספות על נזיר מה:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1038,
+    "line_index_2": 995,
+    "ref_2": "Tosafot on Nazir 45b:10:1",
+    "heRef_2": "תוספות על נזיר מה:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 1004,
+    "ref_2": "Tosafot on Nazir 46a:6:1",
+    "heRef_2": "תוספות על נזיר מו., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1056,
+    "line_index_2": 1336,
+    "ref_2": "Rashi on Nazir 46b:11:1",
+    "heRef_2": "רש\"י על נזיר מו:, יא, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1057,
+    "line_index_2": 1339,
+    "ref_2": "Rashi on Nazir 46b:12:2",
+    "heRef_2": "רש\"י על נזיר מו:, יב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1061,
+    "line_index_2": 992,
+    "ref_2": "Nazir 47a:1",
+    "heRef_2": "נזיר מז., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1062,
+    "line_index_2": 997,
+    "ref_2": "Nazir 47a:6",
+    "heRef_2": "נזיר מז., ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1065,
+    "line_index_2": 1031,
+    "ref_2": "Tosafot on Nazir 47a:7:2",
+    "heRef_2": "תוספות על נזיר מז., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1066,
+    "line_index_2": 1031,
+    "ref_2": "Tosafot on Nazir 47a:7:2",
+    "heRef_2": "תוספות על נזיר מז., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1067,
+    "line_index_2": 1031,
+    "ref_2": "Tosafot on Nazir 47a:7:2",
+    "heRef_2": "תוספות על נזיר מז., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1068,
+    "line_index_2": 1031,
+    "ref_2": "Tosafot on Nazir 47a:7:2",
+    "heRef_2": "תוספות על נזיר מז., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1069,
+    "line_index_2": 1031,
+    "ref_2": "Tosafot on Nazir 47a:7:2",
+    "heRef_2": "תוספות על נזיר מז., ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1070,
+    "line_index_2": 1032,
+    "ref_2": "Tosafot on Nazir 47a:8:1",
+    "heRef_2": "תוספות על נזיר מז., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1071,
+    "line_index_2": 1033,
+    "ref_2": "Tosafot on Nazir 47a:9:1",
+    "heRef_2": "תוספות על נזיר מז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1072,
+    "line_index_2": 1033,
+    "ref_2": "Tosafot on Nazir 47a:9:1",
+    "heRef_2": "תוספות על נזיר מז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1073,
+    "line_index_2": 1033,
+    "ref_2": "Tosafot on Nazir 47a:9:1",
+    "heRef_2": "תוספות על נזיר מז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1074,
+    "line_index_2": 1033,
+    "ref_2": "Tosafot on Nazir 47a:9:1",
+    "heRef_2": "תוספות על נזיר מז., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1076,
+    "line_index_2": 1035,
+    "ref_2": "Tosafot on Nazir 47b:1:1",
+    "heRef_2": "תוספות על נזיר מז:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1077,
+    "line_index_2": 1037,
+    "ref_2": "Tosafot on Nazir 47b:3:1",
+    "heRef_2": "תוספות על נזיר מז:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1079,
+    "line_index_2": 1042,
+    "ref_2": "Tosafot on Nazir 47b:8:1",
+    "heRef_2": "תוספות על נזיר מז:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1080,
+    "line_index_2": 1044,
+    "ref_2": "Tosafot on Nazir 47b:9:1",
+    "heRef_2": "תוספות על נזיר מז:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1082,
+    "line_index_2": 1013,
+    "ref_2": "Nazir 48a:1",
+    "heRef_2": "נזיר מח., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1083,
+    "line_index_2": 1368,
+    "ref_2": "Rashi on Nazir 48a:6:1",
+    "heRef_2": "רש\"י על נזיר מח., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1084,
+    "line_index_2": 1369,
+    "ref_2": "Rashi on Nazir 48a:6:2",
+    "heRef_2": "רש\"י על נזיר מח., ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1087,
+    "line_index_2": 1049,
+    "ref_2": "Tosafot on Nazir 48a:5:2",
+    "heRef_2": "תוספות על נזיר מח., ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1088,
+    "line_index_2": 1051,
+    "ref_2": "Tosafot on Nazir 48a:7:1",
+    "heRef_2": "תוספות על נזיר מח., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1089,
+    "line_index_2": 1053,
+    "ref_2": "Tosafot on Nazir 48a:10:1",
+    "heRef_2": "תוספות על נזיר מח., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1090,
+    "line_index_2": 1052,
+    "ref_2": "Tosafot on Nazir 48a:8:1",
+    "heRef_2": "תוספות על נזיר מח., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1092,
+    "line_index_2": 1032,
+    "ref_2": "Nazir 48b:9",
+    "heRef_2": "נזיר מח:, ט",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1093,
+    "line_index_2": 1374,
+    "ref_2": "Rashi on Nazir 48b:4:1",
+    "heRef_2": "רש\"י על נזיר מח:, ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1097,
+    "line_index_2": 1061,
+    "ref_2": "Tosafot on Nazir 48b:10:1",
+    "heRef_2": "תוספות על נזיר מח:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1100,
+    "line_index_2": 1039,
+    "ref_2": "Nazir 49a:1",
+    "heRef_2": "נזיר מט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1106,
+    "line_index_2": 1068,
+    "ref_2": "Tosafot on Nazir 49b:1:1",
+    "heRef_2": "תוספות על נזיר מט:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1108,
+    "line_index_2": 1074,
+    "ref_2": "Tosafot on Nazir 49b:2:6",
+    "heRef_2": "תוספות על נזיר מט:, ב, ו",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1109,
+    "line_index_2": 1077,
+    "ref_2": "Tosafot on Nazir 49b:4:1",
+    "heRef_2": "תוספות על נזיר מט:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1114,
+    "line_index_2": 1080,
+    "ref_2": "Tosafot on Nazir 49b:6:1",
+    "heRef_2": "תוספות על נזיר מט:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1116,
+    "line_index_2": 1084,
+    "ref_2": "Tosafot on Nazir 50a:3:1",
+    "heRef_2": "תוספות על נזיר נ., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1117,
+    "line_index_2": 1090,
+    "ref_2": "Tosafot on Nazir 50a:8:2",
+    "heRef_2": "תוספות על נזיר נ., ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1118,
+    "line_index_2": 1091,
+    "ref_2": "Tosafot on Nazir 50a:8:3",
+    "heRef_2": "תוספות על נזיר נ., ח, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1119,
+    "line_index_2": 1095,
+    "ref_2": "Tosafot on Nazir 50a:12:1",
+    "heRef_2": "תוספות על נזיר נ., יב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1122,
+    "line_index_2": 1065,
+    "ref_2": "Nazir 50b:1",
+    "heRef_2": "נזיר נ:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1123,
+    "line_index_2": 1429,
+    "ref_2": "Rashi on Nazir 50b:1:3",
+    "heRef_2": "רש\"י על נזיר נ:, א, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1124,
+    "line_index_2": 1430,
+    "ref_2": "Rashi on Nazir 50b:2:1",
+    "heRef_2": "רש\"י על נזיר נ:, ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1126,
+    "line_index_2": 1433,
+    "ref_2": "Rashi on Nazir 50b:3:3",
+    "heRef_2": "רש\"י על נזיר נ:, ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1127,
+    "line_index_2": 1433,
+    "ref_2": "Rashi on Nazir 50b:3:3",
+    "heRef_2": "רש\"י על נזיר נ:, ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1128,
+    "line_index_2": 1441,
+    "ref_2": "Rashi on Nazir 50b:8:1",
+    "heRef_2": "רש\"י על נזיר נ:, ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1129,
+    "line_index_2": 1098,
+    "ref_2": "Tosafot on Nazir 50b:1:1",
+    "heRef_2": "תוספות על נזיר נ:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1130,
+    "line_index_2": 1099,
+    "ref_2": "Tosafot on Nazir 50b:2:1",
+    "heRef_2": "תוספות על נזיר נ:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1135,
+    "line_index_2": 1074,
+    "ref_2": "Nazir 51a:1",
+    "heRef_2": "נזיר נא., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1136,
+    "line_index_2": 1443,
+    "ref_2": "Rashi on Nazir 51a:1:1",
+    "heRef_2": "רש\"י על נזיר נא., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1137,
+    "line_index_2": 1444,
+    "ref_2": "Rashi on Nazir 51a:4:1",
+    "heRef_2": "רש\"י על נזיר נא., ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1138,
+    "line_index_2": 1451,
+    "ref_2": "Rashi on Nazir 51a:10:1",
+    "heRef_2": "רש\"י על נזיר נא., י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1140,
+    "line_index_2": 1111,
+    "ref_2": "Tosafot on Nazir 51a:1:1",
+    "heRef_2": "תוספות על נזיר נא., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1141,
+    "line_index_2": 1114,
+    "ref_2": "Tosafot on Nazir 51a:2:1",
+    "heRef_2": "תוספות על נזיר נא., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1144,
+    "line_index_2": 1124,
+    "ref_2": "Tosafot on Nazir 51a:7:1",
+    "heRef_2": "תוספות על נזיר נא., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1147,
+    "line_index_2": 1129,
+    "ref_2": "Tosafot on Nazir 51a:10:1",
+    "heRef_2": "תוספות על נזיר נא., י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1150,
+    "line_index_2": 1465,
+    "ref_2": "Rashi on Nazir 51b:4:3",
+    "heRef_2": "רש\"י על נזיר נא:, ד, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1152,
+    "line_index_2": 1137,
+    "ref_2": "Tosafot on Nazir 51b:3:2",
+    "heRef_2": "תוספות על נזיר נא:, ג, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1153,
+    "line_index_2": 1138,
+    "ref_2": "Tosafot on Nazir 51b:3:3",
+    "heRef_2": "תוספות על נזיר נא:, ג, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1154,
+    "line_index_2": 1139,
+    "ref_2": "Tosafot on Nazir 51b:4:1",
+    "heRef_2": "תוספות על נזיר נא:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1155,
+    "line_index_2": 1141,
+    "ref_2": "Tosafot on Nazir 51b:5:1",
+    "heRef_2": "תוספות על נזיר נא:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1156,
+    "line_index_2": 1144,
+    "ref_2": "Tosafot on Nazir 51b:6:1",
+    "heRef_2": "תוספות על נזיר נא:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1159,
+    "line_index_2": 1099,
+    "ref_2": "Nazir 52a:1",
+    "heRef_2": "נזיר נב., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1160,
+    "line_index_2": 1153,
+    "ref_2": "Tosafot on Nazir 52a:4:4",
+    "heRef_2": "תוספות על נזיר נב., ד, ד",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1162,
+    "line_index_2": 1157,
+    "ref_2": "Tosafot on Nazir 52a:7:1",
+    "heRef_2": "תוספות על נזיר נב., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1165,
+    "line_index_2": 1160,
+    "ref_2": "Tosafot on Nazir 52a:8:3",
+    "heRef_2": "תוספות על נזיר נב., ח, ג",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1167,
+    "line_index_2": 1116,
+    "ref_2": "Nazir 52b:9",
+    "heRef_2": "נזיר נב:, ט",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1169,
+    "line_index_2": 1502,
+    "ref_2": "Rashi on Nazir 52b:6:1",
+    "heRef_2": "רש\"י על נזיר נב:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1171,
+    "line_index_2": 1511,
+    "ref_2": "Rashi on Nazir 52b:11:1",
+    "heRef_2": "רש\"י על נזיר נב:, יא, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1172,
+    "line_index_2": 1163,
+    "ref_2": "Tosafot on Nazir 52b:3:1",
+    "heRef_2": "תוספות על נזיר נב:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1175,
+    "line_index_2": 1165,
+    "ref_2": "Tosafot on Nazir 52b:6:1",
+    "heRef_2": "תוספות על נזיר נב:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1177,
+    "line_index_2": 1169,
+    "ref_2": "Tosafot on Nazir 52b:8:1",
+    "heRef_2": "תוספות על נזיר נב:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1178,
+    "line_index_2": 1170,
+    "ref_2": "Tosafot on Nazir 52b:8:2",
+    "heRef_2": "תוספות על נזיר נב:, ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1179,
+    "line_index_2": 1171,
+    "ref_2": "Tosafot on Nazir 52b:9:1",
+    "heRef_2": "תוספות על נזיר נב:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1180,
+    "line_index_2": 1171,
+    "ref_2": "Tosafot on Nazir 52b:9:1",
+    "heRef_2": "תוספות על נזיר נב:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1182,
+    "line_index_2": 1513,
+    "ref_2": "Rashi on Nazir 53a:1:1",
+    "heRef_2": "רש\"י על נזיר נג., א, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1186,
+    "line_index_2": 1178,
+    "ref_2": "Tosafot on Nazir 53a:5:1",
+    "heRef_2": "תוספות על נזיר נג., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1189,
+    "line_index_2": 1130,
+    "ref_2": "Nazir 53b:1",
+    "heRef_2": "נזיר נג:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1190,
+    "line_index_2": 1526,
+    "ref_2": "Rashi on Nazir 53b:1:2",
+    "heRef_2": "רש\"י על נזיר נג:, א, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1191,
+    "line_index_2": 1530,
+    "ref_2": "Rashi on Nazir 53b:5:1",
+    "heRef_2": "רש\"י על נזיר נג:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1192,
+    "line_index_2": 1531,
+    "ref_2": "Rashi on Nazir 53b:7:1",
+    "heRef_2": "רש\"י על נזיר נג:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1195,
+    "line_index_2": 1189,
+    "ref_2": "Tosafot on Nazir 53b:8:2",
+    "heRef_2": "תוספות על נזיר נג:, ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1196,
+    "line_index_2": 1190,
+    "ref_2": "Tosafot on Nazir 53b:9:1",
+    "heRef_2": "תוספות על נזיר נג:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1200,
+    "line_index_2": 1199,
+    "ref_2": "Tosafot on Nazir 54a:2:1",
+    "heRef_2": "תוספות על נזיר נד., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1202,
+    "line_index_2": 1201,
+    "ref_2": "Tosafot on Nazir 54a:6:1",
+    "heRef_2": "תוספות על נזיר נד., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1203,
+    "line_index_2": 1202,
+    "ref_2": "Tosafot on Nazir 54a:7:1",
+    "heRef_2": "תוספות על נזיר נד., ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1204,
+    "line_index_2": 1203,
+    "ref_2": "Tosafot on Nazir 54a:8:1",
+    "heRef_2": "תוספות על נזיר נד., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1205,
+    "line_index_2": 1210,
+    "ref_2": "Tosafot on Nazir 54a:9:5",
+    "heRef_2": "תוספות על נזיר נד., ט, ה",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1208,
+    "line_index_2": 1568,
+    "ref_2": "Rashi on Nazir 54b:6:3",
+    "heRef_2": "רש\"י על נזיר נד:, ו, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1209,
+    "line_index_2": 1213,
+    "ref_2": "Tosafot on Nazir 54b:1:1",
+    "heRef_2": "תוספות על נזיר נד:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1213,
+    "line_index_2": 1160,
+    "ref_2": "Nazir 55a:1",
+    "heRef_2": "נזיר נה., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1215,
+    "line_index_2": 1577,
+    "ref_2": "Rashi on Nazir 55a:5:2",
+    "heRef_2": "רש\"י על נזיר נה., ה, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1217,
+    "line_index_2": 1581,
+    "ref_2": "Rashi on Nazir 55a:8:2",
+    "heRef_2": "רש\"י על נזיר נה., ח, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1218,
+    "line_index_2": 1220,
+    "ref_2": "Tosafot on Nazir 55a:1:1",
+    "heRef_2": "תוספות על נזיר נה., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1220,
+    "line_index_2": 1225,
+    "ref_2": "Tosafot on Nazir 55a:8:1",
+    "heRef_2": "תוספות על נזיר נה., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1221,
+    "line_index_2": 1226,
+    "ref_2": "Tosafot on Nazir 55a:8:2",
+    "heRef_2": "תוספות על נזיר נה., ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1229,
+    "line_index_2": 1232,
+    "ref_2": "Tosafot on Nazir 55b:1:1",
+    "heRef_2": "תוספות על נזיר נה:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1233,
+    "line_index_2": 1173,
+    "ref_2": "Nazir 56a:1",
+    "heRef_2": "נזיר נו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1238,
+    "line_index_2": 1599,
+    "ref_2": "Rashi on Nazir 56a:8:1",
+    "heRef_2": "רש\"י על נזיר נו., ח, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1239,
+    "line_index_2": 1235,
+    "ref_2": "Tosafot on Nazir 56a:1:1",
+    "heRef_2": "תוספות על נזיר נו., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1241,
+    "line_index_2": 1241,
+    "ref_2": "Tosafot on Nazir 56a:6:1",
+    "heRef_2": "תוספות על נזיר נו., ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1242,
+    "line_index_2": 1242,
+    "ref_2": "Tosafot on Nazir 56a:8:1",
+    "heRef_2": "תוספות על נזיר נו., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1246,
+    "line_index_2": 1608,
+    "ref_2": "Rashi on Nazir 56b:5:1",
+    "heRef_2": "רש\"י על נזיר נו:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1248,
+    "line_index_2": 1250,
+    "ref_2": "Tosafot on Nazir 56b:8:1",
+    "heRef_2": "תוספות על נזיר נו:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1249,
+    "line_index_2": 1252,
+    "ref_2": "Tosafot on Nazir 56b:9:2",
+    "heRef_2": "תוספות על נזיר נו:, ט, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1250,
+    "line_index_2": 1254,
+    "ref_2": "Tosafot on Nazir 56b:12:1",
+    "heRef_2": "תוספות על נזיר נו:, יב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1256,
+    "line_index_2": 1263,
+    "ref_2": "Tosafot on Nazir 57a:8:1",
+    "heRef_2": "תוספות על נזיר נז., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1260,
+    "line_index_2": 1262,
+    "ref_2": "Tosafot on Nazir 57a:5:1",
+    "heRef_2": "תוספות על נזיר נז., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1262,
+    "line_index_2": 1263,
+    "ref_2": "Tosafot on Nazir 57a:8:1",
+    "heRef_2": "תוספות על נזיר נז., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1268,
+    "line_index_2": 1266,
+    "ref_2": "Tosafot on Nazir 57b:2:1",
+    "heRef_2": "תוספות על נזיר נז:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1269,
+    "line_index_2": 1270,
+    "ref_2": "Tosafot on Nazir 57b:5:2",
+    "heRef_2": "תוספות על נזיר נז:, ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1270,
+    "line_index_2": 1277,
+    "ref_2": "Tosafot on Nazir 57b:7:1",
+    "heRef_2": "תוספות על נזיר נז:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1272,
+    "line_index_2": 1647,
+    "ref_2": "Rashi on Nazir 58a:5:1",
+    "heRef_2": "רש\"י על נזיר נח., ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1273,
+    "line_index_2": 1647,
+    "ref_2": "Rashi on Nazir 58a:5:1",
+    "heRef_2": "רש\"י על נזיר נח., ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1275,
+    "line_index_2": 1654,
+    "ref_2": "Rashi on Nazir 58a:12:2",
+    "heRef_2": "רש\"י על נזיר נח., יב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1276,
+    "line_index_2": 1280,
+    "ref_2": "Tosafot on Nazir 58a:3:1",
+    "heRef_2": "תוספות על נזיר נח., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1277,
+    "line_index_2": 1281,
+    "ref_2": "Tosafot on Nazir 58a:8:1",
+    "heRef_2": "תוספות על נזיר נח., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1278,
+    "line_index_2": 1283,
+    "ref_2": "Tosafot on Nazir 58a:10:2",
+    "heRef_2": "תוספות על נזיר נח., י, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1280,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1281,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1282,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1283,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1284,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1285,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1286,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1287,
+    "line_index_2": 1230,
+    "ref_2": "Nazir 58b:1",
+    "heRef_2": "נזיר נח:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1288,
+    "line_index_2": 1286,
+    "ref_2": "Tosafot on Nazir 58b:2:1",
+    "heRef_2": "תוספות על נזיר נח:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1290,
+    "line_index_2": 1289,
+    "ref_2": "Tosafot on Nazir 58b:7:2",
+    "heRef_2": "תוספות על נזיר נח:, ז, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1292,
+    "line_index_2": 1243,
+    "ref_2": "Nazir 59a:1",
+    "heRef_2": "נזיר נט., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1293,
+    "line_index_2": 1669,
+    "ref_2": "Rashi on Nazir 59a:2:2",
+    "heRef_2": "רש\"י על נזיר נט., ב, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1295,
+    "line_index_2": 1680,
+    "ref_2": "Rashi on Nazir 59a:7:1",
+    "heRef_2": "רש\"י על נזיר נט., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1296,
+    "line_index_2": 1297,
+    "ref_2": "Tosafot on Nazir 59a:4:1",
+    "heRef_2": "תוספות על נזיר נט., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1297,
+    "line_index_2": 1298,
+    "ref_2": "Tosafot on Nazir 59a:4:2",
+    "heRef_2": "תוספות על נזיר נט., ד, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1298,
+    "line_index_2": 1299,
+    "ref_2": "Tosafot on Nazir 59a:5:1",
+    "heRef_2": "תוספות על נזיר נט., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1301,
+    "line_index_2": 1691,
+    "ref_2": "Rashi on Nazir 59b:6:2",
+    "heRef_2": "רש\"י על נזיר נט:, ו, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1303,
+    "line_index_2": 1311,
+    "ref_2": "Tosafot on Nazir 59b:8:1",
+    "heRef_2": "תוספות על נזיר נט:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1307,
+    "line_index_2": 1268,
+    "ref_2": "Nazir 60a:6",
+    "heRef_2": "נזיר ס., ו",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1309,
+    "line_index_2": 1705,
+    "ref_2": "Rashi on Nazir 60a:7:1",
+    "heRef_2": "רש\"י על נזיר ס., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1310,
+    "line_index_2": 1707,
+    "ref_2": "Rashi on Nazir 60a:8:2",
+    "heRef_2": "רש\"י על נזיר ס., ח, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1312,
+    "line_index_2": 1709,
+    "ref_2": "Rashi on Nazir 60a:9:2",
+    "heRef_2": "רש\"י על נזיר ס., ט, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1314,
+    "line_index_2": 1319,
+    "ref_2": "Tosafot on Nazir 60a:9:1",
+    "heRef_2": "תוספות על נזיר ס., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1316,
+    "line_index_2": 1274,
+    "ref_2": "Nazir 60b:1",
+    "heRef_2": "נזיר ס:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1319,
+    "line_index_2": 1718,
+    "ref_2": "Rashi on Nazir 60b:7:1",
+    "heRef_2": "רש\"י על נזיר ס:, ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1320,
+    "line_index_2": 1324,
+    "ref_2": "Tosafot on Nazir 60b:5:1",
+    "heRef_2": "תוספות על נזיר ס:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1321,
+    "line_index_2": 1326,
+    "ref_2": "Tosafot on Nazir 60b:7:1",
+    "heRef_2": "תוספות על נזיר ס:, ז, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1322,
+    "line_index_2": 1328,
+    "ref_2": "Tosafot on Nazir 60b:10:1",
+    "heRef_2": "תוספות על נזיר ס:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1332,
+    "line_index_2": 1298,
+    "ref_2": "Nazir 61b:1",
+    "heRef_2": "נזיר סא:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1334,
+    "line_index_2": 1756,
+    "ref_2": "Rashi on Nazir 61b:6:1",
+    "heRef_2": "רש\"י על נזיר סא:, ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1335,
+    "line_index_2": 1757,
+    "ref_2": "Rashi on Nazir 61b:9:1",
+    "heRef_2": "רש\"י על נזיר סא:, ט, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1337,
+    "line_index_2": 1351,
+    "ref_2": "Tosafot on Nazir 61b:5:1",
+    "heRef_2": "תוספות על נזיר סא:, ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1339,
+    "line_index_2": 1345,
+    "ref_2": "Tosafot on Nazir 61b:2:1",
+    "heRef_2": "תוספות על נזיר סא:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1341,
+    "line_index_2": 1766,
+    "ref_2": "Rashi on Nazir 62a:7:1",
+    "heRef_2": "רש\"י על נזיר סב., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1344,
+    "line_index_2": 1766,
+    "ref_2": "Rashi on Nazir 62a:7:1",
+    "heRef_2": "רש\"י על נזיר סב., ז, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1347,
+    "line_index_2": 1355,
+    "ref_2": "Tosafot on Nazir 62a:3:1",
+    "heRef_2": "תוספות על נזיר סב., ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1349,
+    "line_index_2": 1780,
+    "ref_2": "Rashi on Nazir 62b:3:3",
+    "heRef_2": "רש\"י על נזיר סב:, ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1350,
+    "line_index_2": 1783,
+    "ref_2": "Rashi on Nazir 62b:5:1",
+    "heRef_2": "רש\"י על נזיר סב:, ה, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1352,
+    "line_index_2": 1370,
+    "ref_2": "Tosafot on Nazir 62b:6:2",
+    "heRef_2": "תוספות על נזיר סב:, ו, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1353,
+    "line_index_2": 1372,
+    "ref_2": "Tosafot on Nazir 62b:9:1",
+    "heRef_2": "תוספות על נזיר סב:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1355,
+    "line_index_2": 1337,
+    "ref_2": "Nazir 63a:1",
+    "heRef_2": "נזיר סג., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1356,
+    "line_index_2": 1795,
+    "ref_2": "Rashi on Nazir 63a:1:3",
+    "heRef_2": "רש\"י על נזיר סג., א, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1358,
+    "line_index_2": 1802,
+    "ref_2": "Rashi on Nazir 63a:3:3",
+    "heRef_2": "רש\"י על נזיר סג., ג, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1362,
+    "line_index_2": 1379,
+    "ref_2": "Tosafot on Nazir 63a:2:2",
+    "heRef_2": "תוספות על נזיר סג., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1363,
+    "line_index_2": 1382,
+    "ref_2": "Tosafot on Nazir 63a:5:1",
+    "heRef_2": "תוספות על נזיר סג., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1365,
+    "line_index_2": 1385,
+    "ref_2": "Tosafot on Nazir 63a:8:2",
+    "heRef_2": "תוספות על נזיר סג., ח, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1366,
+    "line_index_2": 1386,
+    "ref_2": "Tosafot on Nazir 63a:9:1",
+    "heRef_2": "תוספות על נזיר סג., ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1368,
+    "line_index_2": 1821,
+    "ref_2": "Rashi on Nazir 63b:3:2",
+    "heRef_2": "רש\"י על נזיר סג:, ג, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1369,
+    "line_index_2": 1828,
+    "ref_2": "Rashi on Nazir 63b:11:1",
+    "heRef_2": "רש\"י על נזיר סג:, יא, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1371,
+    "line_index_2": 1392,
+    "ref_2": "Tosafot on Nazir 63b:3:1",
+    "heRef_2": "תוספות על נזיר סג:, ג, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1373,
+    "line_index_2": 1362,
+    "ref_2": "Nazir 64a:1",
+    "heRef_2": "נזיר סד., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1374,
+    "line_index_2": 1362,
+    "ref_2": "Nazir 64a:1",
+    "heRef_2": "נזיר סד., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1375,
+    "line_index_2": 1840,
+    "ref_2": "Rashi on Nazir 64a:4:1",
+    "heRef_2": "רש\"י על נזיר סד., ד, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1376,
+    "line_index_2": 1853,
+    "ref_2": "Rashi on Nazir 64a:10:2",
+    "heRef_2": "רש\"י על נזיר סד., י, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1377,
+    "line_index_2": 1847,
+    "ref_2": "Rashi on Nazir 64a:6:3",
+    "heRef_2": "רש\"י על נזיר סד., ו, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1378,
+    "line_index_2": 1847,
+    "ref_2": "Rashi on Nazir 64a:6:3",
+    "heRef_2": "רש\"י על נזיר סד., ו, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1381,
+    "line_index_2": 1401,
+    "ref_2": "Tosafot on Nazir 64a:4:1",
+    "heRef_2": "תוספות על נזיר סד., ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1382,
+    "line_index_2": 1402,
+    "ref_2": "Tosafot on Nazir 64a:5:1",
+    "heRef_2": "תוספות על נזיר סד., ה, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1387,
+    "line_index_2": 1871,
+    "ref_2": "Rashi on Nazir 64b:11:2",
+    "heRef_2": "רש\"י על נזיר סד:, יא, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1389,
+    "line_index_2": 1406,
+    "ref_2": "Tosafot on Nazir 64b:6:1",
+    "heRef_2": "תוספות על נזיר סד:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1390,
+    "line_index_2": 1407,
+    "ref_2": "Tosafot on Nazir 64b:9:1",
+    "heRef_2": "תוספות על נזיר סד:, ט, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1391,
+    "line_index_2": 1408,
+    "ref_2": "Tosafot on Nazir 64b:10:1",
+    "heRef_2": "תוספות על נזיר סד:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1394,
+    "line_index_2": 1389,
+    "ref_2": "Nazir 65a:4",
+    "heRef_2": "נזיר סה., ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1395,
+    "line_index_2": 1389,
+    "ref_2": "Nazir 65a:4",
+    "heRef_2": "נזיר סה., ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1396,
+    "line_index_2": 1389,
+    "ref_2": "Nazir 65a:4",
+    "heRef_2": "נזיר סה., ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1397,
+    "line_index_2": 1389,
+    "ref_2": "Nazir 65a:4",
+    "heRef_2": "נזיר סה., ד",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1398,
+    "line_index_2": 1897,
+    "ref_2": "Rashi on Nazir 65a:9:4",
+    "heRef_2": "רש\"י על נזיר סה., ט, ד",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1401,
+    "line_index_2": 1418,
+    "ref_2": "Tosafot on Nazir 65a:2:1",
+    "heRef_2": "תוספות על נזיר סה., ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1402,
+    "line_index_2": 1419,
+    "ref_2": "Tosafot on Nazir 65a:2:2",
+    "heRef_2": "תוספות על נזיר סה., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1405,
+    "line_index_2": 1424,
+    "ref_2": "Tosafot on Nazir 65a:8:1",
+    "heRef_2": "תוספות על נזיר סה., ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1407,
+    "line_index_2": 1398,
+    "ref_2": "Nazir 65b:1",
+    "heRef_2": "נזיר סה:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1408,
+    "line_index_2": 1398,
+    "ref_2": "Nazir 65b:1",
+    "heRef_2": "נזיר סה:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1409,
+    "line_index_2": 1398,
+    "ref_2": "Nazir 65b:1",
+    "heRef_2": "נזיר סה:, א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1411,
+    "line_index_2": 1910,
+    "ref_2": "Rashi on Nazir 65b:8:3",
+    "heRef_2": "רש\"י על נזיר סה:, ח, ג",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1412,
+    "line_index_2": 1914,
+    "ref_2": "Rashi on Nazir 65b:10:1",
+    "heRef_2": "רש\"י על נזיר סה:, י, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1413,
+    "line_index_2": 1427,
+    "ref_2": "Tosafot on Nazir 65b:1:1",
+    "heRef_2": "תוספות על נזיר סה:, א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1414,
+    "line_index_2": 1428,
+    "ref_2": "Tosafot on Nazir 65b:2:1",
+    "heRef_2": "תוספות על נזיר סה:, ב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1415,
+    "line_index_2": 1441,
+    "ref_2": "Tosafot on Nazir 65b:10:1",
+    "heRef_2": "תוספות על נזיר סה:, י, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1416,
+    "line_index_2": 1431,
+    "ref_2": "Tosafot on Nazir 65b:4:1",
+    "heRef_2": "תוספות על נזיר סה:, ד, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1418,
+    "line_index_2": 1434,
+    "ref_2": "Tosafot on Nazir 65b:5:2",
+    "heRef_2": "תוספות על נזיר סה:, ה, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1419,
+    "line_index_2": 1435,
+    "ref_2": "Tosafot on Nazir 65b:6:1",
+    "heRef_2": "תוספות על נזיר סה:, ו, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1420,
+    "line_index_2": 1436,
+    "ref_2": "Tosafot on Nazir 65b:8:1",
+    "heRef_2": "תוספות על נזיר סה:, ח, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1421,
+    "line_index_2": 1443,
+    "ref_2": "Tosafot on Nazir 65b:12:1",
+    "heRef_2": "תוספות על נזיר סה:, יב, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1423,
+    "line_index_2": 1412,
+    "ref_2": "Nazir 66a:1",
+    "heRef_2": "נזיר סו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1424,
+    "line_index_2": 1412,
+    "ref_2": "Nazir 66a:1",
+    "heRef_2": "נזיר סו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1425,
+    "line_index_2": 1412,
+    "ref_2": "Nazir 66a:1",
+    "heRef_2": "נזיר סו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1426,
+    "line_index_2": 1412,
+    "ref_2": "Nazir 66a:1",
+    "heRef_2": "נזיר סו., א",
+    "path_2": "נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1427,
+    "line_index_2": 1922,
+    "ref_2": "Rashi on Nazir 66a:2:1",
+    "heRef_2": "רש\"י על נזיר סו., ב, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1430,
+    "line_index_2": 1926,
+    "ref_2": "Rashi on Nazir 66a:6:1",
+    "heRef_2": "רש\"י על נזיר סו., ו, א",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1432,
+    "line_index_2": 1929,
+    "ref_2": "Rashi on Nazir 66a:8:2",
+    "heRef_2": "רש\"י על נזיר סו., ח, ב",
+    "path_2": "רש\"י על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1433,
+    "line_index_2": 1445,
+    "ref_2": "Tosafot on Nazir 66a:1:1",
+    "heRef_2": "תוספות על נזיר סו., א, א",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1435,
+    "line_index_2": 1447,
+    "ref_2": "Tosafot on Nazir 66a:2:2",
+    "heRef_2": "תוספות על נזיר סו., ב, ב",
+    "path_2": "תוספות על נזיר.txt",
+    "Conection Type": "source"
+  }
+]

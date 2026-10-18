@@ -1,0 +1,1970 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 2450,
+    "ref_2": "Berakhot 54b:4",
+    "heRef_2": "ברכות נד:, ד",
+    "path_2": "ברכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 215,
+    "ref_2": "Shabbat 10b:1",
+    "heRef_2": "שבת י:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 224,
+    "ref_2": "Shabbat 11a:1",
+    "heRef_2": "שבת יא., א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 654,
+    "ref_2": "Shabbat 31a:13",
+    "heRef_2": "שבת לא., יג",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 656,
+    "ref_2": "Shabbat 31b:1",
+    "heRef_2": "שבת לא:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 1247,
+    "ref_2": "Shabbat 55a:6",
+    "heRef_2": "שבת נה., ו",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 1310,
+    "ref_2": "Shabbat 56b:12",
+    "heRef_2": "שבת נו:, יב",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 1536,
+    "ref_2": "Shabbat 63a:1",
+    "heRef_2": "שבת סג., א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 1722,
+    "ref_2": "Shabbat 67b:1",
+    "heRef_2": "שבת סז:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 1909,
+    "ref_2": "Shabbat 77b:1",
+    "heRef_2": "שבת עז:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 2100,
+    "ref_2": "Shabbat 88a:7",
+    "heRef_2": "שבת פח., ז",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 2104,
+    "ref_2": "Shabbat 88b:1",
+    "heRef_2": "שבת פח:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 2115,
+    "ref_2": "Shabbat 89a:3",
+    "heRef_2": "שבת פט., ג",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 2450,
+    "ref_2": "Shabbat 104a:4",
+    "heRef_2": "שבת קד., ד",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 2450,
+    "ref_2": "Shabbat 104a:4",
+    "heRef_2": "שבת קד., ד",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 2716,
+    "ref_2": "Shabbat 115b:1",
+    "heRef_2": "שבת קטו:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 2772,
+    "ref_2": "Shabbat 118a:7",
+    "heRef_2": "שבת קיח., ז",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 2804,
+    "ref_2": "Shabbat 119b:5",
+    "heRef_2": "שבת קיט:, ה",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 3731,
+    "ref_2": "Shabbat 145b:1",
+    "heRef_2": "שבת קמה:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 3865,
+    "ref_2": "Shabbat 149b:13",
+    "heRef_2": "שבת קמט:, יג",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 3939,
+    "ref_2": "Shabbat 152a:13",
+    "heRef_2": "שבת קנב., יג",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 3944,
+    "ref_2": "Shabbat 152b:1",
+    "heRef_2": "שבת קנב:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 4032,
+    "ref_2": "Shabbat 155b:1",
+    "heRef_2": "שבת קנה:, א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 4049,
+    "ref_2": "Shabbat 156a:1",
+    "heRef_2": "שבת קנו., א",
+    "path_2": "שבת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 434,
+    "ref_2": "Eruvin 13b:3",
+    "heRef_2": "עירובין יג:, ג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 661,
+    "ref_2": "Eruvin 18b:1",
+    "heRef_2": "עירובין יח:, א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 680,
+    "ref_2": "Eruvin 19a:1",
+    "heRef_2": "עירובין יט., א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 790,
+    "ref_2": "Eruvin 21a:13",
+    "heRef_2": "עירובין כא., יג",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 2000,
+    "ref_2": "Eruvin 54a:1",
+    "heRef_2": "עירובין נד., א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 3653,
+    "ref_2": "Eruvin 100b:1",
+    "heRef_2": "עירובין ק:, א",
+    "path_2": "עירובין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 1554,
+    "ref_2": "Pesachim 50a:1",
+    "heRef_2": "פסחים נ., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 1734,
+    "ref_2": "Pesachim 56a:1",
+    "heRef_2": "פסחים נו., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 2757,
+    "ref_2": "Pesachim 87a:1",
+    "heRef_2": "פסחים פז., א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 3391,
+    "ref_2": "Pesachim 109b:1",
+    "heRef_2": "פסחים קט:, א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 3668,
+    "ref_2": "Pesachim 118b:1",
+    "heRef_2": "פסחים קיח:, א",
+    "path_2": "פסחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 459,
+    "ref_2": "Rosh Hashanah 17b:7",
+    "heRef_2": "ראש השנה יז:, ז",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 926,
+    "ref_2": "Rosh Hashanah 31a:2",
+    "heRef_2": "ראש השנה לא., ב",
+    "path_2": "ראש השנה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 441,
+    "ref_2": "Yoma 20b:1",
+    "heRef_2": "יומא כ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 2108,
+    "ref_2": "Yoma 77a:1",
+    "heRef_2": "יומא עז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 1262,
+    "ref_2": "Sukkah 49a:2",
+    "heRef_2": "סוכה מט., ב",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 1361,
+    "ref_2": "Sukkah 53a:1",
+    "heRef_2": "סוכה נג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 3,
+    "ref_2": "Taanit 2a:1",
+    "heRef_2": "תענית ב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 215,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 880,
+    "ref_2": "Taanit 28b:15",
+    "heRef_2": "תענית כח:, טו",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 949,
+    "ref_2": "Taanit 31a:4",
+    "heRef_2": "תענית לא., ד",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 53,
+    "ref_2": "Megillah 3a:1",
+    "heRef_2": "מגילה ג., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 199,
+    "ref_2": "Megillah 6b:11",
+    "heRef_2": "מגילה ו:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 199,
+    "ref_2": "Megillah 6b:11",
+    "heRef_2": "מגילה ו:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 199,
+    "ref_2": "Megillah 6b:11",
+    "heRef_2": "מגילה ו:, יא",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 356,
+    "ref_2": "Megillah 10b:1",
+    "heRef_2": "מגילה י:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 387,
+    "ref_2": "Megillah 11a:1",
+    "heRef_2": "מגילה יא., א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 576,
+    "ref_2": "Megillah 15b:1",
+    "heRef_2": "מגילה טו:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 757,
+    "ref_2": "Megillah 19b:1",
+    "heRef_2": "מגילה יט:, א",
+    "path_2": "מגילה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 589,
+    "ref_2": "Moed Katan 16b:25",
+    "heRef_2": "מועד קטן טז:, כה",
+    "path_2": "מועד קטן.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 33,
+    "ref_2": "Chagigah 3a:13",
+    "heRef_2": "חגיגה ג., יג",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 239,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 337,
+    "ref_2": "Chagigah 12a:3",
+    "heRef_2": "חגיגה יב., ג",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 356,
+    "ref_2": "Chagigah 12b:1",
+    "heRef_2": "חגיגה יב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 372,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 372,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 403,
+    "ref_2": "Chagigah 14a:2",
+    "heRef_2": "חגיגה יד., ב",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 421,
+    "ref_2": "Chagigah 14b:1",
+    "heRef_2": "חגיגה יד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 432,
+    "ref_2": "Chagigah 15a:1",
+    "heRef_2": "חגיגה טו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 446,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 463,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 472,
+    "ref_2": "Yevamot 16b:1",
+    "heRef_2": "יבמות טז:, א",
+    "path_2": "יבמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 1649,
+    "ref_2": "Yevamot 49b:1",
+    "heRef_2": "יבמות מט:, א",
+    "path_2": "יבמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 2070,
+    "ref_2": "Yevamot 62b:1",
+    "heRef_2": "יבמות סב:, א",
+    "path_2": "יבמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 2090,
+    "ref_2": "Yevamot 63a:1",
+    "heRef_2": "יבמות סג., א",
+    "path_2": "יבמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 2108,
+    "ref_2": "Yevamot 63b:4",
+    "heRef_2": "יבמות סג:, ד",
+    "path_2": "יבמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 3,
+    "ref_2": "Ketubot 2a:1",
+    "heRef_2": "כתובות ב., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 89,
+    "ref_2": "Ketubot 5a:11",
+    "heRef_2": "כתובות ה., יא",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 2883,
+    "ref_2": "Ketubot 103a:1",
+    "heRef_2": "כתובות קג., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 2917,
+    "ref_2": "Ketubot 103b:1",
+    "heRef_2": "כתובות קג:, א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 2944,
+    "ref_2": "Ketubot 104a:1",
+    "heRef_2": "כתובות קד., א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 3194,
+    "ref_2": "Ketubot 111a:8",
+    "heRef_2": "כתובות קיא., ח",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 3215,
+    "ref_2": "Ketubot 111b:1",
+    "heRef_2": "כתובות קיא:, א",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 3260,
+    "ref_2": "Ketubot 112b:3",
+    "heRef_2": "כתובות קיב:, ג",
+    "path_2": "כתובות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 133,
+    "ref_2": "Nedarim 8b:1",
+    "heRef_2": "נדרים ח:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 395,
+    "ref_2": "Nedarim 20b:1",
+    "heRef_2": "נדרים כ:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 430,
+    "ref_2": "Nedarim 22a:3",
+    "heRef_2": "נדרים כב., ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 442,
+    "ref_2": "Nedarim 22b:2",
+    "heRef_2": "נדרים כב:, ב",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 635,
+    "ref_2": "Nedarim 32a:3",
+    "heRef_2": "נדרים לב., ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 653,
+    "ref_2": "Nedarim 32b:1",
+    "heRef_2": "נדרים לב:, א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 759,
+    "ref_2": "Nedarim 38a:1",
+    "heRef_2": "נדרים לח., א",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 795,
+    "ref_2": "Nedarim 39b:3",
+    "heRef_2": "נדרים לט:, ג",
+    "path_2": "נדרים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 10,
+    "ref_2": "Sotah 2a:8",
+    "heRef_2": "סוטה ב., ח",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 50,
+    "ref_2": "Sotah 3a:4",
+    "heRef_2": "סוטה ג., ד",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 121,
+    "ref_2": "Sotah 4b:4",
+    "heRef_2": "סוטה ד:, ד",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 142,
+    "ref_2": "Sotah 5a:6",
+    "heRef_2": "סוטה ה., ו",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 159,
+    "ref_2": "Sotah 5b:1",
+    "heRef_2": "סוטה ה:, א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 211,
+    "ref_2": "Sotah 7a:1",
+    "heRef_2": "סוטה ז., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 320,
+    "ref_2": "Sotah 9b:21",
+    "heRef_2": "סוטה ט:, כא",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 325,
+    "ref_2": "Sotah 10a:1",
+    "heRef_2": "סוטה י., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 370,
+    "ref_2": "Sotah 11a:5",
+    "heRef_2": "סוטה יא., ה",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 429,
+    "ref_2": "Sotah 12a:17",
+    "heRef_2": "סוטה יב., יז",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 479,
+    "ref_2": "Sotah 13b:1",
+    "heRef_2": "סוטה יג:, א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 507,
+    "ref_2": "Sotah 14a:1",
+    "heRef_2": "סוטה יד., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 634,
+    "ref_2": "Sotah 17a:21",
+    "heRef_2": "סוטה יז., כא",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 745,
+    "ref_2": "Sotah 21a:1",
+    "heRef_2": "סוטה כא., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 1162,
+    "ref_2": "Sotah 34b:4",
+    "heRef_2": "סוטה לד:, ד",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 1174,
+    "ref_2": "Sotah 35a:1",
+    "heRef_2": "סוטה לה., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 1234,
+    "ref_2": "Sotah 36b:8",
+    "heRef_2": "סוטה לו:, ח",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 1251,
+    "ref_2": "Sotah 37a:1",
+    "heRef_2": "סוטה לז., א",
+    "path_2": "סוטה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 931,
+    "ref_2": "Gittin 31b:14",
+    "heRef_2": "גיטין לא:, יד",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 1953,
+    "ref_2": "Gittin 60b:5",
+    "heRef_2": "גיטין ס:, ה",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 2215,
+    "ref_2": "Gittin 68a:1",
+    "heRef_2": "גיטין סח., א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 3164,
+    "ref_2": "Gittin 90b:1",
+    "heRef_2": "גיטין צ:, א",
+    "path_2": "גיטין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 921,
+    "ref_2": "Kiddushin 30a:1",
+    "heRef_2": "קידושין ל., א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 944,
+    "ref_2": "Kiddushin 30b:8",
+    "heRef_2": "קידושין ל:, ח",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 960,
+    "ref_2": "Kiddushin 31a:1",
+    "heRef_2": "קידושין לא., א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 975,
+    "ref_2": "Kiddushin 31b:1",
+    "heRef_2": "קידושין לא:, א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 1250,
+    "ref_2": "Kiddushin 40a:10",
+    "heRef_2": "קידושין מ., י",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 1263,
+    "ref_2": "Kiddushin 40b:1",
+    "heRef_2": "קידושין מ:, א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 1522,
+    "ref_2": "Kiddushin 49b:5",
+    "heRef_2": "קידושין מט:, ה",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 2172,
+    "ref_2": "Kiddushin 70b:1",
+    "heRef_2": "קידושין ע:, א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 2189,
+    "ref_2": "Kiddushin 71a:1",
+    "heRef_2": "קידושין עא., א",
+    "path_2": "קידושין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 644,
+    "ref_2": "Bava Kamma 16b:23",
+    "heRef_2": "בבא קמא טז:, כג",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 648,
+    "ref_2": "Bava Kamma 17a:1",
+    "heRef_2": "בבא קמא יז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 2332,
+    "ref_2": "Bava Kamma 60b:1",
+    "heRef_2": "בבא קמא ס:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 3497,
+    "ref_2": "Bava Kamma 92a:1",
+    "heRef_2": "בבא קמא צב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 3522,
+    "ref_2": "Bava Kamma 92b:1",
+    "heRef_2": "בבא קמא צב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 1424,
+    "ref_2": "Bava Metzia 42a:1",
+    "heRef_2": "בבא מציעא מב., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 1917,
+    "ref_2": "Bava Metzia 59a:1",
+    "heRef_2": "בבא מציעא נט., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 2652,
+    "ref_2": "Bava Metzia 83b:1",
+    "heRef_2": "בבא מציעא פג:, א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 2667,
+    "ref_2": "Bava Metzia 84a:1",
+    "heRef_2": "בבא מציעא פד., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 2706,
+    "ref_2": "Bava Metzia 85a:1",
+    "heRef_2": "בבא מציעא פה., א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 2730,
+    "ref_2": "Bava Metzia 85b:1",
+    "heRef_2": "בבא מציעא פה:, א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 2761,
+    "ref_2": "Bava Metzia 86b:1",
+    "heRef_2": "בבא מציעא פו:, א",
+    "path_2": "בבא מציעא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 183,
+    "ref_2": "Bava Batra 8a:1",
+    "heRef_2": "בבא בתרא ח., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 214,
+    "ref_2": "Bava Batra 8b:13",
+    "heRef_2": "בבא בתרא ח:, יג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 237,
+    "ref_2": "Bava Batra 9b:1",
+    "heRef_2": "בבא בתרא ט:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 255,
+    "ref_2": "Bava Batra 10a:6",
+    "heRef_2": "בבא בתרא י., ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 432,
+    "ref_2": "Bava Batra 16a:6",
+    "heRef_2": "בבא בתרא טז., ו",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 450,
+    "ref_2": "Bava Batra 16b:2",
+    "heRef_2": "בבא בתרא טז:, ב",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 468,
+    "ref_2": "Bava Batra 17a:1",
+    "heRef_2": "בבא בתרא יז., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 700,
+    "ref_2": "Bava Batra 25a:1",
+    "heRef_2": "בבא בתרא כה., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 720,
+    "ref_2": "Bava Batra 25b:5",
+    "heRef_2": "בבא בתרא כה:, ה",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 1368,
+    "ref_2": "Bava Batra 58a:1",
+    "heRef_2": "בבא בתרא נח., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 1696,
+    "ref_2": "Bava Batra 73a:8",
+    "heRef_2": "בבא בתרא עג., ח",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 1701,
+    "ref_2": "Bava Batra 73b:1",
+    "heRef_2": "בבא בתרא עג:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 1713,
+    "ref_2": "Bava Batra 74a:1",
+    "heRef_2": "בבא בתרא עד., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 1722,
+    "ref_2": "Bava Batra 74b:1",
+    "heRef_2": "בבא בתרא עד:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 1736,
+    "ref_2": "Bava Batra 75a:1",
+    "heRef_2": "בבא בתרא עה., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 1757,
+    "ref_2": "Bava Batra 75b:3",
+    "heRef_2": "בבא בתרא עה:, ג",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 1816,
+    "ref_2": "Bava Batra 78b:1",
+    "heRef_2": "בבא בתרא עח:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 2328,
+    "ref_2": "Bava Batra 99a:1",
+    "heRef_2": "בבא בתרא צט., א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 3392,
+    "ref_2": "Bava Batra 145b:1",
+    "heRef_2": "בבא בתרא קמה:, א",
+    "path_2": "בבא בתרא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 150,
+    "ref_2": "Sanhedrin 7a:1",
+    "heRef_2": "סנהדרין ז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 637,
+    "ref_2": "Sanhedrin 22a:1",
+    "heRef_2": "סנהדרין כב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 662,
+    "ref_2": "Sanhedrin 22b:3",
+    "heRef_2": "סנהדרין כב:, ג",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 1386,
+    "ref_2": "Sanhedrin 38a:15",
+    "heRef_2": "סנהדרין לח., טו",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 1391,
+    "ref_2": "Sanhedrin 38b:1",
+    "heRef_2": "סנהדרין לח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 1635,
+    "ref_2": "Sanhedrin 44b:4",
+    "heRef_2": "סנהדרין מד:, ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 2331,
+    "ref_2": "Sanhedrin 59b:25",
+    "heRef_2": "סנהדרין נט:, כה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 2524,
+    "ref_2": "Sanhedrin 64a:1",
+    "heRef_2": "סנהדרין סד., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 3194,
+    "ref_2": "Sanhedrin 82a:1",
+    "heRef_2": "סנהדרין פב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 3210,
+    "ref_2": "Sanhedrin 82b:1",
+    "heRef_2": "סנהדרין פב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 3546,
+    "ref_2": "Sanhedrin 90b:14",
+    "heRef_2": "סנהדרין צ:, יד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 3573,
+    "ref_2": "Sanhedrin 91b:1",
+    "heRef_2": "סנהדרין צא:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 3593,
+    "ref_2": "Sanhedrin 92a:2",
+    "heRef_2": "סנהדרין צב., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 3617,
+    "ref_2": "Sanhedrin 92b:1",
+    "heRef_2": "סנהדרין צב:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 3634,
+    "ref_2": "Sanhedrin 93a:1",
+    "heRef_2": "סנהדרין צג., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 3676,
+    "ref_2": "Sanhedrin 94a:4",
+    "heRef_2": "סנהדרין צד., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 3738,
+    "ref_2": "Sanhedrin 95b:10",
+    "heRef_2": "סנהדרין צה:, י",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 3749,
+    "ref_2": "Sanhedrin 96a:4",
+    "heRef_2": "סנהדרין צו., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 3762,
+    "ref_2": "Sanhedrin 96b:1",
+    "heRef_2": "סנהדרין צו:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 3778,
+    "ref_2": "Sanhedrin 97a:1",
+    "heRef_2": "סנהדרין צז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 3778,
+    "ref_2": "Sanhedrin 97a:1",
+    "heRef_2": "סנהדרין צז., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 3811,
+    "ref_2": "Sanhedrin 98a:1",
+    "heRef_2": "סנהדרין צח., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 3833,
+    "ref_2": "Sanhedrin 98b:1",
+    "heRef_2": "סנהדרין צח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 3870,
+    "ref_2": "Sanhedrin 99a:20",
+    "heRef_2": "סנהדרין צט., כ",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 3875,
+    "ref_2": "Sanhedrin 99b:1",
+    "heRef_2": "סנהדרין צט:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 3895,
+    "ref_2": "Sanhedrin 100a:1",
+    "heRef_2": "סנהדרין ק., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 3964,
+    "ref_2": "Sanhedrin 102a:1",
+    "heRef_2": "סנהדרין קב., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 3984,
+    "ref_2": "Sanhedrin 102b:2",
+    "heRef_2": "סנהדרין קב:, ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 4005,
+    "ref_2": "Sanhedrin 103a:2",
+    "heRef_2": "סנהדרין קג., ב",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 4106,
+    "ref_2": "Sanhedrin 105b:16",
+    "heRef_2": "סנהדרין קה:, טז",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 4116,
+    "ref_2": "Sanhedrin 106a:5",
+    "heRef_2": "סנהדרין קו., ה",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 4216,
+    "ref_2": "Sanhedrin 108b:1",
+    "heRef_2": "סנהדרין קח:, א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 4242,
+    "ref_2": "Sanhedrin 109a:4",
+    "heRef_2": "סנהדרין קט., ד",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 4307,
+    "ref_2": "Sanhedrin 111a:1",
+    "heRef_2": "סנהדרין קיא., א",
+    "path_2": "סנהדרין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 284,
+    "ref_2": "Makkot 10a:22",
+    "heRef_2": "מכות י., כב",
+    "path_2": "מכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 326,
+    "ref_2": "Makkot 11a:18",
+    "heRef_2": "מכות יא., יח",
+    "path_2": "מכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 347,
+    "ref_2": "Makkot 12a:1",
+    "heRef_2": "מכות יב., א",
+    "path_2": "מכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 679,
+    "ref_2": "Makkot 23a:2",
+    "heRef_2": "מכות כג., ב",
+    "path_2": "מכות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 124,
+    "ref_2": "Shevuot 6b:1",
+    "heRef_2": "שבועות ו:, א",
+    "path_2": "שבועות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 207,
+    "ref_2": "Shevuot 9a:1",
+    "heRef_2": "שבועות ט., א",
+    "path_2": "שבועות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 548,
+    "ref_2": "Shevuot 20b:1",
+    "heRef_2": "שבועות כ:, א",
+    "path_2": "שבועות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 9,
+    "ref_2": "Avodah Zarah 2a:7",
+    "heRef_2": "עבודה זרה ב., ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 13,
+    "ref_2": "Avodah Zarah 2b:2",
+    "heRef_2": "עבודה זרה ב:, ב",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 34,
+    "ref_2": "Avodah Zarah 3a:4",
+    "heRef_2": "עבודה זרה ג., ד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 45,
+    "ref_2": "Avodah Zarah 3b:1",
+    "heRef_2": "עבודה זרה ג:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 64,
+    "ref_2": "Avodah Zarah 4a:1",
+    "heRef_2": "עבודה זרה ד., א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 98,
+    "ref_2": "Avodah Zarah 4b:15",
+    "heRef_2": "עבודה זרה ד:, טו",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 127,
+    "ref_2": "Avodah Zarah 5b:1",
+    "heRef_2": "עבודה זרה ה:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 206,
+    "ref_2": "Avodah Zarah 8a:1",
+    "heRef_2": "עבודה זרה ח., א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 311,
+    "ref_2": "Avodah Zarah 11b:3",
+    "heRef_2": "עבודה זרה יא:, ג",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 443,
+    "ref_2": "Avodah Zarah 16b:1",
+    "heRef_2": "עבודה זרה טז:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 467,
+    "ref_2": "Avodah Zarah 17a:7",
+    "heRef_2": "עבודה זרה יז., ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 521,
+    "ref_2": "Avodah Zarah 18b:11",
+    "heRef_2": "עבודה זרה יח:, יא",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 425,
+    "line_index_2": 543,
+    "ref_2": "Avodah Zarah 19a:14",
+    "heRef_2": "עבודה זרה יט., יד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 550,
+    "ref_2": "Avodah Zarah 19b:1",
+    "heRef_2": "עבודה זרה יט:, א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 581,
+    "ref_2": "Avodah Zarah 20b:2",
+    "heRef_2": "עבודה זרה כ:, ב",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 703,
+    "ref_2": "Avodah Zarah 24b:14",
+    "heRef_2": "עבודה זרה כד:, יד",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 711,
+    "ref_2": "Avodah Zarah 25a:1",
+    "heRef_2": "עבודה זרה כה., א",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 435,
+    "line_index_2": 1025,
+    "ref_2": "Avodah Zarah 35b:7",
+    "heRef_2": "עבודה זרה לה:, ז",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 1961,
+    "ref_2": "Avodah Zarah 65a:3",
+    "heRef_2": "עבודה זרה סה., ג",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 1961,
+    "ref_2": "Avodah Zarah 65a:3",
+    "heRef_2": "עבודה זרה סה., ג",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 1961,
+    "ref_2": "Avodah Zarah 65a:3",
+    "heRef_2": "עבודה זרה סה., ג",
+    "path_2": "עבודה זרה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 1860,
+    "ref_2": "Zevachim 53b:1",
+    "heRef_2": "זבחים נג:, א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 2868,
+    "ref_2": "Zevachim 88b:1",
+    "heRef_2": "זבחים פח:, א",
+    "path_2": "זבחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 3320,
+    "ref_2": "Zevachim 101b:14",
+    "heRef_2": "זבחים קא:, יד",
+    "path_2": "זבחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 3340,
+    "ref_2": "Zevachim 102a:14",
+    "heRef_2": "זבחים קב., יד",
+    "path_2": "זבחים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 1017,
+    "ref_2": "Menachot 29a:8",
+    "heRef_2": "מנחות כט., ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 1032,
+    "ref_2": "Menachot 29b:3",
+    "heRef_2": "מנחות כט:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 1212,
+    "ref_2": "Menachot 35b:8",
+    "heRef_2": "מנחות לה:, ח",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 1447,
+    "ref_2": "Menachot 43b:1",
+    "heRef_2": "מנחות מג:, א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 1485,
+    "ref_2": "Menachot 44a:20",
+    "heRef_2": "מנחות מד., כ",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 461,
+    "line_index_2": 1864,
+    "ref_2": "Menachot 53b:3",
+    "heRef_2": "מנחות נג:, ג",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 3540,
+    "ref_2": "Menachot 99b:1",
+    "heRef_2": "מנחות צט:, א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 3563,
+    "ref_2": "Menachot 100a:2",
+    "heRef_2": "מנחות ק., ב",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 3978,
+    "ref_2": "Menachot 110a:1",
+    "heRef_2": "מנחות קי., א",
+    "path_2": "מנחות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 158,
+    "ref_2": "Chullin 7a:1",
+    "heRef_2": "חולין ז., א",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 1767,
+    "ref_2": "Chullin 59b:1",
+    "heRef_2": "חולין נט:, א",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 1788,
+    "ref_2": "Chullin 60a:10",
+    "heRef_2": "חולין ס., י",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 2663,
+    "ref_2": "Chullin 87a:7",
+    "heRef_2": "חולין פז., ז",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 2800,
+    "ref_2": "Chullin 91a:23",
+    "heRef_2": "חולין צא., כג",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 2802,
+    "ref_2": "Chullin 91b:1",
+    "heRef_2": "חולין צא:, א",
+    "path_2": "חולין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 259,
+    "ref_2": "Bekhorot 8a:1",
+    "heRef_2": "בכורות ח., א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 485,
+    "line_index_2": 277,
+    "ref_2": "Bekhorot 8b:1",
+    "heRef_2": "בכורות ח:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 299,
+    "ref_2": "Bekhorot 9a:1",
+    "heRef_2": "בכורות ט., א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 1886,
+    "ref_2": "Bekhorot 55b:1",
+    "heRef_2": "בכורות נה:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 1952,
+    "ref_2": "Bekhorot 57b:1",
+    "heRef_2": "בכורות נז:, א",
+    "path_2": "בכורות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 429,
+    "ref_2": "Arakhin 13b:1",
+    "heRef_2": "ערכין יג:, א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 503,
+    "ref_2": "Arakhin 15a:6",
+    "heRef_2": "ערכין טו., ו",
+    "path_2": "ערכין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 520,
+    "ref_2": "Arakhin 15b:1",
+    "heRef_2": "ערכין טו:, א",
+    "path_2": "ערכין.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 505,
+    "ref_2": "Temurah 16a:6",
+    "heRef_2": "תמורה טז., ו",
+    "path_2": "תמורה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 504,
+    "line_index_2": 171,
+    "ref_2": "Tamid 32a:1",
+    "heRef_2": "תמיד לב., א",
+    "path_2": "תמיד.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 522,
+    "ref_2": "Niddah 16b:1",
+    "heRef_2": "נדה טז:, א",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 547,
+    "ref_2": "Niddah 17a:8",
+    "heRef_2": "נדה יז., ח",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 1121,
+    "ref_2": "Niddah 30b:18",
+    "heRef_2": "נדה ל:, יח",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1132,
+    "ref_2": "Niddah 31a:1",
+    "heRef_2": "נדה לא., א",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 1158,
+    "ref_2": "Niddah 31b:1",
+    "heRef_2": "נדה לא:, א",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 1158,
+    "ref_2": "Niddah 31b:1",
+    "heRef_2": "נדה לא:, א",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 1158,
+    "ref_2": "Niddah 31b:1",
+    "heRef_2": "נדה לא:, א",
+    "path_2": "נדה.txt",
+    "Conection Type": "source"
+  }
+]
