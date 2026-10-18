@@ -1,0 +1,3656 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "line_index_2_end": 12,
+    "ref_2": "Bava Kamma 2a:1",
+    "heRef_2": "בבא קמא ב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "line_index_2_end": 12,
+    "ref_2": "Bava Kamma 2a:1",
+    "heRef_2": "בבא קמא ב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 14,
+    "line_index_2_end": 33,
+    "ref_2": "Bava Kamma 2b:1",
+    "heRef_2": "בבא קמא ב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 14,
+    "line_index_2_end": 33,
+    "ref_2": "Bava Kamma 2b:1",
+    "heRef_2": "בבא קמא ב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 14,
+    "line_index_2_end": 33,
+    "ref_2": "Bava Kamma 2b:1",
+    "heRef_2": "בבא קמא ב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 14,
+    "line_index_2_end": 33,
+    "ref_2": "Bava Kamma 2b:1",
+    "heRef_2": "בבא קמא ב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 35,
+    "line_index_2_end": 56,
+    "ref_2": "Bava Kamma 3a:1",
+    "heRef_2": "בבא קמא ג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 58,
+    "line_index_2_end": 76,
+    "ref_2": "Bava Kamma 3b:1",
+    "heRef_2": "בבא קמא ג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 58,
+    "line_index_2_end": 76,
+    "ref_2": "Bava Kamma 3b:1",
+    "heRef_2": "בבא קמא ג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 78,
+    "line_index_2_end": 95,
+    "ref_2": "Bava Kamma 4a:1",
+    "heRef_2": "בבא קמא ד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 78,
+    "line_index_2_end": 95,
+    "ref_2": "Bava Kamma 4a:1",
+    "heRef_2": "בבא קמא ד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 78,
+    "line_index_2_end": 95,
+    "ref_2": "Bava Kamma 4a:1",
+    "heRef_2": "בבא קמא ד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 97,
+    "line_index_2_end": 112,
+    "ref_2": "Bava Kamma 4b:1",
+    "heRef_2": "בבא קמא ד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 97,
+    "line_index_2_end": 112,
+    "ref_2": "Bava Kamma 4b:1",
+    "heRef_2": "בבא קמא ד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 97,
+    "line_index_2_end": 112,
+    "ref_2": "Bava Kamma 4b:1",
+    "heRef_2": "בבא קמא ד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 97,
+    "line_index_2_end": 112,
+    "ref_2": "Bava Kamma 4b:1",
+    "heRef_2": "בבא קמא ד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 114,
+    "line_index_2_end": 132,
+    "ref_2": "Bava Kamma 5a:1",
+    "heRef_2": "בבא קמא ה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 144,
+    "line_index_2_end": 167,
+    "ref_2": "Bava Kamma 6a:1",
+    "heRef_2": "בבא קמא ו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 169,
+    "line_index_2_end": 195,
+    "ref_2": "Bava Kamma 6b:1",
+    "heRef_2": "בבא קמא ו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 169,
+    "line_index_2_end": 195,
+    "ref_2": "Bava Kamma 6b:1",
+    "heRef_2": "בבא קמא ו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 197,
+    "line_index_2_end": 213,
+    "ref_2": "Bava Kamma 7a:1",
+    "heRef_2": "בבא קמא ז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 197,
+    "line_index_2_end": 213,
+    "ref_2": "Bava Kamma 7a:1",
+    "heRef_2": "בבא קמא ז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 197,
+    "line_index_2_end": 213,
+    "ref_2": "Bava Kamma 7a:1",
+    "heRef_2": "בבא קמא ז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 215,
+    "line_index_2_end": 234,
+    "ref_2": "Bava Kamma 7b:1",
+    "heRef_2": "בבא קמא ז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 215,
+    "line_index_2_end": 234,
+    "ref_2": "Bava Kamma 7b:1",
+    "heRef_2": "בבא קמא ז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 236,
+    "line_index_2_end": 256,
+    "ref_2": "Bava Kamma 8a:1",
+    "heRef_2": "בבא קמא ח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 236,
+    "line_index_2_end": 256,
+    "ref_2": "Bava Kamma 8a:1",
+    "heRef_2": "בבא קמא ח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 236,
+    "line_index_2_end": 256,
+    "ref_2": "Bava Kamma 8a:1",
+    "heRef_2": "בבא קמא ח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 258,
+    "line_index_2_end": 276,
+    "ref_2": "Bava Kamma 8b:1",
+    "heRef_2": "בבא קמא ח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 258,
+    "line_index_2_end": 276,
+    "ref_2": "Bava Kamma 8b:1",
+    "heRef_2": "בבא קמא ח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 258,
+    "line_index_2_end": 276,
+    "ref_2": "Bava Kamma 8b:1",
+    "heRef_2": "בבא קמא ח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 258,
+    "line_index_2_end": 276,
+    "ref_2": "Bava Kamma 8b:1",
+    "heRef_2": "בבא קמא ח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 278,
+    "line_index_2_end": 298,
+    "ref_2": "Bava Kamma 9a:1",
+    "heRef_2": "בבא קמא ט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 278,
+    "line_index_2_end": 298,
+    "ref_2": "Bava Kamma 9a:1",
+    "heRef_2": "בבא קמא ט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 278,
+    "line_index_2_end": 298,
+    "ref_2": "Bava Kamma 9a:1",
+    "heRef_2": "בבא קמא ט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 278,
+    "line_index_2_end": 298,
+    "ref_2": "Bava Kamma 9a:1",
+    "heRef_2": "בבא קמא ט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 300,
+    "line_index_2_end": 317,
+    "ref_2": "Bava Kamma 9b:1",
+    "heRef_2": "בבא קמא ט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 300,
+    "line_index_2_end": 317,
+    "ref_2": "Bava Kamma 9b:1",
+    "heRef_2": "בבא קמא ט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 300,
+    "line_index_2_end": 317,
+    "ref_2": "Bava Kamma 9b:1",
+    "heRef_2": "בבא קמא ט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 300,
+    "line_index_2_end": 317,
+    "ref_2": "Bava Kamma 9b:1",
+    "heRef_2": "בבא קמא ט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 319,
+    "line_index_2_end": 339,
+    "ref_2": "Bava Kamma 10a:1",
+    "heRef_2": "בבא קמא י., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 341,
+    "line_index_2_end": 368,
+    "ref_2": "Bava Kamma 10b:1",
+    "heRef_2": "בבא קמא י:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 341,
+    "line_index_2_end": 368,
+    "ref_2": "Bava Kamma 10b:1",
+    "heRef_2": "בבא קמא י:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 341,
+    "line_index_2_end": 368,
+    "ref_2": "Bava Kamma 10b:1",
+    "heRef_2": "בבא קמא י:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 341,
+    "line_index_2_end": 368,
+    "ref_2": "Bava Kamma 10b:1",
+    "heRef_2": "בבא קמא י:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 370,
+    "line_index_2_end": 388,
+    "ref_2": "Bava Kamma 11a:1",
+    "heRef_2": "בבא קמא יא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 390,
+    "line_index_2_end": 403,
+    "ref_2": "Bava Kamma 11b:1",
+    "heRef_2": "בבא קמא יא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 390,
+    "line_index_2_end": 403,
+    "ref_2": "Bava Kamma 11b:1",
+    "heRef_2": "בבא קמא יא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 390,
+    "line_index_2_end": 403,
+    "ref_2": "Bava Kamma 11b:1",
+    "heRef_2": "בבא קמא יא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 390,
+    "line_index_2_end": 403,
+    "ref_2": "Bava Kamma 11b:1",
+    "heRef_2": "בבא קמא יא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 405,
+    "line_index_2_end": 423,
+    "ref_2": "Bava Kamma 12a:1",
+    "heRef_2": "בבא קמא יב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 405,
+    "line_index_2_end": 423,
+    "ref_2": "Bava Kamma 12a:1",
+    "heRef_2": "בבא קמא יב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 405,
+    "line_index_2_end": 423,
+    "ref_2": "Bava Kamma 12a:1",
+    "heRef_2": "בבא קמא יב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 425,
+    "line_index_2_end": 438,
+    "ref_2": "Bava Kamma 12b:1",
+    "heRef_2": "בבא קמא יב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 440,
+    "line_index_2_end": 462,
+    "ref_2": "Bava Kamma 13a:1",
+    "heRef_2": "בבא קמא יג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 440,
+    "line_index_2_end": 462,
+    "ref_2": "Bava Kamma 13a:1",
+    "heRef_2": "בבא קמא יג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 440,
+    "line_index_2_end": 462,
+    "ref_2": "Bava Kamma 13a:1",
+    "heRef_2": "בבא קמא יג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 464,
+    "line_index_2_end": 488,
+    "ref_2": "Bava Kamma 13b:1",
+    "heRef_2": "בבא קמא יג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 464,
+    "line_index_2_end": 488,
+    "ref_2": "Bava Kamma 13b:1",
+    "heRef_2": "בבא קמא יג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 464,
+    "line_index_2_end": 488,
+    "ref_2": "Bava Kamma 13b:1",
+    "heRef_2": "בבא קמא יג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 464,
+    "line_index_2_end": 488,
+    "ref_2": "Bava Kamma 13b:1",
+    "heRef_2": "בבא קמא יג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 490,
+    "line_index_2_end": 517,
+    "ref_2": "Bava Kamma 14a:1",
+    "heRef_2": "בבא קמא יד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 519,
+    "line_index_2_end": 541,
+    "ref_2": "Bava Kamma 14b:1",
+    "heRef_2": "בבא קמא יד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 519,
+    "line_index_2_end": 541,
+    "ref_2": "Bava Kamma 14b:1",
+    "heRef_2": "בבא קמא יד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 519,
+    "line_index_2_end": 541,
+    "ref_2": "Bava Kamma 14b:1",
+    "heRef_2": "בבא קמא יד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 519,
+    "line_index_2_end": 541,
+    "ref_2": "Bava Kamma 14b:1",
+    "heRef_2": "בבא קמא יד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 543,
+    "line_index_2_end": 567,
+    "ref_2": "Bava Kamma 15a:1",
+    "heRef_2": "בבא קמא טו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 569,
+    "line_index_2_end": 596,
+    "ref_2": "Bava Kamma 15b:1",
+    "heRef_2": "בבא קמא טו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 569,
+    "line_index_2_end": 596,
+    "ref_2": "Bava Kamma 15b:1",
+    "heRef_2": "בבא קמא טו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 569,
+    "line_index_2_end": 596,
+    "ref_2": "Bava Kamma 15b:1",
+    "heRef_2": "בבא קמא טו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 598,
+    "line_index_2_end": 620,
+    "ref_2": "Bava Kamma 16a:1",
+    "heRef_2": "בבא קמא טז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 598,
+    "line_index_2_end": 620,
+    "ref_2": "Bava Kamma 16a:1",
+    "heRef_2": "בבא קמא טז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 598,
+    "line_index_2_end": 620,
+    "ref_2": "Bava Kamma 16a:1",
+    "heRef_2": "בבא קמא טז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 598,
+    "line_index_2_end": 620,
+    "ref_2": "Bava Kamma 16a:1",
+    "heRef_2": "בבא קמא טז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 598,
+    "line_index_2_end": 620,
+    "ref_2": "Bava Kamma 16a:1",
+    "heRef_2": "בבא קמא טז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 622,
+    "line_index_2_end": 646,
+    "ref_2": "Bava Kamma 16b:1",
+    "heRef_2": "בבא קמא טז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 622,
+    "line_index_2_end": 646,
+    "ref_2": "Bava Kamma 16b:1",
+    "heRef_2": "בבא קמא טז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 622,
+    "line_index_2_end": 646,
+    "ref_2": "Bava Kamma 16b:1",
+    "heRef_2": "בבא קמא טז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 622,
+    "line_index_2_end": 646,
+    "ref_2": "Bava Kamma 16b:1",
+    "heRef_2": "בבא קמא טז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 622,
+    "line_index_2_end": 646,
+    "ref_2": "Bava Kamma 16b:1",
+    "heRef_2": "בבא קמא טז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 648,
+    "line_index_2_end": 662,
+    "ref_2": "Bava Kamma 17a:1",
+    "heRef_2": "בבא קמא יז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 648,
+    "line_index_2_end": 662,
+    "ref_2": "Bava Kamma 17a:1",
+    "heRef_2": "בבא קמא יז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 648,
+    "line_index_2_end": 662,
+    "ref_2": "Bava Kamma 17a:1",
+    "heRef_2": "בבא קמא יז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 648,
+    "line_index_2_end": 662,
+    "ref_2": "Bava Kamma 17a:1",
+    "heRef_2": "בבא קמא יז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 664,
+    "line_index_2_end": 685,
+    "ref_2": "Bava Kamma 17b:1",
+    "heRef_2": "בבא קמא יז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 687,
+    "line_index_2_end": 705,
+    "ref_2": "Bava Kamma 18a:1",
+    "heRef_2": "בבא קמא יח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 687,
+    "line_index_2_end": 705,
+    "ref_2": "Bava Kamma 18a:1",
+    "heRef_2": "בבא קמא יח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 687,
+    "line_index_2_end": 705,
+    "ref_2": "Bava Kamma 18a:1",
+    "heRef_2": "בבא קמא יח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 687,
+    "line_index_2_end": 705,
+    "ref_2": "Bava Kamma 18a:1",
+    "heRef_2": "בבא קמא יח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 707,
+    "line_index_2_end": 724,
+    "ref_2": "Bava Kamma 18b:1",
+    "heRef_2": "בבא קמא יח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 726,
+    "line_index_2_end": 746,
+    "ref_2": "Bava Kamma 19a:1",
+    "heRef_2": "בבא קמא יט., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 748,
+    "line_index_2_end": 766,
+    "ref_2": "Bava Kamma 19b:1",
+    "heRef_2": "בבא קמא יט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 768,
+    "line_index_2_end": 786,
+    "ref_2": "Bava Kamma 20a:1",
+    "heRef_2": "בבא קמא כ., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 788,
+    "line_index_2_end": 806,
+    "ref_2": "Bava Kamma 20b:1",
+    "heRef_2": "בבא קמא כ:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 788,
+    "line_index_2_end": 806,
+    "ref_2": "Bava Kamma 20b:1",
+    "heRef_2": "בבא קמא כ:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 808,
+    "line_index_2_end": 826,
+    "ref_2": "Bava Kamma 21a:1",
+    "heRef_2": "בבא קמא כא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 828,
+    "line_index_2_end": 839,
+    "ref_2": "Bava Kamma 21b:1",
+    "heRef_2": "בבא קמא כא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 828,
+    "line_index_2_end": 839,
+    "ref_2": "Bava Kamma 21b:1",
+    "heRef_2": "בבא קמא כא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 828,
+    "line_index_2_end": 839,
+    "ref_2": "Bava Kamma 21b:1",
+    "heRef_2": "בבא קמא כא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 828,
+    "line_index_2_end": 839,
+    "ref_2": "Bava Kamma 21b:1",
+    "heRef_2": "בבא קמא כא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 828,
+    "line_index_2_end": 839,
+    "ref_2": "Bava Kamma 21b:1",
+    "heRef_2": "בבא קמא כא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 841,
+    "line_index_2_end": 852,
+    "ref_2": "Bava Kamma 22a:1",
+    "heRef_2": "בבא קמא כב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 314,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 318,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 854,
+    "line_index_2_end": 864,
+    "ref_2": "Bava Kamma 22b:1",
+    "heRef_2": "בבא קמא כב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 866,
+    "line_index_2_end": 876,
+    "ref_2": "Bava Kamma 23a:1",
+    "heRef_2": "בבא קמא כג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 866,
+    "line_index_2_end": 876,
+    "ref_2": "Bava Kamma 23a:1",
+    "heRef_2": "בבא קמא כג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 866,
+    "line_index_2_end": 876,
+    "ref_2": "Bava Kamma 23a:1",
+    "heRef_2": "בבא קמא כג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 866,
+    "line_index_2_end": 876,
+    "ref_2": "Bava Kamma 23a:1",
+    "heRef_2": "בבא קמא כג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 878,
+    "line_index_2_end": 896,
+    "ref_2": "Bava Kamma 23b:1",
+    "heRef_2": "בבא קמא כג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 898,
+    "line_index_2_end": 912,
+    "ref_2": "Bava Kamma 24a:1",
+    "heRef_2": "בבא קמא כד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 367,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 914,
+    "line_index_2_end": 928,
+    "ref_2": "Bava Kamma 24b:1",
+    "heRef_2": "בבא קמא כד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 930,
+    "line_index_2_end": 943,
+    "ref_2": "Bava Kamma 25a:1",
+    "heRef_2": "בבא קמא כה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 945,
+    "line_index_2_end": 959,
+    "ref_2": "Bava Kamma 25b:1",
+    "heRef_2": "בבא קמא כה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 961,
+    "line_index_2_end": 983,
+    "ref_2": "Bava Kamma 26a:1",
+    "heRef_2": "בבא קמא כו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 985,
+    "line_index_2_end": 995,
+    "ref_2": "Bava Kamma 26b:1",
+    "heRef_2": "בבא קמא כו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 985,
+    "line_index_2_end": 995,
+    "ref_2": "Bava Kamma 26b:1",
+    "heRef_2": "בבא קמא כו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 985,
+    "line_index_2_end": 995,
+    "ref_2": "Bava Kamma 26b:1",
+    "heRef_2": "בבא קמא כו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 985,
+    "line_index_2_end": 995,
+    "ref_2": "Bava Kamma 26b:1",
+    "heRef_2": "בבא קמא כו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 443,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 450,
+    "line_index_2": 997,
+    "line_index_2_end": 1015,
+    "ref_2": "Bava Kamma 27a:1",
+    "heRef_2": "בבא קמא כז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 1017,
+    "line_index_2_end": 1033,
+    "ref_2": "Bava Kamma 27b:1",
+    "heRef_2": "בבא קמא כז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 461,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 1035,
+    "line_index_2_end": 1065,
+    "ref_2": "Bava Kamma 28a:1",
+    "heRef_2": "בבא קמא כח., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 1067,
+    "line_index_2_end": 1085,
+    "ref_2": "Bava Kamma 28b:1",
+    "heRef_2": "בבא קמא כח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 1104,
+    "line_index_2_end": 1125,
+    "ref_2": "Bava Kamma 29b:1",
+    "heRef_2": "בבא קמא כט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 1104,
+    "line_index_2_end": 1125,
+    "ref_2": "Bava Kamma 29b:1",
+    "heRef_2": "בבא קמא כט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 493,
+    "line_index_2": 1104,
+    "line_index_2_end": 1125,
+    "ref_2": "Bava Kamma 29b:1",
+    "heRef_2": "בבא קמא כט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 1104,
+    "line_index_2_end": 1125,
+    "ref_2": "Bava Kamma 29b:1",
+    "heRef_2": "בבא קמא כט:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 1127,
+    "line_index_2_end": 1154,
+    "ref_2": "Bava Kamma 30a:1",
+    "heRef_2": "בבא קמא ל., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 504,
+    "line_index_2": 1127,
+    "line_index_2_end": 1154,
+    "ref_2": "Bava Kamma 30a:1",
+    "heRef_2": "בבא קמא ל., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 1127,
+    "line_index_2_end": 1154,
+    "ref_2": "Bava Kamma 30a:1",
+    "heRef_2": "בבא קמא ל., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 1127,
+    "line_index_2_end": 1154,
+    "ref_2": "Bava Kamma 30a:1",
+    "heRef_2": "בבא קמא ל., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 1127,
+    "line_index_2_end": 1154,
+    "ref_2": "Bava Kamma 30a:1",
+    "heRef_2": "בבא קמא ל., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 512,
+    "line_index_2": 1156,
+    "line_index_2_end": 1175,
+    "ref_2": "Bava Kamma 30b:1",
+    "heRef_2": "בבא קמא ל:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1156,
+    "line_index_2_end": 1175,
+    "ref_2": "Bava Kamma 30b:1",
+    "heRef_2": "בבא קמא ל:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 514,
+    "line_index_2": 1156,
+    "line_index_2_end": 1175,
+    "ref_2": "Bava Kamma 30b:1",
+    "heRef_2": "בבא קמא ל:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 1156,
+    "line_index_2_end": 1175,
+    "ref_2": "Bava Kamma 30b:1",
+    "heRef_2": "בבא קמא ל:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 1177,
+    "line_index_2_end": 1194,
+    "ref_2": "Bava Kamma 31a:1",
+    "heRef_2": "בבא קמא לא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 1177,
+    "line_index_2_end": 1194,
+    "ref_2": "Bava Kamma 31a:1",
+    "heRef_2": "בבא קמא לא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1177,
+    "line_index_2_end": 1194,
+    "ref_2": "Bava Kamma 31a:1",
+    "heRef_2": "בבא קמא לא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 1177,
+    "line_index_2_end": 1194,
+    "ref_2": "Bava Kamma 31a:1",
+    "heRef_2": "בבא קמא לא., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 521,
+    "line_index_2": 1196,
+    "line_index_2_end": 1205,
+    "ref_2": "Bava Kamma 31b:1",
+    "heRef_2": "בבא קמא לא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 1196,
+    "line_index_2_end": 1205,
+    "ref_2": "Bava Kamma 31b:1",
+    "heRef_2": "בבא קמא לא:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 530,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 533,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 1207,
+    "line_index_2_end": 1228,
+    "ref_2": "Bava Kamma 32a:1",
+    "heRef_2": "בבא קמא לב., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 1230,
+    "line_index_2_end": 1253,
+    "ref_2": "Bava Kamma 32b:1",
+    "heRef_2": "בבא קמא לב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 1230,
+    "line_index_2_end": 1253,
+    "ref_2": "Bava Kamma 32b:1",
+    "heRef_2": "בבא קמא לב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 1230,
+    "line_index_2_end": 1253,
+    "ref_2": "Bava Kamma 32b:1",
+    "heRef_2": "בבא קמא לב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 1230,
+    "line_index_2_end": 1253,
+    "ref_2": "Bava Kamma 32b:1",
+    "heRef_2": "בבא קמא לב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 551,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 1255,
+    "line_index_2_end": 1277,
+    "ref_2": "Bava Kamma 33a:1",
+    "heRef_2": "בבא קמא לג., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 564,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 566,
+    "line_index_2": 1279,
+    "line_index_2_end": 1302,
+    "ref_2": "Bava Kamma 33b:1",
+    "heRef_2": "בבא קמא לג:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 575,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 1304,
+    "line_index_2_end": 1322,
+    "ref_2": "Bava Kamma 34a:1",
+    "heRef_2": "בבא קמא לד., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1324,
+    "line_index_2_end": 1341,
+    "ref_2": "Bava Kamma 34b:1",
+    "heRef_2": "בבא קמא לד:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 1343,
+    "line_index_2_end": 1356,
+    "ref_2": "Bava Kamma 35a:1",
+    "heRef_2": "בבא קמא לה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 1343,
+    "line_index_2_end": 1356,
+    "ref_2": "Bava Kamma 35a:1",
+    "heRef_2": "בבא קמא לה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 1343,
+    "line_index_2_end": 1356,
+    "ref_2": "Bava Kamma 35a:1",
+    "heRef_2": "בבא קמא לה., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 610,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 614,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 1358,
+    "line_index_2_end": 1381,
+    "ref_2": "Bava Kamma 35b:1",
+    "heRef_2": "בבא קמא לה:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 617,
+    "line_index_2": 1383,
+    "line_index_2_end": 1396,
+    "ref_2": "Bava Kamma 36a:1",
+    "heRef_2": "בבא קמא לו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 621,
+    "line_index_2": 1383,
+    "line_index_2_end": 1396,
+    "ref_2": "Bava Kamma 36a:1",
+    "heRef_2": "בבא קמא לו., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 1398,
+    "line_index_2_end": 1414,
+    "ref_2": "Bava Kamma 36b:1",
+    "heRef_2": "בבא קמא לו:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 643,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 645,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 646,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 1416,
+    "line_index_2_end": 1442,
+    "ref_2": "Bava Kamma 37a:1",
+    "heRef_2": "בבא קמא לז., א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 1444,
+    "line_index_2_end": 1460,
+    "ref_2": "Bava Kamma 37b:1",
+    "heRef_2": "בבא קמא לז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 1444,
+    "line_index_2_end": 1460,
+    "ref_2": "Bava Kamma 37b:1",
+    "heRef_2": "בבא קמא לז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 654,
+    "line_index_2": 1444,
+    "line_index_2_end": 1460,
+    "ref_2": "Bava Kamma 37b:1",
+    "heRef_2": "בבא קמא לז:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  }
+]

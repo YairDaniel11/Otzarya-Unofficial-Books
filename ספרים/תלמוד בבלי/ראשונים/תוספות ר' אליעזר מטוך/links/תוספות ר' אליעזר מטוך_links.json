@@ -1,0 +1,20 @@
+[
+  {
+    "line_index_1": 6,
+    "line_index_2": 2405,
+    "line_index_2_end": 2421,
+    "ref_2": "Bava Kamma 62b:1",
+    "heRef_2": "בבא קמא סב:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 2971,
+    "line_index_2_end": 2996,
+    "ref_2": "Bava Kamma 78b:1",
+    "heRef_2": "בבא קמא עח:, א",
+    "path_2": "בבא קמא.txt",
+    "Conection Type": "source"
+  }
+]

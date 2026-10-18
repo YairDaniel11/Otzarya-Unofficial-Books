@@ -1,0 +1,3260 @@
+[
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "line_index_2_end": 16,
+    "ref_2": "Sukkah 2a:1",
+    "heRef_2": "סוכה ב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 18,
+    "line_index_2_end": 36,
+    "ref_2": "Sukkah 2b:1",
+    "heRef_2": "סוכה ב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 18,
+    "line_index_2_end": 36,
+    "ref_2": "Sukkah 2b:1",
+    "heRef_2": "סוכה ב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 38,
+    "line_index_2_end": 51,
+    "ref_2": "Sukkah 3a:1",
+    "heRef_2": "סוכה ג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 38,
+    "line_index_2_end": 51,
+    "ref_2": "Sukkah 3a:1",
+    "heRef_2": "סוכה ג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 53,
+    "line_index_2_end": 65,
+    "ref_2": "Sukkah 3b:1",
+    "heRef_2": "סוכה ג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 67,
+    "line_index_2_end": 81,
+    "ref_2": "Sukkah 4a:1",
+    "heRef_2": "סוכה ד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 83,
+    "line_index_2_end": 99,
+    "ref_2": "Sukkah 4b:1",
+    "heRef_2": "סוכה ד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 83,
+    "line_index_2_end": 99,
+    "ref_2": "Sukkah 4b:1",
+    "heRef_2": "סוכה ד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 83,
+    "line_index_2_end": 99,
+    "ref_2": "Sukkah 4b:1",
+    "heRef_2": "סוכה ד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 101,
+    "line_index_2_end": 113,
+    "ref_2": "Sukkah 5a:1",
+    "heRef_2": "סוכה ה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 101,
+    "line_index_2_end": 113,
+    "ref_2": "Sukkah 5a:1",
+    "heRef_2": "סוכה ה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 101,
+    "line_index_2_end": 113,
+    "ref_2": "Sukkah 5a:1",
+    "heRef_2": "סוכה ה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 101,
+    "line_index_2_end": 113,
+    "ref_2": "Sukkah 5a:1",
+    "heRef_2": "סוכה ה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 115,
+    "line_index_2_end": 129,
+    "ref_2": "Sukkah 5b:1",
+    "heRef_2": "סוכה ה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 115,
+    "line_index_2_end": 129,
+    "ref_2": "Sukkah 5b:1",
+    "heRef_2": "סוכה ה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 115,
+    "line_index_2_end": 129,
+    "ref_2": "Sukkah 5b:1",
+    "heRef_2": "סוכה ה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 115,
+    "line_index_2_end": 129,
+    "ref_2": "Sukkah 5b:1",
+    "heRef_2": "סוכה ה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 115,
+    "line_index_2_end": 129,
+    "ref_2": "Sukkah 5b:1",
+    "heRef_2": "סוכה ה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 131,
+    "line_index_2_end": 142,
+    "ref_2": "Sukkah 6a:1",
+    "heRef_2": "סוכה ו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 131,
+    "line_index_2_end": 142,
+    "ref_2": "Sukkah 6a:1",
+    "heRef_2": "סוכה ו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 144,
+    "line_index_2_end": 160,
+    "ref_2": "Sukkah 6b:1",
+    "heRef_2": "סוכה ו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 144,
+    "line_index_2_end": 160,
+    "ref_2": "Sukkah 6b:1",
+    "heRef_2": "סוכה ו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 144,
+    "line_index_2_end": 160,
+    "ref_2": "Sukkah 6b:1",
+    "heRef_2": "סוכה ו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 162,
+    "line_index_2_end": 180,
+    "ref_2": "Sukkah 7a:1",
+    "heRef_2": "סוכה ז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 162,
+    "line_index_2_end": 180,
+    "ref_2": "Sukkah 7a:1",
+    "heRef_2": "סוכה ז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 162,
+    "line_index_2_end": 180,
+    "ref_2": "Sukkah 7a:1",
+    "heRef_2": "סוכה ז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 162,
+    "line_index_2_end": 180,
+    "ref_2": "Sukkah 7a:1",
+    "heRef_2": "סוכה ז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 162,
+    "line_index_2_end": 180,
+    "ref_2": "Sukkah 7a:1",
+    "heRef_2": "סוכה ז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 182,
+    "line_index_2_end": 202,
+    "ref_2": "Sukkah 7b:1",
+    "heRef_2": "סוכה ז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 182,
+    "line_index_2_end": 202,
+    "ref_2": "Sukkah 7b:1",
+    "heRef_2": "סוכה ז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 204,
+    "line_index_2_end": 213,
+    "ref_2": "Sukkah 8a:1",
+    "heRef_2": "סוכה ח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 204,
+    "line_index_2_end": 213,
+    "ref_2": "Sukkah 8a:1",
+    "heRef_2": "סוכה ח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 204,
+    "line_index_2_end": 213,
+    "ref_2": "Sukkah 8a:1",
+    "heRef_2": "סוכה ח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 204,
+    "line_index_2_end": 213,
+    "ref_2": "Sukkah 8a:1",
+    "heRef_2": "סוכה ח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 215,
+    "line_index_2_end": 224,
+    "ref_2": "Sukkah 8b:1",
+    "heRef_2": "סוכה ח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 215,
+    "line_index_2_end": 224,
+    "ref_2": "Sukkah 8b:1",
+    "heRef_2": "סוכה ח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 226,
+    "line_index_2_end": 238,
+    "ref_2": "Sukkah 9a:1",
+    "heRef_2": "סוכה ט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 226,
+    "line_index_2_end": 238,
+    "ref_2": "Sukkah 9a:1",
+    "heRef_2": "סוכה ט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 226,
+    "line_index_2_end": 238,
+    "ref_2": "Sukkah 9a:1",
+    "heRef_2": "סוכה ט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 254,
+    "line_index_2_end": 268,
+    "ref_2": "Sukkah 10a:1",
+    "heRef_2": "סוכה י., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 270,
+    "line_index_2_end": 283,
+    "ref_2": "Sukkah 10b:1",
+    "heRef_2": "סוכה י:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 270,
+    "line_index_2_end": 283,
+    "ref_2": "Sukkah 10b:1",
+    "heRef_2": "סוכה י:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 285,
+    "line_index_2_end": 299,
+    "ref_2": "Sukkah 11a:1",
+    "heRef_2": "סוכה יא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 285,
+    "line_index_2_end": 299,
+    "ref_2": "Sukkah 11a:1",
+    "heRef_2": "סוכה יא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 285,
+    "line_index_2_end": 299,
+    "ref_2": "Sukkah 11a:1",
+    "heRef_2": "סוכה יא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 285,
+    "line_index_2_end": 299,
+    "ref_2": "Sukkah 11a:1",
+    "heRef_2": "סוכה יא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 285,
+    "line_index_2_end": 299,
+    "ref_2": "Sukkah 11a:1",
+    "heRef_2": "סוכה יא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 301,
+    "line_index_2_end": 316,
+    "ref_2": "Sukkah 11b:1",
+    "heRef_2": "סוכה יא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 301,
+    "line_index_2_end": 316,
+    "ref_2": "Sukkah 11b:1",
+    "heRef_2": "סוכה יא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 301,
+    "line_index_2_end": 316,
+    "ref_2": "Sukkah 11b:1",
+    "heRef_2": "סוכה יא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 301,
+    "line_index_2_end": 316,
+    "ref_2": "Sukkah 11b:1",
+    "heRef_2": "סוכה יא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 301,
+    "line_index_2_end": 316,
+    "ref_2": "Sukkah 11b:1",
+    "heRef_2": "סוכה יא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 318,
+    "line_index_2_end": 331,
+    "ref_2": "Sukkah 12a:1",
+    "heRef_2": "סוכה יב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 318,
+    "line_index_2_end": 331,
+    "ref_2": "Sukkah 12a:1",
+    "heRef_2": "סוכה יב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 318,
+    "line_index_2_end": 331,
+    "ref_2": "Sukkah 12a:1",
+    "heRef_2": "סוכה יב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 318,
+    "line_index_2_end": 331,
+    "ref_2": "Sukkah 12a:1",
+    "heRef_2": "סוכה יב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 318,
+    "line_index_2_end": 331,
+    "ref_2": "Sukkah 12a:1",
+    "heRef_2": "סוכה יב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 333,
+    "line_index_2_end": 339,
+    "ref_2": "Sukkah 12b:1",
+    "heRef_2": "סוכה יב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 333,
+    "line_index_2_end": 339,
+    "ref_2": "Sukkah 12b:1",
+    "heRef_2": "סוכה יב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 341,
+    "line_index_2_end": 354,
+    "ref_2": "Sukkah 13a:1",
+    "heRef_2": "סוכה יג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 341,
+    "line_index_2_end": 354,
+    "ref_2": "Sukkah 13a:1",
+    "heRef_2": "סוכה יג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 356,
+    "line_index_2_end": 367,
+    "ref_2": "Sukkah 13b:1",
+    "heRef_2": "סוכה יג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Sukkah 14a:1",
+    "heRef_2": "סוכה יד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Sukkah 14a:1",
+    "heRef_2": "סוכה יד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Sukkah 14a:1",
+    "heRef_2": "סוכה יד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Sukkah 14a:1",
+    "heRef_2": "סוכה יד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 386,
+    "line_index_2_end": 400,
+    "ref_2": "Sukkah 14b:1",
+    "heRef_2": "סוכה יד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 386,
+    "line_index_2_end": 400,
+    "ref_2": "Sukkah 14b:1",
+    "heRef_2": "סוכה יד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 402,
+    "line_index_2_end": 416,
+    "ref_2": "Sukkah 15a:1",
+    "heRef_2": "סוכה טו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 402,
+    "line_index_2_end": 416,
+    "ref_2": "Sukkah 15a:1",
+    "heRef_2": "סוכה טו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 424,
+    "line_index_2_end": 434,
+    "ref_2": "Sukkah 16a:1",
+    "heRef_2": "סוכה טז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 424,
+    "line_index_2_end": 434,
+    "ref_2": "Sukkah 16a:1",
+    "heRef_2": "סוכה טז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 424,
+    "line_index_2_end": 434,
+    "ref_2": "Sukkah 16a:1",
+    "heRef_2": "סוכה טז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 424,
+    "line_index_2_end": 434,
+    "ref_2": "Sukkah 16a:1",
+    "heRef_2": "סוכה טז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 436,
+    "line_index_2_end": 448,
+    "ref_2": "Sukkah 16b:1",
+    "heRef_2": "סוכה טז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 436,
+    "line_index_2_end": 448,
+    "ref_2": "Sukkah 16b:1",
+    "heRef_2": "סוכה טז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 436,
+    "line_index_2_end": 448,
+    "ref_2": "Sukkah 16b:1",
+    "heRef_2": "סוכה טז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 436,
+    "line_index_2_end": 448,
+    "ref_2": "Sukkah 16b:1",
+    "heRef_2": "סוכה טז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 436,
+    "line_index_2_end": 448,
+    "ref_2": "Sukkah 16b:1",
+    "heRef_2": "סוכה טז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 450,
+    "line_index_2_end": 460,
+    "ref_2": "Sukkah 17a:1",
+    "heRef_2": "סוכה יז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 462,
+    "line_index_2_end": 475,
+    "ref_2": "Sukkah 17b:1",
+    "heRef_2": "סוכה יז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 462,
+    "line_index_2_end": 475,
+    "ref_2": "Sukkah 17b:1",
+    "heRef_2": "סוכה יז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 462,
+    "line_index_2_end": 475,
+    "ref_2": "Sukkah 17b:1",
+    "heRef_2": "סוכה יז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 462,
+    "line_index_2_end": 475,
+    "ref_2": "Sukkah 17b:1",
+    "heRef_2": "סוכה יז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 462,
+    "line_index_2_end": 475,
+    "ref_2": "Sukkah 17b:1",
+    "heRef_2": "סוכה יז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 477,
+    "line_index_2_end": 492,
+    "ref_2": "Sukkah 18a:1",
+    "heRef_2": "סוכה יח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 494,
+    "line_index_2_end": 497,
+    "ref_2": "Sukkah 18b:1",
+    "heRef_2": "סוכה יח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 499,
+    "line_index_2_end": 514,
+    "ref_2": "Sukkah 19a:1",
+    "heRef_2": "סוכה יט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 516,
+    "line_index_2_end": 529,
+    "ref_2": "Sukkah 19b:1",
+    "heRef_2": "סוכה יט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 516,
+    "line_index_2_end": 529,
+    "ref_2": "Sukkah 19b:1",
+    "heRef_2": "סוכה יט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 516,
+    "line_index_2_end": 529,
+    "ref_2": "Sukkah 19b:1",
+    "heRef_2": "סוכה יט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 531,
+    "line_index_2_end": 541,
+    "ref_2": "Sukkah 20a:1",
+    "heRef_2": "סוכה כ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 531,
+    "line_index_2_end": 541,
+    "ref_2": "Sukkah 20a:1",
+    "heRef_2": "סוכה כ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 543,
+    "line_index_2_end": 556,
+    "ref_2": "Sukkah 20b:1",
+    "heRef_2": "סוכה כ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 543,
+    "line_index_2_end": 556,
+    "ref_2": "Sukkah 20b:1",
+    "heRef_2": "סוכה כ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 543,
+    "line_index_2_end": 556,
+    "ref_2": "Sukkah 20b:1",
+    "heRef_2": "סוכה כ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 543,
+    "line_index_2_end": 556,
+    "ref_2": "Sukkah 20b:1",
+    "heRef_2": "סוכה כ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 558,
+    "line_index_2_end": 564,
+    "ref_2": "Sukkah 21a:1",
+    "heRef_2": "סוכה כא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 558,
+    "line_index_2_end": 564,
+    "ref_2": "Sukkah 21a:1",
+    "heRef_2": "סוכה כא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 558,
+    "line_index_2_end": 564,
+    "ref_2": "Sukkah 21a:1",
+    "heRef_2": "סוכה כא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 566,
+    "line_index_2_end": 578,
+    "ref_2": "Sukkah 21b:1",
+    "heRef_2": "סוכה כא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 566,
+    "line_index_2_end": 578,
+    "ref_2": "Sukkah 21b:1",
+    "heRef_2": "סוכה כא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 566,
+    "line_index_2_end": 578,
+    "ref_2": "Sukkah 21b:1",
+    "heRef_2": "סוכה כא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 566,
+    "line_index_2_end": 578,
+    "ref_2": "Sukkah 21b:1",
+    "heRef_2": "סוכה כא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 580,
+    "line_index_2_end": 589,
+    "ref_2": "Sukkah 22a:1",
+    "heRef_2": "סוכה כב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 580,
+    "line_index_2_end": 589,
+    "ref_2": "Sukkah 22a:1",
+    "heRef_2": "סוכה כב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 580,
+    "line_index_2_end": 589,
+    "ref_2": "Sukkah 22a:1",
+    "heRef_2": "סוכה כב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 580,
+    "line_index_2_end": 589,
+    "ref_2": "Sukkah 22a:1",
+    "heRef_2": "סוכה כב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 591,
+    "line_index_2_end": 600,
+    "ref_2": "Sukkah 22b:1",
+    "heRef_2": "סוכה כב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 591,
+    "line_index_2_end": 600,
+    "ref_2": "Sukkah 22b:1",
+    "heRef_2": "סוכה כב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 591,
+    "line_index_2_end": 600,
+    "ref_2": "Sukkah 22b:1",
+    "heRef_2": "סוכה כב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 591,
+    "line_index_2_end": 600,
+    "ref_2": "Sukkah 22b:1",
+    "heRef_2": "סוכה כב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 614,
+    "line_index_2_end": 618,
+    "ref_2": "Sukkah 23b:1",
+    "heRef_2": "סוכה כג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 614,
+    "line_index_2_end": 618,
+    "ref_2": "Sukkah 23b:1",
+    "heRef_2": "סוכה כג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 620,
+    "line_index_2_end": 630,
+    "ref_2": "Sukkah 24a:1",
+    "heRef_2": "סוכה כד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 620,
+    "line_index_2_end": 630,
+    "ref_2": "Sukkah 24a:1",
+    "heRef_2": "סוכה כד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 620,
+    "line_index_2_end": 630,
+    "ref_2": "Sukkah 24a:1",
+    "heRef_2": "סוכה כד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 620,
+    "line_index_2_end": 630,
+    "ref_2": "Sukkah 24a:1",
+    "heRef_2": "סוכה כד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 632,
+    "line_index_2_end": 646,
+    "ref_2": "Sukkah 24b:1",
+    "heRef_2": "סוכה כד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 632,
+    "line_index_2_end": 646,
+    "ref_2": "Sukkah 24b:1",
+    "heRef_2": "סוכה כד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 632,
+    "line_index_2_end": 646,
+    "ref_2": "Sukkah 24b:1",
+    "heRef_2": "סוכה כד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 660,
+    "line_index_2_end": 669,
+    "ref_2": "Sukkah 25b:1",
+    "heRef_2": "סוכה כה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 660,
+    "line_index_2_end": 669,
+    "ref_2": "Sukkah 25b:1",
+    "heRef_2": "סוכה כה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 660,
+    "line_index_2_end": 669,
+    "ref_2": "Sukkah 25b:1",
+    "heRef_2": "סוכה כה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 671,
+    "line_index_2_end": 685,
+    "ref_2": "Sukkah 26a:1",
+    "heRef_2": "סוכה כו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 671,
+    "line_index_2_end": 685,
+    "ref_2": "Sukkah 26a:1",
+    "heRef_2": "סוכה כו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 671,
+    "line_index_2_end": 685,
+    "ref_2": "Sukkah 26a:1",
+    "heRef_2": "סוכה כו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 671,
+    "line_index_2_end": 685,
+    "ref_2": "Sukkah 26a:1",
+    "heRef_2": "סוכה כו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 671,
+    "line_index_2_end": 685,
+    "ref_2": "Sukkah 26a:1",
+    "heRef_2": "סוכה כו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 687,
+    "line_index_2_end": 696,
+    "ref_2": "Sukkah 26b:1",
+    "heRef_2": "סוכה כו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 687,
+    "line_index_2_end": 696,
+    "ref_2": "Sukkah 26b:1",
+    "heRef_2": "סוכה כו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 687,
+    "line_index_2_end": 696,
+    "ref_2": "Sukkah 26b:1",
+    "heRef_2": "סוכה כו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 687,
+    "line_index_2_end": 696,
+    "ref_2": "Sukkah 26b:1",
+    "heRef_2": "סוכה כו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 687,
+    "line_index_2_end": 696,
+    "ref_2": "Sukkah 26b:1",
+    "heRef_2": "סוכה כו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 698,
+    "line_index_2_end": 711,
+    "ref_2": "Sukkah 27a:1",
+    "heRef_2": "סוכה כז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 698,
+    "line_index_2_end": 711,
+    "ref_2": "Sukkah 27a:1",
+    "heRef_2": "סוכה כז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 698,
+    "line_index_2_end": 711,
+    "ref_2": "Sukkah 27a:1",
+    "heRef_2": "סוכה כז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 728,
+    "line_index_2_end": 740,
+    "ref_2": "Sukkah 28a:1",
+    "heRef_2": "סוכה כח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 728,
+    "line_index_2_end": 740,
+    "ref_2": "Sukkah 28a:1",
+    "heRef_2": "סוכה כח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 728,
+    "line_index_2_end": 740,
+    "ref_2": "Sukkah 28a:1",
+    "heRef_2": "סוכה כח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 728,
+    "line_index_2_end": 740,
+    "ref_2": "Sukkah 28a:1",
+    "heRef_2": "סוכה כח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 742,
+    "line_index_2_end": 751,
+    "ref_2": "Sukkah 28b:1",
+    "heRef_2": "סוכה כח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 742,
+    "line_index_2_end": 751,
+    "ref_2": "Sukkah 28b:1",
+    "heRef_2": "סוכה כח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 742,
+    "line_index_2_end": 751,
+    "ref_2": "Sukkah 28b:1",
+    "heRef_2": "סוכה כח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 361,
+    "line_index_2": 742,
+    "line_index_2_end": 751,
+    "ref_2": "Sukkah 28b:1",
+    "heRef_2": "סוכה כח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 367,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 753,
+    "line_index_2_end": 767,
+    "ref_2": "Sukkah 29a:1",
+    "heRef_2": "סוכה כט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 769,
+    "line_index_2_end": 775,
+    "ref_2": "Sukkah 29b:1",
+    "heRef_2": "סוכה כט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 777,
+    "line_index_2_end": 784,
+    "ref_2": "Sukkah 30a:1",
+    "heRef_2": "סוכה ל., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 777,
+    "line_index_2_end": 784,
+    "ref_2": "Sukkah 30a:1",
+    "heRef_2": "סוכה ל., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 777,
+    "line_index_2_end": 784,
+    "ref_2": "Sukkah 30a:1",
+    "heRef_2": "סוכה ל., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 786,
+    "line_index_2_end": 790,
+    "ref_2": "Sukkah 30b:1",
+    "heRef_2": "סוכה ל:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 792,
+    "line_index_2_end": 809,
+    "ref_2": "Sukkah 31a:1",
+    "heRef_2": "סוכה לא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 792,
+    "line_index_2_end": 809,
+    "ref_2": "Sukkah 31a:1",
+    "heRef_2": "סוכה לא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 792,
+    "line_index_2_end": 809,
+    "ref_2": "Sukkah 31a:1",
+    "heRef_2": "סוכה לא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 792,
+    "line_index_2_end": 809,
+    "ref_2": "Sukkah 31a:1",
+    "heRef_2": "סוכה לא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 811,
+    "line_index_2_end": 825,
+    "ref_2": "Sukkah 31b:1",
+    "heRef_2": "סוכה לא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 811,
+    "line_index_2_end": 825,
+    "ref_2": "Sukkah 31b:1",
+    "heRef_2": "סוכה לא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 811,
+    "line_index_2_end": 825,
+    "ref_2": "Sukkah 31b:1",
+    "heRef_2": "סוכה לא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 811,
+    "line_index_2_end": 825,
+    "ref_2": "Sukkah 31b:1",
+    "heRef_2": "סוכה לא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 811,
+    "line_index_2_end": 825,
+    "ref_2": "Sukkah 31b:1",
+    "heRef_2": "סוכה לא:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 827,
+    "line_index_2_end": 840,
+    "ref_2": "Sukkah 32a:1",
+    "heRef_2": "סוכה לב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 842,
+    "line_index_2_end": 863,
+    "ref_2": "Sukkah 32b:1",
+    "heRef_2": "סוכה לב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 865,
+    "line_index_2_end": 881,
+    "ref_2": "Sukkah 33a:1",
+    "heRef_2": "סוכה לג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 865,
+    "line_index_2_end": 881,
+    "ref_2": "Sukkah 33a:1",
+    "heRef_2": "סוכה לג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 865,
+    "line_index_2_end": 881,
+    "ref_2": "Sukkah 33a:1",
+    "heRef_2": "סוכה לג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 865,
+    "line_index_2_end": 881,
+    "ref_2": "Sukkah 33a:1",
+    "heRef_2": "סוכה לג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 883,
+    "line_index_2_end": 899,
+    "ref_2": "Sukkah 33b:1",
+    "heRef_2": "סוכה לג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 883,
+    "line_index_2_end": 899,
+    "ref_2": "Sukkah 33b:1",
+    "heRef_2": "סוכה לג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 883,
+    "line_index_2_end": 899,
+    "ref_2": "Sukkah 33b:1",
+    "heRef_2": "סוכה לג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 883,
+    "line_index_2_end": 899,
+    "ref_2": "Sukkah 33b:1",
+    "heRef_2": "סוכה לג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 901,
+    "line_index_2_end": 914,
+    "ref_2": "Sukkah 34a:1",
+    "heRef_2": "סוכה לד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 901,
+    "line_index_2_end": 914,
+    "ref_2": "Sukkah 34a:1",
+    "heRef_2": "סוכה לד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 901,
+    "line_index_2_end": 914,
+    "ref_2": "Sukkah 34a:1",
+    "heRef_2": "סוכה לד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 916,
+    "line_index_2_end": 924,
+    "ref_2": "Sukkah 34b:1",
+    "heRef_2": "סוכה לד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 916,
+    "line_index_2_end": 924,
+    "ref_2": "Sukkah 34b:1",
+    "heRef_2": "סוכה לד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 940,
+    "line_index_2_end": 954,
+    "ref_2": "Sukkah 35b:1",
+    "heRef_2": "סוכה לה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 940,
+    "line_index_2_end": 954,
+    "ref_2": "Sukkah 35b:1",
+    "heRef_2": "סוכה לה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 940,
+    "line_index_2_end": 954,
+    "ref_2": "Sukkah 35b:1",
+    "heRef_2": "סוכה לה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 940,
+    "line_index_2_end": 954,
+    "ref_2": "Sukkah 35b:1",
+    "heRef_2": "סוכה לה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 967,
+    "line_index_2_end": 977,
+    "ref_2": "Sukkah 36b:1",
+    "heRef_2": "סוכה לו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 979,
+    "line_index_2_end": 987,
+    "ref_2": "Sukkah 37a:1",
+    "heRef_2": "סוכה לז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 979,
+    "line_index_2_end": 987,
+    "ref_2": "Sukkah 37a:1",
+    "heRef_2": "סוכה לז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 979,
+    "line_index_2_end": 987,
+    "ref_2": "Sukkah 37a:1",
+    "heRef_2": "סוכה לז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 979,
+    "line_index_2_end": 987,
+    "ref_2": "Sukkah 37a:1",
+    "heRef_2": "סוכה לז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 989,
+    "line_index_2_end": 998,
+    "ref_2": "Sukkah 37b:1",
+    "heRef_2": "סוכה לז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 1000,
+    "line_index_2_end": 1009,
+    "ref_2": "Sukkah 38a:1",
+    "heRef_2": "סוכה לח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 1000,
+    "line_index_2_end": 1009,
+    "ref_2": "Sukkah 38a:1",
+    "heRef_2": "סוכה לח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 1000,
+    "line_index_2_end": 1009,
+    "ref_2": "Sukkah 38a:1",
+    "heRef_2": "סוכה לח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 1011,
+    "line_index_2_end": 1018,
+    "ref_2": "Sukkah 38b:1",
+    "heRef_2": "סוכה לח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 1020,
+    "line_index_2_end": 1025,
+    "ref_2": "Sukkah 39a:1",
+    "heRef_2": "סוכה לט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 499,
+    "line_index_2": 1020,
+    "line_index_2_end": 1025,
+    "ref_2": "Sukkah 39a:1",
+    "heRef_2": "סוכה לט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 1020,
+    "line_index_2_end": 1025,
+    "ref_2": "Sukkah 39a:1",
+    "heRef_2": "סוכה לט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 1020,
+    "line_index_2_end": 1025,
+    "ref_2": "Sukkah 39a:1",
+    "heRef_2": "סוכה לט., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 1027,
+    "line_index_2_end": 1033,
+    "ref_2": "Sukkah 39b:1",
+    "heRef_2": "סוכה לט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 1035,
+    "line_index_2_end": 1043,
+    "ref_2": "Sukkah 40a:1",
+    "heRef_2": "סוכה מ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 1035,
+    "line_index_2_end": 1043,
+    "ref_2": "Sukkah 40a:1",
+    "heRef_2": "סוכה מ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 1035,
+    "line_index_2_end": 1043,
+    "ref_2": "Sukkah 40a:1",
+    "heRef_2": "סוכה מ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 1035,
+    "line_index_2_end": 1043,
+    "ref_2": "Sukkah 40a:1",
+    "heRef_2": "סוכה מ., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 512,
+    "line_index_2": 1045,
+    "line_index_2_end": 1056,
+    "ref_2": "Sukkah 40b:1",
+    "heRef_2": "סוכה מ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 516,
+    "line_index_2": 1045,
+    "line_index_2_end": 1056,
+    "ref_2": "Sukkah 40b:1",
+    "heRef_2": "סוכה מ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 1045,
+    "line_index_2_end": 1056,
+    "ref_2": "Sukkah 40b:1",
+    "heRef_2": "סוכה מ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1058,
+    "line_index_2_end": 1068,
+    "ref_2": "Sukkah 41a:1",
+    "heRef_2": "סוכה מא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 1058,
+    "line_index_2_end": 1068,
+    "ref_2": "Sukkah 41a:1",
+    "heRef_2": "סוכה מא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 1058,
+    "line_index_2_end": 1068,
+    "ref_2": "Sukkah 41a:1",
+    "heRef_2": "סוכה מא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 1058,
+    "line_index_2_end": 1068,
+    "ref_2": "Sukkah 41a:1",
+    "heRef_2": "סוכה מא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 531,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 533,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 1085,
+    "line_index_2_end": 1096,
+    "ref_2": "Sukkah 42a:1",
+    "heRef_2": "סוכה מב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 1098,
+    "line_index_2_end": 1107,
+    "ref_2": "Sukkah 42b:1",
+    "heRef_2": "סוכה מב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 540,
+    "line_index_2": 1098,
+    "line_index_2_end": 1107,
+    "ref_2": "Sukkah 42b:1",
+    "heRef_2": "סוכה מב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 1098,
+    "line_index_2_end": 1107,
+    "ref_2": "Sukkah 42b:1",
+    "heRef_2": "סוכה מב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 1109,
+    "line_index_2_end": 1121,
+    "ref_2": "Sukkah 43a:1",
+    "heRef_2": "סוכה מג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 1109,
+    "line_index_2_end": 1121,
+    "ref_2": "Sukkah 43a:1",
+    "heRef_2": "סוכה מג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 1123,
+    "line_index_2_end": 1137,
+    "ref_2": "Sukkah 43b:1",
+    "heRef_2": "סוכה מג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 551,
+    "line_index_2": 1123,
+    "line_index_2_end": 1137,
+    "ref_2": "Sukkah 43b:1",
+    "heRef_2": "סוכה מג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 1123,
+    "line_index_2_end": 1137,
+    "ref_2": "Sukkah 43b:1",
+    "heRef_2": "סוכה מג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 1123,
+    "line_index_2_end": 1137,
+    "ref_2": "Sukkah 43b:1",
+    "heRef_2": "סוכה מג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 1123,
+    "line_index_2_end": 1137,
+    "ref_2": "Sukkah 43b:1",
+    "heRef_2": "סוכה מג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 1139,
+    "line_index_2_end": 1149,
+    "ref_2": "Sukkah 44a:1",
+    "heRef_2": "סוכה מד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 1151,
+    "line_index_2_end": 1160,
+    "ref_2": "Sukkah 44b:1",
+    "heRef_2": "סוכה מד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 1151,
+    "line_index_2_end": 1160,
+    "ref_2": "Sukkah 44b:1",
+    "heRef_2": "סוכה מד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 575,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 579,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 1162,
+    "line_index_2_end": 1168,
+    "ref_2": "Sukkah 45a:1",
+    "heRef_2": "סוכה מה., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 1170,
+    "line_index_2_end": 1182,
+    "ref_2": "Sukkah 45b:1",
+    "heRef_2": "סוכה מה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1184,
+    "line_index_2_end": 1196,
+    "ref_2": "Sukkah 46a:1",
+    "heRef_2": "סוכה מו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 597,
+    "line_index_2": 1184,
+    "line_index_2_end": 1196,
+    "ref_2": "Sukkah 46a:1",
+    "heRef_2": "סוכה מו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 1184,
+    "line_index_2_end": 1196,
+    "ref_2": "Sukkah 46a:1",
+    "heRef_2": "סוכה מו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 1184,
+    "line_index_2_end": 1196,
+    "ref_2": "Sukkah 46a:1",
+    "heRef_2": "סוכה מו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1198,
+    "line_index_2_end": 1211,
+    "ref_2": "Sukkah 46b:1",
+    "heRef_2": "סוכה מו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 1198,
+    "line_index_2_end": 1211,
+    "ref_2": "Sukkah 46b:1",
+    "heRef_2": "סוכה מו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 1213,
+    "line_index_2_end": 1224,
+    "ref_2": "Sukkah 47a:1",
+    "heRef_2": "סוכה מז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 1213,
+    "line_index_2_end": 1224,
+    "ref_2": "Sukkah 47a:1",
+    "heRef_2": "סוכה מז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 610,
+    "line_index_2": 1213,
+    "line_index_2_end": 1224,
+    "ref_2": "Sukkah 47a:1",
+    "heRef_2": "סוכה מז., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 1226,
+    "line_index_2_end": 1236,
+    "ref_2": "Sukkah 47b:1",
+    "heRef_2": "סוכה מז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 1226,
+    "line_index_2_end": 1236,
+    "ref_2": "Sukkah 47b:1",
+    "heRef_2": "סוכה מז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 1226,
+    "line_index_2_end": 1236,
+    "ref_2": "Sukkah 47b:1",
+    "heRef_2": "סוכה מז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 1226,
+    "line_index_2_end": 1236,
+    "ref_2": "Sukkah 47b:1",
+    "heRef_2": "סוכה מז:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 1238,
+    "line_index_2_end": 1246,
+    "ref_2": "Sukkah 48a:1",
+    "heRef_2": "סוכה מח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 1238,
+    "line_index_2_end": 1246,
+    "ref_2": "Sukkah 48a:1",
+    "heRef_2": "סוכה מח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 623,
+    "line_index_2": 1238,
+    "line_index_2_end": 1246,
+    "ref_2": "Sukkah 48a:1",
+    "heRef_2": "סוכה מח., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 625,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 628,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 1248,
+    "line_index_2_end": 1259,
+    "ref_2": "Sukkah 48b:1",
+    "heRef_2": "סוכה מח:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 637,
+    "line_index_2": 1266,
+    "line_index_2_end": 1279,
+    "ref_2": "Sukkah 49b:1",
+    "heRef_2": "סוכה מט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 1266,
+    "line_index_2_end": 1279,
+    "ref_2": "Sukkah 49b:1",
+    "heRef_2": "סוכה מט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 1266,
+    "line_index_2_end": 1279,
+    "ref_2": "Sukkah 49b:1",
+    "heRef_2": "סוכה מט:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 1288,
+    "line_index_2_end": 1295,
+    "ref_2": "Sukkah 50b:1",
+    "heRef_2": "סוכה נ:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 654,
+    "line_index_2": 1297,
+    "line_index_2_end": 1313,
+    "ref_2": "Sukkah 51a:1",
+    "heRef_2": "סוכה נא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 1297,
+    "line_index_2_end": 1313,
+    "ref_2": "Sukkah 51a:1",
+    "heRef_2": "סוכה נא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 656,
+    "line_index_2": 1297,
+    "line_index_2_end": 1313,
+    "ref_2": "Sukkah 51a:1",
+    "heRef_2": "סוכה נא., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 659,
+    "line_index_2": 1329,
+    "line_index_2_end": 1341,
+    "ref_2": "Sukkah 52a:1",
+    "heRef_2": "סוכה נב., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 662,
+    "line_index_2": 1343,
+    "line_index_2_end": 1359,
+    "ref_2": "Sukkah 52b:1",
+    "heRef_2": "סוכה נב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 664,
+    "line_index_2": 1343,
+    "line_index_2_end": 1359,
+    "ref_2": "Sukkah 52b:1",
+    "heRef_2": "סוכה נב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 667,
+    "line_index_2": 1343,
+    "line_index_2_end": 1359,
+    "ref_2": "Sukkah 52b:1",
+    "heRef_2": "סוכה נב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 668,
+    "line_index_2": 1343,
+    "line_index_2_end": 1359,
+    "ref_2": "Sukkah 52b:1",
+    "heRef_2": "סוכה נב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 1343,
+    "line_index_2_end": 1359,
+    "ref_2": "Sukkah 52b:1",
+    "heRef_2": "סוכה נב:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 1361,
+    "line_index_2_end": 1373,
+    "ref_2": "Sukkah 53a:1",
+    "heRef_2": "סוכה נג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 684,
+    "line_index_2": 1361,
+    "line_index_2_end": 1373,
+    "ref_2": "Sukkah 53a:1",
+    "heRef_2": "סוכה נג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 689,
+    "line_index_2": 1361,
+    "line_index_2_end": 1373,
+    "ref_2": "Sukkah 53a:1",
+    "heRef_2": "סוכה נג., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 690,
+    "line_index_2": 1375,
+    "line_index_2_end": 1387,
+    "ref_2": "Sukkah 53b:1",
+    "heRef_2": "סוכה נג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 693,
+    "line_index_2": 1375,
+    "line_index_2_end": 1387,
+    "ref_2": "Sukkah 53b:1",
+    "heRef_2": "סוכה נג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 696,
+    "line_index_2": 1375,
+    "line_index_2_end": 1387,
+    "ref_2": "Sukkah 53b:1",
+    "heRef_2": "סוכה נג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 1375,
+    "line_index_2_end": 1387,
+    "ref_2": "Sukkah 53b:1",
+    "heRef_2": "סוכה נג:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 698,
+    "line_index_2": 1389,
+    "line_index_2_end": 1399,
+    "ref_2": "Sukkah 54a:1",
+    "heRef_2": "סוכה נד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 1389,
+    "line_index_2_end": 1399,
+    "ref_2": "Sukkah 54a:1",
+    "heRef_2": "סוכה נד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 702,
+    "line_index_2": 1389,
+    "line_index_2_end": 1399,
+    "ref_2": "Sukkah 54a:1",
+    "heRef_2": "סוכה נד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 703,
+    "line_index_2": 1389,
+    "line_index_2_end": 1399,
+    "ref_2": "Sukkah 54a:1",
+    "heRef_2": "סוכה נד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 705,
+    "line_index_2": 1389,
+    "line_index_2_end": 1399,
+    "ref_2": "Sukkah 54a:1",
+    "heRef_2": "סוכה נד., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 709,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 710,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 711,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 712,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 713,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 717,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 1401,
+    "line_index_2_end": 1413,
+    "ref_2": "Sukkah 54b:1",
+    "heRef_2": "סוכה נד:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 730,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 731,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 1427,
+    "line_index_2_end": 1442,
+    "ref_2": "Sukkah 55b:1",
+    "heRef_2": "סוכה נה:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 740,
+    "line_index_2": 1444,
+    "line_index_2_end": 1462,
+    "ref_2": "Sukkah 56a:1",
+    "heRef_2": "סוכה נו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 744,
+    "line_index_2": 1444,
+    "line_index_2_end": 1462,
+    "ref_2": "Sukkah 56a:1",
+    "heRef_2": "סוכה נו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 747,
+    "line_index_2": 1444,
+    "line_index_2_end": 1462,
+    "ref_2": "Sukkah 56a:1",
+    "heRef_2": "סוכה נו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 748,
+    "line_index_2": 1444,
+    "line_index_2_end": 1462,
+    "ref_2": "Sukkah 56a:1",
+    "heRef_2": "סוכה נו., א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 753,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 754,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 755,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 756,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 757,
+    "line_index_2": 1464,
+    "line_index_2_end": 1472,
+    "ref_2": "Sukkah 56b:1",
+    "heRef_2": "סוכה נו:, א",
+    "path_2": "סוכה.txt",
+    "Conection Type": "source"
+  }
+]

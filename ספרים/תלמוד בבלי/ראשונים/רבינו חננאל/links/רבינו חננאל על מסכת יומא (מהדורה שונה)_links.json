@@ -1,0 +1,4511 @@
+[
+  {
+    "line_index_1": 12,
+    "line_index_2": 161,
+    "line_index_2_end": 169,
+    "ref_2": "Yoma 8b:1",
+    "heRef_2": "יומא ח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 161,
+    "line_index_2_end": 169,
+    "ref_2": "Yoma 8b:1",
+    "heRef_2": "יומא ח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 161,
+    "line_index_2_end": 169,
+    "ref_2": "Yoma 8b:1",
+    "heRef_2": "יומא ח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 178,
+    "line_index_2_end": 195,
+    "ref_2": "Yoma 9b:1",
+    "heRef_2": "יומא ט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 197,
+    "line_index_2_end": 213,
+    "ref_2": "Yoma 10a:1",
+    "heRef_2": "יומא י., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 197,
+    "line_index_2_end": 213,
+    "ref_2": "Yoma 10a:1",
+    "heRef_2": "יומא י., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 215,
+    "line_index_2_end": 221,
+    "ref_2": "Yoma 10b:1",
+    "heRef_2": "יומא י:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 223,
+    "line_index_2_end": 236,
+    "ref_2": "Yoma 11a:1",
+    "heRef_2": "יומא יא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 238,
+    "line_index_2_end": 252,
+    "ref_2": "Yoma 11b:1",
+    "heRef_2": "יומא יא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 238,
+    "line_index_2_end": 252,
+    "ref_2": "Yoma 11b:1",
+    "heRef_2": "יומא יא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 238,
+    "line_index_2_end": 252,
+    "ref_2": "Yoma 11b:1",
+    "heRef_2": "יומא יא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 238,
+    "line_index_2_end": 252,
+    "ref_2": "Yoma 11b:1",
+    "heRef_2": "יומא יא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 254,
+    "line_index_2_end": 264,
+    "ref_2": "Yoma 12a:1",
+    "heRef_2": "יומא יב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 254,
+    "line_index_2_end": 264,
+    "ref_2": "Yoma 12a:1",
+    "heRef_2": "יומא יב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 254,
+    "line_index_2_end": 264,
+    "ref_2": "Yoma 12a:1",
+    "heRef_2": "יומא יב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 254,
+    "line_index_2_end": 264,
+    "ref_2": "Yoma 12a:1",
+    "heRef_2": "יומא יב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 266,
+    "line_index_2_end": 279,
+    "ref_2": "Yoma 12b:1",
+    "heRef_2": "יומא יב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 281,
+    "line_index_2_end": 292,
+    "ref_2": "Yoma 13a:1",
+    "heRef_2": "יומא יג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 294,
+    "line_index_2_end": 301,
+    "ref_2": "Yoma 13b:1",
+    "heRef_2": "יומא יג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 294,
+    "line_index_2_end": 301,
+    "ref_2": "Yoma 13b:1",
+    "heRef_2": "יומא יג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 294,
+    "line_index_2_end": 301,
+    "ref_2": "Yoma 13b:1",
+    "heRef_2": "יומא יג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 303,
+    "line_index_2_end": 313,
+    "ref_2": "Yoma 14a:1",
+    "heRef_2": "יומא יד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 303,
+    "line_index_2_end": 313,
+    "ref_2": "Yoma 14a:1",
+    "heRef_2": "יומא יד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 303,
+    "line_index_2_end": 313,
+    "ref_2": "Yoma 14a:1",
+    "heRef_2": "יומא יד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 303,
+    "line_index_2_end": 313,
+    "ref_2": "Yoma 14a:1",
+    "heRef_2": "יומא יד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 315,
+    "line_index_2_end": 323,
+    "ref_2": "Yoma 14b:1",
+    "heRef_2": "יומא יד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 325,
+    "line_index_2_end": 340,
+    "ref_2": "Yoma 15a:1",
+    "heRef_2": "יומא טו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 325,
+    "line_index_2_end": 340,
+    "ref_2": "Yoma 15a:1",
+    "heRef_2": "יומא טו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 325,
+    "line_index_2_end": 340,
+    "ref_2": "Yoma 15a:1",
+    "heRef_2": "יומא טו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 342,
+    "line_index_2_end": 348,
+    "ref_2": "Yoma 15b:1",
+    "heRef_2": "יומא טו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 342,
+    "line_index_2_end": 348,
+    "ref_2": "Yoma 15b:1",
+    "heRef_2": "יומא טו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 342,
+    "line_index_2_end": 348,
+    "ref_2": "Yoma 15b:1",
+    "heRef_2": "יומא טו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 342,
+    "line_index_2_end": 348,
+    "ref_2": "Yoma 15b:1",
+    "heRef_2": "יומא טו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 342,
+    "line_index_2_end": 348,
+    "ref_2": "Yoma 15b:1",
+    "heRef_2": "יומא טו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 350,
+    "line_index_2_end": 359,
+    "ref_2": "Yoma 16a:1",
+    "heRef_2": "יומא טז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 350,
+    "line_index_2_end": 359,
+    "ref_2": "Yoma 16a:1",
+    "heRef_2": "יומא טז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 350,
+    "line_index_2_end": 359,
+    "ref_2": "Yoma 16a:1",
+    "heRef_2": "יומא טז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 361,
+    "line_index_2_end": 364,
+    "ref_2": "Yoma 16b:1",
+    "heRef_2": "יומא טז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 361,
+    "line_index_2_end": 364,
+    "ref_2": "Yoma 16b:1",
+    "heRef_2": "יומא טז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 366,
+    "line_index_2_end": 369,
+    "ref_2": "Yoma 17a:1",
+    "heRef_2": "יומא יז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 371,
+    "line_index_2_end": 376,
+    "ref_2": "Yoma 17b:1",
+    "heRef_2": "יומא יז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 371,
+    "line_index_2_end": 376,
+    "ref_2": "Yoma 17b:1",
+    "heRef_2": "יומא יז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 371,
+    "line_index_2_end": 376,
+    "ref_2": "Yoma 17b:1",
+    "heRef_2": "יומא יז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 378,
+    "line_index_2_end": 394,
+    "ref_2": "Yoma 18a:1",
+    "heRef_2": "יומא יח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 378,
+    "line_index_2_end": 394,
+    "ref_2": "Yoma 18a:1",
+    "heRef_2": "יומא יח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 396,
+    "line_index_2_end": 402,
+    "ref_2": "Yoma 18b:1",
+    "heRef_2": "יומא יח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 396,
+    "line_index_2_end": 402,
+    "ref_2": "Yoma 18b:1",
+    "heRef_2": "יומא יח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 404,
+    "line_index_2_end": 416,
+    "ref_2": "Yoma 19a:1",
+    "heRef_2": "יומא יט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 418,
+    "line_index_2_end": 433,
+    "ref_2": "Yoma 19b:1",
+    "heRef_2": "יומא יט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 418,
+    "line_index_2_end": 433,
+    "ref_2": "Yoma 19b:1",
+    "heRef_2": "יומא יט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 418,
+    "line_index_2_end": 433,
+    "ref_2": "Yoma 19b:1",
+    "heRef_2": "יומא יט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 418,
+    "line_index_2_end": 433,
+    "ref_2": "Yoma 19b:1",
+    "heRef_2": "יומא יט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 441,
+    "line_index_2_end": 451,
+    "ref_2": "Yoma 20b:1",
+    "heRef_2": "יומא כ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 441,
+    "line_index_2_end": 451,
+    "ref_2": "Yoma 20b:1",
+    "heRef_2": "יומא כ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 441,
+    "line_index_2_end": 451,
+    "ref_2": "Yoma 20b:1",
+    "heRef_2": "יומא כ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 441,
+    "line_index_2_end": 451,
+    "ref_2": "Yoma 20b:1",
+    "heRef_2": "יומא כ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 453,
+    "line_index_2_end": 461,
+    "ref_2": "Yoma 21a:1",
+    "heRef_2": "יומא כא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 463,
+    "line_index_2_end": 477,
+    "ref_2": "Yoma 21b:1",
+    "heRef_2": "יומא כא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 463,
+    "line_index_2_end": 477,
+    "ref_2": "Yoma 21b:1",
+    "heRef_2": "יומא כא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 463,
+    "line_index_2_end": 477,
+    "ref_2": "Yoma 21b:1",
+    "heRef_2": "יומא כא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 463,
+    "line_index_2_end": 477,
+    "ref_2": "Yoma 21b:1",
+    "heRef_2": "יומא כא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 463,
+    "line_index_2_end": 477,
+    "ref_2": "Yoma 21b:1",
+    "heRef_2": "יומא כא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 479,
+    "line_index_2_end": 491,
+    "ref_2": "Yoma 22a:1",
+    "heRef_2": "יומא כב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 479,
+    "line_index_2_end": 491,
+    "ref_2": "Yoma 22a:1",
+    "heRef_2": "יומא כב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 479,
+    "line_index_2_end": 491,
+    "ref_2": "Yoma 22a:1",
+    "heRef_2": "יומא כב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 493,
+    "line_index_2_end": 513,
+    "ref_2": "Yoma 22b:1",
+    "heRef_2": "יומא כב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 493,
+    "line_index_2_end": 513,
+    "ref_2": "Yoma 22b:1",
+    "heRef_2": "יומא כב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 493,
+    "line_index_2_end": 513,
+    "ref_2": "Yoma 22b:1",
+    "heRef_2": "יומא כב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 197,
+    "line_index_2": 515,
+    "line_index_2_end": 530,
+    "ref_2": "Yoma 23a:1",
+    "heRef_2": "יומא כג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 515,
+    "line_index_2_end": 530,
+    "ref_2": "Yoma 23a:1",
+    "heRef_2": "יומא כג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 515,
+    "line_index_2_end": 530,
+    "ref_2": "Yoma 23a:1",
+    "heRef_2": "יומא כג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 515,
+    "line_index_2_end": 530,
+    "ref_2": "Yoma 23a:1",
+    "heRef_2": "יומא כג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 532,
+    "line_index_2_end": 546,
+    "ref_2": "Yoma 23b:1",
+    "heRef_2": "יומא כג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 532,
+    "line_index_2_end": 546,
+    "ref_2": "Yoma 23b:1",
+    "heRef_2": "יומא כג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 532,
+    "line_index_2_end": 546,
+    "ref_2": "Yoma 23b:1",
+    "heRef_2": "יומא כג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 532,
+    "line_index_2_end": 546,
+    "ref_2": "Yoma 23b:1",
+    "heRef_2": "יומא כג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 548,
+    "line_index_2_end": 557,
+    "ref_2": "Yoma 24a:1",
+    "heRef_2": "יומא כד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 559,
+    "line_index_2_end": 576,
+    "ref_2": "Yoma 24b:1",
+    "heRef_2": "יומא כד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 559,
+    "line_index_2_end": 576,
+    "ref_2": "Yoma 24b:1",
+    "heRef_2": "יומא כד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 559,
+    "line_index_2_end": 576,
+    "ref_2": "Yoma 24b:1",
+    "heRef_2": "יומא כד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 578,
+    "line_index_2_end": 589,
+    "ref_2": "Yoma 25a:1",
+    "heRef_2": "יומא כה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 578,
+    "line_index_2_end": 589,
+    "ref_2": "Yoma 25a:1",
+    "heRef_2": "יומא כה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 591,
+    "line_index_2_end": 606,
+    "ref_2": "Yoma 25b:1",
+    "heRef_2": "יומא כה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 591,
+    "line_index_2_end": 606,
+    "ref_2": "Yoma 25b:1",
+    "heRef_2": "יומא כה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 591,
+    "line_index_2_end": 606,
+    "ref_2": "Yoma 25b:1",
+    "heRef_2": "יומא כה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 608,
+    "line_index_2_end": 622,
+    "ref_2": "Yoma 26a:1",
+    "heRef_2": "יומא כו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 608,
+    "line_index_2_end": 622,
+    "ref_2": "Yoma 26a:1",
+    "heRef_2": "יומא כו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 608,
+    "line_index_2_end": 622,
+    "ref_2": "Yoma 26a:1",
+    "heRef_2": "יומא כו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 608,
+    "line_index_2_end": 622,
+    "ref_2": "Yoma 26a:1",
+    "heRef_2": "יומא כו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 608,
+    "line_index_2_end": 622,
+    "ref_2": "Yoma 26a:1",
+    "heRef_2": "יומא כו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 624,
+    "line_index_2_end": 639,
+    "ref_2": "Yoma 26b:1",
+    "heRef_2": "יומא כו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 624,
+    "line_index_2_end": 639,
+    "ref_2": "Yoma 26b:1",
+    "heRef_2": "יומא כו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 624,
+    "line_index_2_end": 639,
+    "ref_2": "Yoma 26b:1",
+    "heRef_2": "יומא כו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 624,
+    "line_index_2_end": 639,
+    "ref_2": "Yoma 26b:1",
+    "heRef_2": "יומא כו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 624,
+    "line_index_2_end": 639,
+    "ref_2": "Yoma 26b:1",
+    "heRef_2": "יומא כו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 641,
+    "line_index_2_end": 653,
+    "ref_2": "Yoma 27a:1",
+    "heRef_2": "יומא כז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 655,
+    "line_index_2_end": 665,
+    "ref_2": "Yoma 27b:1",
+    "heRef_2": "יומא כז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 667,
+    "line_index_2_end": 677,
+    "ref_2": "Yoma 28a:1",
+    "heRef_2": "יומא כח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 667,
+    "line_index_2_end": 677,
+    "ref_2": "Yoma 28a:1",
+    "heRef_2": "יומא כח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 679,
+    "line_index_2_end": 694,
+    "ref_2": "Yoma 28b:1",
+    "heRef_2": "יומא כח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 679,
+    "line_index_2_end": 694,
+    "ref_2": "Yoma 28b:1",
+    "heRef_2": "יומא כח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 679,
+    "line_index_2_end": 694,
+    "ref_2": "Yoma 28b:1",
+    "heRef_2": "יומא כח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 679,
+    "line_index_2_end": 694,
+    "ref_2": "Yoma 28b:1",
+    "heRef_2": "יומא כח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 679,
+    "line_index_2_end": 694,
+    "ref_2": "Yoma 28b:1",
+    "heRef_2": "יומא כח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 696,
+    "line_index_2_end": 704,
+    "ref_2": "Yoma 29a:1",
+    "heRef_2": "יומא כט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 696,
+    "line_index_2_end": 704,
+    "ref_2": "Yoma 29a:1",
+    "heRef_2": "יומא כט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 706,
+    "line_index_2_end": 712,
+    "ref_2": "Yoma 29b:1",
+    "heRef_2": "יומא כט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 706,
+    "line_index_2_end": 712,
+    "ref_2": "Yoma 29b:1",
+    "heRef_2": "יומא כט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 706,
+    "line_index_2_end": 712,
+    "ref_2": "Yoma 29b:1",
+    "heRef_2": "יומא כט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 714,
+    "line_index_2_end": 722,
+    "ref_2": "Yoma 30a:1",
+    "heRef_2": "יומא ל., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 714,
+    "line_index_2_end": 722,
+    "ref_2": "Yoma 30a:1",
+    "heRef_2": "יומא ל., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 724,
+    "line_index_2_end": 735,
+    "ref_2": "Yoma 30b:1",
+    "heRef_2": "יומא ל:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 724,
+    "line_index_2_end": 735,
+    "ref_2": "Yoma 30b:1",
+    "heRef_2": "יומא ל:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 724,
+    "line_index_2_end": 735,
+    "ref_2": "Yoma 30b:1",
+    "heRef_2": "יומא ל:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 724,
+    "line_index_2_end": 735,
+    "ref_2": "Yoma 30b:1",
+    "heRef_2": "יומא ל:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 737,
+    "line_index_2_end": 742,
+    "ref_2": "Yoma 31a:1",
+    "heRef_2": "יומא לא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 737,
+    "line_index_2_end": 742,
+    "ref_2": "Yoma 31a:1",
+    "heRef_2": "יומא לא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 311,
+    "line_index_2": 737,
+    "line_index_2_end": 742,
+    "ref_2": "Yoma 31a:1",
+    "heRef_2": "יומא לא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 744,
+    "line_index_2_end": 753,
+    "ref_2": "Yoma 31b:1",
+    "heRef_2": "יומא לא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 755,
+    "line_index_2_end": 764,
+    "ref_2": "Yoma 32a:1",
+    "heRef_2": "יומא לב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 755,
+    "line_index_2_end": 764,
+    "ref_2": "Yoma 32a:1",
+    "heRef_2": "יומא לב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 318,
+    "line_index_2": 755,
+    "line_index_2_end": 764,
+    "ref_2": "Yoma 32a:1",
+    "heRef_2": "יומא לב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 755,
+    "line_index_2_end": 764,
+    "ref_2": "Yoma 32a:1",
+    "heRef_2": "יומא לב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 766,
+    "line_index_2_end": 779,
+    "ref_2": "Yoma 32b:1",
+    "heRef_2": "יומא לב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 781,
+    "line_index_2_end": 792,
+    "ref_2": "Yoma 33a:1",
+    "heRef_2": "יומא לג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 781,
+    "line_index_2_end": 792,
+    "ref_2": "Yoma 33a:1",
+    "heRef_2": "יומא לג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 781,
+    "line_index_2_end": 792,
+    "ref_2": "Yoma 33a:1",
+    "heRef_2": "יומא לג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 794,
+    "line_index_2_end": 806,
+    "ref_2": "Yoma 33b:1",
+    "heRef_2": "יומא לג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 794,
+    "line_index_2_end": 806,
+    "ref_2": "Yoma 33b:1",
+    "heRef_2": "יומא לג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 794,
+    "line_index_2_end": 806,
+    "ref_2": "Yoma 33b:1",
+    "heRef_2": "יומא לג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 794,
+    "line_index_2_end": 806,
+    "ref_2": "Yoma 33b:1",
+    "heRef_2": "יומא לג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 808,
+    "line_index_2_end": 819,
+    "ref_2": "Yoma 34a:1",
+    "heRef_2": "יומא לד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 808,
+    "line_index_2_end": 819,
+    "ref_2": "Yoma 34a:1",
+    "heRef_2": "יומא לד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 808,
+    "line_index_2_end": 819,
+    "ref_2": "Yoma 34a:1",
+    "heRef_2": "יומא לד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 808,
+    "line_index_2_end": 819,
+    "ref_2": "Yoma 34a:1",
+    "heRef_2": "יומא לד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 358,
+    "line_index_2": 808,
+    "line_index_2_end": 819,
+    "ref_2": "Yoma 34a:1",
+    "heRef_2": "יומא לד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 364,
+    "line_index_2": 821,
+    "line_index_2_end": 828,
+    "ref_2": "Yoma 34b:1",
+    "heRef_2": "יומא לד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 821,
+    "line_index_2_end": 828,
+    "ref_2": "Yoma 34b:1",
+    "heRef_2": "יומא לד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 821,
+    "line_index_2_end": 828,
+    "ref_2": "Yoma 34b:1",
+    "heRef_2": "יומא לד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 830,
+    "line_index_2_end": 833,
+    "ref_2": "Yoma 35a:1",
+    "heRef_2": "יומא לה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 835,
+    "line_index_2_end": 849,
+    "ref_2": "Yoma 35b:1",
+    "heRef_2": "יומא לה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 835,
+    "line_index_2_end": 849,
+    "ref_2": "Yoma 35b:1",
+    "heRef_2": "יומא לה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 835,
+    "line_index_2_end": 849,
+    "ref_2": "Yoma 35b:1",
+    "heRef_2": "יומא לה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 835,
+    "line_index_2_end": 849,
+    "ref_2": "Yoma 35b:1",
+    "heRef_2": "יומא לה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 851,
+    "line_index_2_end": 859,
+    "ref_2": "Yoma 36a:1",
+    "heRef_2": "יומא לו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 851,
+    "line_index_2_end": 859,
+    "ref_2": "Yoma 36a:1",
+    "heRef_2": "יומא לו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 851,
+    "line_index_2_end": 859,
+    "ref_2": "Yoma 36a:1",
+    "heRef_2": "יומא לו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 851,
+    "line_index_2_end": 859,
+    "ref_2": "Yoma 36a:1",
+    "heRef_2": "יומא לו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 861,
+    "line_index_2_end": 873,
+    "ref_2": "Yoma 36b:1",
+    "heRef_2": "יומא לו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 875,
+    "line_index_2_end": 891,
+    "ref_2": "Yoma 37a:1",
+    "heRef_2": "יומא לז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 893,
+    "line_index_2_end": 898,
+    "ref_2": "Yoma 37b:1",
+    "heRef_2": "יומא לז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 893,
+    "line_index_2_end": 898,
+    "ref_2": "Yoma 37b:1",
+    "heRef_2": "יומא לז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 893,
+    "line_index_2_end": 898,
+    "ref_2": "Yoma 37b:1",
+    "heRef_2": "יומא לז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 425,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 917,
+    "line_index_2_end": 932,
+    "ref_2": "Yoma 38b:1",
+    "heRef_2": "יומא לח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 934,
+    "line_index_2_end": 950,
+    "ref_2": "Yoma 39a:1",
+    "heRef_2": "יומא לט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 934,
+    "line_index_2_end": 950,
+    "ref_2": "Yoma 39a:1",
+    "heRef_2": "יומא לט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 934,
+    "line_index_2_end": 950,
+    "ref_2": "Yoma 39a:1",
+    "heRef_2": "יומא לט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 934,
+    "line_index_2_end": 950,
+    "ref_2": "Yoma 39a:1",
+    "heRef_2": "יומא לט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 443,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 952,
+    "line_index_2_end": 971,
+    "ref_2": "Yoma 39b:1",
+    "heRef_2": "יומא לט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 973,
+    "line_index_2_end": 987,
+    "ref_2": "Yoma 40a:1",
+    "heRef_2": "יומא מ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 973,
+    "line_index_2_end": 987,
+    "ref_2": "Yoma 40a:1",
+    "heRef_2": "יומא מ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 973,
+    "line_index_2_end": 987,
+    "ref_2": "Yoma 40a:1",
+    "heRef_2": "יומא מ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 973,
+    "line_index_2_end": 987,
+    "ref_2": "Yoma 40a:1",
+    "heRef_2": "יומא מ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 973,
+    "line_index_2_end": 987,
+    "ref_2": "Yoma 40a:1",
+    "heRef_2": "יומא מ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 989,
+    "line_index_2_end": 1000,
+    "ref_2": "Yoma 40b:1",
+    "heRef_2": "יומא מ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 989,
+    "line_index_2_end": 1000,
+    "ref_2": "Yoma 40b:1",
+    "heRef_2": "יומא מ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 1002,
+    "line_index_2_end": 1016,
+    "ref_2": "Yoma 41a:1",
+    "heRef_2": "יומא מא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 1018,
+    "line_index_2_end": 1039,
+    "ref_2": "Yoma 41b:1",
+    "heRef_2": "יומא מא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 476,
+    "line_index_2": 1018,
+    "line_index_2_end": 1039,
+    "ref_2": "Yoma 41b:1",
+    "heRef_2": "יומא מא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 1018,
+    "line_index_2_end": 1039,
+    "ref_2": "Yoma 41b:1",
+    "heRef_2": "יומא מא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 1018,
+    "line_index_2_end": 1039,
+    "ref_2": "Yoma 41b:1",
+    "heRef_2": "יומא מא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 1018,
+    "line_index_2_end": 1039,
+    "ref_2": "Yoma 41b:1",
+    "heRef_2": "יומא מא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 1056,
+    "line_index_2_end": 1068,
+    "ref_2": "Yoma 42b:1",
+    "heRef_2": "יומא מב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 504,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 1070,
+    "line_index_2_end": 1083,
+    "ref_2": "Yoma 43a:1",
+    "heRef_2": "יומא מג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 1085,
+    "line_index_2_end": 1102,
+    "ref_2": "Yoma 43b:1",
+    "heRef_2": "יומא מג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 1085,
+    "line_index_2_end": 1102,
+    "ref_2": "Yoma 43b:1",
+    "heRef_2": "יומא מג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 1085,
+    "line_index_2_end": 1102,
+    "ref_2": "Yoma 43b:1",
+    "heRef_2": "יומא מג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 1104,
+    "line_index_2_end": 1114,
+    "ref_2": "Yoma 44a:1",
+    "heRef_2": "יומא מד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 1104,
+    "line_index_2_end": 1114,
+    "ref_2": "Yoma 44a:1",
+    "heRef_2": "יומא מד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 1104,
+    "line_index_2_end": 1114,
+    "ref_2": "Yoma 44a:1",
+    "heRef_2": "יומא מד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 521,
+    "line_index_2": 1116,
+    "line_index_2_end": 1132,
+    "ref_2": "Yoma 44b:1",
+    "heRef_2": "יומא מד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 1116,
+    "line_index_2_end": 1132,
+    "ref_2": "Yoma 44b:1",
+    "heRef_2": "יומא מד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 1116,
+    "line_index_2_end": 1132,
+    "ref_2": "Yoma 44b:1",
+    "heRef_2": "יומא מד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 1116,
+    "line_index_2_end": 1132,
+    "ref_2": "Yoma 44b:1",
+    "heRef_2": "יומא מד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 528,
+    "line_index_2": 1116,
+    "line_index_2_end": 1132,
+    "ref_2": "Yoma 44b:1",
+    "heRef_2": "יומא מד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 531,
+    "line_index_2": 1134,
+    "line_index_2_end": 1148,
+    "ref_2": "Yoma 45a:1",
+    "heRef_2": "יומא מה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 1134,
+    "line_index_2_end": 1148,
+    "ref_2": "Yoma 45a:1",
+    "heRef_2": "יומא מה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 1134,
+    "line_index_2_end": 1148,
+    "ref_2": "Yoma 45a:1",
+    "heRef_2": "יומא מה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 540,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 1150,
+    "line_index_2_end": 1160,
+    "ref_2": "Yoma 45b:1",
+    "heRef_2": "יומא מה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 1162,
+    "line_index_2_end": 1175,
+    "ref_2": "Yoma 46a:1",
+    "heRef_2": "יומא מו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 1162,
+    "line_index_2_end": 1175,
+    "ref_2": "Yoma 46a:1",
+    "heRef_2": "יומא מו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 1162,
+    "line_index_2_end": 1175,
+    "ref_2": "Yoma 46a:1",
+    "heRef_2": "יומא מו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 1177,
+    "line_index_2_end": 1187,
+    "ref_2": "Yoma 46b:1",
+    "heRef_2": "יומא מו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 1177,
+    "line_index_2_end": 1187,
+    "ref_2": "Yoma 46b:1",
+    "heRef_2": "יומא מו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 1189,
+    "line_index_2_end": 1207,
+    "ref_2": "Yoma 47a:1",
+    "heRef_2": "יומא מז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 1189,
+    "line_index_2_end": 1207,
+    "ref_2": "Yoma 47a:1",
+    "heRef_2": "יומא מז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 1189,
+    "line_index_2_end": 1207,
+    "ref_2": "Yoma 47a:1",
+    "heRef_2": "יומא מז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 1189,
+    "line_index_2_end": 1207,
+    "ref_2": "Yoma 47a:1",
+    "heRef_2": "יומא מז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 567,
+    "line_index_2": 1209,
+    "line_index_2_end": 1221,
+    "ref_2": "Yoma 47b:1",
+    "heRef_2": "יומא מז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 1209,
+    "line_index_2_end": 1221,
+    "ref_2": "Yoma 47b:1",
+    "heRef_2": "יומא מז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 1209,
+    "line_index_2_end": 1221,
+    "ref_2": "Yoma 47b:1",
+    "heRef_2": "יומא מז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 1209,
+    "line_index_2_end": 1221,
+    "ref_2": "Yoma 47b:1",
+    "heRef_2": "יומא מז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 1209,
+    "line_index_2_end": 1221,
+    "ref_2": "Yoma 47b:1",
+    "heRef_2": "יומא מז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 1223,
+    "line_index_2_end": 1234,
+    "ref_2": "Yoma 48a:1",
+    "heRef_2": "יומא מח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 1223,
+    "line_index_2_end": 1234,
+    "ref_2": "Yoma 48a:1",
+    "heRef_2": "יומא מח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 1223,
+    "line_index_2_end": 1234,
+    "ref_2": "Yoma 48a:1",
+    "heRef_2": "יומא מח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 1223,
+    "line_index_2_end": 1234,
+    "ref_2": "Yoma 48a:1",
+    "heRef_2": "יומא מח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 583,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 1241,
+    "line_index_2_end": 1260,
+    "ref_2": "Yoma 49a:1",
+    "heRef_2": "יומא מט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 595,
+    "line_index_2": 1262,
+    "line_index_2_end": 1270,
+    "ref_2": "Yoma 49b:1",
+    "heRef_2": "יומא מט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 598,
+    "line_index_2": 1262,
+    "line_index_2_end": 1270,
+    "ref_2": "Yoma 49b:1",
+    "heRef_2": "יומא מט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 1272,
+    "line_index_2_end": 1287,
+    "ref_2": "Yoma 50a:1",
+    "heRef_2": "יומא נ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 603,
+    "line_index_2": 1272,
+    "line_index_2_end": 1287,
+    "ref_2": "Yoma 50a:1",
+    "heRef_2": "יומא נ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 1272,
+    "line_index_2_end": 1287,
+    "ref_2": "Yoma 50a:1",
+    "heRef_2": "יומא נ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 1289,
+    "line_index_2_end": 1303,
+    "ref_2": "Yoma 50b:1",
+    "heRef_2": "יומא נ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 1289,
+    "line_index_2_end": 1303,
+    "ref_2": "Yoma 50b:1",
+    "heRef_2": "יומא נ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 1305,
+    "line_index_2_end": 1311,
+    "ref_2": "Yoma 51a:1",
+    "heRef_2": "יומא נא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 620,
+    "line_index_2": 1305,
+    "line_index_2_end": 1311,
+    "ref_2": "Yoma 51a:1",
+    "heRef_2": "יומא נא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 623,
+    "line_index_2": 1313,
+    "line_index_2_end": 1322,
+    "ref_2": "Yoma 51b:1",
+    "heRef_2": "יומא נא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 1313,
+    "line_index_2_end": 1322,
+    "ref_2": "Yoma 51b:1",
+    "heRef_2": "יומא נא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 625,
+    "line_index_2": 1313,
+    "line_index_2_end": 1322,
+    "ref_2": "Yoma 51b:1",
+    "heRef_2": "יומא נא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 626,
+    "line_index_2": 1313,
+    "line_index_2_end": 1322,
+    "ref_2": "Yoma 51b:1",
+    "heRef_2": "יומא נא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 1313,
+    "line_index_2_end": 1322,
+    "ref_2": "Yoma 51b:1",
+    "heRef_2": "יומא נא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 1324,
+    "line_index_2_end": 1333,
+    "ref_2": "Yoma 52a:1",
+    "heRef_2": "יומא נב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 1324,
+    "line_index_2_end": 1333,
+    "ref_2": "Yoma 52a:1",
+    "heRef_2": "יומא נב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 1335,
+    "line_index_2_end": 1352,
+    "ref_2": "Yoma 52b:1",
+    "heRef_2": "יומא נב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 1335,
+    "line_index_2_end": 1352,
+    "ref_2": "Yoma 52b:1",
+    "heRef_2": "יומא נב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 637,
+    "line_index_2": 1335,
+    "line_index_2_end": 1352,
+    "ref_2": "Yoma 52b:1",
+    "heRef_2": "יומא נב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 638,
+    "line_index_2": 1335,
+    "line_index_2_end": 1352,
+    "ref_2": "Yoma 52b:1",
+    "heRef_2": "יומא נב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 1335,
+    "line_index_2_end": 1352,
+    "ref_2": "Yoma 52b:1",
+    "heRef_2": "יומא נב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 1354,
+    "line_index_2_end": 1378,
+    "ref_2": "Yoma 53a:1",
+    "heRef_2": "יומא נג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 642,
+    "line_index_2": 1354,
+    "line_index_2_end": 1378,
+    "ref_2": "Yoma 53a:1",
+    "heRef_2": "יומא נג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 645,
+    "line_index_2": 1354,
+    "line_index_2_end": 1378,
+    "ref_2": "Yoma 53a:1",
+    "heRef_2": "יומא נג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 1354,
+    "line_index_2_end": 1378,
+    "ref_2": "Yoma 53a:1",
+    "heRef_2": "יומא נג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 1354,
+    "line_index_2_end": 1378,
+    "ref_2": "Yoma 53a:1",
+    "heRef_2": "יומא נג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 1380,
+    "line_index_2_end": 1396,
+    "ref_2": "Yoma 53b:1",
+    "heRef_2": "יומא נג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 651,
+    "line_index_2": 1380,
+    "line_index_2_end": 1396,
+    "ref_2": "Yoma 53b:1",
+    "heRef_2": "יומא נג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 1380,
+    "line_index_2_end": 1396,
+    "ref_2": "Yoma 53b:1",
+    "heRef_2": "יומא נג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 1380,
+    "line_index_2_end": 1396,
+    "ref_2": "Yoma 53b:1",
+    "heRef_2": "יומא נג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 660,
+    "line_index_2": 1398,
+    "line_index_2_end": 1415,
+    "ref_2": "Yoma 54a:1",
+    "heRef_2": "יומא נד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 1398,
+    "line_index_2_end": 1415,
+    "ref_2": "Yoma 54a:1",
+    "heRef_2": "יומא נד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 672,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 675,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 681,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 682,
+    "line_index_2": 1425,
+    "line_index_2_end": 1443,
+    "ref_2": "Yoma 55a:1",
+    "heRef_2": "יומא נה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 687,
+    "line_index_2": 1445,
+    "line_index_2_end": 1450,
+    "ref_2": "Yoma 55b:1",
+    "heRef_2": "יומא נה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 1445,
+    "line_index_2_end": 1450,
+    "ref_2": "Yoma 55b:1",
+    "heRef_2": "יומא נה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 692,
+    "line_index_2": 1454,
+    "line_index_2_end": 1469,
+    "ref_2": "Yoma 56b:1",
+    "heRef_2": "יומא נו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 693,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 696,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 698,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 699,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 700,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 701,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 704,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 706,
+    "line_index_2": 1471,
+    "line_index_2_end": 1485,
+    "ref_2": "Yoma 57a:1",
+    "heRef_2": "יומא נז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 710,
+    "line_index_2": 1487,
+    "line_index_2_end": 1501,
+    "ref_2": "Yoma 57b:1",
+    "heRef_2": "יומא נז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 1487,
+    "line_index_2_end": 1501,
+    "ref_2": "Yoma 57b:1",
+    "heRef_2": "יומא נז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 723,
+    "line_index_2": 1503,
+    "line_index_2_end": 1513,
+    "ref_2": "Yoma 58a:1",
+    "heRef_2": "יומא נח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 727,
+    "line_index_2": 1503,
+    "line_index_2_end": 1513,
+    "ref_2": "Yoma 58a:1",
+    "heRef_2": "יומא נח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 730,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 734,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 735,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 740,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 741,
+    "line_index_2": 1515,
+    "line_index_2_end": 1529,
+    "ref_2": "Yoma 58b:1",
+    "heRef_2": "יומא נח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 746,
+    "line_index_2": 1531,
+    "line_index_2_end": 1549,
+    "ref_2": "Yoma 59a:1",
+    "heRef_2": "יומא נט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 747,
+    "line_index_2": 1531,
+    "line_index_2_end": 1549,
+    "ref_2": "Yoma 59a:1",
+    "heRef_2": "יומא נט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 748,
+    "line_index_2": 1531,
+    "line_index_2_end": 1549,
+    "ref_2": "Yoma 59a:1",
+    "heRef_2": "יומא נט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 749,
+    "line_index_2": 1531,
+    "line_index_2_end": 1549,
+    "ref_2": "Yoma 59a:1",
+    "heRef_2": "יומא נט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 750,
+    "line_index_2": 1531,
+    "line_index_2_end": 1549,
+    "ref_2": "Yoma 59a:1",
+    "heRef_2": "יומא נט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 755,
+    "line_index_2": 1551,
+    "line_index_2_end": 1554,
+    "ref_2": "Yoma 59b:1",
+    "heRef_2": "יומא נט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 759,
+    "line_index_2": 1556,
+    "line_index_2_end": 1567,
+    "ref_2": "Yoma 60a:1",
+    "heRef_2": "יומא ס., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 760,
+    "line_index_2": 1556,
+    "line_index_2_end": 1567,
+    "ref_2": "Yoma 60a:1",
+    "heRef_2": "יומא ס., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 761,
+    "line_index_2": 1556,
+    "line_index_2_end": 1567,
+    "ref_2": "Yoma 60a:1",
+    "heRef_2": "יומא ס., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 762,
+    "line_index_2": 1556,
+    "line_index_2_end": 1567,
+    "ref_2": "Yoma 60a:1",
+    "heRef_2": "יומא ס., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 765,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 766,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 768,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 769,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 773,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 774,
+    "line_index_2": 1569,
+    "line_index_2_end": 1576,
+    "ref_2": "Yoma 60b:1",
+    "heRef_2": "יומא ס:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 776,
+    "line_index_2": 1578,
+    "line_index_2_end": 1595,
+    "ref_2": "Yoma 61a:1",
+    "heRef_2": "יומא סא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 778,
+    "line_index_2": 1578,
+    "line_index_2_end": 1595,
+    "ref_2": "Yoma 61a:1",
+    "heRef_2": "יומא סא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 780,
+    "line_index_2": 1578,
+    "line_index_2_end": 1595,
+    "ref_2": "Yoma 61a:1",
+    "heRef_2": "יומא סא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 781,
+    "line_index_2": 1578,
+    "line_index_2_end": 1595,
+    "ref_2": "Yoma 61a:1",
+    "heRef_2": "יומא סא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 782,
+    "line_index_2": 1578,
+    "line_index_2_end": 1595,
+    "ref_2": "Yoma 61a:1",
+    "heRef_2": "יומא סא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 1597,
+    "line_index_2_end": 1606,
+    "ref_2": "Yoma 61b:1",
+    "heRef_2": "יומא סא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 1597,
+    "line_index_2_end": 1606,
+    "ref_2": "Yoma 61b:1",
+    "heRef_2": "יומא סא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 795,
+    "line_index_2": 1620,
+    "line_index_2_end": 1639,
+    "ref_2": "Yoma 62b:1",
+    "heRef_2": "יומא סב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 796,
+    "line_index_2": 1620,
+    "line_index_2_end": 1639,
+    "ref_2": "Yoma 62b:1",
+    "heRef_2": "יומא סב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 797,
+    "line_index_2": 1620,
+    "line_index_2_end": 1639,
+    "ref_2": "Yoma 62b:1",
+    "heRef_2": "יומא סב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 798,
+    "line_index_2": 1620,
+    "line_index_2_end": 1639,
+    "ref_2": "Yoma 62b:1",
+    "heRef_2": "יומא סב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 1620,
+    "line_index_2_end": 1639,
+    "ref_2": "Yoma 62b:1",
+    "heRef_2": "יומא סב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 801,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 802,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 805,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 806,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 1641,
+    "line_index_2_end": 1658,
+    "ref_2": "Yoma 63a:1",
+    "heRef_2": "יומא סג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 810,
+    "line_index_2": 1660,
+    "line_index_2_end": 1672,
+    "ref_2": "Yoma 63b:1",
+    "heRef_2": "יומא סג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 812,
+    "line_index_2": 1660,
+    "line_index_2_end": 1672,
+    "ref_2": "Yoma 63b:1",
+    "heRef_2": "יומא סג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 813,
+    "line_index_2": 1660,
+    "line_index_2_end": 1672,
+    "ref_2": "Yoma 63b:1",
+    "heRef_2": "יומא סג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 1660,
+    "line_index_2_end": 1672,
+    "ref_2": "Yoma 63b:1",
+    "heRef_2": "יומא סג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 815,
+    "line_index_2": 1660,
+    "line_index_2_end": 1672,
+    "ref_2": "Yoma 63b:1",
+    "heRef_2": "יומא סג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 816,
+    "line_index_2": 1674,
+    "line_index_2_end": 1689,
+    "ref_2": "Yoma 64a:1",
+    "heRef_2": "יומא סד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 817,
+    "line_index_2": 1674,
+    "line_index_2_end": 1689,
+    "ref_2": "Yoma 64a:1",
+    "heRef_2": "יומא סד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 818,
+    "line_index_2": 1674,
+    "line_index_2_end": 1689,
+    "ref_2": "Yoma 64a:1",
+    "heRef_2": "יומא סד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 1674,
+    "line_index_2_end": 1689,
+    "ref_2": "Yoma 64a:1",
+    "heRef_2": "יומא סד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 822,
+    "line_index_2": 1674,
+    "line_index_2_end": 1689,
+    "ref_2": "Yoma 64a:1",
+    "heRef_2": "יומא סד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 824,
+    "line_index_2": 1691,
+    "line_index_2_end": 1697,
+    "ref_2": "Yoma 64b:1",
+    "heRef_2": "יומא סד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 829,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 831,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 832,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 833,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 1699,
+    "line_index_2_end": 1713,
+    "ref_2": "Yoma 65a:1",
+    "heRef_2": "יומא סה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 837,
+    "line_index_2": 1715,
+    "line_index_2_end": 1722,
+    "ref_2": "Yoma 65b:1",
+    "heRef_2": "יומא סה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 844,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 845,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 849,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 850,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 851,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 855,
+    "line_index_2": 1740,
+    "line_index_2_end": 1759,
+    "ref_2": "Yoma 66b:1",
+    "heRef_2": "יומא סו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 858,
+    "line_index_2": 1761,
+    "line_index_2_end": 1772,
+    "ref_2": "Yoma 67a:1",
+    "heRef_2": "יומא סז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 859,
+    "line_index_2": 1761,
+    "line_index_2_end": 1772,
+    "ref_2": "Yoma 67a:1",
+    "heRef_2": "יומא סז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 860,
+    "line_index_2": 1761,
+    "line_index_2_end": 1772,
+    "ref_2": "Yoma 67a:1",
+    "heRef_2": "יומא סז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 861,
+    "line_index_2": 1761,
+    "line_index_2_end": 1772,
+    "ref_2": "Yoma 67a:1",
+    "heRef_2": "יומא סז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 1774,
+    "line_index_2_end": 1789,
+    "ref_2": "Yoma 67b:1",
+    "heRef_2": "יומא סז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 864,
+    "line_index_2": 1774,
+    "line_index_2_end": 1789,
+    "ref_2": "Yoma 67b:1",
+    "heRef_2": "יומא סז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 868,
+    "line_index_2": 1774,
+    "line_index_2_end": 1789,
+    "ref_2": "Yoma 67b:1",
+    "heRef_2": "יומא סז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 871,
+    "line_index_2": 1791,
+    "line_index_2_end": 1800,
+    "ref_2": "Yoma 68a:1",
+    "heRef_2": "יומא סח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 873,
+    "line_index_2": 1791,
+    "line_index_2_end": 1800,
+    "ref_2": "Yoma 68a:1",
+    "heRef_2": "יומא סח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 874,
+    "line_index_2": 1791,
+    "line_index_2_end": 1800,
+    "ref_2": "Yoma 68a:1",
+    "heRef_2": "יומא סח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 1791,
+    "line_index_2_end": 1800,
+    "ref_2": "Yoma 68a:1",
+    "heRef_2": "יומא סח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 877,
+    "line_index_2": 1802,
+    "line_index_2_end": 1821,
+    "ref_2": "Yoma 68b:1",
+    "heRef_2": "יומא סח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 878,
+    "line_index_2": 1802,
+    "line_index_2_end": 1821,
+    "ref_2": "Yoma 68b:1",
+    "heRef_2": "יומא סח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 881,
+    "line_index_2": 1802,
+    "line_index_2_end": 1821,
+    "ref_2": "Yoma 68b:1",
+    "heRef_2": "יומא סח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 884,
+    "line_index_2": 1823,
+    "line_index_2_end": 1838,
+    "ref_2": "Yoma 69a:1",
+    "heRef_2": "יומא סט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 1823,
+    "line_index_2_end": 1838,
+    "ref_2": "Yoma 69a:1",
+    "heRef_2": "יומא סט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 886,
+    "line_index_2": 1823,
+    "line_index_2_end": 1838,
+    "ref_2": "Yoma 69a:1",
+    "heRef_2": "יומא סט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 887,
+    "line_index_2": 1823,
+    "line_index_2_end": 1838,
+    "ref_2": "Yoma 69a:1",
+    "heRef_2": "יומא סט., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 890,
+    "line_index_2": 1840,
+    "line_index_2_end": 1860,
+    "ref_2": "Yoma 69b:1",
+    "heRef_2": "יומא סט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 1840,
+    "line_index_2_end": 1860,
+    "ref_2": "Yoma 69b:1",
+    "heRef_2": "יומא סט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 895,
+    "line_index_2": 1840,
+    "line_index_2_end": 1860,
+    "ref_2": "Yoma 69b:1",
+    "heRef_2": "יומא סט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 901,
+    "line_index_2": 1862,
+    "line_index_2_end": 1884,
+    "ref_2": "Yoma 70a:1",
+    "heRef_2": "יומא ע., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 902,
+    "line_index_2": 1862,
+    "line_index_2_end": 1884,
+    "ref_2": "Yoma 70a:1",
+    "heRef_2": "יומא ע., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 906,
+    "line_index_2": 1886,
+    "line_index_2_end": 1897,
+    "ref_2": "Yoma 70b:1",
+    "heRef_2": "יומא ע:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 907,
+    "line_index_2": 1886,
+    "line_index_2_end": 1897,
+    "ref_2": "Yoma 70b:1",
+    "heRef_2": "יומא ע:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 914,
+    "line_index_2": 1899,
+    "line_index_2_end": 1917,
+    "ref_2": "Yoma 71a:1",
+    "heRef_2": "יומא עא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 915,
+    "line_index_2": 1899,
+    "line_index_2_end": 1917,
+    "ref_2": "Yoma 71a:1",
+    "heRef_2": "יומא עא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 921,
+    "line_index_2": 1919,
+    "line_index_2_end": 1933,
+    "ref_2": "Yoma 71b:1",
+    "heRef_2": "יומא עא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 924,
+    "line_index_2": 1919,
+    "line_index_2_end": 1933,
+    "ref_2": "Yoma 71b:1",
+    "heRef_2": "יומא עא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 925,
+    "line_index_2": 1919,
+    "line_index_2_end": 1933,
+    "ref_2": "Yoma 71b:1",
+    "heRef_2": "יומא עא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 926,
+    "line_index_2": 1919,
+    "line_index_2_end": 1933,
+    "ref_2": "Yoma 71b:1",
+    "heRef_2": "יומא עא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 930,
+    "line_index_2": 1935,
+    "line_index_2_end": 1947,
+    "ref_2": "Yoma 72a:1",
+    "heRef_2": "יומא עב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 933,
+    "line_index_2": 1949,
+    "line_index_2_end": 1969,
+    "ref_2": "Yoma 72b:1",
+    "heRef_2": "יומא עב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 934,
+    "line_index_2": 1949,
+    "line_index_2_end": 1969,
+    "ref_2": "Yoma 72b:1",
+    "heRef_2": "יומא עב:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 940,
+    "line_index_2": 1971,
+    "line_index_2_end": 1989,
+    "ref_2": "Yoma 73a:1",
+    "heRef_2": "יומא עג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 941,
+    "line_index_2": 1971,
+    "line_index_2_end": 1989,
+    "ref_2": "Yoma 73a:1",
+    "heRef_2": "יומא עג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 942,
+    "line_index_2": 1971,
+    "line_index_2_end": 1989,
+    "ref_2": "Yoma 73a:1",
+    "heRef_2": "יומא עג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 943,
+    "line_index_2": 1971,
+    "line_index_2_end": 1989,
+    "ref_2": "Yoma 73a:1",
+    "heRef_2": "יומא עג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 945,
+    "line_index_2": 1971,
+    "line_index_2_end": 1989,
+    "ref_2": "Yoma 73a:1",
+    "heRef_2": "יומא עג., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 949,
+    "line_index_2": 1991,
+    "line_index_2_end": 2010,
+    "ref_2": "Yoma 73b:1",
+    "heRef_2": "יומא עג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 952,
+    "line_index_2": 1991,
+    "line_index_2_end": 2010,
+    "ref_2": "Yoma 73b:1",
+    "heRef_2": "יומא עג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 954,
+    "line_index_2": 1991,
+    "line_index_2_end": 2010,
+    "ref_2": "Yoma 73b:1",
+    "heRef_2": "יומא עג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 955,
+    "line_index_2": 1991,
+    "line_index_2_end": 2010,
+    "ref_2": "Yoma 73b:1",
+    "heRef_2": "יומא עג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 956,
+    "line_index_2": 1991,
+    "line_index_2_end": 2010,
+    "ref_2": "Yoma 73b:1",
+    "heRef_2": "יומא עג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 960,
+    "line_index_2": 2012,
+    "line_index_2_end": 2020,
+    "ref_2": "Yoma 74a:1",
+    "heRef_2": "יומא עד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 962,
+    "line_index_2": 2012,
+    "line_index_2_end": 2020,
+    "ref_2": "Yoma 74a:1",
+    "heRef_2": "יומא עד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 964,
+    "line_index_2": 2022,
+    "line_index_2_end": 2037,
+    "ref_2": "Yoma 74b:1",
+    "heRef_2": "יומא עד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 968,
+    "line_index_2": 2022,
+    "line_index_2_end": 2037,
+    "ref_2": "Yoma 74b:1",
+    "heRef_2": "יומא עד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 969,
+    "line_index_2": 2039,
+    "line_index_2_end": 2059,
+    "ref_2": "Yoma 75a:1",
+    "heRef_2": "יומא עה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 971,
+    "line_index_2": 2061,
+    "line_index_2_end": 2077,
+    "ref_2": "Yoma 75b:1",
+    "heRef_2": "יומא עה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 973,
+    "line_index_2": 2061,
+    "line_index_2_end": 2077,
+    "ref_2": "Yoma 75b:1",
+    "heRef_2": "יומא עה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 975,
+    "line_index_2": 2061,
+    "line_index_2_end": 2077,
+    "ref_2": "Yoma 75b:1",
+    "heRef_2": "יומא עה:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 980,
+    "line_index_2": 2079,
+    "line_index_2_end": 2093,
+    "ref_2": "Yoma 76a:1",
+    "heRef_2": "יומא עו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 983,
+    "line_index_2": 2079,
+    "line_index_2_end": 2093,
+    "ref_2": "Yoma 76a:1",
+    "heRef_2": "יומא עו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 984,
+    "line_index_2": 2079,
+    "line_index_2_end": 2093,
+    "ref_2": "Yoma 76a:1",
+    "heRef_2": "יומא עו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 992,
+    "line_index_2": 2108,
+    "line_index_2_end": 2121,
+    "ref_2": "Yoma 77a:1",
+    "heRef_2": "יומא עז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 994,
+    "line_index_2": 2123,
+    "line_index_2_end": 2139,
+    "ref_2": "Yoma 77b:1",
+    "heRef_2": "יומא עז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 997,
+    "line_index_2": 2123,
+    "line_index_2_end": 2139,
+    "ref_2": "Yoma 77b:1",
+    "heRef_2": "יומא עז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 998,
+    "line_index_2": 2123,
+    "line_index_2_end": 2139,
+    "ref_2": "Yoma 77b:1",
+    "heRef_2": "יומא עז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 999,
+    "line_index_2": 2123,
+    "line_index_2_end": 2139,
+    "ref_2": "Yoma 77b:1",
+    "heRef_2": "יומא עז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1002,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1004,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1005,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1006,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1008,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1010,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1011,
+    "line_index_2": 2141,
+    "line_index_2_end": 2154,
+    "ref_2": "Yoma 78a:1",
+    "heRef_2": "יומא עח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1013,
+    "line_index_2": 2156,
+    "line_index_2_end": 2167,
+    "ref_2": "Yoma 78b:1",
+    "heRef_2": "יומא עח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1017,
+    "line_index_2": 2156,
+    "line_index_2_end": 2167,
+    "ref_2": "Yoma 78b:1",
+    "heRef_2": "יומא עח:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1020,
+    "line_index_2": 2173,
+    "line_index_2_end": 2183,
+    "ref_2": "Yoma 79b:1",
+    "heRef_2": "יומא עט:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1023,
+    "line_index_2": 2185,
+    "line_index_2_end": 2200,
+    "ref_2": "Yoma 80a:1",
+    "heRef_2": "יומא פ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1025,
+    "line_index_2": 2185,
+    "line_index_2_end": 2200,
+    "ref_2": "Yoma 80a:1",
+    "heRef_2": "יומא פ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1026,
+    "line_index_2": 2185,
+    "line_index_2_end": 2200,
+    "ref_2": "Yoma 80a:1",
+    "heRef_2": "יומא פ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1028,
+    "line_index_2": 2185,
+    "line_index_2_end": 2200,
+    "ref_2": "Yoma 80a:1",
+    "heRef_2": "יומא פ., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1030,
+    "line_index_2": 2202,
+    "line_index_2_end": 2211,
+    "ref_2": "Yoma 80b:1",
+    "heRef_2": "יומא פ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1032,
+    "line_index_2": 2202,
+    "line_index_2_end": 2211,
+    "ref_2": "Yoma 80b:1",
+    "heRef_2": "יומא פ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1033,
+    "line_index_2": 2202,
+    "line_index_2_end": 2211,
+    "ref_2": "Yoma 80b:1",
+    "heRef_2": "יומא פ:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1035,
+    "line_index_2": 2213,
+    "line_index_2_end": 2234,
+    "ref_2": "Yoma 81a:1",
+    "heRef_2": "יומא פא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1036,
+    "line_index_2": 2213,
+    "line_index_2_end": 2234,
+    "ref_2": "Yoma 81a:1",
+    "heRef_2": "יומא פא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1040,
+    "line_index_2": 2213,
+    "line_index_2_end": 2234,
+    "ref_2": "Yoma 81a:1",
+    "heRef_2": "יומא פא., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1042,
+    "line_index_2": 2236,
+    "line_index_2_end": 2246,
+    "ref_2": "Yoma 81b:1",
+    "heRef_2": "יומא פא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1043,
+    "line_index_2": 2236,
+    "line_index_2_end": 2246,
+    "ref_2": "Yoma 81b:1",
+    "heRef_2": "יומא פא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1047,
+    "line_index_2": 2236,
+    "line_index_2_end": 2246,
+    "ref_2": "Yoma 81b:1",
+    "heRef_2": "יומא פא:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 2248,
+    "line_index_2_end": 2260,
+    "ref_2": "Yoma 82a:1",
+    "heRef_2": "יומא פב., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1064,
+    "line_index_2": 2284,
+    "line_index_2_end": 2302,
+    "ref_2": "Yoma 83b:1",
+    "heRef_2": "יומא פג:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1068,
+    "line_index_2": 2304,
+    "line_index_2_end": 2314,
+    "ref_2": "Yoma 84a:1",
+    "heRef_2": "יומא פד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1069,
+    "line_index_2": 2304,
+    "line_index_2_end": 2314,
+    "ref_2": "Yoma 84a:1",
+    "heRef_2": "יומא פד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1070,
+    "line_index_2": 2304,
+    "line_index_2_end": 2314,
+    "ref_2": "Yoma 84a:1",
+    "heRef_2": "יומא פד., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1071,
+    "line_index_2": 2316,
+    "line_index_2_end": 2331,
+    "ref_2": "Yoma 84b:1",
+    "heRef_2": "יומא פד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1074,
+    "line_index_2": 2316,
+    "line_index_2_end": 2331,
+    "ref_2": "Yoma 84b:1",
+    "heRef_2": "יומא פד:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1078,
+    "line_index_2": 2333,
+    "line_index_2_end": 2347,
+    "ref_2": "Yoma 85a:1",
+    "heRef_2": "יומא פה., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1088,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1090,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1091,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1092,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1094,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1097,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1099,
+    "line_index_2": 2364,
+    "line_index_2_end": 2379,
+    "ref_2": "Yoma 86a:1",
+    "heRef_2": "יומא פו., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1100,
+    "line_index_2": 2381,
+    "line_index_2_end": 2399,
+    "ref_2": "Yoma 86b:1",
+    "heRef_2": "יומא פו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1101,
+    "line_index_2": 2381,
+    "line_index_2_end": 2399,
+    "ref_2": "Yoma 86b:1",
+    "heRef_2": "יומא פו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1102,
+    "line_index_2": 2381,
+    "line_index_2_end": 2399,
+    "ref_2": "Yoma 86b:1",
+    "heRef_2": "יומא פו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1104,
+    "line_index_2": 2381,
+    "line_index_2_end": 2399,
+    "ref_2": "Yoma 86b:1",
+    "heRef_2": "יומא פו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1105,
+    "line_index_2": 2381,
+    "line_index_2_end": 2399,
+    "ref_2": "Yoma 86b:1",
+    "heRef_2": "יומא פו:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1112,
+    "line_index_2": 2401,
+    "line_index_2_end": 2417,
+    "ref_2": "Yoma 87a:1",
+    "heRef_2": "יומא פז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1113,
+    "line_index_2": 2401,
+    "line_index_2_end": 2417,
+    "ref_2": "Yoma 87a:1",
+    "heRef_2": "יומא פז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1115,
+    "line_index_2": 2401,
+    "line_index_2_end": 2417,
+    "ref_2": "Yoma 87a:1",
+    "heRef_2": "יומא פז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1116,
+    "line_index_2": 2401,
+    "line_index_2_end": 2417,
+    "ref_2": "Yoma 87a:1",
+    "heRef_2": "יומא פז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1117,
+    "line_index_2": 2401,
+    "line_index_2_end": 2417,
+    "ref_2": "Yoma 87a:1",
+    "heRef_2": "יומא פז., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1130,
+    "line_index_2": 2419,
+    "line_index_2_end": 2432,
+    "ref_2": "Yoma 87b:1",
+    "heRef_2": "יומא פז:, א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1141,
+    "line_index_2": 2434,
+    "line_index_2_end": 2445,
+    "ref_2": "Yoma 88a:1",
+    "heRef_2": "יומא פח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1142,
+    "line_index_2": 2434,
+    "line_index_2_end": 2445,
+    "ref_2": "Yoma 88a:1",
+    "heRef_2": "יומא פח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1143,
+    "line_index_2": 2434,
+    "line_index_2_end": 2445,
+    "ref_2": "Yoma 88a:1",
+    "heRef_2": "יומא פח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1145,
+    "line_index_2": 2434,
+    "line_index_2_end": 2445,
+    "ref_2": "Yoma 88a:1",
+    "heRef_2": "יומא פח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1146,
+    "line_index_2": 2434,
+    "line_index_2_end": 2445,
+    "ref_2": "Yoma 88a:1",
+    "heRef_2": "יומא פח., א",
+    "path_2": "יומא.txt",
+    "Conection Type": "source"
+  }
+]

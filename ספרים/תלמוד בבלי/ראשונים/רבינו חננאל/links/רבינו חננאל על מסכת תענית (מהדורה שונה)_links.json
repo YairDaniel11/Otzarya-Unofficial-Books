@@ -1,0 +1,1370 @@
+[
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "line_index_2_end": 15,
+    "ref_2": "Taanit 2a:1",
+    "heRef_2": "תענית ב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 17,
+    "line_index_2_end": 33,
+    "ref_2": "Taanit 2b:1",
+    "heRef_2": "תענית ב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 50,
+    "line_index_2_end": 62,
+    "ref_2": "Taanit 3b:1",
+    "heRef_2": "תענית ג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 50,
+    "line_index_2_end": 62,
+    "ref_2": "Taanit 3b:1",
+    "heRef_2": "תענית ג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 64,
+    "line_index_2_end": 79,
+    "ref_2": "Taanit 4a:1",
+    "heRef_2": "תענית ד., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 64,
+    "line_index_2_end": 79,
+    "ref_2": "Taanit 4a:1",
+    "heRef_2": "תענית ד., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 81,
+    "line_index_2_end": 98,
+    "ref_2": "Taanit 4b:1",
+    "heRef_2": "תענית ד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 81,
+    "line_index_2_end": 98,
+    "ref_2": "Taanit 4b:1",
+    "heRef_2": "תענית ד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 81,
+    "line_index_2_end": 98,
+    "ref_2": "Taanit 4b:1",
+    "heRef_2": "תענית ד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 100,
+    "line_index_2_end": 113,
+    "ref_2": "Taanit 5a:1",
+    "heRef_2": "תענית ה., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 100,
+    "line_index_2_end": 113,
+    "ref_2": "Taanit 5a:1",
+    "heRef_2": "תענית ה., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 115,
+    "line_index_2_end": 126,
+    "ref_2": "Taanit 5b:1",
+    "heRef_2": "תענית ה:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 128,
+    "line_index_2_end": 140,
+    "ref_2": "Taanit 6a:1",
+    "heRef_2": "תענית ו., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 142,
+    "line_index_2_end": 158,
+    "ref_2": "Taanit 6b:1",
+    "heRef_2": "תענית ו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 160,
+    "line_index_2_end": 177,
+    "ref_2": "Taanit 7a:1",
+    "heRef_2": "תענית ז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 160,
+    "line_index_2_end": 177,
+    "ref_2": "Taanit 7a:1",
+    "heRef_2": "תענית ז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 179,
+    "line_index_2_end": 194,
+    "ref_2": "Taanit 7b:1",
+    "heRef_2": "תענית ז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 179,
+    "line_index_2_end": 194,
+    "ref_2": "Taanit 7b:1",
+    "heRef_2": "תענית ז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 196,
+    "line_index_2_end": 213,
+    "ref_2": "Taanit 8a:1",
+    "heRef_2": "תענית ח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 196,
+    "line_index_2_end": 213,
+    "ref_2": "Taanit 8a:1",
+    "heRef_2": "תענית ח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 196,
+    "line_index_2_end": 213,
+    "ref_2": "Taanit 8a:1",
+    "heRef_2": "תענית ח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 215,
+    "line_index_2_end": 231,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 215,
+    "line_index_2_end": 231,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 215,
+    "line_index_2_end": 231,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 215,
+    "line_index_2_end": 231,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 215,
+    "line_index_2_end": 231,
+    "ref_2": "Taanit 8b:1",
+    "heRef_2": "תענית ח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 233,
+    "line_index_2_end": 246,
+    "ref_2": "Taanit 9a:1",
+    "heRef_2": "תענית ט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 233,
+    "line_index_2_end": 246,
+    "ref_2": "Taanit 9a:1",
+    "heRef_2": "תענית ט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 233,
+    "line_index_2_end": 246,
+    "ref_2": "Taanit 9a:1",
+    "heRef_2": "תענית ט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 248,
+    "line_index_2_end": 263,
+    "ref_2": "Taanit 9b:1",
+    "heRef_2": "תענית ט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 248,
+    "line_index_2_end": 263,
+    "ref_2": "Taanit 9b:1",
+    "heRef_2": "תענית ט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 248,
+    "line_index_2_end": 263,
+    "ref_2": "Taanit 9b:1",
+    "heRef_2": "תענית ט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 248,
+    "line_index_2_end": 263,
+    "ref_2": "Taanit 9b:1",
+    "heRef_2": "תענית ט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 265,
+    "line_index_2_end": 283,
+    "ref_2": "Taanit 10a:1",
+    "heRef_2": "תענית י., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 285,
+    "line_index_2_end": 296,
+    "ref_2": "Taanit 10b:1",
+    "heRef_2": "תענית י:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 298,
+    "line_index_2_end": 315,
+    "ref_2": "Taanit 11a:1",
+    "heRef_2": "תענית יא., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 327,
+    "line_index_2_end": 338,
+    "ref_2": "Taanit 12a:1",
+    "heRef_2": "תענית יב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 327,
+    "line_index_2_end": 338,
+    "ref_2": "Taanit 12a:1",
+    "heRef_2": "תענית יב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 327,
+    "line_index_2_end": 338,
+    "ref_2": "Taanit 12a:1",
+    "heRef_2": "תענית יב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 340,
+    "line_index_2_end": 353,
+    "ref_2": "Taanit 12b:1",
+    "heRef_2": "תענית יב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 355,
+    "line_index_2_end": 367,
+    "ref_2": "Taanit 13a:1",
+    "heRef_2": "תענית יג., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 355,
+    "line_index_2_end": 367,
+    "ref_2": "Taanit 13a:1",
+    "heRef_2": "תענית יג., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 369,
+    "line_index_2_end": 384,
+    "ref_2": "Taanit 13b:1",
+    "heRef_2": "תענית יג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 386,
+    "line_index_2_end": 399,
+    "ref_2": "Taanit 14a:1",
+    "heRef_2": "תענית יד., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 386,
+    "line_index_2_end": 399,
+    "ref_2": "Taanit 14a:1",
+    "heRef_2": "תענית יד., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 401,
+    "line_index_2_end": 415,
+    "ref_2": "Taanit 14b:1",
+    "heRef_2": "תענית יד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 446,
+    "line_index_2_end": 462,
+    "ref_2": "Taanit 16a:1",
+    "heRef_2": "תענית טז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 446,
+    "line_index_2_end": 462,
+    "ref_2": "Taanit 16a:1",
+    "heRef_2": "תענית טז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 446,
+    "line_index_2_end": 462,
+    "ref_2": "Taanit 16a:1",
+    "heRef_2": "תענית טז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 446,
+    "line_index_2_end": 462,
+    "ref_2": "Taanit 16a:1",
+    "heRef_2": "תענית טז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 446,
+    "line_index_2_end": 462,
+    "ref_2": "Taanit 16a:1",
+    "heRef_2": "תענית טז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 464,
+    "line_index_2_end": 478,
+    "ref_2": "Taanit 16b:1",
+    "heRef_2": "תענית טז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 464,
+    "line_index_2_end": 478,
+    "ref_2": "Taanit 16b:1",
+    "heRef_2": "תענית טז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 464,
+    "line_index_2_end": 478,
+    "ref_2": "Taanit 16b:1",
+    "heRef_2": "תענית טז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 464,
+    "line_index_2_end": 478,
+    "ref_2": "Taanit 16b:1",
+    "heRef_2": "תענית טז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 480,
+    "line_index_2_end": 494,
+    "ref_2": "Taanit 17a:1",
+    "heRef_2": "תענית יז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 496,
+    "line_index_2_end": 508,
+    "ref_2": "Taanit 17b:1",
+    "heRef_2": "תענית יז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 496,
+    "line_index_2_end": 508,
+    "ref_2": "Taanit 17b:1",
+    "heRef_2": "תענית יז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 510,
+    "line_index_2_end": 522,
+    "ref_2": "Taanit 18a:1",
+    "heRef_2": "תענית יח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 510,
+    "line_index_2_end": 522,
+    "ref_2": "Taanit 18a:1",
+    "heRef_2": "תענית יח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 524,
+    "line_index_2_end": 538,
+    "ref_2": "Taanit 18b:1",
+    "heRef_2": "תענית יח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 540,
+    "line_index_2_end": 554,
+    "ref_2": "Taanit 19a:1",
+    "heRef_2": "תענית יט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 540,
+    "line_index_2_end": 554,
+    "ref_2": "Taanit 19a:1",
+    "heRef_2": "תענית יט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 556,
+    "line_index_2_end": 571,
+    "ref_2": "Taanit 19b:1",
+    "heRef_2": "תענית יט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 556,
+    "line_index_2_end": 571,
+    "ref_2": "Taanit 19b:1",
+    "heRef_2": "תענית יט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 556,
+    "line_index_2_end": 571,
+    "ref_2": "Taanit 19b:1",
+    "heRef_2": "תענית יט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 573,
+    "line_index_2_end": 588,
+    "ref_2": "Taanit 20a:1",
+    "heRef_2": "תענית כ., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 573,
+    "line_index_2_end": 588,
+    "ref_2": "Taanit 20a:1",
+    "heRef_2": "תענית כ., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 590,
+    "line_index_2_end": 604,
+    "ref_2": "Taanit 20b:1",
+    "heRef_2": "תענית כ:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 606,
+    "line_index_2_end": 621,
+    "ref_2": "Taanit 21a:1",
+    "heRef_2": "תענית כא., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 606,
+    "line_index_2_end": 621,
+    "ref_2": "Taanit 21a:1",
+    "heRef_2": "תענית כא., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 606,
+    "line_index_2_end": 621,
+    "ref_2": "Taanit 21a:1",
+    "heRef_2": "תענית כא., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 623,
+    "line_index_2_end": 638,
+    "ref_2": "Taanit 21b:1",
+    "heRef_2": "תענית כא:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 640,
+    "line_index_2_end": 656,
+    "ref_2": "Taanit 22a:1",
+    "heRef_2": "תענית כב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 640,
+    "line_index_2_end": 656,
+    "ref_2": "Taanit 22a:1",
+    "heRef_2": "תענית כב., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 658,
+    "line_index_2_end": 676,
+    "ref_2": "Taanit 22b:1",
+    "heRef_2": "תענית כב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 658,
+    "line_index_2_end": 676,
+    "ref_2": "Taanit 22b:1",
+    "heRef_2": "תענית כב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 658,
+    "line_index_2_end": 676,
+    "ref_2": "Taanit 22b:1",
+    "heRef_2": "תענית כב:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 697,
+    "line_index_2_end": 711,
+    "ref_2": "Taanit 23b:1",
+    "heRef_2": "תענית כג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 697,
+    "line_index_2_end": 711,
+    "ref_2": "Taanit 23b:1",
+    "heRef_2": "תענית כג:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 713,
+    "line_index_2_end": 730,
+    "ref_2": "Taanit 24a:1",
+    "heRef_2": "תענית כד., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 732,
+    "line_index_2_end": 745,
+    "ref_2": "Taanit 24b:1",
+    "heRef_2": "תענית כד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 732,
+    "line_index_2_end": 745,
+    "ref_2": "Taanit 24b:1",
+    "heRef_2": "תענית כד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 732,
+    "line_index_2_end": 745,
+    "ref_2": "Taanit 24b:1",
+    "heRef_2": "תענית כד:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 747,
+    "line_index_2_end": 766,
+    "ref_2": "Taanit 25a:1",
+    "heRef_2": "תענית כה., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 768,
+    "line_index_2_end": 783,
+    "ref_2": "Taanit 25b:1",
+    "heRef_2": "תענית כה:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 768,
+    "line_index_2_end": 783,
+    "ref_2": "Taanit 25b:1",
+    "heRef_2": "תענית כה:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 768,
+    "line_index_2_end": 783,
+    "ref_2": "Taanit 25b:1",
+    "heRef_2": "תענית כה:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 800,
+    "line_index_2_end": 816,
+    "ref_2": "Taanit 26b:1",
+    "heRef_2": "תענית כו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 800,
+    "line_index_2_end": 816,
+    "ref_2": "Taanit 26b:1",
+    "heRef_2": "תענית כו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 800,
+    "line_index_2_end": 816,
+    "ref_2": "Taanit 26b:1",
+    "heRef_2": "תענית כו:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 818,
+    "line_index_2_end": 829,
+    "ref_2": "Taanit 27a:1",
+    "heRef_2": "תענית כז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 818,
+    "line_index_2_end": 829,
+    "ref_2": "Taanit 27a:1",
+    "heRef_2": "תענית כז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 818,
+    "line_index_2_end": 829,
+    "ref_2": "Taanit 27a:1",
+    "heRef_2": "תענית כז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 818,
+    "line_index_2_end": 829,
+    "ref_2": "Taanit 27a:1",
+    "heRef_2": "תענית כז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 818,
+    "line_index_2_end": 829,
+    "ref_2": "Taanit 27a:1",
+    "heRef_2": "תענית כז., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 831,
+    "line_index_2_end": 845,
+    "ref_2": "Taanit 27b:1",
+    "heRef_2": "תענית כז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 831,
+    "line_index_2_end": 845,
+    "ref_2": "Taanit 27b:1",
+    "heRef_2": "תענית כז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 831,
+    "line_index_2_end": 845,
+    "ref_2": "Taanit 27b:1",
+    "heRef_2": "תענית כז:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 847,
+    "line_index_2_end": 864,
+    "ref_2": "Taanit 28a:1",
+    "heRef_2": "תענית כח., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 866,
+    "line_index_2_end": 881,
+    "ref_2": "Taanit 28b:1",
+    "heRef_2": "תענית כח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 866,
+    "line_index_2_end": 881,
+    "ref_2": "Taanit 28b:1",
+    "heRef_2": "תענית כח:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 883,
+    "line_index_2_end": 900,
+    "ref_2": "Taanit 29a:1",
+    "heRef_2": "תענית כט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 883,
+    "line_index_2_end": 900,
+    "ref_2": "Taanit 29a:1",
+    "heRef_2": "תענית כט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 883,
+    "line_index_2_end": 900,
+    "ref_2": "Taanit 29a:1",
+    "heRef_2": "תענית כט., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 902,
+    "line_index_2_end": 914,
+    "ref_2": "Taanit 29b:1",
+    "heRef_2": "תענית כט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 902,
+    "line_index_2_end": 914,
+    "ref_2": "Taanit 29b:1",
+    "heRef_2": "תענית כט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 902,
+    "line_index_2_end": 914,
+    "ref_2": "Taanit 29b:1",
+    "heRef_2": "תענית כט:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 916,
+    "line_index_2_end": 930,
+    "ref_2": "Taanit 30a:1",
+    "heRef_2": "תענית ל., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 916,
+    "line_index_2_end": 930,
+    "ref_2": "Taanit 30a:1",
+    "heRef_2": "תענית ל., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 932,
+    "line_index_2_end": 944,
+    "ref_2": "Taanit 30b:1",
+    "heRef_2": "תענית ל:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 932,
+    "line_index_2_end": 944,
+    "ref_2": "Taanit 30b:1",
+    "heRef_2": "תענית ל:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 932,
+    "line_index_2_end": 944,
+    "ref_2": "Taanit 30b:1",
+    "heRef_2": "תענית ל:, א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 946,
+    "line_index_2_end": 955,
+    "ref_2": "Taanit 31a:1",
+    "heRef_2": "תענית לא., א",
+    "path_2": "תענית.txt",
+    "Conection Type": "source"
+  }
+]

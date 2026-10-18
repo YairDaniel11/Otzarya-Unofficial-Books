@@ -1,0 +1,107 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 4,
+    "line_index_2_end": 5,
+    "ref_2": "Rosh on Taanit 1:1",
+    "heRef_2": "פסקי הרא\"ש על תענית א, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 23,
+    "ref_2": "Rosh on Taanit 9:1",
+    "heRef_2": "פסקי הרא\"ש על תענית ט, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 29,
+    "ref_2": "Rosh on Taanit 12:1",
+    "heRef_2": "פסקי הרא\"ש על תענית יב, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 31,
+    "ref_2": "Rosh on Taanit 13:1",
+    "heRef_2": "פסקי הרא\"ש על תענית יג, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 33,
+    "ref_2": "Rosh on Taanit 14:1",
+    "heRef_2": "פסקי הרא\"ש על תענית יד, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 37,
+    "ref_2": "Rosh on Taanit 16:1",
+    "heRef_2": "פסקי הרא\"ש על תענית טז, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 37,
+    "ref_2": "Rosh on Taanit 16:1",
+    "heRef_2": "פסקי הרא\"ש על תענית טז, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 74,
+    "ref_2": "Rosh on Taanit 30:1",
+    "heRef_2": "פסקי הרא\"ש על תענית ל, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 80,
+    "ref_2": "Rosh on Taanit 32:1",
+    "heRef_2": "פסקי הרא\"ש על תענית לב, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 80,
+    "ref_2": "Rosh on Taanit 32:1",
+    "heRef_2": "פסקי הרא\"ש על תענית לב, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 87,
+    "ref_2": "Rosh on Taanit 35:1",
+    "heRef_2": "פסקי הרא\"ש על תענית לה, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 87,
+    "ref_2": "Rosh on Taanit 35:1",
+    "heRef_2": "פסקי הרא\"ש על תענית לה, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 93,
+    "ref_2": "Rosh on Taanit 38:1",
+    "heRef_2": "פסקי הרא\"ש על תענית לח, א",
+    "path_2": "פסקי הרא\"ש על תענית.txt",
+    "Conection Type": "source"
+  }
+]

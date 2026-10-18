@@ -1,0 +1,1982 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "line_index_2_end": 10,
+    "ref_2": "Chagigah 2a:1",
+    "heRef_2": "חגיגה ב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 12,
+    "line_index_2_end": 19,
+    "ref_2": "Chagigah 2b:1",
+    "heRef_2": "חגיגה ב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 12,
+    "line_index_2_end": 19,
+    "ref_2": "Chagigah 2b:1",
+    "heRef_2": "חגיגה ב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 12,
+    "line_index_2_end": 19,
+    "ref_2": "Chagigah 2b:1",
+    "heRef_2": "חגיגה ב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 21,
+    "line_index_2_end": 39,
+    "ref_2": "Chagigah 3a:1",
+    "heRef_2": "חגיגה ג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 21,
+    "line_index_2_end": 39,
+    "ref_2": "Chagigah 3a:1",
+    "heRef_2": "חגיגה ג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 21,
+    "line_index_2_end": 39,
+    "ref_2": "Chagigah 3a:1",
+    "heRef_2": "חגיגה ג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 21,
+    "line_index_2_end": 39,
+    "ref_2": "Chagigah 3a:1",
+    "heRef_2": "חגיגה ג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 21,
+    "line_index_2_end": 39,
+    "ref_2": "Chagigah 3a:1",
+    "heRef_2": "חגיגה ג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 41,
+    "line_index_2_end": 54,
+    "ref_2": "Chagigah 3b:1",
+    "heRef_2": "חגיגה ג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 41,
+    "line_index_2_end": 54,
+    "ref_2": "Chagigah 3b:1",
+    "heRef_2": "חגיגה ג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 56,
+    "line_index_2_end": 68,
+    "ref_2": "Chagigah 4a:1",
+    "heRef_2": "חגיגה ד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 56,
+    "line_index_2_end": 68,
+    "ref_2": "Chagigah 4a:1",
+    "heRef_2": "חגיגה ד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 56,
+    "line_index_2_end": 68,
+    "ref_2": "Chagigah 4a:1",
+    "heRef_2": "חגיגה ד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 70,
+    "line_index_2_end": 81,
+    "ref_2": "Chagigah 4b:1",
+    "heRef_2": "חגיגה ד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 70,
+    "line_index_2_end": 81,
+    "ref_2": "Chagigah 4b:1",
+    "heRef_2": "חגיגה ד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 70,
+    "line_index_2_end": 81,
+    "ref_2": "Chagigah 4b:1",
+    "heRef_2": "חגיגה ד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 70,
+    "line_index_2_end": 81,
+    "ref_2": "Chagigah 4b:1",
+    "heRef_2": "חגיגה ד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 83,
+    "line_index_2_end": 100,
+    "ref_2": "Chagigah 5a:1",
+    "heRef_2": "חגיגה ה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 102,
+    "line_index_2_end": 125,
+    "ref_2": "Chagigah 5b:1",
+    "heRef_2": "חגיגה ה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 127,
+    "line_index_2_end": 143,
+    "ref_2": "Chagigah 6a:1",
+    "heRef_2": "חגיגה ו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 145,
+    "line_index_2_end": 159,
+    "ref_2": "Chagigah 6b:1",
+    "heRef_2": "חגיגה ו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 145,
+    "line_index_2_end": 159,
+    "ref_2": "Chagigah 6b:1",
+    "heRef_2": "חגיגה ו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 145,
+    "line_index_2_end": 159,
+    "ref_2": "Chagigah 6b:1",
+    "heRef_2": "חגיגה ו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 161,
+    "line_index_2_end": 177,
+    "ref_2": "Chagigah 7a:1",
+    "heRef_2": "חגיגה ז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 161,
+    "line_index_2_end": 177,
+    "ref_2": "Chagigah 7a:1",
+    "heRef_2": "חגיגה ז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 161,
+    "line_index_2_end": 177,
+    "ref_2": "Chagigah 7a:1",
+    "heRef_2": "חגיגה ז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 161,
+    "line_index_2_end": 177,
+    "ref_2": "Chagigah 7a:1",
+    "heRef_2": "חגיגה ז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 161,
+    "line_index_2_end": 177,
+    "ref_2": "Chagigah 7a:1",
+    "heRef_2": "חגיגה ז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 190,
+    "line_index_2_end": 199,
+    "ref_2": "Chagigah 8a:1",
+    "heRef_2": "חגיגה ח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 190,
+    "line_index_2_end": 199,
+    "ref_2": "Chagigah 8a:1",
+    "heRef_2": "חגיגה ח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 190,
+    "line_index_2_end": 199,
+    "ref_2": "Chagigah 8a:1",
+    "heRef_2": "חגיגה ח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 190,
+    "line_index_2_end": 199,
+    "ref_2": "Chagigah 8a:1",
+    "heRef_2": "חגיגה ח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 201,
+    "line_index_2_end": 218,
+    "ref_2": "Chagigah 8b:1",
+    "heRef_2": "חגיגה ח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 201,
+    "line_index_2_end": 218,
+    "ref_2": "Chagigah 8b:1",
+    "heRef_2": "חגיגה ח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 201,
+    "line_index_2_end": 218,
+    "ref_2": "Chagigah 8b:1",
+    "heRef_2": "חגיגה ח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 201,
+    "line_index_2_end": 218,
+    "ref_2": "Chagigah 8b:1",
+    "heRef_2": "חגיגה ח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 201,
+    "line_index_2_end": 218,
+    "ref_2": "Chagigah 8b:1",
+    "heRef_2": "חגיגה ח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 220,
+    "line_index_2_end": 237,
+    "ref_2": "Chagigah 9a:1",
+    "heRef_2": "חגיגה ט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 239,
+    "line_index_2_end": 255,
+    "ref_2": "Chagigah 9b:1",
+    "heRef_2": "חגיגה ט:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 257,
+    "line_index_2_end": 273,
+    "ref_2": "Chagigah 10a:1",
+    "heRef_2": "חגיגה י., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 293,
+    "line_index_2_end": 308,
+    "ref_2": "Chagigah 11a:1",
+    "heRef_2": "חגיגה יא., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 293,
+    "line_index_2_end": 308,
+    "ref_2": "Chagigah 11a:1",
+    "heRef_2": "חגיגה יא., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 310,
+    "line_index_2_end": 333,
+    "ref_2": "Chagigah 11b:1",
+    "heRef_2": "חגיגה יא:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 310,
+    "line_index_2_end": 333,
+    "ref_2": "Chagigah 11b:1",
+    "heRef_2": "חגיגה יא:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 310,
+    "line_index_2_end": 333,
+    "ref_2": "Chagigah 11b:1",
+    "heRef_2": "חגיגה יא:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 310,
+    "line_index_2_end": 333,
+    "ref_2": "Chagigah 11b:1",
+    "heRef_2": "חגיגה יא:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 335,
+    "line_index_2_end": 354,
+    "ref_2": "Chagigah 12a:1",
+    "heRef_2": "חגיגה יב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 335,
+    "line_index_2_end": 354,
+    "ref_2": "Chagigah 12a:1",
+    "heRef_2": "חגיגה יב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 335,
+    "line_index_2_end": 354,
+    "ref_2": "Chagigah 12a:1",
+    "heRef_2": "חגיגה יב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 335,
+    "line_index_2_end": 354,
+    "ref_2": "Chagigah 12a:1",
+    "heRef_2": "חגיגה יב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 335,
+    "line_index_2_end": 354,
+    "ref_2": "Chagigah 12a:1",
+    "heRef_2": "חגיגה יב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 356,
+    "line_index_2_end": 370,
+    "ref_2": "Chagigah 12b:1",
+    "heRef_2": "חגיגה יב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 356,
+    "line_index_2_end": 370,
+    "ref_2": "Chagigah 12b:1",
+    "heRef_2": "חגיגה יב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 356,
+    "line_index_2_end": 370,
+    "ref_2": "Chagigah 12b:1",
+    "heRef_2": "חגיגה יב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 356,
+    "line_index_2_end": 370,
+    "ref_2": "Chagigah 12b:1",
+    "heRef_2": "חגיגה יב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 372,
+    "line_index_2_end": 385,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 372,
+    "line_index_2_end": 385,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 372,
+    "line_index_2_end": 385,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 372,
+    "line_index_2_end": 385,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 372,
+    "line_index_2_end": 385,
+    "ref_2": "Chagigah 13a:1",
+    "heRef_2": "חגיגה יג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 387,
+    "line_index_2_end": 400,
+    "ref_2": "Chagigah 13b:1",
+    "heRef_2": "חגיגה יג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 387,
+    "line_index_2_end": 400,
+    "ref_2": "Chagigah 13b:1",
+    "heRef_2": "חגיגה יג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 387,
+    "line_index_2_end": 400,
+    "ref_2": "Chagigah 13b:1",
+    "heRef_2": "חגיגה יג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 387,
+    "line_index_2_end": 400,
+    "ref_2": "Chagigah 13b:1",
+    "heRef_2": "חגיגה יג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 402,
+    "line_index_2_end": 419,
+    "ref_2": "Chagigah 14a:1",
+    "heRef_2": "חגיגה יד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 402,
+    "line_index_2_end": 419,
+    "ref_2": "Chagigah 14a:1",
+    "heRef_2": "חגיגה יד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 402,
+    "line_index_2_end": 419,
+    "ref_2": "Chagigah 14a:1",
+    "heRef_2": "חגיגה יד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 421,
+    "line_index_2_end": 430,
+    "ref_2": "Chagigah 14b:1",
+    "heRef_2": "חגיגה יד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 214,
+    "line_index_2": 421,
+    "line_index_2_end": 430,
+    "ref_2": "Chagigah 14b:1",
+    "heRef_2": "חגיגה יד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 421,
+    "line_index_2_end": 430,
+    "ref_2": "Chagigah 14b:1",
+    "heRef_2": "חגיגה יד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 421,
+    "line_index_2_end": 430,
+    "ref_2": "Chagigah 14b:1",
+    "heRef_2": "חגיגה יד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 432,
+    "line_index_2_end": 444,
+    "ref_2": "Chagigah 15a:1",
+    "heRef_2": "חגיגה טו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 432,
+    "line_index_2_end": 444,
+    "ref_2": "Chagigah 15a:1",
+    "heRef_2": "חגיגה טו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 446,
+    "line_index_2_end": 461,
+    "ref_2": "Chagigah 15b:1",
+    "heRef_2": "חגיגה טו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 244,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 463,
+    "line_index_2_end": 480,
+    "ref_2": "Chagigah 16a:1",
+    "heRef_2": "חגיגה טז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 482,
+    "line_index_2_end": 500,
+    "ref_2": "Chagigah 16b:1",
+    "heRef_2": "חגיגה טז:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 482,
+    "line_index_2_end": 500,
+    "ref_2": "Chagigah 16b:1",
+    "heRef_2": "חגיגה טז:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 482,
+    "line_index_2_end": 500,
+    "ref_2": "Chagigah 16b:1",
+    "heRef_2": "חגיגה טז:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 482,
+    "line_index_2_end": 500,
+    "ref_2": "Chagigah 16b:1",
+    "heRef_2": "חגיגה טז:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 482,
+    "line_index_2_end": 500,
+    "ref_2": "Chagigah 16b:1",
+    "heRef_2": "חגיגה טז:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 502,
+    "line_index_2_end": 511,
+    "ref_2": "Chagigah 17a:1",
+    "heRef_2": "חגיגה יז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 525,
+    "line_index_2_end": 535,
+    "ref_2": "Chagigah 18a:1",
+    "heRef_2": "חגיגה יח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 525,
+    "line_index_2_end": 535,
+    "ref_2": "Chagigah 18a:1",
+    "heRef_2": "חגיגה יח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 525,
+    "line_index_2_end": 535,
+    "ref_2": "Chagigah 18a:1",
+    "heRef_2": "חגיגה יח., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 275,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 537,
+    "line_index_2_end": 548,
+    "ref_2": "Chagigah 18b:1",
+    "heRef_2": "חגיגה יח:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 278,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 550,
+    "line_index_2_end": 571,
+    "ref_2": "Chagigah 19a:1",
+    "heRef_2": "חגיגה יט., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 580,
+    "line_index_2_end": 597,
+    "ref_2": "Chagigah 20a:1",
+    "heRef_2": "חגיגה כ., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 599,
+    "line_index_2_end": 609,
+    "ref_2": "Chagigah 20b:1",
+    "heRef_2": "חגיגה כ:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 611,
+    "line_index_2_end": 614,
+    "ref_2": "Chagigah 21a:1",
+    "heRef_2": "חגיגה כא., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 616,
+    "line_index_2_end": 619,
+    "ref_2": "Chagigah 21b:1",
+    "heRef_2": "חגיגה כא:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 621,
+    "line_index_2_end": 639,
+    "ref_2": "Chagigah 22a:1",
+    "heRef_2": "חגיגה כב., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 641,
+    "line_index_2_end": 660,
+    "ref_2": "Chagigah 22b:1",
+    "heRef_2": "חגיגה כב:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 662,
+    "line_index_2_end": 677,
+    "ref_2": "Chagigah 23a:1",
+    "heRef_2": "חגיגה כג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 662,
+    "line_index_2_end": 677,
+    "ref_2": "Chagigah 23a:1",
+    "heRef_2": "חגיגה כג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 662,
+    "line_index_2_end": 677,
+    "ref_2": "Chagigah 23a:1",
+    "heRef_2": "חגיגה כג., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 679,
+    "line_index_2_end": 688,
+    "ref_2": "Chagigah 23b:1",
+    "heRef_2": "חגיגה כג:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 690,
+    "line_index_2_end": 699,
+    "ref_2": "Chagigah 24a:1",
+    "heRef_2": "חגיגה כד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 690,
+    "line_index_2_end": 699,
+    "ref_2": "Chagigah 24a:1",
+    "heRef_2": "חגיגה כד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 690,
+    "line_index_2_end": 699,
+    "ref_2": "Chagigah 24a:1",
+    "heRef_2": "חגיגה כד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 690,
+    "line_index_2_end": 699,
+    "ref_2": "Chagigah 24a:1",
+    "heRef_2": "חגיגה כד., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 701,
+    "line_index_2_end": 714,
+    "ref_2": "Chagigah 24b:1",
+    "heRef_2": "חגיגה כד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 701,
+    "line_index_2_end": 714,
+    "ref_2": "Chagigah 24b:1",
+    "heRef_2": "חגיגה כד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 701,
+    "line_index_2_end": 714,
+    "ref_2": "Chagigah 24b:1",
+    "heRef_2": "חגיגה כד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 701,
+    "line_index_2_end": 714,
+    "ref_2": "Chagigah 24b:1",
+    "heRef_2": "חגיגה כד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 701,
+    "line_index_2_end": 714,
+    "ref_2": "Chagigah 24b:1",
+    "heRef_2": "חגיגה כד:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 716,
+    "line_index_2_end": 727,
+    "ref_2": "Chagigah 25a:1",
+    "heRef_2": "חגיגה כה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 716,
+    "line_index_2_end": 727,
+    "ref_2": "Chagigah 25a:1",
+    "heRef_2": "חגיגה כה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 716,
+    "line_index_2_end": 727,
+    "ref_2": "Chagigah 25a:1",
+    "heRef_2": "חגיגה כה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 716,
+    "line_index_2_end": 727,
+    "ref_2": "Chagigah 25a:1",
+    "heRef_2": "חגיגה כה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 716,
+    "line_index_2_end": 727,
+    "ref_2": "Chagigah 25a:1",
+    "heRef_2": "חגיגה כה., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 729,
+    "line_index_2_end": 746,
+    "ref_2": "Chagigah 25b:1",
+    "heRef_2": "חגיגה כה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 729,
+    "line_index_2_end": 746,
+    "ref_2": "Chagigah 25b:1",
+    "heRef_2": "חגיגה כה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 729,
+    "line_index_2_end": 746,
+    "ref_2": "Chagigah 25b:1",
+    "heRef_2": "חגיגה כה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 729,
+    "line_index_2_end": 746,
+    "ref_2": "Chagigah 25b:1",
+    "heRef_2": "חגיגה כה:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 748,
+    "line_index_2_end": 765,
+    "ref_2": "Chagigah 26a:1",
+    "heRef_2": "חגיגה כו., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 767,
+    "line_index_2_end": 777,
+    "ref_2": "Chagigah 26b:1",
+    "heRef_2": "חגיגה כו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 767,
+    "line_index_2_end": 777,
+    "ref_2": "Chagigah 26b:1",
+    "heRef_2": "חגיגה כו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 767,
+    "line_index_2_end": 777,
+    "ref_2": "Chagigah 26b:1",
+    "heRef_2": "חגיגה כו:, א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 779,
+    "line_index_2_end": 787,
+    "ref_2": "Chagigah 27a:1",
+    "heRef_2": "חגיגה כז., א",
+    "path_2": "חגיגה.txt",
+    "Conection Type": "source"
+  }
+]
