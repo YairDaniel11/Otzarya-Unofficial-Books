@@ -1,0 +1,114 @@
+[
+  {
+    "line_index_1": 26,
+    "line_index_2": 3,
+    "heRef_2": "ספר יצירה א, א",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 3,
+    "heRef_2": "ספר יצירה א, א",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 6,
+    "heRef_2": "ספר יצירה א, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 8,
+    "heRef_2": "ספר יצירה א, ו",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 15,
+    "heRef_2": "ספר יצירה א, יג",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 20,
+    "heRef_2": "ספר יצירה ב, ג",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 21,
+    "heRef_2": "ספר יצירה ב, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 28,
+    "heRef_2": "ספר יצירה ג, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 28,
+    "heRef_2": "ספר יצירה ג, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 34,
+    "heRef_2": "ספר יצירה ד, א",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 37,
+    "heRef_2": "ספר יצירה ד, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 48,
+    "heRef_2": "ספר יצירה ה, ב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 48,
+    "heRef_2": "ספר יצירה ה, ב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 48,
+    "heRef_2": "ספר יצירה ה, ב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 53,
+    "heRef_2": "ספר יצירה ו, ב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 55,
+    "heRef_2": "ספר יצירה ו, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  }
+]

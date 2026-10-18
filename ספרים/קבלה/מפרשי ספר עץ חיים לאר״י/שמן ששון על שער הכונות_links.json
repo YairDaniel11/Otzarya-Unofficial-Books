@@ -1,0 +1,7513 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 40,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 41,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 41,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 42,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 43,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 44,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 45,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 45,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 45,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 47,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 48,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 48,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 48,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 48,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 49,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 49,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 51,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 51,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 52,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 53,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 54,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 55,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 55,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 55,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 56,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 56,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 56,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 57,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  יט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 60,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  כב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 61,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 64,
+    "heRef_2": "שער הכוונות, דרושי ברכת השחר,  כו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 67,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 67,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 67,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 68,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 75,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 77,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 80,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ב, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 82,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ב, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 85,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 99,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 100,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 100,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 101,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 102,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 103,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 104,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 200,
+    "line_index_2": 106,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 106,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ד, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 111,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 112,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 113,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 116,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 232,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 117,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 120,
+    "heRef_2": "שער הכוונות, דרושי ציצית,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 161,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 162,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ב, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 164,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ב, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 167,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 168,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 171,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 175,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 176,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 176,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 178,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 179,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 180,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 181,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 181,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 182,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 333,
+    "line_index_2": 182,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 182,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 183,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 184,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 187,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 187,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 187,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 190,
+    "heRef_2": "שער הכוונות, דרושי תפילין,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 194,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 195,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 436,
+    "line_index_2": 198,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 201,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 203,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 206,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 207,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 208,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 208,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 209,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 210,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 212,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 212,
+    "heRef_2": "שער הכוונות, דרושי תפלת השחר,  ג, יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 223,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 223,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 495,
+    "line_index_2": 224,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 224,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 504,
+    "line_index_2": 226,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 230,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 232,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 233,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 234,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 236,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 236,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 521,
+    "line_index_2": 237,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 237,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 237,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 534,
+    "line_index_2": 239,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 240,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 240,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 243,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 243,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 244,
+    "heRef_2": "שער הכוונות, דרושי הקדיש,  א, ה, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 248,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 249,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 251,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 251,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 254,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 254,
+    "heRef_2": "שער הכוונות, תפילת השחר,  ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 256,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 256,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 256,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 257,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 257,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 259,
+    "heRef_2": "שער הכוונות, תפילת השחר,  יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 260,
+    "heRef_2": "שער הכוונות, תפילת השחר,  טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 266,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 604,
+    "line_index_2": 268,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 269,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 269,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 272,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 272,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 273,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 620,
+    "line_index_2": 273,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 621,
+    "line_index_2": 273,
+    "heRef_2": "שער הכוונות, תפילת השחר,  כח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 276,
+    "heRef_2": "שער הכוונות, תפילת השחר,  לא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 645,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 283,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 287,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 292,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 677,
+    "line_index_2": 292,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 681,
+    "line_index_2": 294,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 295,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 690,
+    "line_index_2": 295,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 696,
+    "line_index_2": 296,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ג, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 704,
+    "line_index_2": 301,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 710,
+    "line_index_2": 301,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 713,
+    "line_index_2": 303,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 717,
+    "line_index_2": 303,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 303,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 719,
+    "line_index_2": 303,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 721,
+    "line_index_2": 304,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 722,
+    "line_index_2": 304,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 725,
+    "line_index_2": 307,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 726,
+    "line_index_2": 307,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 307,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ד, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 310,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 310,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 749,
+    "line_index_2": 316,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 750,
+    "line_index_2": 317,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 317,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 752,
+    "line_index_2": 317,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 761,
+    "line_index_2": 317,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 764,
+    "line_index_2": 317,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 772,
+    "line_index_2": 318,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 776,
+    "line_index_2": 320,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 778,
+    "line_index_2": 320,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 782,
+    "line_index_2": 321,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 783,
+    "line_index_2": 321,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 785,
+    "line_index_2": 323,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 786,
+    "line_index_2": 323,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 323,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 799,
+    "line_index_2": 325,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ה, א, טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 808,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 812,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 813,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 818,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 823,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 827,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 329,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 832,
+    "line_index_2": 332,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 833,
+    "line_index_2": 332,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 333,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 838,
+    "line_index_2": 334,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 840,
+    "line_index_2": 335,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 841,
+    "line_index_2": 335,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 847,
+    "line_index_2": 339,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 850,
+    "line_index_2": 339,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 852,
+    "line_index_2": 339,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 853,
+    "line_index_2": 340,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 857,
+    "line_index_2": 340,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 858,
+    "line_index_2": 341,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 859,
+    "line_index_2": 341,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 860,
+    "line_index_2": 342,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 862,
+    "line_index_2": 342,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 868,
+    "line_index_2": 345,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 887,
+    "line_index_2": 347,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 892,
+    "line_index_2": 347,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 348,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 896,
+    "line_index_2": 348,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 897,
+    "line_index_2": 348,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 901,
+    "line_index_2": 348,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 903,
+    "line_index_2": 349,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 905,
+    "line_index_2": 350,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 906,
+    "line_index_2": 351,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 910,
+    "line_index_2": 352,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 912,
+    "line_index_2": 352,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 353,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 916,
+    "line_index_2": 353,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 917,
+    "line_index_2": 353,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 919,
+    "line_index_2": 355,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 935,
+    "line_index_2": 356,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 356,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 940,
+    "line_index_2": 356,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 941,
+    "line_index_2": 357,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 945,
+    "line_index_2": 357,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 948,
+    "line_index_2": 357,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 950,
+    "line_index_2": 357,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 951,
+    "line_index_2": 358,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 972,
+    "line_index_2": 365,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ו, ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 986,
+    "line_index_2": 370,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 987,
+    "line_index_2": 371,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 988,
+    "line_index_2": 371,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 992,
+    "line_index_2": 372,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 994,
+    "line_index_2": 372,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 996,
+    "line_index_2": 373,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 998,
+    "line_index_2": 374,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1002,
+    "line_index_2": 374,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1005,
+    "line_index_2": 375,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1007,
+    "line_index_2": 375,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1008,
+    "line_index_2": 375,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ז, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1012,
+    "line_index_2": 386,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1016,
+    "line_index_2": 386,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1023,
+    "line_index_2": 387,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1024,
+    "line_index_2": 387,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1028,
+    "line_index_2": 388,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1029,
+    "line_index_2": 390,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1038,
+    "line_index_2": 392,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1045,
+    "line_index_2": 394,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1048,
+    "line_index_2": 396,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1049,
+    "line_index_2": 397,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1052,
+    "line_index_2": 398,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1053,
+    "line_index_2": 398,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1060,
+    "line_index_2": 399,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1065,
+    "line_index_2": 400,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1067,
+    "line_index_2": 400,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1070,
+    "line_index_2": 400,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1073,
+    "line_index_2": 400,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, טז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1081,
+    "line_index_2": 404,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1083,
+    "line_index_2": 404,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1086,
+    "line_index_2": 404,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1087,
+    "line_index_2": 405,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1089,
+    "line_index_2": 406,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1091,
+    "line_index_2": 406,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1092,
+    "line_index_2": 407,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1093,
+    "line_index_2": 407,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1101,
+    "line_index_2": 408,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1104,
+    "line_index_2": 409,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1106,
+    "line_index_2": 409,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1108,
+    "line_index_2": 409,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1109,
+    "line_index_2": 409,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1110,
+    "line_index_2": 409,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1111,
+    "line_index_2": 410,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1119,
+    "line_index_2": 412,
+    "heRef_2": "שער הכוונות, דרושי כוונות קריאת שמע,  ח, א, כח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1128,
+    "line_index_2": 418,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1135,
+    "line_index_2": 422,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1137,
+    "line_index_2": 423,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1138,
+    "line_index_2": 424,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1139,
+    "line_index_2": 424,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1144,
+    "line_index_2": 425,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1145,
+    "line_index_2": 425,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1157,
+    "line_index_2": 432,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1164,
+    "line_index_2": 433,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ב, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1167,
+    "line_index_2": 435,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1173,
+    "line_index_2": 436,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1175,
+    "line_index_2": 438,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1176,
+    "line_index_2": 438,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1181,
+    "line_index_2": 439,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1184,
+    "line_index_2": 439,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1188,
+    "line_index_2": 439,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1191,
+    "line_index_2": 439,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1195,
+    "line_index_2": 441,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1197,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1198,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1203,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1206,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1210,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1211,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1213,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1220,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1222,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1228,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1230,
+    "line_index_2": 442,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1233,
+    "line_index_2": 443,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1234,
+    "line_index_2": 443,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1244,
+    "line_index_2": 444,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1259,
+    "line_index_2": 446,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1260,
+    "line_index_2": 446,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1265,
+    "line_index_2": 446,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1268,
+    "line_index_2": 446,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1282,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1284,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1290,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1291,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1293,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1295,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1297,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1299,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1301,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1302,
+    "line_index_2": 452,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1304,
+    "line_index_2": 453,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1305,
+    "line_index_2": 453,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1308,
+    "line_index_2": 453,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1318,
+    "line_index_2": 453,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1320,
+    "line_index_2": 453,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1334,
+    "line_index_2": 455,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1336,
+    "line_index_2": 455,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1345,
+    "line_index_2": 461,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1346,
+    "line_index_2": 461,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1347,
+    "line_index_2": 461,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ב, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1353,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1357,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1360,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1367,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1368,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1369,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1371,
+    "line_index_2": 465,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1380,
+    "line_index_2": 469,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1382,
+    "line_index_2": 469,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1385,
+    "line_index_2": 469,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1389,
+    "line_index_2": 469,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1390,
+    "line_index_2": 469,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1394,
+    "line_index_2": 470,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1396,
+    "line_index_2": 470,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1397,
+    "line_index_2": 470,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1398,
+    "line_index_2": 470,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1401,
+    "line_index_2": 471,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ד, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1416,
+    "line_index_2": 476,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1419,
+    "line_index_2": 477,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1421,
+    "line_index_2": 480,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1423,
+    "line_index_2": 480,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1427,
+    "line_index_2": 481,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1433,
+    "line_index_2": 481,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1435,
+    "line_index_2": 481,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1436,
+    "line_index_2": 481,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1437,
+    "line_index_2": 482,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1438,
+    "line_index_2": 482,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1445,
+    "line_index_2": 482,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1447,
+    "line_index_2": 482,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1449,
+    "line_index_2": 483,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ה, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1466,
+    "line_index_2": 489,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1467,
+    "line_index_2": 489,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1468,
+    "line_index_2": 490,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1471,
+    "line_index_2": 490,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1473,
+    "line_index_2": 490,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1475,
+    "line_index_2": 490,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1498,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1500,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1506,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1507,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1508,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1510,
+    "line_index_2": 498,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1523,
+    "line_index_2": 502,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1524,
+    "line_index_2": 502,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1530,
+    "line_index_2": 504,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1531,
+    "line_index_2": 505,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, יח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1538,
+    "line_index_2": 508,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1555,
+    "line_index_2": 510,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1556,
+    "line_index_2": 510,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1564,
+    "line_index_2": 512,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1571,
+    "line_index_2": 513,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1572,
+    "line_index_2": 514,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1573,
+    "line_index_2": 514,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1574,
+    "line_index_2": 515,
+    "heRef_2": "שער הכוונות, דרושי העמידה,  ו, א, כח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1578,
+    "line_index_2": 521,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1579,
+    "line_index_2": 521,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1580,
+    "line_index_2": 521,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1583,
+    "line_index_2": 521,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1591,
+    "line_index_2": 522,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1600,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1604,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1606,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1610,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1612,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1613,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1617,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1618,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1619,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1621,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1623,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1629,
+    "line_index_2": 526,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1635,
+    "line_index_2": 531,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1636,
+    "line_index_2": 531,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1638,
+    "line_index_2": 532,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1640,
+    "line_index_2": 532,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1641,
+    "line_index_2": 532,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1642,
+    "line_index_2": 532,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1646,
+    "line_index_2": 532,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1648,
+    "line_index_2": 533,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1651,
+    "line_index_2": 533,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ג, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1656,
+    "line_index_2": 537,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1660,
+    "line_index_2": 538,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1661,
+    "line_index_2": 538,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1662,
+    "line_index_2": 538,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1664,
+    "line_index_2": 540,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1665,
+    "line_index_2": 540,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ד, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1673,
+    "line_index_2": 544,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1675,
+    "line_index_2": 544,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1678,
+    "line_index_2": 544,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1680,
+    "line_index_2": 545,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1681,
+    "line_index_2": 545,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1683,
+    "line_index_2": 545,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1684,
+    "line_index_2": 545,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1695,
+    "line_index_2": 546,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1702,
+    "line_index_2": 547,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1709,
+    "line_index_2": 548,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1710,
+    "line_index_2": 548,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1711,
+    "line_index_2": 548,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1727,
+    "line_index_2": 550,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1729,
+    "line_index_2": 550,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1730,
+    "line_index_2": 551,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1733,
+    "line_index_2": 551,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1735,
+    "line_index_2": 551,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1736,
+    "line_index_2": 552,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1740,
+    "line_index_2": 554,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1741,
+    "line_index_2": 554,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1753,
+    "line_index_2": 565,
+    "heRef_2": "שער הכוונות, דרושי חזרת העמידה,  ה, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1766,
+    "line_index_2": 571,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1768,
+    "line_index_2": 571,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1770,
+    "line_index_2": 571,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1772,
+    "line_index_2": 571,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1775,
+    "line_index_2": 572,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1778,
+    "line_index_2": 572,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1782,
+    "line_index_2": 572,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1783,
+    "line_index_2": 573,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1791,
+    "line_index_2": 575,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1793,
+    "line_index_2": 575,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1794,
+    "line_index_2": 575,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1808,
+    "line_index_2": 580,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1809,
+    "line_index_2": 580,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1810,
+    "line_index_2": 580,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1811,
+    "line_index_2": 580,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1815,
+    "line_index_2": 581,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1826,
+    "line_index_2": 581,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1829,
+    "line_index_2": 581,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1830,
+    "line_index_2": 581,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1837,
+    "line_index_2": 585,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1841,
+    "line_index_2": 588,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1848,
+    "line_index_2": 590,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1870,
+    "line_index_2": 598,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1876,
+    "line_index_2": 600,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1880,
+    "line_index_2": 603,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1890,
+    "line_index_2": 604,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1893,
+    "line_index_2": 604,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1895,
+    "line_index_2": 604,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1909,
+    "line_index_2": 616,
+    "heRef_2": "שער הכוונות, דרושי ויעבור,  ז, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1914,
+    "line_index_2": 620,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1924,
+    "line_index_2": 623,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1928,
+    "line_index_2": 623,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1931,
+    "line_index_2": 624,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1935,
+    "line_index_2": 624,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1936,
+    "line_index_2": 624,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1938,
+    "line_index_2": 625,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1944,
+    "line_index_2": 625,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1949,
+    "line_index_2": 629,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1951,
+    "line_index_2": 631,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1963,
+    "line_index_2": 641,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1964,
+    "line_index_2": 641,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1966,
+    "line_index_2": 642,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1981,
+    "line_index_2": 643,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1982,
+    "line_index_2": 643,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1984,
+    "line_index_2": 643,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1988,
+    "line_index_2": 643,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1990,
+    "line_index_2": 643,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1994,
+    "line_index_2": 644,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1997,
+    "line_index_2": 644,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1999,
+    "line_index_2": 644,
+    "heRef_2": "שער הכוונות, דרושי נפילת אפים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2009,
+    "line_index_2": 650,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2010,
+    "line_index_2": 651,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2014,
+    "line_index_2": 651,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2018,
+    "line_index_2": 652,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2023,
+    "line_index_2": 652,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2031,
+    "line_index_2": 656,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2033,
+    "line_index_2": 656,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2034,
+    "line_index_2": 656,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2038,
+    "line_index_2": 659,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2039,
+    "line_index_2": 659,
+    "heRef_2": "שער הכוונות, דרושי קריאת ספר תורה,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2044,
+    "line_index_2": 665,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2051,
+    "line_index_2": 665,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2052,
+    "line_index_2": 667,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2054,
+    "line_index_2": 669,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2056,
+    "line_index_2": 669,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2057,
+    "line_index_2": 669,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2063,
+    "line_index_2": 671,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2069,
+    "line_index_2": 675,
+    "heRef_2": "שער הכוונות, דרושי אשרי פיטום הקטורת ועלינו לשבח,  א, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2094,
+    "line_index_2": 683,
+    "heRef_2": "שער הכוונות, דרושי עלינו לשבח ונוסח התפילה,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2104,
+    "line_index_2": 704,
+    "heRef_2": "שער הכוונות, דרושי עלינו לשבח ונוסח התפילה,  א, כד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2108,
+    "line_index_2": 706,
+    "heRef_2": "שער הכוונות, דרושי עלינו לשבח ונוסח התפילה,  א, כו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2112,
+    "line_index_2": 710,
+    "heRef_2": "שער הכוונות, דרושי תפילת המנחה,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2114,
+    "line_index_2": 710,
+    "heRef_2": "שער הכוונות, דרושי תפילת המנחה,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2142,
+    "line_index_2": 720,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2143,
+    "line_index_2": 720,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2146,
+    "line_index_2": 721,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2147,
+    "line_index_2": 721,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2160,
+    "line_index_2": 724,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2169,
+    "line_index_2": 726,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2170,
+    "line_index_2": 726,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2189,
+    "line_index_2": 731,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2191,
+    "line_index_2": 731,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2194,
+    "line_index_2": 732,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2198,
+    "line_index_2": 732,
+    "heRef_2": "שער הכוונות, דרושי תפילת ערבית,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2207,
+    "line_index_2": 736,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2210,
+    "line_index_2": 736,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2216,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2218,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2219,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2225,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2229,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2230,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2232,
+    "line_index_2": 737,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2241,
+    "line_index_2": 740,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2244,
+    "line_index_2": 740,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2252,
+    "line_index_2": 740,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2254,
+    "line_index_2": 741,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2257,
+    "line_index_2": 741,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2262,
+    "line_index_2": 742,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2270,
+    "line_index_2": 742,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2272,
+    "line_index_2": 742,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2275,
+    "line_index_2": 743,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2277,
+    "line_index_2": 743,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2281,
+    "line_index_2": 743,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2286,
+    "line_index_2": 743,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2287,
+    "line_index_2": 744,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2292,
+    "line_index_2": 745,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2293,
+    "line_index_2": 745,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2298,
+    "line_index_2": 746,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2299,
+    "line_index_2": 746,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2300,
+    "line_index_2": 746,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2304,
+    "line_index_2": 748,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2308,
+    "line_index_2": 748,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2310,
+    "line_index_2": 748,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ד, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2316,
+    "line_index_2": 752,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2320,
+    "line_index_2": 752,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2322,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2324,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2327,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2330,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2332,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2333,
+    "line_index_2": 753,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2340,
+    "line_index_2": 754,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2341,
+    "line_index_2": 754,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2342,
+    "line_index_2": 754,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2346,
+    "line_index_2": 754,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2348,
+    "line_index_2": 754,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2352,
+    "line_index_2": 757,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2355,
+    "line_index_2": 757,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2357,
+    "line_index_2": 757,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2358,
+    "line_index_2": 758,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2360,
+    "line_index_2": 758,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2362,
+    "line_index_2": 758,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2368,
+    "line_index_2": 760,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2373,
+    "line_index_2": 760,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2374,
+    "line_index_2": 760,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2376,
+    "line_index_2": 760,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2377,
+    "line_index_2": 760,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2392,
+    "line_index_2": 765,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2393,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2394,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2395,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2397,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2398,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2399,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2404,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2407,
+    "line_index_2": 766,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2409,
+    "line_index_2": 767,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ז, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2416,
+    "line_index_2": 770,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2419,
+    "line_index_2": 770,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2420,
+    "line_index_2": 770,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2421,
+    "line_index_2": 770,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2426,
+    "line_index_2": 772,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2428,
+    "line_index_2": 772,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2429,
+    "line_index_2": 772,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2438,
+    "line_index_2": 772,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2443,
+    "line_index_2": 772,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2448,
+    "line_index_2": 775,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2449,
+    "line_index_2": 775,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2451,
+    "line_index_2": 775,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2452,
+    "line_index_2": 775,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2453,
+    "line_index_2": 775,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2460,
+    "line_index_2": 778,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  י, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2462,
+    "line_index_2": 779,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  י, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2463,
+    "line_index_2": 779,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  י, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2465,
+    "line_index_2": 781,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  י, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2467,
+    "line_index_2": 784,
+    "heRef_2": "שער הכוונות, דרושי הלילה,  י, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2470,
+    "line_index_2": 788,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2472,
+    "line_index_2": 788,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2473,
+    "line_index_2": 788,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2474,
+    "line_index_2": 788,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2487,
+    "line_index_2": 791,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2489,
+    "line_index_2": 791,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2491,
+    "line_index_2": 791,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2492,
+    "line_index_2": 791,
+    "heRef_2": "שער הכוונות, דרושי תיקון חצות,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2497,
+    "line_index_2": 795,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2498,
+    "line_index_2": 796,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2502,
+    "line_index_2": 796,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2504,
+    "line_index_2": 796,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2519,
+    "line_index_2": 797,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2529,
+    "line_index_2": 798,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2535,
+    "line_index_2": 798,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2537,
+    "line_index_2": 798,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2540,
+    "line_index_2": 799,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2548,
+    "line_index_2": 802,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2553,
+    "line_index_2": 803,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2557,
+    "line_index_2": 804,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2562,
+    "line_index_2": 804,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2564,
+    "line_index_2": 804,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2568,
+    "line_index_2": 806,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2569,
+    "line_index_2": 806,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2571,
+    "line_index_2": 806,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2573,
+    "line_index_2": 806,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2574,
+    "line_index_2": 812,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2576,
+    "line_index_2": 814,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ג, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2578,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2580,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2581,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2582,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2584,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2586,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2587,
+    "line_index_2": 816,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2591,
+    "line_index_2": 817,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2597,
+    "line_index_2": 817,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2599,
+    "line_index_2": 817,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2602,
+    "line_index_2": 817,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2605,
+    "line_index_2": 817,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2607,
+    "line_index_2": 818,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2616,
+    "line_index_2": 820,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2617,
+    "line_index_2": 821,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2633,
+    "line_index_2": 829,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2636,
+    "line_index_2": 830,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ד, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2640,
+    "line_index_2": 837,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2642,
+    "line_index_2": 837,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2650,
+    "line_index_2": 839,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2652,
+    "line_index_2": 839,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2667,
+    "line_index_2": 845,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2668,
+    "line_index_2": 846,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2673,
+    "line_index_2": 846,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2676,
+    "line_index_2": 847,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2677,
+    "line_index_2": 847,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2679,
+    "line_index_2": 847,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2683,
+    "line_index_2": 848,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2690,
+    "line_index_2": 848,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2694,
+    "line_index_2": 848,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2695,
+    "line_index_2": 848,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2705,
+    "line_index_2": 850,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2706,
+    "line_index_2": 850,
+    "heRef_2": "שער הכוונות, דרושי סדר שבת,  א, ו, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2709,
+    "line_index_2": 855,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2715,
+    "line_index_2": 855,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2718,
+    "line_index_2": 855,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2723,
+    "line_index_2": 856,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2728,
+    "line_index_2": 856,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2731,
+    "line_index_2": 857,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2737,
+    "line_index_2": 860,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2739,
+    "line_index_2": 862,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2743,
+    "line_index_2": 863,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2744,
+    "line_index_2": 863,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2745,
+    "line_index_2": 863,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2747,
+    "line_index_2": 863,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2750,
+    "line_index_2": 863,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2752,
+    "line_index_2": 864,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2755,
+    "line_index_2": 865,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2756,
+    "line_index_2": 865,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2761,
+    "line_index_2": 866,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2765,
+    "line_index_2": 867,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2766,
+    "line_index_2": 867,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2767,
+    "line_index_2": 867,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2772,
+    "line_index_2": 870,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2774,
+    "line_index_2": 870,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2777,
+    "line_index_2": 870,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2780,
+    "line_index_2": 873,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2782,
+    "line_index_2": 873,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ב, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2794,
+    "line_index_2": 878,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2796,
+    "line_index_2": 879,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2797,
+    "line_index_2": 880,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2798,
+    "line_index_2": 880,
+    "heRef_2": "שער הכוונות, דרושי קבלת שבת,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2801,
+    "line_index_2": 885,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2807,
+    "line_index_2": 888,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2809,
+    "line_index_2": 888,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2814,
+    "line_index_2": 890,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2818,
+    "line_index_2": 891,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ב, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2819,
+    "line_index_2": 891,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ב, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2822,
+    "line_index_2": 894,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2827,
+    "line_index_2": 895,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2828,
+    "line_index_2": 895,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2830,
+    "line_index_2": 896,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2841,
+    "line_index_2": 898,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2843,
+    "line_index_2": 898,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2855,
+    "line_index_2": 900,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2861,
+    "line_index_2": 901,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2866,
+    "line_index_2": 901,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2869,
+    "line_index_2": 903,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2872,
+    "line_index_2": 904,
+    "heRef_2": "שער הכוונות, דרושי תוספת שבת,  א, ג, יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2878,
+    "line_index_2": 912,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2879,
+    "line_index_2": 912,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2891,
+    "line_index_2": 914,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2896,
+    "line_index_2": 914,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2897,
+    "line_index_2": 915,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2899,
+    "line_index_2": 916,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2901,
+    "line_index_2": 917,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2904,
+    "line_index_2": 918,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2912,
+    "line_index_2": 920,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2913,
+    "line_index_2": 920,
+    "heRef_2": "שער הכוונות, דרושי ערבית ליל שבת,  א, ב, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2928,
+    "line_index_2": 929,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2929,
+    "line_index_2": 930,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2935,
+    "line_index_2": 931,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2937,
+    "line_index_2": 931,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2939,
+    "line_index_2": 931,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2942,
+    "line_index_2": 932,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2944,
+    "line_index_2": 937,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, א, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2952,
+    "line_index_2": 943,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2953,
+    "line_index_2": 943,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2954,
+    "line_index_2": 943,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2959,
+    "line_index_2": 943,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2961,
+    "line_index_2": 944,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2964,
+    "line_index_2": 967,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, כה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2969,
+    "line_index_2": 972,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ב, ל",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2974,
+    "line_index_2": 975,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2975,
+    "line_index_2": 975,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2977,
+    "line_index_2": 976,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2979,
+    "line_index_2": 976,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2980,
+    "line_index_2": 976,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2983,
+    "line_index_2": 976,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2986,
+    "line_index_2": 978,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2988,
+    "line_index_2": 978,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2994,
+    "line_index_2": 978,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3007,
+    "line_index_2": 983,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ד, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3012,
+    "line_index_2": 985,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3017,
+    "line_index_2": 987,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3019,
+    "line_index_2": 987,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3021,
+    "line_index_2": 987,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3023,
+    "line_index_2": 988,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3024,
+    "line_index_2": 988,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3028,
+    "line_index_2": 991,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3031,
+    "line_index_2": 1006,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ה, כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3043,
+    "line_index_2": 1010,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3050,
+    "line_index_2": 1011,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3052,
+    "line_index_2": 1011,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3055,
+    "line_index_2": 1011,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3058,
+    "line_index_2": 1012,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3063,
+    "line_index_2": 1013,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3065,
+    "line_index_2": 1013,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3066,
+    "line_index_2": 1013,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3075,
+    "line_index_2": 1013,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3076,
+    "line_index_2": 1014,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3078,
+    "line_index_2": 1015,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3084,
+    "line_index_2": 1017,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3088,
+    "line_index_2": 1018,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3090,
+    "line_index_2": 1018,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3092,
+    "line_index_2": 1020,
+    "heRef_2": "שער הכוונות, דרושי קידוש ליל שבת,  א, ו, יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3102,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3103,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3104,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3112,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3115,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3116,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3118,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3119,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3120,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3124,
+    "line_index_2": 1024,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3126,
+    "line_index_2": 1025,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3133,
+    "line_index_2": 1026,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3134,
+    "line_index_2": 1026,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3135,
+    "line_index_2": 1026,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3136,
+    "line_index_2": 1026,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3138,
+    "line_index_2": 1027,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3139,
+    "line_index_2": 1028,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3140,
+    "line_index_2": 1028,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3142,
+    "line_index_2": 1028,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3145,
+    "line_index_2": 1029,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3150,
+    "line_index_2": 1030,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3153,
+    "line_index_2": 1030,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3154,
+    "line_index_2": 1030,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3155,
+    "line_index_2": 1031,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3160,
+    "line_index_2": 1032,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3168,
+    "line_index_2": 1033,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3171,
+    "line_index_2": 1034,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3176,
+    "line_index_2": 1034,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3177,
+    "line_index_2": 1034,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3179,
+    "line_index_2": 1035,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3181,
+    "line_index_2": 1035,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3182,
+    "line_index_2": 1035,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3183,
+    "line_index_2": 1036,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3200,
+    "line_index_2": 1042,
+    "heRef_2": "שער הכוונות, דרושי ראש חדש,  כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3205,
+    "line_index_2": 1048,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3212,
+    "line_index_2": 1051,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3216,
+    "line_index_2": 1054,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3219,
+    "line_index_2": 1055,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3227,
+    "line_index_2": 1056,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3231,
+    "line_index_2": 1057,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3233,
+    "line_index_2": 1057,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3236,
+    "line_index_2": 1057,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3237,
+    "line_index_2": 1057,
+    "heRef_2": "שער הכוונות, דרושי אסרו חג,  א, ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3244,
+    "line_index_2": 1061,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3248,
+    "line_index_2": 1062,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3251,
+    "line_index_2": 1062,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3252,
+    "line_index_2": 1063,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3254,
+    "line_index_2": 1063,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3257,
+    "line_index_2": 1063,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3258,
+    "line_index_2": 1063,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3259,
+    "line_index_2": 1064,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3262,
+    "line_index_2": 1064,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3269,
+    "line_index_2": 1066,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3270,
+    "line_index_2": 1066,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3271,
+    "line_index_2": 1066,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3274,
+    "line_index_2": 1067,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3288,
+    "line_index_2": 1071,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3299,
+    "line_index_2": 1071,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3300,
+    "line_index_2": 1072,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3302,
+    "line_index_2": 1072,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3303,
+    "line_index_2": 1072,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3308,
+    "line_index_2": 1073,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ב, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3319,
+    "line_index_2": 1076,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3321,
+    "line_index_2": 1076,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3323,
+    "line_index_2": 1077,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3324,
+    "line_index_2": 1077,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3325,
+    "line_index_2": 1077,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3328,
+    "line_index_2": 1078,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3331,
+    "line_index_2": 1078,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3337,
+    "line_index_2": 1079,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3339,
+    "line_index_2": 1079,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3342,
+    "line_index_2": 1080,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3344,
+    "line_index_2": 1080,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3349,
+    "line_index_2": 1083,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3353,
+    "line_index_2": 1083,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3355,
+    "line_index_2": 1084,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3361,
+    "line_index_2": 1085,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3365,
+    "line_index_2": 1085,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3368,
+    "line_index_2": 1085,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3370,
+    "line_index_2": 1086,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3371,
+    "line_index_2": 1086,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3372,
+    "line_index_2": 1086,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ד, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3382,
+    "line_index_2": 1089,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3389,
+    "line_index_2": 1093,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3391,
+    "line_index_2": 1093,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3396,
+    "line_index_2": 1093,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3398,
+    "line_index_2": 1094,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3424,
+    "line_index_2": 1099,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3432,
+    "line_index_2": 1103,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ו, יג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3444,
+    "line_index_2": 1108,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3452,
+    "line_index_2": 1112,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ח, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3469,
+    "line_index_2": 1114,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3477,
+    "line_index_2": 1115,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ח, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3484,
+    "line_index_2": 1118,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3486,
+    "line_index_2": 1118,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3487,
+    "line_index_2": 1118,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3489,
+    "line_index_2": 1118,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3490,
+    "line_index_2": 1118,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3494,
+    "line_index_2": 1121,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  י, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3504,
+    "line_index_2": 1123,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  י, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3507,
+    "line_index_2": 1124,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  י, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3508,
+    "line_index_2": 1124,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  י, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3521,
+    "line_index_2": 1128,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יא, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3528,
+    "line_index_2": 1129,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יא, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3540,
+    "line_index_2": 1135,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יא, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3542,
+    "line_index_2": 1135,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יא, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3543,
+    "line_index_2": 1135,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יא, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3550,
+    "line_index_2": 1139,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3557,
+    "line_index_2": 1142,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3558,
+    "line_index_2": 1142,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3559,
+    "line_index_2": 1142,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3560,
+    "line_index_2": 1142,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3563,
+    "line_index_2": 1143,
+    "heRef_2": "שער הכוונות, דרושי הפסח,  יב, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3569,
+    "line_index_2": 1171,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3580,
+    "line_index_2": 1171,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3581,
+    "line_index_2": 1171,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3586,
+    "line_index_2": 1171,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3589,
+    "line_index_2": 1174,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3590,
+    "line_index_2": 1174,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3596,
+    "line_index_2": 1176,
+    "heRef_2": "שער הכוונות, דרושי חג השבועות,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3610,
+    "line_index_2": 1189,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3612,
+    "line_index_2": 1189,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3614,
+    "line_index_2": 1189,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3620,
+    "line_index_2": 1191,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3622,
+    "line_index_2": 1193,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3624,
+    "line_index_2": 1194,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3629,
+    "line_index_2": 1195,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3631,
+    "line_index_2": 1196,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה הקדמה,  יב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3636,
+    "line_index_2": 1204,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3638,
+    "line_index_2": 1204,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3641,
+    "line_index_2": 1204,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3643,
+    "line_index_2": 1205,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3646,
+    "line_index_2": 1205,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3649,
+    "line_index_2": 1207,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3650,
+    "line_index_2": 1207,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3652,
+    "line_index_2": 1207,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3659,
+    "line_index_2": 1207,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3660,
+    "line_index_2": 1208,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3663,
+    "line_index_2": 1209,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3666,
+    "line_index_2": 1209,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3667,
+    "line_index_2": 1209,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3669,
+    "line_index_2": 1209,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3670,
+    "line_index_2": 1209,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3674,
+    "line_index_2": 1210,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3677,
+    "line_index_2": 1210,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3683,
+    "line_index_2": 1212,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  א, א, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3695,
+    "line_index_2": 1216,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ב, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3702,
+    "line_index_2": 1220,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3708,
+    "line_index_2": 1220,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3711,
+    "line_index_2": 1220,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3717,
+    "line_index_2": 1220,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3729,
+    "line_index_2": 1223,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3738,
+    "line_index_2": 1224,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3741,
+    "line_index_2": 1224,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3745,
+    "line_index_2": 1224,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ג, א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3762,
+    "line_index_2": 1232,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3763,
+    "line_index_2": 1232,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3775,
+    "line_index_2": 1232,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ה, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3787,
+    "line_index_2": 1238,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3795,
+    "line_index_2": 1239,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3802,
+    "line_index_2": 1239,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3803,
+    "line_index_2": 1240,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3813,
+    "line_index_2": 1241,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3823,
+    "line_index_2": 1243,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, א, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3830,
+    "line_index_2": 1245,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, א",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3856,
+    "line_index_2": 1251,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3862,
+    "line_index_2": 1252,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3868,
+    "line_index_2": 1254,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3870,
+    "line_index_2": 1255,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3878,
+    "line_index_2": 1259,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, טו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3887,
+    "line_index_2": 1261,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3889,
+    "line_index_2": 1261,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, יז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3894,
+    "line_index_2": 1263,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, יט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3895,
+    "line_index_2": 1264,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ב, כ",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3942,
+    "line_index_2": 1290,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ו, ד, יד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3947,
+    "line_index_2": 1298,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3948,
+    "line_index_2": 1299,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3950,
+    "line_index_2": 1299,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3952,
+    "line_index_2": 1300,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3954,
+    "line_index_2": 1300,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3962,
+    "line_index_2": 1304,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ז, א, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3973,
+    "line_index_2": 1309,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3974,
+    "line_index_2": 1309,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3977,
+    "line_index_2": 1309,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3981,
+    "line_index_2": 1309,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3990,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3994,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3999,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4002,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4005,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4006,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4010,
+    "line_index_2": 1311,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ח, א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4015,
+    "line_index_2": 1316,
+    "heRef_2": "שער הכוונות, דרושי ראש השנה,  ט, א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4020,
+    "line_index_2": 1329,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים הקדמה,  ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4033,
+    "line_index_2": 1341,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  א, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4038,
+    "line_index_2": 1342,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4044,
+    "line_index_2": 1342,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4047,
+    "line_index_2": 1342,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  א, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4057,
+    "line_index_2": 1349,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ג, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4059,
+    "line_index_2": 1352,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4063,
+    "line_index_2": 1355,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ג, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4066,
+    "line_index_2": 1361,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4072,
+    "line_index_2": 1361,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4095,
+    "line_index_2": 1365,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ד, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4098,
+    "line_index_2": 1368,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4103,
+    "line_index_2": 1368,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4104,
+    "line_index_2": 1368,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4106,
+    "line_index_2": 1368,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4107,
+    "line_index_2": 1369,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4110,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4112,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4113,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4115,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4117,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4118,
+    "line_index_2": 1370,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4122,
+    "line_index_2": 1371,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4126,
+    "line_index_2": 1371,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4127,
+    "line_index_2": 1371,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4130,
+    "line_index_2": 1372,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4131,
+    "line_index_2": 1373,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4132,
+    "line_index_2": 1373,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4134,
+    "line_index_2": 1374,
+    "heRef_2": "שער הכוונות, דרושי יום הכיפורים,  ה, ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4139,
+    "line_index_2": 1378,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4141,
+    "line_index_2": 1378,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4144,
+    "line_index_2": 1379,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4149,
+    "line_index_2": 1382,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4156,
+    "line_index_2": 1385,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, ט",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4157,
+    "line_index_2": 1386,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  א, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4170,
+    "line_index_2": 1389,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4174,
+    "line_index_2": 1389,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4177,
+    "line_index_2": 1391,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4188,
+    "line_index_2": 1392,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4189,
+    "line_index_2": 1392,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4196,
+    "line_index_2": 1392,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4200,
+    "line_index_2": 1393,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4201,
+    "line_index_2": 1393,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ג, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4210,
+    "line_index_2": 1397,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ד, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4211,
+    "line_index_2": 1398,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ד, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4219,
+    "line_index_2": 1399,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4227,
+    "line_index_2": 1399,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ד, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4234,
+    "line_index_2": 1401,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ד, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4244,
+    "line_index_2": 1404,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4249,
+    "line_index_2": 1405,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4250,
+    "line_index_2": 1405,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4251,
+    "line_index_2": 1406,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4253,
+    "line_index_2": 1406,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4263,
+    "line_index_2": 1407,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4265,
+    "line_index_2": 1408,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4268,
+    "line_index_2": 1408,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, ו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4272,
+    "line_index_2": 1412,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4274,
+    "line_index_2": 1412,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, י",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4278,
+    "line_index_2": 1413,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4279,
+    "line_index_2": 1413,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ה, יא",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4287,
+    "line_index_2": 1417,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4289,
+    "line_index_2": 1417,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4291,
+    "line_index_2": 1417,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ו, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4300,
+    "line_index_2": 1421,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ז, ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4302,
+    "line_index_2": 1422,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ז, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4312,
+    "line_index_2": 1429,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ח, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4317,
+    "line_index_2": 1501,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ח, עו",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4327,
+    "line_index_2": 1505,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4333,
+    "line_index_2": 1505,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4334,
+    "line_index_2": 1505,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4336,
+    "line_index_2": 1505,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ב",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4339,
+    "line_index_2": 1507,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4340,
+    "line_index_2": 1507,
+    "heRef_2": "שער הכוונות, דרושי חג הסוכות,  ט, ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4360,
+    "line_index_2": 1516,
+    "heRef_2": "שער הכוונות, דרושי חג חנוכה,  ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4369,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4374,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4376,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4377,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4380,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4387,
+    "line_index_2": 1520,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ג",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4390,
+    "line_index_2": 1521,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4391,
+    "line_index_2": 1521,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ד",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4392,
+    "line_index_2": 1522,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4393,
+    "line_index_2": 1522,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4396,
+    "line_index_2": 1522,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ה",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4401,
+    "line_index_2": 1524,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4402,
+    "line_index_2": 1524,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4404,
+    "line_index_2": 1524,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4405,
+    "line_index_2": 1524,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ז",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4408,
+    "line_index_2": 1525,
+    "heRef_2": "שער הכוונות, דרושי חג הפורים,  ח",
+    "path_2": "שער הכוונות.txt",
+    "Conection Type": "source"
+  }
+]

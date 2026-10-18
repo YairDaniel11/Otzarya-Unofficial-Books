@@ -1,0 +1,1661 @@
+[
+  {
+    "line_index_1": 6,
+    "line_index_2": 21,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 23,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 23,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 24,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 26,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 26,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 26,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 27,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 27,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 27,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 28,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 28,
+    "heRef_2": "שער המצוות, הקדמה,  ב, ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 29,
+    "heRef_2": "שער המצוות, הקדמה,  ב, י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 29,
+    "heRef_2": "שער המצוות, הקדמה,  ב, י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 30,
+    "heRef_2": "שער המצוות, הקדמה,  ב, יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 30,
+    "heRef_2": "שער המצוות, הקדמה,  ב, יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 30,
+    "heRef_2": "שער המצוות, הקדמה,  ב, יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 33,
+    "heRef_2": "שער המצוות, בראשית,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 34,
+    "heRef_2": "שער המצוות, בראשית,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 34,
+    "heRef_2": "שער המצוות, בראשית,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 35,
+    "heRef_2": "שער המצוות, בראשית,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 36,
+    "heRef_2": "שער המצוות, בראשית,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 36,
+    "heRef_2": "שער המצוות, בראשית,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 38,
+    "heRef_2": "שער המצוות, נח,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 39,
+    "heRef_2": "שער המצוות, נח,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 40,
+    "heRef_2": "שער המצוות, נח,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 43,
+    "heRef_2": "שער המצוות, לך לך,  א, א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 46,
+    "heRef_2": "שער המצוות, לך לך,  ב, א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 48,
+    "heRef_2": "שער המצוות, לך לך,  ב, ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 51,
+    "heRef_2": "שער המצוות, לך לך,  ג, א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 53,
+    "heRef_2": "שער המצוות, לך לך,  ג, ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 54,
+    "heRef_2": "שער המצוות, לך לך,  ג, ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 176,
+    "line_index_2": 55,
+    "heRef_2": "שער המצוות, לך לך,  ג, ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 56,
+    "heRef_2": "שער המצוות, לך לך,  ג, ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 56,
+    "heRef_2": "שער המצוות, לך לך,  ג, ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 56,
+    "heRef_2": "שער המצוות, לך לך,  ג, ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 56,
+    "heRef_2": "שער המצוות, לך לך,  ג, ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 60,
+    "heRef_2": "שער המצוות, לך לך,  ג, י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 63,
+    "heRef_2": "שער המצוות, לך לך,  ג, יג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 64,
+    "heRef_2": "שער המצוות, לך לך,  ג, יד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 70,
+    "heRef_2": "שער המצוות, ויחי,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 72,
+    "heRef_2": "שער המצוות, ויחי,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 73,
+    "heRef_2": "שער המצוות, ויחי,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 73,
+    "heRef_2": "שער המצוות, ויחי,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 74,
+    "heRef_2": "שער המצוות, ויחי,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 74,
+    "heRef_2": "שער המצוות, ויחי,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 81,
+    "heRef_2": "שער המצוות, ויחי,  טז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 83,
+    "heRef_2": "שער המצוות, ויחי,  יח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 238,
+    "line_index_2": 86,
+    "heRef_2": "שער המצוות, שמות,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 87,
+    "heRef_2": "שער המצוות, שמות,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 89,
+    "heRef_2": "שער המצוות, בא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 89,
+    "heRef_2": "שער המצוות, בא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 91,
+    "heRef_2": "שער המצוות, בשלח,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 91,
+    "heRef_2": "שער המצוות, בשלח,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 266,
+    "line_index_2": 92,
+    "heRef_2": "שער המצוות, בשלח,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 92,
+    "heRef_2": "שער המצוות, בשלח,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 94,
+    "heRef_2": "שער המצוות, בשלח,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 94,
+    "heRef_2": "שער המצוות, בשלח,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 98,
+    "heRef_2": "שער המצוות, יתרו,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 98,
+    "heRef_2": "שער המצוות, יתרו,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 98,
+    "heRef_2": "שער המצוות, יתרו,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 98,
+    "heRef_2": "שער המצוות, יתרו,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 102,
+    "heRef_2": "שער המצוות, משפטים,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 103,
+    "heRef_2": "שער המצוות, משפטים,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 106,
+    "heRef_2": "שער המצוות, תרומה,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 106,
+    "heRef_2": "שער המצוות, תרומה,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 107,
+    "heRef_2": "שער המצוות, תרומה,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 107,
+    "heRef_2": "שער המצוות, תרומה,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 342,
+    "line_index_2": 107,
+    "heRef_2": "שער המצוות, תרומה,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 110,
+    "heRef_2": "שער המצוות, תרומה,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 110,
+    "heRef_2": "שער המצוות, תרומה,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 111,
+    "heRef_2": "שער המצוות, תרומה,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 112,
+    "heRef_2": "שער המצוות, תרומה,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 118,
+    "heRef_2": "שער המצוות, תצוה,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 118,
+    "heRef_2": "שער המצוות, תצוה,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 120,
+    "heRef_2": "שער המצוות, כי תשא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 123,
+    "heRef_2": "שער המצוות, ויקרא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 124,
+    "heRef_2": "שער המצוות, ויקרא,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 131,
+    "heRef_2": "שער המצוות, שמיני,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 133,
+    "heRef_2": "שער המצוות, שמיני,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 134,
+    "heRef_2": "שער המצוות, שמיני,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 134,
+    "heRef_2": "שער המצוות, שמיני,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 134,
+    "heRef_2": "שער המצוות, שמיני,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 134,
+    "heRef_2": "שער המצוות, שמיני,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 135,
+    "heRef_2": "שער המצוות, שמיני,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 136,
+    "heRef_2": "שער המצוות, שמיני,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 138,
+    "heRef_2": "שער המצוות, תזריע,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 141,
+    "heRef_2": "שער המצוות, תזריע,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 142,
+    "heRef_2": "שער המצוות, תזריע,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 142,
+    "heRef_2": "שער המצוות, תזריע,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 142,
+    "heRef_2": "שער המצוות, תזריע,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 143,
+    "heRef_2": "שער המצוות, תזריע,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 150,
+    "heRef_2": "שער המצוות, קדושים,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 151,
+    "heRef_2": "שער המצוות, קדושים,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 151,
+    "heRef_2": "שער המצוות, קדושים,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 155,
+    "heRef_2": "שער המצוות, קדושים,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 494,
+    "line_index_2": 156,
+    "heRef_2": "שער המצוות, קדושים,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 161,
+    "heRef_2": "שער המצוות, בהר,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 161,
+    "heRef_2": "שער המצוות, בהר,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 162,
+    "heRef_2": "שער המצוות, בהר,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 162,
+    "heRef_2": "שער המצוות, בהר,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 162,
+    "heRef_2": "שער המצוות, בהר,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 163,
+    "heRef_2": "שער המצוות, בהר,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 164,
+    "heRef_2": "שער המצוות, בהר,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 164,
+    "heRef_2": "שער המצוות, בהר,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 167,
+    "heRef_2": "שער המצוות, בהר,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 167,
+    "heRef_2": "שער המצוות, בהר,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 167,
+    "heRef_2": "שער המצוות, בהר,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 168,
+    "heRef_2": "שער המצוות, בהר,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 169,
+    "heRef_2": "שער המצוות, בהר,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 170,
+    "heRef_2": "שער המצוות, בהר,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 170,
+    "heRef_2": "שער המצוות, בהר,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 171,
+    "heRef_2": "שער המצוות, בהר,  יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 174,
+    "heRef_2": "שער המצוות, נשא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 176,
+    "heRef_2": "שער המצוות, נשא,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 592,
+    "line_index_2": 179,
+    "heRef_2": "שער המצוות, בהעלותך,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 603,
+    "line_index_2": 184,
+    "heRef_2": "שער המצוות, שלח,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 185,
+    "heRef_2": "שער המצוות, שלח,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 186,
+    "heRef_2": "שער המצוות, שלח,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 187,
+    "heRef_2": "שער המצוות, שלח,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 188,
+    "heRef_2": "שער המצוות, שלח,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 628,
+    "line_index_2": 198,
+    "heRef_2": "שער המצוות, פנחס,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 634,
+    "line_index_2": 200,
+    "heRef_2": "שער המצוות, פנחס,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 202,
+    "heRef_2": "שער המצוות, ואתחנן,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 202,
+    "heRef_2": "שער המצוות, ואתחנן,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 204,
+    "heRef_2": "שער המצוות, ואתחנן,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 648,
+    "line_index_2": 204,
+    "heRef_2": "שער המצוות, ואתחנן,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 651,
+    "line_index_2": 204,
+    "heRef_2": "שער המצוות, ואתחנן,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 660,
+    "line_index_2": 207,
+    "heRef_2": "שער המצוות, ואתחנן,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 664,
+    "line_index_2": 210,
+    "heRef_2": "שער המצוות, ואתחנן,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 669,
+    "line_index_2": 211,
+    "heRef_2": "שער המצוות, ואתחנן,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 218,
+    "heRef_2": "שער המצוות, ואתחנן,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 681,
+    "line_index_2": 218,
+    "heRef_2": "שער המצוות, ואתחנן,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 683,
+    "line_index_2": 218,
+    "heRef_2": "שער המצוות, ואתחנן,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 697,
+    "line_index_2": 220,
+    "heRef_2": "שער המצוות, ואתחנן,  יט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 723,
+    "line_index_2": 229,
+    "heRef_2": "שער המצוות, ואתחנן,  כח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 726,
+    "line_index_2": 230,
+    "heRef_2": "שער המצוות, ואתחנן,  כט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 230,
+    "heRef_2": "שער המצוות, ואתחנן,  כט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 230,
+    "heRef_2": "שער המצוות, ואתחנן,  כט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 733,
+    "line_index_2": 230,
+    "heRef_2": "שער המצוות, ואתחנן,  כט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 734,
+    "line_index_2": 231,
+    "heRef_2": "שער המצוות, ואתחנן,  ל",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 737,
+    "line_index_2": 234,
+    "heRef_2": "שער המצוות, עקב,  ב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 740,
+    "line_index_2": 237,
+    "heRef_2": "שער המצוות, עקב,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 741,
+    "line_index_2": 238,
+    "heRef_2": "שער המצוות, עקב,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 749,
+    "line_index_2": 241,
+    "heRef_2": "שער המצוות, עקב,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 753,
+    "line_index_2": 242,
+    "heRef_2": "שער המצוות, עקב,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 754,
+    "line_index_2": 242,
+    "heRef_2": "שער המצוות, עקב,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 757,
+    "line_index_2": 243,
+    "heRef_2": "שער המצוות, עקב,  יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 764,
+    "line_index_2": 244,
+    "heRef_2": "שער המצוות, עקב,  יב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 765,
+    "line_index_2": 245,
+    "heRef_2": "שער המצוות, עקב,  יג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 248,
+    "heRef_2": "שער המצוות, עקב,  טז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 785,
+    "line_index_2": 248,
+    "heRef_2": "שער המצוות, עקב,  טז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 787,
+    "line_index_2": 249,
+    "heRef_2": "שער המצוות, עקב,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 788,
+    "line_index_2": 249,
+    "heRef_2": "שער המצוות, עקב,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 794,
+    "line_index_2": 251,
+    "heRef_2": "שער המצוות, עקב,  יט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 807,
+    "line_index_2": 252,
+    "heRef_2": "שער המצוות, עקב,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 811,
+    "line_index_2": 252,
+    "heRef_2": "שער המצוות, עקב,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 813,
+    "line_index_2": 252,
+    "heRef_2": "שער המצוות, עקב,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 252,
+    "heRef_2": "שער המצוות, עקב,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 820,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 827,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 828,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 830,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 832,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 836,
+    "line_index_2": 253,
+    "heRef_2": "שער המצוות, עקב,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 843,
+    "line_index_2": 254,
+    "heRef_2": "שער המצוות, עקב,  כב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 845,
+    "line_index_2": 255,
+    "heRef_2": "שער המצוות, עקב,  כג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 847,
+    "line_index_2": 255,
+    "heRef_2": "שער המצוות, עקב,  כג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 849,
+    "line_index_2": 255,
+    "heRef_2": "שער המצוות, עקב,  כג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 850,
+    "line_index_2": 256,
+    "heRef_2": "שער המצוות, עקב,  כד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 851,
+    "line_index_2": 257,
+    "heRef_2": "שער המצוות, עקב,  כה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 854,
+    "line_index_2": 258,
+    "heRef_2": "שער המצוות, עקב,  כו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 855,
+    "line_index_2": 259,
+    "heRef_2": "שער המצוות, עקב,  כז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 862,
+    "line_index_2": 261,
+    "heRef_2": "שער המצוות, עקב,  כט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 865,
+    "line_index_2": 262,
+    "heRef_2": "שער המצוות, עקב,  ל",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 868,
+    "line_index_2": 266,
+    "heRef_2": "שער המצוות, עקב,  לד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 869,
+    "line_index_2": 266,
+    "heRef_2": "שער המצוות, עקב,  לד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 269,
+    "heRef_2": "שער המצוות, עקב,  לז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 880,
+    "line_index_2": 271,
+    "heRef_2": "שער המצוות, עקב,  לט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 883,
+    "line_index_2": 272,
+    "heRef_2": "שער המצוות, עקב,  מ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 272,
+    "heRef_2": "שער המצוות, עקב,  מ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 886,
+    "line_index_2": 273,
+    "heRef_2": "שער המצוות, עקב,  מא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 887,
+    "line_index_2": 273,
+    "heRef_2": "שער המצוות, עקב,  מא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 889,
+    "line_index_2": 273,
+    "heRef_2": "שער המצוות, עקב,  מא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 893,
+    "line_index_2": 278,
+    "heRef_2": "שער המצוות, ראה,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 279,
+    "heRef_2": "שער המצוות, ראה,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 899,
+    "line_index_2": 279,
+    "heRef_2": "שער המצוות, ראה,  ה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 900,
+    "line_index_2": 280,
+    "heRef_2": "שער המצוות, ראה,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 901,
+    "line_index_2": 280,
+    "heRef_2": "שער המצוות, ראה,  ו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 909,
+    "line_index_2": 282,
+    "heRef_2": "שער המצוות, ראה,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 911,
+    "line_index_2": 282,
+    "heRef_2": "שער המצוות, ראה,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 912,
+    "line_index_2": 282,
+    "heRef_2": "שער המצוות, ראה,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 917,
+    "line_index_2": 283,
+    "heRef_2": "שער המצוות, ראה,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 920,
+    "line_index_2": 284,
+    "heRef_2": "שער המצוות, ראה,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 921,
+    "line_index_2": 284,
+    "heRef_2": "שער המצוות, ראה,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 923,
+    "line_index_2": 285,
+    "heRef_2": "שער המצוות, ראה,  יא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 290,
+    "heRef_2": "שער המצוות, שופטים,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 956,
+    "line_index_2": 295,
+    "heRef_2": "שער המצוות, שופטים,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 966,
+    "line_index_2": 298,
+    "heRef_2": "שער המצוות, שופטים,  יב",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 970,
+    "line_index_2": 299,
+    "heRef_2": "שער המצוות, שופטים,  יג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 975,
+    "line_index_2": 300,
+    "heRef_2": "שער המצוות, שופטים,  יד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 981,
+    "line_index_2": 302,
+    "heRef_2": "שער המצוות, שופטים,  טז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 984,
+    "line_index_2": 303,
+    "heRef_2": "שער המצוות, שופטים,  יז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 988,
+    "line_index_2": 306,
+    "heRef_2": "שער המצוות, שופטים,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 993,
+    "line_index_2": 307,
+    "heRef_2": "שער המצוות, שופטים,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 994,
+    "line_index_2": 307,
+    "heRef_2": "שער המצוות, שופטים,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1001,
+    "line_index_2": 309,
+    "heRef_2": "שער המצוות, שופטים,  כג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1003,
+    "line_index_2": 310,
+    "heRef_2": "שער המצוות, שופטים,  כד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1007,
+    "line_index_2": 311,
+    "heRef_2": "שער המצוות, שופטים,  כה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1009,
+    "line_index_2": 312,
+    "heRef_2": "שער המצוות, שופטים,  כו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1016,
+    "line_index_2": 314,
+    "heRef_2": "שער המצוות, כי תצא,  א",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1021,
+    "line_index_2": 316,
+    "heRef_2": "שער המצוות, כי תצא,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1025,
+    "line_index_2": 317,
+    "heRef_2": "שער המצוות, כי תצא,  ד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1031,
+    "line_index_2": 321,
+    "heRef_2": "שער המצוות, כי תצא,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1033,
+    "line_index_2": 322,
+    "heRef_2": "שער המצוות, כי תצא,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1036,
+    "line_index_2": 323,
+    "heRef_2": "שער המצוות, כי תצא,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1037,
+    "line_index_2": 327,
+    "heRef_2": "שער המצוות, כי תצא,  יד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1040,
+    "line_index_2": 332,
+    "heRef_2": "שער המצוות, כי תצא,  יט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1044,
+    "line_index_2": 332,
+    "heRef_2": "שער המצוות, כי תצא,  יט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1047,
+    "line_index_2": 333,
+    "heRef_2": "שער המצוות, כי תצא,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1049,
+    "line_index_2": 333,
+    "heRef_2": "שער המצוות, כי תצא,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1050,
+    "line_index_2": 333,
+    "heRef_2": "שער המצוות, כי תצא,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1064,
+    "line_index_2": 333,
+    "heRef_2": "שער המצוות, כי תצא,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1065,
+    "line_index_2": 333,
+    "heRef_2": "שער המצוות, כי תצא,  כ",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1068,
+    "line_index_2": 334,
+    "heRef_2": "שער המצוות, כי תצא,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1071,
+    "line_index_2": 334,
+    "heRef_2": "שער המצוות, כי תצא,  כא",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1082,
+    "line_index_2": 338,
+    "heRef_2": "שער המצוות, כי תצא,  כה",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1083,
+    "line_index_2": 339,
+    "heRef_2": "שער המצוות, כי תצא,  כו",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1094,
+    "line_index_2": 347,
+    "heRef_2": "שער המצוות, כי תצא,  לד",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1104,
+    "line_index_2": 350,
+    "heRef_2": "שער המצוות, כי תצא,  לז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1109,
+    "line_index_2": 354,
+    "heRef_2": "שער המצוות, וילך,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1112,
+    "line_index_2": 354,
+    "heRef_2": "שער המצוות, וילך,  ג",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1118,
+    "line_index_2": 358,
+    "heRef_2": "שער המצוות, וילך,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1120,
+    "line_index_2": 358,
+    "heRef_2": "שער המצוות, וילך,  ז",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1121,
+    "line_index_2": 359,
+    "heRef_2": "שער המצוות, וילך,  ח",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1122,
+    "line_index_2": 360,
+    "heRef_2": "שער המצוות, וילך,  ט",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1123,
+    "line_index_2": 361,
+    "heRef_2": "שער המצוות, וילך,  י",
+    "path_2": "שער המצוות.txt",
+    "Conection Type": "source"
+  }
+]

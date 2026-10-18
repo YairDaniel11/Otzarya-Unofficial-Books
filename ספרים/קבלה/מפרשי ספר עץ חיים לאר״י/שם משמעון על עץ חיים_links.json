@@ -1,0 +1,821 @@
+[
+  {
+    "line_index_1": 12,
+    "line_index_2": 65,
+    "heRef_2": "עץ חיים,  א, א, ה",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 67,
+    "heRef_2": "עץ חיים,  א, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 68,
+    "heRef_2": "עץ חיים,  א, ב, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 70,
+    "heRef_2": "עץ חיים,  א, ב, ד",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 70,
+    "heRef_2": "עץ חיים,  א, ב, ד",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 71,
+    "heRef_2": "עץ חיים,  א, ב, ה",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 72,
+    "heRef_2": "עץ חיים,  א, ב, ו",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 72,
+    "heRef_2": "עץ חיים,  א, ב, ו",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 82,
+    "heRef_2": "עץ חיים,  א, ד, ה",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 83,
+    "heRef_2": "עץ חיים,  א, ד, ו",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 92,
+    "heRef_2": "עץ חיים,  א, ה, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 100,
+    "heRef_2": "עץ חיים,  ב, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 109,
+    "heRef_2": "עץ חיים,  ג, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 127,
+    "heRef_2": "עץ חיים,  ד, ג, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 170,
+    "heRef_2": "עץ חיים,  ו, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 178,
+    "heRef_2": "עץ חיים,  ו, ג, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 186,
+    "heRef_2": "עץ חיים,  ו, ה, ד",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 208,
+    "heRef_2": "עץ חיים,  ז, א, ד",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 216,
+    "heRef_2": "עץ חיים,  ז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 121,
+    "line_index_2": 219,
+    "heRef_2": "עץ חיים,  ז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 244,
+    "heRef_2": "עץ חיים,  ח, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 255,
+    "heRef_2": "עץ חיים,  ט, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 161,
+    "line_index_2": 257,
+    "heRef_2": "עץ חיים,  ט, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 257,
+    "heRef_2": "עץ חיים,  ט, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 261,
+    "heRef_2": "עץ חיים,  ט, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 263,
+    "heRef_2": "עץ חיים,  ט, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 179,
+    "line_index_2": 263,
+    "heRef_2": "עץ חיים,  ט, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 265,
+    "heRef_2": "עץ חיים,  ט, ז, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 207,
+    "line_index_2": 277,
+    "heRef_2": "עץ חיים,  י, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 277,
+    "heRef_2": "עץ חיים,  י, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 277,
+    "heRef_2": "עץ חיים,  י, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 281,
+    "heRef_2": "עץ חיים,  י, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 295,
+    "heRef_2": "עץ חיים,  יא, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 260,
+    "line_index_2": 316,
+    "heRef_2": "עץ חיים,  יב, א, ה",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 316,
+    "heRef_2": "עץ חיים,  יב, א, ה",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 322,
+    "heRef_2": "עץ חיים,  יב, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 327,
+    "heRef_2": "עץ חיים,  יב, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 333,
+    "heRef_2": "עץ חיים,  יג, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 290,
+    "line_index_2": 335,
+    "heRef_2": "עץ חיים,  יג, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 341,
+    "heRef_2": "עץ חיים,  יג, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 353,
+    "heRef_2": "עץ חיים,  יג, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 358,
+    "heRef_2": "עץ חיים,  יג, ח, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 362,
+    "heRef_2": "עץ חיים,  יג, י, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 369,
+    "heRef_2": "עץ חיים,  יג, יג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 377,
+    "heRef_2": "עץ חיים,  יד, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 379,
+    "heRef_2": "עץ חיים,  יד, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 379,
+    "heRef_2": "עץ חיים,  יד, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 379,
+    "heRef_2": "עץ חיים,  יד, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 381,
+    "heRef_2": "עץ חיים,  יד, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 381,
+    "heRef_2": "עץ חיים,  יד, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 385,
+    "heRef_2": "עץ חיים,  יד, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 389,
+    "heRef_2": "עץ חיים,  יד, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 394,
+    "line_index_2": 390,
+    "heRef_2": "עץ חיים,  יד, ה, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 395,
+    "heRef_2": "עץ חיים,  יד, ז, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 397,
+    "heRef_2": "עץ חיים,  יד, ח, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 433,
+    "line_index_2": 401,
+    "heRef_2": "עץ חיים,  יד, ט, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 401,
+    "heRef_2": "עץ חיים,  יד, ט, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 409,
+    "heRef_2": "עץ חיים,  טו, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 409,
+    "heRef_2": "עץ חיים,  טו, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 412,
+    "heRef_2": "עץ חיים,  טו, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 415,
+    "heRef_2": "עץ חיים,  טו, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 417,
+    "heRef_2": "עץ חיים,  טו, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 427,
+    "heRef_2": "עץ חיים,  טז, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 429,
+    "heRef_2": "עץ חיים,  טז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 429,
+    "heRef_2": "עץ חיים,  טז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 604,
+    "line_index_2": 429,
+    "heRef_2": "עץ חיים,  טז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 429,
+    "heRef_2": "עץ חיים,  טז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 621,
+    "line_index_2": 431,
+    "heRef_2": "עץ חיים,  טז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 431,
+    "heRef_2": "עץ חיים,  טז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 628,
+    "line_index_2": 431,
+    "heRef_2": "עץ חיים,  טז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 668,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 705,
+    "line_index_2": 433,
+    "heRef_2": "עץ חיים,  טז, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 720,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 722,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 729,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 730,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 732,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 741,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 751,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 757,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 763,
+    "line_index_2": 435,
+    "heRef_2": "עץ חיים,  טז, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 767,
+    "line_index_2": 438,
+    "heRef_2": "עץ חיים,  טז, ז, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 768,
+    "line_index_2": 438,
+    "heRef_2": "עץ חיים,  טז, ז, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 774,
+    "line_index_2": 444,
+    "heRef_2": "עץ חיים,  יז, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 776,
+    "line_index_2": 444,
+    "heRef_2": "עץ חיים,  יז, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 780,
+    "line_index_2": 444,
+    "heRef_2": "עץ חיים,  יז, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 444,
+    "heRef_2": "עץ חיים,  יז, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 789,
+    "line_index_2": 444,
+    "heRef_2": "עץ חיים,  יז, א, ג",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 811,
+    "line_index_2": 445,
+    "heRef_2": "עץ חיים,  יז, א, ד",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 852,
+    "line_index_2": 450,
+    "heRef_2": "עץ חיים,  יז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 857,
+    "line_index_2": 450,
+    "heRef_2": "עץ חיים,  יז, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 863,
+    "line_index_2": 453,
+    "heRef_2": "עץ חיים,  יז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 865,
+    "line_index_2": 453,
+    "heRef_2": "עץ חיים,  יז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 866,
+    "line_index_2": 453,
+    "heRef_2": "עץ חיים,  יז, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 873,
+    "line_index_2": 457,
+    "heRef_2": "עץ חיים,  יח, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 875,
+    "line_index_2": 457,
+    "heRef_2": "עץ חיים,  יח, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 877,
+    "line_index_2": 457,
+    "heRef_2": "עץ חיים,  יח, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 880,
+    "line_index_2": 459,
+    "heRef_2": "עץ חיים,  יח, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 885,
+    "line_index_2": 459,
+    "heRef_2": "עץ חיים,  יח, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 889,
+    "line_index_2": 459,
+    "heRef_2": "עץ חיים,  יח, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 462,
+    "heRef_2": "עץ חיים,  יח, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 904,
+    "line_index_2": 464,
+    "heRef_2": "עץ חיים,  יח, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 905,
+    "line_index_2": 464,
+    "heRef_2": "עץ חיים,  יח, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 909,
+    "line_index_2": 464,
+    "heRef_2": "עץ חיים,  יח, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 913,
+    "line_index_2": 464,
+    "heRef_2": "עץ חיים,  יח, ד, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 948,
+    "line_index_2": 467,
+    "heRef_2": "עץ חיים,  יח, ה, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 956,
+    "line_index_2": 468,
+    "heRef_2": "עץ חיים,  יח, ה, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 960,
+    "line_index_2": 468,
+    "heRef_2": "עץ חיים,  יח, ה, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 965,
+    "line_index_2": 487,
+    "heRef_2": "עץ חיים,  יט, ו, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1190,
+    "line_index_2": 905,
+    "heRef_2": "עץ חיים,  לט, א, ב",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1258,
+    "line_index_2": 1215,
+    "heRef_2": "עץ חיים,  מח, ב, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1260,
+    "line_index_2": 1218,
+    "heRef_2": "עץ חיים,  מח, ג, א",
+    "path_2": "עץ חיים.txt",
+    "Conection Type": "source"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "line_index_1": 55,
+    "line_index_2": 7,
+    "heRef_2": "ספר יצירה א, ה",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 8,
+    "heRef_2": "ספר יצירה א, ו",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 10,
+    "heRef_2": "ספר יצירה א, ח",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 11,
+    "heRef_2": "ספר יצירה א, ט",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 13,
+    "heRef_2": "ספר יצירה א, יא",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 14,
+    "heRef_2": "ספר יצירה א, יב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 15,
+    "heRef_2": "ספר יצירה א, יג",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 16,
+    "heRef_2": "ספר יצירה א, יד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 21,
+    "heRef_2": "ספר יצירה ב, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 22,
+    "heRef_2": "ספר יצירה ב, ה",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 29,
+    "heRef_2": "ספר יצירה ג, ה",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 30,
+    "heRef_2": "ספר יצירה ג, ו",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 32,
+    "heRef_2": "ספר יצירה ג, ח",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 167,
+    "line_index_2": 37,
+    "heRef_2": "ספר יצירה ד, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 47,
+    "heRef_2": "ספר יצירה ה, א",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 48,
+    "heRef_2": "ספר יצירה ה, ב",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 49,
+    "heRef_2": "ספר יצירה ה, ג",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 55,
+    "heRef_2": "ספר יצירה ו, ד",
+    "path_2": "ספר יצירה.txt",
+    "Conection Type": "source"
+  }
+]
