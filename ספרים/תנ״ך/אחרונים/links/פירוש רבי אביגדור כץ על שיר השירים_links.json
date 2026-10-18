@@ -1,0 +1,842 @@
+[
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "ref_2": "Song of Songs 1:1",
+    "heRef_2": "שיר השירים א, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 4,
+    "ref_2": "Song of Songs 1:2",
+    "heRef_2": "שיר השירים א, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 5,
+    "ref_2": "Song of Songs 1:3",
+    "heRef_2": "שיר השירים א, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 6,
+    "ref_2": "Song of Songs 1:4",
+    "heRef_2": "שיר השירים א, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 6,
+    "ref_2": "Song of Songs 1:4",
+    "heRef_2": "שיר השירים א, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 6,
+    "ref_2": "Song of Songs 1:4",
+    "heRef_2": "שיר השירים א, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 6,
+    "ref_2": "Song of Songs 1:4",
+    "heRef_2": "שיר השירים א, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 8,
+    "ref_2": "Song of Songs 1:6",
+    "heRef_2": "שיר השירים א, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 10,
+    "ref_2": "Song of Songs 1:8",
+    "heRef_2": "שיר השירים א, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 10,
+    "ref_2": "Song of Songs 1:8",
+    "heRef_2": "שיר השירים א, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 11,
+    "ref_2": "Song of Songs 1:9",
+    "heRef_2": "שיר השירים א, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 12,
+    "ref_2": "Song of Songs 1:10",
+    "heRef_2": "שיר השירים א, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 13,
+    "ref_2": "Song of Songs 1:11",
+    "heRef_2": "שיר השירים א, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 13,
+    "ref_2": "Song of Songs 1:11",
+    "heRef_2": "שיר השירים א, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 14,
+    "ref_2": "Song of Songs 1:12",
+    "heRef_2": "שיר השירים א, יב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 15,
+    "ref_2": "Song of Songs 1:13",
+    "heRef_2": "שיר השירים א, יג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 16,
+    "ref_2": "Song of Songs 1:14",
+    "heRef_2": "שיר השירים א, יד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 19,
+    "ref_2": "Song of Songs 1:17",
+    "heRef_2": "שיר השירים א, יז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 23,
+    "ref_2": "Song of Songs 2:3",
+    "heRef_2": "שיר השירים ב, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 24,
+    "ref_2": "Song of Songs 2:4",
+    "heRef_2": "שיר השירים ב, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 39,
+    "line_index_2": 26,
+    "ref_2": "Song of Songs 2:6",
+    "heRef_2": "שיר השירים ב, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 27,
+    "ref_2": "Song of Songs 2:7",
+    "heRef_2": "שיר השירים ב, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 27,
+    "ref_2": "Song of Songs 2:7",
+    "heRef_2": "שיר השירים ב, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 27,
+    "ref_2": "Song of Songs 2:7",
+    "heRef_2": "שיר השירים ב, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 27,
+    "ref_2": "Song of Songs 2:7",
+    "heRef_2": "שיר השירים ב, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 29,
+    "ref_2": "Song of Songs 2:9",
+    "heRef_2": "שיר השירים ב, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 29,
+    "ref_2": "Song of Songs 2:9",
+    "heRef_2": "שיר השירים ב, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 30,
+    "ref_2": "Song of Songs 2:10",
+    "heRef_2": "שיר השירים ב, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 31,
+    "ref_2": "Song of Songs 2:11",
+    "heRef_2": "שיר השירים ב, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 32,
+    "ref_2": "Song of Songs 2:12",
+    "heRef_2": "שיר השירים ב, יב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 33,
+    "ref_2": "Song of Songs 2:13",
+    "heRef_2": "שיר השירים ב, יג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 34,
+    "ref_2": "Song of Songs 2:14",
+    "heRef_2": "שיר השירים ב, יד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 35,
+    "ref_2": "Song of Songs 2:15",
+    "heRef_2": "שיר השירים ב, טו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 36,
+    "ref_2": "Song of Songs 2:16",
+    "heRef_2": "שיר השירים ב, טז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 37,
+    "ref_2": "Song of Songs 2:17",
+    "heRef_2": "שיר השירים ב, יז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 39,
+    "ref_2": "Song of Songs 3:1",
+    "heRef_2": "שיר השירים ג, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 67,
+    "line_index_2": 40,
+    "ref_2": "Song of Songs 3:2",
+    "heRef_2": "שיר השירים ג, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 41,
+    "ref_2": "Song of Songs 3:3",
+    "heRef_2": "שיר השירים ג, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 42,
+    "ref_2": "Song of Songs 3:4",
+    "heRef_2": "שיר השירים ג, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 43,
+    "ref_2": "Song of Songs 3:5",
+    "heRef_2": "שיר השירים ג, ה",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 44,
+    "ref_2": "Song of Songs 3:6",
+    "heRef_2": "שיר השירים ג, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 76,
+    "line_index_2": 44,
+    "ref_2": "Song of Songs 3:6",
+    "heRef_2": "שיר השירים ג, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 44,
+    "ref_2": "Song of Songs 3:6",
+    "heRef_2": "שיר השירים ג, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 45,
+    "ref_2": "Song of Songs 3:7",
+    "heRef_2": "שיר השירים ג, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 45,
+    "ref_2": "Song of Songs 3:7",
+    "heRef_2": "שיר השירים ג, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 45,
+    "ref_2": "Song of Songs 3:7",
+    "heRef_2": "שיר השירים ג, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 82,
+    "line_index_2": 45,
+    "ref_2": "Song of Songs 3:7",
+    "heRef_2": "שיר השירים ג, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 46,
+    "ref_2": "Song of Songs 3:8",
+    "heRef_2": "שיר השירים ג, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 46,
+    "ref_2": "Song of Songs 3:8",
+    "heRef_2": "שיר השירים ג, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 46,
+    "ref_2": "Song of Songs 3:8",
+    "heRef_2": "שיר השירים ג, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 49,
+    "ref_2": "Song of Songs 3:11",
+    "heRef_2": "שיר השירים ג, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 49,
+    "ref_2": "Song of Songs 3:11",
+    "heRef_2": "שיר השירים ג, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 49,
+    "ref_2": "Song of Songs 3:11",
+    "heRef_2": "שיר השירים ג, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 49,
+    "ref_2": "Song of Songs 3:11",
+    "heRef_2": "שיר השירים ג, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 49,
+    "ref_2": "Song of Songs 3:11",
+    "heRef_2": "שיר השירים ג, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 57,
+    "ref_2": "Song of Songs 4:7",
+    "heRef_2": "שיר השירים ד, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 58,
+    "ref_2": "Song of Songs 4:8",
+    "heRef_2": "שיר השירים ד, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 61,
+    "ref_2": "Song of Songs 4:11",
+    "heRef_2": "שיר השירים ד, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 61,
+    "ref_2": "Song of Songs 4:11",
+    "heRef_2": "שיר השירים ד, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 62,
+    "ref_2": "Song of Songs 4:12",
+    "heRef_2": "שיר השירים ד, יב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 66,
+    "ref_2": "Song of Songs 4:16",
+    "heRef_2": "שיר השירים ד, טז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 68,
+    "ref_2": "Song of Songs 5:1",
+    "heRef_2": "שיר השירים ה, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 69,
+    "ref_2": "Song of Songs 5:2",
+    "heRef_2": "שיר השירים ה, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 69,
+    "ref_2": "Song of Songs 5:2",
+    "heRef_2": "שיר השירים ה, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 109,
+    "line_index_2": 69,
+    "ref_2": "Song of Songs 5:2",
+    "heRef_2": "שיר השירים ה, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 69,
+    "ref_2": "Song of Songs 5:2",
+    "heRef_2": "שיר השירים ה, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 70,
+    "ref_2": "Song of Songs 5:3",
+    "heRef_2": "שיר השירים ה, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 74,
+    "ref_2": "Song of Songs 5:7",
+    "heRef_2": "שיר השירים ה, ז",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 75,
+    "ref_2": "Song of Songs 5:8",
+    "heRef_2": "שיר השירים ה, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 76,
+    "ref_2": "Song of Songs 5:9",
+    "heRef_2": "שיר השירים ה, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 77,
+    "ref_2": "Song of Songs 5:10",
+    "heRef_2": "שיר השירים ה, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 78,
+    "ref_2": "Song of Songs 5:11",
+    "heRef_2": "שיר השירים ה, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 80,
+    "ref_2": "Song of Songs 5:13",
+    "heRef_2": "שיר השירים ה, יג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 87,
+    "ref_2": "Song of Songs 6:3",
+    "heRef_2": "שיר השירים ו, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 88,
+    "ref_2": "Song of Songs 6:4",
+    "heRef_2": "שיר השירים ו, ד",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 93,
+    "ref_2": "Song of Songs 6:9",
+    "heRef_2": "שיר השירים ו, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 94,
+    "ref_2": "Song of Songs 6:10",
+    "heRef_2": "שיר השירים ו, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 95,
+    "ref_2": "Song of Songs 6:11",
+    "heRef_2": "שיר השירים ו, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 96,
+    "ref_2": "Song of Songs 6:12",
+    "heRef_2": "שיר השירים ו, יב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 98,
+    "ref_2": "Song of Songs 7:1",
+    "heRef_2": "שיר השירים ז, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 139,
+    "line_index_2": 98,
+    "ref_2": "Song of Songs 7:1",
+    "heRef_2": "שיר השירים ז, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 99,
+    "ref_2": "Song of Songs 7:2",
+    "heRef_2": "שיר השירים ז, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 100,
+    "ref_2": "Song of Songs 7:3",
+    "heRef_2": "שיר השירים ז, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 105,
+    "ref_2": "Song of Songs 7:8",
+    "heRef_2": "שיר השירים ז, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 105,
+    "ref_2": "Song of Songs 7:8",
+    "heRef_2": "שיר השירים ז, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 106,
+    "ref_2": "Song of Songs 7:9",
+    "heRef_2": "שיר השירים ז, ט",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 107,
+    "ref_2": "Song of Songs 7:10",
+    "heRef_2": "שיר השירים ז, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 107,
+    "ref_2": "Song of Songs 7:10",
+    "heRef_2": "שיר השירים ז, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 109,
+    "ref_2": "Song of Songs 7:12",
+    "heRef_2": "שיר השירים ז, יב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 155,
+    "line_index_2": 113,
+    "ref_2": "Song of Songs 8:1",
+    "heRef_2": "שיר השירים ח, א",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 114,
+    "ref_2": "Song of Songs 8:2",
+    "heRef_2": "שיר השירים ח, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 158,
+    "line_index_2": 114,
+    "ref_2": "Song of Songs 8:2",
+    "heRef_2": "שיר השירים ח, ב",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 115,
+    "ref_2": "Song of Songs 8:3",
+    "heRef_2": "שיר השירים ח, ג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 117,
+    "ref_2": "Song of Songs 8:5",
+    "heRef_2": "שיר השירים ח, ה",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 118,
+    "ref_2": "Song of Songs 8:6",
+    "heRef_2": "שיר השירים ח, ו",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 120,
+    "ref_2": "Song of Songs 8:8",
+    "heRef_2": "שיר השירים ח, ח",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 122,
+    "ref_2": "Song of Songs 8:10",
+    "heRef_2": "שיר השירים ח, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 122,
+    "ref_2": "Song of Songs 8:10",
+    "heRef_2": "שיר השירים ח, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 170,
+    "line_index_2": 122,
+    "ref_2": "Song of Songs 8:10",
+    "heRef_2": "שיר השירים ח, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 122,
+    "ref_2": "Song of Songs 8:10",
+    "heRef_2": "שיר השירים ח, י",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 123,
+    "ref_2": "Song of Songs 8:11",
+    "heRef_2": "שיר השירים ח, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 123,
+    "ref_2": "Song of Songs 8:11",
+    "heRef_2": "שיר השירים ח, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 123,
+    "ref_2": "Song of Songs 8:11",
+    "heRef_2": "שיר השירים ח, יא",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 125,
+    "ref_2": "Song of Songs 8:13",
+    "heRef_2": "שיר השירים ח, יג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 125,
+    "ref_2": "Song of Songs 8:13",
+    "heRef_2": "שיר השירים ח, יג",
+    "path_2": "שיר השירים.txt",
+    "Conection Type": "source"
+  }
+]

@@ -1,0 +1,3018 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 52,
+    "ref_2": "Genesis 2:18",
+    "heRef_2": "בראשית ב, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 67,
+    "ref_2": "Genesis 3:7",
+    "heRef_2": "בראשית ג, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 67,
+    "ref_2": "Genesis 3:7",
+    "heRef_2": "בראשית ג, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 67,
+    "ref_2": "Genesis 3:7",
+    "heRef_2": "בראשית ג, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 154,
+    "ref_2": "Genesis 6:9",
+    "heRef_2": "בראשית ו, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 154,
+    "ref_2": "Genesis 6:9",
+    "heRef_2": "בראשית ו, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 154,
+    "ref_2": "Genesis 6:9",
+    "heRef_2": "בראשית ו, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 154,
+    "ref_2": "Genesis 6:9",
+    "heRef_2": "בראשית ו, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 163,
+    "ref_2": "Genesis 6:18",
+    "heRef_2": "בראשית ו, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 18,
+    "line_index_2": 173,
+    "ref_2": "Genesis 7:5",
+    "heRef_2": "בראשית ז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 194,
+    "ref_2": "Genesis 8:1",
+    "heRef_2": "בראשית ח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 242,
+    "ref_2": "Genesis 9:26",
+    "heRef_2": "בראשית ט, כו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 24,
+    "line_index_2": 313,
+    "ref_2": "Genesis 12:1",
+    "heRef_2": "בראשית יב, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 314,
+    "ref_2": "Genesis 12:2",
+    "heRef_2": "בראשית יב, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 390,
+    "ref_2": "Genesis 15:13",
+    "heRef_2": "בראשית טו, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 30,
+    "line_index_2": 404,
+    "ref_2": "Genesis 16:5",
+    "heRef_2": "בראשית טז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 404,
+    "ref_2": "Genesis 16:5",
+    "heRef_2": "בראשית טז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 404,
+    "ref_2": "Genesis 16:5",
+    "heRef_2": "בראשית טז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 33,
+    "line_index_2": 404,
+    "ref_2": "Genesis 16:5",
+    "heRef_2": "בראשית טז, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 445,
+    "ref_2": "Genesis 18:1",
+    "heRef_2": "בראשית יח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 36,
+    "line_index_2": 445,
+    "ref_2": "Genesis 18:1",
+    "heRef_2": "בראשית יח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 446,
+    "ref_2": "Genesis 18:2",
+    "heRef_2": "בראשית יח, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 447,
+    "ref_2": "Genesis 18:3",
+    "heRef_2": "בראשית יח, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 42,
+    "line_index_2": 448,
+    "ref_2": "Genesis 18:4",
+    "heRef_2": "בראשית יח, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 456,
+    "ref_2": "Genesis 18:12",
+    "heRef_2": "בראשית יח, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 45,
+    "line_index_2": 456,
+    "ref_2": "Genesis 18:12",
+    "heRef_2": "בראשית יח, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 464,
+    "ref_2": "Genesis 18:20",
+    "heRef_2": "בראשית יח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 464,
+    "ref_2": "Genesis 18:20",
+    "heRef_2": "בראשית יח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 464,
+    "ref_2": "Genesis 18:20",
+    "heRef_2": "בראשית יח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 464,
+    "ref_2": "Genesis 18:20",
+    "heRef_2": "בראשית יח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 464,
+    "ref_2": "Genesis 18:20",
+    "heRef_2": "בראשית יח, כ",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 474,
+    "ref_2": "Genesis 18:30",
+    "heRef_2": "בראשית יח, ל",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 474,
+    "ref_2": "Genesis 18:30",
+    "heRef_2": "בראשית יח, ל",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 477,
+    "ref_2": "Genesis 18:33",
+    "heRef_2": "בראשית יח, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 486,
+    "ref_2": "Genesis 19:8",
+    "heRef_2": "בראשית יט, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 502,
+    "ref_2": "Genesis 19:24",
+    "heRef_2": "בראשית יט, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 522,
+    "ref_2": "Genesis 20:5",
+    "heRef_2": "בראשית כ, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 522,
+    "ref_2": "Genesis 20:5",
+    "heRef_2": "בראשית כ, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 522,
+    "ref_2": "Genesis 20:5",
+    "heRef_2": "בראשית כ, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 527,
+    "ref_2": "Genesis 20:10",
+    "heRef_2": "בראשית כ, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 543,
+    "ref_2": "Genesis 21:7",
+    "heRef_2": "בראשית כא, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 544,
+    "ref_2": "Genesis 21:8",
+    "heRef_2": "בראשית כא, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 546,
+    "ref_2": "Genesis 21:10",
+    "heRef_2": "בראשית כא, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 546,
+    "ref_2": "Genesis 21:10",
+    "heRef_2": "בראשית כא, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 546,
+    "ref_2": "Genesis 21:10",
+    "heRef_2": "בראשית כא, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 546,
+    "ref_2": "Genesis 21:10",
+    "heRef_2": "בראשית כא, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 558,
+    "ref_2": "Genesis 21:22",
+    "heRef_2": "בראשית כא, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 79,
+    "line_index_2": 562,
+    "ref_2": "Genesis 21:26",
+    "heRef_2": "בראשית כא, כו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 576,
+    "ref_2": "Genesis 22:5",
+    "heRef_2": "בראשית כב, ה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 580,
+    "ref_2": "Genesis 22:9",
+    "heRef_2": "בראשית כב, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 580,
+    "ref_2": "Genesis 22:9",
+    "heRef_2": "בראשית כב, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 85,
+    "line_index_2": 580,
+    "ref_2": "Genesis 22:9",
+    "heRef_2": "בראשית כב, ט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 583,
+    "ref_2": "Genesis 22:12",
+    "heRef_2": "בראשית כב, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 583,
+    "ref_2": "Genesis 22:12",
+    "heRef_2": "בראשית כב, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 583,
+    "ref_2": "Genesis 22:12",
+    "heRef_2": "בראשית כב, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 583,
+    "ref_2": "Genesis 22:12",
+    "heRef_2": "בראשית כב, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 584,
+    "ref_2": "Genesis 22:13",
+    "heRef_2": "בראשית כב, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 597,
+    "ref_2": "Genesis 23:1",
+    "heRef_2": "בראשית כג, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 597,
+    "ref_2": "Genesis 23:1",
+    "heRef_2": "בראשית כג, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 599,
+    "ref_2": "Genesis 23:3",
+    "heRef_2": "בראשית כג, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 624,
+    "ref_2": "Genesis 24:7",
+    "heRef_2": "בראשית כד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 624,
+    "ref_2": "Genesis 24:7",
+    "heRef_2": "בראשית כד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 624,
+    "ref_2": "Genesis 24:7",
+    "heRef_2": "בראשית כד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 624,
+    "ref_2": "Genesis 24:7",
+    "heRef_2": "בראשית כד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 635,
+    "ref_2": "Genesis 24:18",
+    "heRef_2": "בראשית כד, יח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 106,
+    "line_index_2": 684,
+    "ref_2": "Genesis 24:67",
+    "heRef_2": "בראשית כד, סז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 704,
+    "ref_2": "Genesis 25:19",
+    "heRef_2": "בראשית כה, יט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 707,
+    "ref_2": "Genesis 25:22",
+    "heRef_2": "בראשית כה, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 707,
+    "ref_2": "Genesis 25:22",
+    "heRef_2": "בראשית כה, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 708,
+    "ref_2": "Genesis 25:23",
+    "heRef_2": "בראשית כה, כג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 718,
+    "ref_2": "Genesis 25:33",
+    "heRef_2": "בראשית כה, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 718,
+    "ref_2": "Genesis 25:33",
+    "heRef_2": "בראשית כה, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 118,
+    "line_index_2": 730,
+    "ref_2": "Genesis 26:10",
+    "heRef_2": "בראשית כו, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 801,
+    "ref_2": "Genesis 27:45",
+    "heRef_2": "בראשית כז, מה",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 127,
+    "line_index_2": 804,
+    "ref_2": "Genesis 28:1",
+    "heRef_2": "בראשית כח, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 816,
+    "ref_2": "Genesis 28:13",
+    "heRef_2": "בראשית כח, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 816,
+    "ref_2": "Genesis 28:13",
+    "heRef_2": "בראשית כח, יג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 818,
+    "ref_2": "Genesis 28:15",
+    "heRef_2": "בראשית כח, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 133,
+    "line_index_2": 818,
+    "ref_2": "Genesis 28:15",
+    "heRef_2": "בראשית כח, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 818,
+    "ref_2": "Genesis 28:15",
+    "heRef_2": "בראשית כח, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 938,
+    "ref_2": "Genesis 31:32",
+    "heRef_2": "בראשית לא, לב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 945,
+    "ref_2": "Genesis 31:39",
+    "heRef_2": "בראשית לא, לט",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 140,
+    "line_index_2": 965,
+    "ref_2": "Genesis 32:4",
+    "heRef_2": "בראשית לב, ד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 969,
+    "ref_2": "Genesis 32:8",
+    "heRef_2": "בראשית לב, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 1023,
+    "ref_2": "Genesis 34:7",
+    "heRef_2": "בראשית לד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 146,
+    "line_index_2": 1130,
+    "ref_2": "Genesis 37:8",
+    "heRef_2": "בראשית לז, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 1144,
+    "ref_2": "Genesis 37:22",
+    "heRef_2": "בראשית לז, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 1155,
+    "ref_2": "Genesis 37:33",
+    "heRef_2": "בראשית לז, לג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 1170,
+    "ref_2": "Genesis 38:11",
+    "heRef_2": "בראשית לח, יא",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 1185,
+    "ref_2": "Genesis 38:26",
+    "heRef_2": "בראשית לח, כו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 1226,
+    "ref_2": "Genesis 40:12",
+    "heRef_2": "בראשית מ, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 1226,
+    "ref_2": "Genesis 40:12",
+    "heRef_2": "בראשית מ, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 1228,
+    "ref_2": "Genesis 40:14",
+    "heRef_2": "בראשית מ, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 1228,
+    "ref_2": "Genesis 40:14",
+    "heRef_2": "בראשית מ, יד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 1239,
+    "ref_2": "Genesis 41:1",
+    "heRef_2": "בראשית מא, א",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 164,
+    "line_index_2": 1276,
+    "ref_2": "Genesis 41:38",
+    "heRef_2": "בראשית מא, לח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 1313,
+    "ref_2": "Genesis 42:17",
+    "heRef_2": "בראשית מב, יז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 1320,
+    "ref_2": "Genesis 42:24",
+    "heRef_2": "בראשית מב, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 1320,
+    "ref_2": "Genesis 42:24",
+    "heRef_2": "בראשית מב, כד",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 1347,
+    "ref_2": "Genesis 43:12",
+    "heRef_2": "בראשית מג, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 173,
+    "line_index_2": 1377,
+    "ref_2": "Genesis 44:7",
+    "heRef_2": "בראשית מד, ז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 1382,
+    "ref_2": "Genesis 44:12",
+    "heRef_2": "בראשית מד, יב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 1408,
+    "ref_2": "Genesis 45:3",
+    "heRef_2": "בראשית מה, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 1408,
+    "ref_2": "Genesis 45:3",
+    "heRef_2": "בראשית מה, ג",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 1503,
+    "ref_2": "Genesis 48:2",
+    "heRef_2": "בראשית מח, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 182,
+    "line_index_2": 1509,
+    "ref_2": "Genesis 48:8",
+    "heRef_2": "בראשית מח, ח",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 1517,
+    "ref_2": "Genesis 48:16",
+    "heRef_2": "בראשית מח, טז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 1523,
+    "ref_2": "Genesis 48:22",
+    "heRef_2": "בראשית מח, כב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 188,
+    "line_index_2": 1526,
+    "ref_2": "Genesis 49:2",
+    "heRef_2": "בראשית מט, ב",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 1534,
+    "ref_2": "Genesis 49:10",
+    "heRef_2": "בראשית מט, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 191,
+    "line_index_2": 1534,
+    "ref_2": "Genesis 49:10",
+    "heRef_2": "בראשית מט, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 1534,
+    "ref_2": "Genesis 49:10",
+    "heRef_2": "בראשית מט, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 194,
+    "line_index_2": 1534,
+    "ref_2": "Genesis 49:10",
+    "heRef_2": "בראשית מט, י",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 1539,
+    "ref_2": "Genesis 49:15",
+    "heRef_2": "בראשית מט, טו",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 1551,
+    "ref_2": "Genesis 49:27",
+    "heRef_2": "בראשית מט, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 1551,
+    "ref_2": "Genesis 49:27",
+    "heRef_2": "בראשית מט, כז",
+    "path_2": "בראשית.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 37,
+    "ref_2": "Exodus 2:12",
+    "heRef_2": "שמות ב, יב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 204,
+    "line_index_2": 70,
+    "ref_2": "Exodus 3:19",
+    "heRef_2": "שמות ג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 144,
+    "ref_2": "Exodus 6:14",
+    "heRef_2": "שמות ו, יד",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 208,
+    "line_index_2": 162,
+    "ref_2": "Exodus 7:1",
+    "heRef_2": "שמות ז, א",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 242,
+    "ref_2": "Exodus 9:22",
+    "heRef_2": "שמות ט, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 211,
+    "line_index_2": 242,
+    "ref_2": "Exodus 9:22",
+    "heRef_2": "שמות ט, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 259,
+    "ref_2": "Exodus 10:3",
+    "heRef_2": "שמות י, ג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 299,
+    "ref_2": "Exodus 12:2",
+    "heRef_2": "שמות יב, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 299,
+    "ref_2": "Exodus 12:2",
+    "heRef_2": "שמות יב, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 220,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 223,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 226,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 337,
+    "ref_2": "Exodus 12:40",
+    "heRef_2": "שמות יב, מ",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 345,
+    "ref_2": "Exodus 12:48",
+    "heRef_2": "שמות יב, מח",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 467,
+    "ref_2": "Exodus 16:35",
+    "heRef_2": "שמות טז, לה",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 481,
+    "ref_2": "Exodus 17:12",
+    "heRef_2": "שמות יז, יב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 494,
+    "ref_2": "Exodus 18:8",
+    "heRef_2": "שמות יח, ח",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 495,
+    "ref_2": "Exodus 18:9",
+    "heRef_2": "שמות יח, ט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 496,
+    "ref_2": "Exodus 18:10",
+    "heRef_2": "שמות יח, י",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 500,
+    "ref_2": "Exodus 18:14",
+    "heRef_2": "שמות יח, יד",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 508,
+    "ref_2": "Exodus 18:22",
+    "heRef_2": "שמות יח, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 521,
+    "ref_2": "Exodus 19:7",
+    "heRef_2": "שמות יט, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 521,
+    "ref_2": "Exodus 19:7",
+    "heRef_2": "שמות יט, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 247,
+    "line_index_2": 521,
+    "ref_2": "Exodus 19:7",
+    "heRef_2": "שמות יט, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 521,
+    "ref_2": "Exodus 19:7",
+    "heRef_2": "שמות יט, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 521,
+    "ref_2": "Exodus 19:7",
+    "heRef_2": "שמות יט, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 523,
+    "ref_2": "Exodus 19:9",
+    "heRef_2": "שמות יט, ט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 253,
+    "line_index_2": 533,
+    "ref_2": "Exodus 19:19",
+    "heRef_2": "שמות יט, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 533,
+    "ref_2": "Exodus 19:19",
+    "heRef_2": "שמות יט, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 256,
+    "line_index_2": 586,
+    "ref_2": "Exodus 21:22",
+    "heRef_2": "שמות כא, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 586,
+    "ref_2": "Exodus 21:22",
+    "heRef_2": "שמות כא, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 629,
+    "ref_2": "Exodus 22:27",
+    "heRef_2": "שמות כב, כז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 674,
+    "ref_2": "Exodus 24:7",
+    "heRef_2": "שמות כד, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 674,
+    "ref_2": "Exodus 24:7",
+    "heRef_2": "שמות כד, ז",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 688,
+    "ref_2": "Exodus 25:2",
+    "heRef_2": "שמות כה, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 688,
+    "ref_2": "Exodus 25:2",
+    "heRef_2": "שמות כה, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 692,
+    "ref_2": "Exodus 25:6",
+    "heRef_2": "שמות כה, ו",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 692,
+    "ref_2": "Exodus 25:6",
+    "heRef_2": "שמות כה, ו",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 717,
+    "ref_2": "Exodus 25:31",
+    "heRef_2": "שמות כה, לא",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 272,
+    "line_index_2": 819,
+    "ref_2": "Exodus 28:32",
+    "heRef_2": "שמות כח, לב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 819,
+    "ref_2": "Exodus 28:32",
+    "heRef_2": "שמות כח, לב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 819,
+    "ref_2": "Exodus 28:32",
+    "heRef_2": "שמות כח, לב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 861,
+    "ref_2": "Exodus 29:30",
+    "heRef_2": "שמות כט, ל",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 861,
+    "ref_2": "Exodus 29:30",
+    "heRef_2": "שמות כט, ל",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 864,
+    "ref_2": "Exodus 29:33",
+    "heRef_2": "שמות כט, לג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 864,
+    "ref_2": "Exodus 29:33",
+    "heRef_2": "שמות כט, לג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 864,
+    "ref_2": "Exodus 29:33",
+    "heRef_2": "שמות כט, לג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 864,
+    "ref_2": "Exodus 29:33",
+    "heRef_2": "שמות כט, לג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 284,
+    "line_index_2": 869,
+    "ref_2": "Exodus 29:38",
+    "heRef_2": "שמות כט, לח",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 869,
+    "ref_2": "Exodus 29:38",
+    "heRef_2": "שמות כט, לח",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 287,
+    "line_index_2": 919,
+    "ref_2": "Exodus 31:2",
+    "heRef_2": "שמות לא, ב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 929,
+    "ref_2": "Exodus 31:12",
+    "heRef_2": "שמות לא, יב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 293,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 296,
+    "line_index_2": 949,
+    "ref_2": "Exodus 32:13",
+    "heRef_2": "שמות לב, יג",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 983,
+    "ref_2": "Exodus 33:11",
+    "heRef_2": "שמות לג, יא",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 299,
+    "line_index_2": 983,
+    "ref_2": "Exodus 33:11",
+    "heRef_2": "שמות לג, יא",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 991,
+    "ref_2": "Exodus 33:19",
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 302,
+    "line_index_2": 991,
+    "ref_2": "Exodus 33:19",
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 991,
+    "ref_2": "Exodus 33:19",
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 991,
+    "ref_2": "Exodus 33:19",
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 991,
+    "ref_2": "Exodus 33:19",
+    "heRef_2": "שמות לג, יט",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 1235,
+    "ref_2": "Exodus 40:22",
+    "heRef_2": "שמות מ, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 308,
+    "line_index_2": 1235,
+    "ref_2": "Exodus 40:22",
+    "heRef_2": "שמות מ, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 1235,
+    "ref_2": "Exodus 40:22",
+    "heRef_2": "שמות מ, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 1235,
+    "ref_2": "Exodus 40:22",
+    "heRef_2": "שמות מ, כב",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 1243,
+    "ref_2": "Exodus 40:30",
+    "heRef_2": "שמות מ, ל",
+    "path_2": "שמות.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 317,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 318,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 3,
+    "ref_2": "Numbers 1:1",
+    "heRef_2": "במדבר א, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 324,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 327,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 542,
+    "ref_2": "Numbers 14:23",
+    "heRef_2": "במדבר יד, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 330,
+    "line_index_2": 611,
+    "ref_2": "Numbers 16:4",
+    "heRef_2": "במדבר טז, ד",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 619,
+    "ref_2": "Numbers 16:12",
+    "heRef_2": "במדבר טז, יב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 635,
+    "ref_2": "Numbers 16:28",
+    "heRef_2": "במדבר טז, כח",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 635,
+    "ref_2": "Numbers 16:28",
+    "heRef_2": "במדבר טז, כח",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 645,
+    "ref_2": "Numbers 17:2",
+    "heRef_2": "במדבר יז, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 645,
+    "ref_2": "Numbers 17:2",
+    "heRef_2": "במדבר יז, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 339,
+    "line_index_2": 645,
+    "ref_2": "Numbers 17:2",
+    "heRef_2": "במדבר יז, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 706,
+    "ref_2": "Numbers 19:1",
+    "heRef_2": "במדבר יט, א",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 716,
+    "ref_2": "Numbers 19:11",
+    "heRef_2": "במדבר יט, יא",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 716,
+    "ref_2": "Numbers 19:11",
+    "heRef_2": "במדבר יט, יא",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 345,
+    "line_index_2": 716,
+    "ref_2": "Numbers 19:11",
+    "heRef_2": "במדבר יט, יא",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 996,
+    "ref_2": "Numbers 27:18",
+    "heRef_2": "במדבר כז, יח",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 348,
+    "line_index_2": 996,
+    "ref_2": "Numbers 27:18",
+    "heRef_2": "במדבר כז, יח",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 996,
+    "ref_2": "Numbers 27:18",
+    "heRef_2": "במדבר כז, יח",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 351,
+    "line_index_2": 1001,
+    "ref_2": "Numbers 27:23",
+    "heRef_2": "במדבר כז, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 1001,
+    "ref_2": "Numbers 27:23",
+    "heRef_2": "במדבר כז, כג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 354,
+    "line_index_2": 1161,
+    "ref_2": "Numbers 32:14",
+    "heRef_2": "במדבר לב, יד",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 1161,
+    "ref_2": "Numbers 32:14",
+    "heRef_2": "במדבר לב, יד",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 1167,
+    "ref_2": "Numbers 32:20",
+    "heRef_2": "במדבר לב, כ",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 1169,
+    "ref_2": "Numbers 32:22",
+    "heRef_2": "במדבר לב, כב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 1169,
+    "ref_2": "Numbers 32:22",
+    "heRef_2": "במדבר לב, כב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 1180,
+    "ref_2": "Numbers 32:33",
+    "heRef_2": "במדבר לב, לג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 1180,
+    "ref_2": "Numbers 32:33",
+    "heRef_2": "במדבר לב, לג",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 1249,
+    "ref_2": "Numbers 34:2",
+    "heRef_2": "במדבר לד, ב",
+    "path_2": "במדבר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 5,
+    "ref_2": "Deuteronomy 1:3",
+    "heRef_2": "דברים א, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 5,
+    "ref_2": "Deuteronomy 1:3",
+    "heRef_2": "דברים א, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 370,
+    "line_index_2": 5,
+    "ref_2": "Deuteronomy 1:3",
+    "heRef_2": "דברים א, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 5,
+    "ref_2": "Deuteronomy 1:3",
+    "heRef_2": "דברים א, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 373,
+    "line_index_2": 18,
+    "ref_2": "Deuteronomy 1:16",
+    "heRef_2": "דברים א, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 18,
+    "ref_2": "Deuteronomy 1:16",
+    "heRef_2": "דברים א, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 376,
+    "line_index_2": 46,
+    "ref_2": "Deuteronomy 1:44",
+    "heRef_2": "דברים א, מד",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 46,
+    "ref_2": "Deuteronomy 1:44",
+    "heRef_2": "דברים א, מד",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 379,
+    "line_index_2": 110,
+    "ref_2": "Deuteronomy 3:23",
+    "heRef_2": "דברים ג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 110,
+    "ref_2": "Deuteronomy 3:23",
+    "heRef_2": "דברים ג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 110,
+    "ref_2": "Deuteronomy 3:23",
+    "heRef_2": "דברים ג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 382,
+    "line_index_2": 110,
+    "ref_2": "Deuteronomy 3:23",
+    "heRef_2": "דברים ג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 110,
+    "ref_2": "Deuteronomy 3:23",
+    "heRef_2": "דברים ג, כג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 206,
+    "ref_2": "Deuteronomy 6:8",
+    "heRef_2": "דברים ו, ח",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 208,
+    "ref_2": "Deuteronomy 6:10",
+    "heRef_2": "דברים ו, י",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 388,
+    "line_index_2": 208,
+    "ref_2": "Deuteronomy 6:10",
+    "heRef_2": "דברים ו, י",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 303,
+    "ref_2": "Deuteronomy 10:1",
+    "heRef_2": "דברים י, א",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 391,
+    "line_index_2": 303,
+    "ref_2": "Deuteronomy 10:1",
+    "heRef_2": "דברים י, א",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 361,
+    "ref_2": "Deuteronomy 12:3",
+    "heRef_2": "דברים יב, ג",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 377,
+    "ref_2": "Deuteronomy 12:19",
+    "heRef_2": "דברים יב, יט",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 377,
+    "ref_2": "Deuteronomy 12:19",
+    "heRef_2": "דברים יב, יט",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 377,
+    "ref_2": "Deuteronomy 12:19",
+    "heRef_2": "דברים יב, יט",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 696,
+    "ref_2": "Deuteronomy 25:18",
+    "heRef_2": "דברים כה, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 400,
+    "line_index_2": 696,
+    "ref_2": "Deuteronomy 25:18",
+    "heRef_2": "דברים כה, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 696,
+    "ref_2": "Deuteronomy 25:18",
+    "heRef_2": "דברים כה, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 696,
+    "ref_2": "Deuteronomy 25:18",
+    "heRef_2": "דברים כה, יח",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 831,
+    "ref_2": "Deuteronomy 29:16",
+    "heRef_2": "דברים כט, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 831,
+    "ref_2": "Deuteronomy 29:16",
+    "heRef_2": "דברים כט, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 831,
+    "ref_2": "Deuteronomy 29:16",
+    "heRef_2": "דברים כט, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 831,
+    "ref_2": "Deuteronomy 29:16",
+    "heRef_2": "דברים כט, טז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 409,
+    "line_index_2": 855,
+    "ref_2": "Deuteronomy 30:11",
+    "heRef_2": "דברים ל, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 855,
+    "ref_2": "Deuteronomy 30:11",
+    "heRef_2": "דברים ל, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 855,
+    "ref_2": "Deuteronomy 30:11",
+    "heRef_2": "דברים ל, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 412,
+    "line_index_2": 855,
+    "ref_2": "Deuteronomy 30:11",
+    "heRef_2": "דברים ל, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 855,
+    "ref_2": "Deuteronomy 30:11",
+    "heRef_2": "דברים ל, יא",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 415,
+    "line_index_2": 872,
+    "ref_2": "Deuteronomy 31:7",
+    "heRef_2": "דברים לא, ז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 872,
+    "ref_2": "Deuteronomy 31:7",
+    "heRef_2": "דברים לא, ז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 872,
+    "ref_2": "Deuteronomy 31:7",
+    "heRef_2": "דברים לא, ז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 418,
+    "line_index_2": 872,
+    "ref_2": "Deuteronomy 31:7",
+    "heRef_2": "דברים לא, ז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 872,
+    "ref_2": "Deuteronomy 31:7",
+    "heRef_2": "דברים לא, ז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 421,
+    "line_index_2": 966,
+    "ref_2": "Deuteronomy 33:17",
+    "heRef_2": "דברים לג, יז",
+    "path_2": "דברים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 424,
+    "line_index_2": 654,
+    "ref_2": "Joshua 24:4",
+    "heRef_2": "יהושע כד, ד",
+    "path_2": "יהושע.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 262,
+    "ref_2": "I Samuel 12:1",
+    "heRef_2": "שמואל א יב, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 262,
+    "ref_2": "I Samuel 12:1",
+    "heRef_2": "שמואל א יב, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 430,
+    "line_index_2": 365,
+    "ref_2": "I Samuel 15:1",
+    "heRef_2": "שמואל א טו, א",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 382,
+    "ref_2": "I Samuel 15:18",
+    "heRef_2": "שמואל א טו, יח",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 384,
+    "ref_2": "I Samuel 15:20",
+    "heRef_2": "שמואל א טו, כ",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 435,
+    "line_index_2": 384,
+    "ref_2": "I Samuel 15:20",
+    "heRef_2": "שמואל א טו, כ",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 388,
+    "ref_2": "I Samuel 15:24",
+    "heRef_2": "שמואל א טו, כד",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 388,
+    "ref_2": "I Samuel 15:24",
+    "heRef_2": "שמואל א טו, כד",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 439,
+    "line_index_2": 388,
+    "ref_2": "I Samuel 15:24",
+    "heRef_2": "שמואל א טו, כד",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 704,
+    "ref_2": "I Samuel 25:28",
+    "heRef_2": "שמואל א כה, כח",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 442,
+    "line_index_2": 704,
+    "ref_2": "I Samuel 25:28",
+    "heRef_2": "שמואל א כה, כח",
+    "path_2": "שמואל א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 449,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 450,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 572,
+    "ref_2": "II Samuel 20:19",
+    "heRef_2": "שמואל ב כ, יט",
+    "path_2": "שמואל ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 31,
+    "ref_2": "I Kings 1:29",
+    "heRef_2": "מלכים א א, כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 458,
+    "line_index_2": 31,
+    "ref_2": "I Kings 1:29",
+    "heRef_2": "מלכים א א, כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 31,
+    "ref_2": "I Kings 1:29",
+    "heRef_2": "מלכים א א, כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 31,
+    "ref_2": "I Kings 1:29",
+    "heRef_2": "מלכים א א, כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 461,
+    "line_index_2": 31,
+    "ref_2": "I Kings 1:29",
+    "heRef_2": "מלכים א א, כט",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 60,
+    "ref_2": "I Kings 2:4",
+    "heRef_2": "מלכים א ב, ד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 464,
+    "line_index_2": 60,
+    "ref_2": "I Kings 2:4",
+    "heRef_2": "מלכים א ב, ד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 60,
+    "ref_2": "I Kings 2:4",
+    "heRef_2": "מלכים א ב, ד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 61,
+    "ref_2": "I Kings 2:5",
+    "heRef_2": "מלכים א ב, ה",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 61,
+    "ref_2": "I Kings 2:5",
+    "heRef_2": "מלכים א ב, ה",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 470,
+    "line_index_2": 291,
+    "ref_2": "I Kings 8:14",
+    "heRef_2": "מלכים א ח, יד",
+    "path_2": "מלכים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 473,
+    "line_index_2": 128,
+    "ref_2": "II Kings 5:8",
+    "heRef_2": "מלכים ב ה, ח",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 339,
+    "ref_2": "II Kings 12:10",
+    "heRef_2": "מלכים ב יב, י",
+    "path_2": "מלכים ב.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 660,
+    "ref_2": "Isaiah 33:1",
+    "heRef_2": "ישעיהו לג, א",
+    "path_2": "ישעיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 12,
+    "ref_2": "Jeremiah 1:10",
+    "heRef_2": "ירמיהו א, י",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 482,
+    "line_index_2": 12,
+    "ref_2": "Jeremiah 1:10",
+    "heRef_2": "ירמיהו א, י",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 25,
+    "ref_2": "Jeremiah 2:3",
+    "heRef_2": "ירמיהו ב, ג",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 485,
+    "line_index_2": 25,
+    "ref_2": "Jeremiah 2:3",
+    "heRef_2": "ירמיהו ב, ג",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 25,
+    "ref_2": "Jeremiah 2:3",
+    "heRef_2": "ירמיהו ב, ג",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 488,
+    "line_index_2": 30,
+    "ref_2": "Jeremiah 2:8",
+    "heRef_2": "ירמיהו ב, ח",
+    "path_2": "ירמיהו.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 184,
+    "ref_2": "Hosea 12:14",
+    "heRef_2": "הושע יב, יד",
+    "path_2": "הושע.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 184,
+    "ref_2": "Hosea 12:14",
+    "heRef_2": "הושע יב, יד",
+    "path_2": "הושע.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 495,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 498,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 499,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 51,
+    "ref_2": "Zechariah 4:2",
+    "heRef_2": "זכריה ד, ב",
+    "path_2": "זכריה.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 507,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 510,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 21,
+    "ref_2": "Malachi 2:4",
+    "heRef_2": "מלאכי ב, ד",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 58,
+    "ref_2": "Malachi 3:23",
+    "heRef_2": "מלאכי ג, כג",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 514,
+    "line_index_2": 58,
+    "ref_2": "Malachi 3:23",
+    "heRef_2": "מלאכי ג, כג",
+    "path_2": "מלאכי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 163,
+    "ref_2": "Psalms 13:6",
+    "heRef_2": "תהילים יג, ו",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 519,
+    "line_index_2": 1238,
+    "ref_2": "Psalms 74:3",
+    "heRef_2": "תהילים עד, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 1238,
+    "ref_2": "Psalms 74:3",
+    "heRef_2": "תהילים עד, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 522,
+    "line_index_2": 1465,
+    "ref_2": "Psalms 84:3",
+    "heRef_2": "תהילים פד, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 1465,
+    "ref_2": "Psalms 84:3",
+    "heRef_2": "תהילים פד, ג",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 1519,
+    "ref_2": "Psalms 88:2",
+    "heRef_2": "תהילים פח, ב",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 526,
+    "line_index_2": 1519,
+    "ref_2": "Psalms 88:2",
+    "heRef_2": "תהילים פח, ב",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 1519,
+    "ref_2": "Psalms 88:2",
+    "heRef_2": "תהילים פח, ב",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 2612,
+    "ref_2": "Psalms 145:19",
+    "heRef_2": "תהילים קמה, יט",
+    "path_2": "תהילים.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 791,
+    "ref_2": "Proverbs 26:23",
+    "heRef_2": "משלי כו, כג",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 46,
+    "ref_2": "Proverbs 2:10",
+    "heRef_2": "משלי ב, י",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 46,
+    "ref_2": "Proverbs 2:10",
+    "heRef_2": "משלי ב, י",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 537,
+    "line_index_2": 46,
+    "ref_2": "Proverbs 2:10",
+    "heRef_2": "משלי ב, י",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 46,
+    "ref_2": "Proverbs 2:10",
+    "heRef_2": "משלי ב, י",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 540,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 541,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 543,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 546,
+    "line_index_2": 212,
+    "ref_2": "Proverbs 8:1",
+    "heRef_2": "משלי ח, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 212,
+    "ref_2": "Proverbs 8:1",
+    "heRef_2": "משלי ח, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 212,
+    "ref_2": "Proverbs 8:1",
+    "heRef_2": "משלי ח, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 212,
+    "ref_2": "Proverbs 8:1",
+    "heRef_2": "משלי ח, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 550,
+    "line_index_2": 212,
+    "ref_2": "Proverbs 8:1",
+    "heRef_2": "משלי ח, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 553,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 556,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 101,
+    "ref_2": "Proverbs 4:6",
+    "heRef_2": "משלי ד, ו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 184,
+    "ref_2": "Proverbs 7:1",
+    "heRef_2": "משלי ז, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 566,
+    "line_index_2": 188,
+    "ref_2": "Proverbs 7:5",
+    "heRef_2": "משלי ז, ה",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 568,
+    "line_index_2": 226,
+    "ref_2": "Proverbs 8:15",
+    "heRef_2": "משלי ח, טו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 226,
+    "ref_2": "Proverbs 8:15",
+    "heRef_2": "משלי ח, טו",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 574,
+    "line_index_2": 268,
+    "ref_2": "Proverbs 10:1",
+    "heRef_2": "משלי י, א",
+    "path_2": "משלי.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 500,
+    "ref_2": "I Chronicles 12:19",
+    "heRef_2": "דברי הימים א יב, יט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 500,
+    "ref_2": "I Chronicles 12:19",
+    "heRef_2": "דברי הימים א יב, יט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 579,
+    "line_index_2": 500,
+    "ref_2": "I Chronicles 12:19",
+    "heRef_2": "דברי הימים א יב, יט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 580,
+    "line_index_2": 500,
+    "ref_2": "I Chronicles 12:19",
+    "heRef_2": "דברי הימים א יב, יט",
+    "path_2": "דברי הימים א.txt",
+    "Conection Type": "source"
+  }
+]

@@ -1,0 +1,3586 @@
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 3,
+    "ref_2": "Ecclesiastes 1:1",
+    "heRef_2": "קהלת א, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 3,
+    "ref_2": "Ecclesiastes 1:1",
+    "heRef_2": "קהלת א, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 7,
+    "line_index_2": 3,
+    "ref_2": "Ecclesiastes 1:1",
+    "heRef_2": "קהלת א, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 8,
+    "line_index_2": 3,
+    "ref_2": "Ecclesiastes 1:1",
+    "heRef_2": "קהלת א, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 10,
+    "line_index_2": 4,
+    "ref_2": "Ecclesiastes 1:2",
+    "heRef_2": "קהלת א, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 11,
+    "line_index_2": 4,
+    "ref_2": "Ecclesiastes 1:2",
+    "heRef_2": "קהלת א, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 5,
+    "ref_2": "Ecclesiastes 1:3",
+    "heRef_2": "קהלת א, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 14,
+    "line_index_2": 5,
+    "ref_2": "Ecclesiastes 1:3",
+    "heRef_2": "קהלת א, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 16,
+    "line_index_2": 6,
+    "ref_2": "Ecclesiastes 1:4",
+    "heRef_2": "קהלת א, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 17,
+    "line_index_2": 6,
+    "ref_2": "Ecclesiastes 1:4",
+    "heRef_2": "קהלת א, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 19,
+    "line_index_2": 7,
+    "ref_2": "Ecclesiastes 1:5",
+    "heRef_2": "קהלת א, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 20,
+    "line_index_2": 7,
+    "ref_2": "Ecclesiastes 1:5",
+    "heRef_2": "קהלת א, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 22,
+    "line_index_2": 8,
+    "ref_2": "Ecclesiastes 1:6",
+    "heRef_2": "קהלת א, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 8,
+    "ref_2": "Ecclesiastes 1:6",
+    "heRef_2": "קהלת א, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 25,
+    "line_index_2": 9,
+    "ref_2": "Ecclesiastes 1:7",
+    "heRef_2": "קהלת א, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 26,
+    "line_index_2": 9,
+    "ref_2": "Ecclesiastes 1:7",
+    "heRef_2": "קהלת א, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 10,
+    "ref_2": "Ecclesiastes 1:8",
+    "heRef_2": "קהלת א, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 29,
+    "line_index_2": 10,
+    "ref_2": "Ecclesiastes 1:8",
+    "heRef_2": "קהלת א, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 31,
+    "line_index_2": 11,
+    "ref_2": "Ecclesiastes 1:9",
+    "heRef_2": "קהלת א, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 11,
+    "ref_2": "Ecclesiastes 1:9",
+    "heRef_2": "קהלת א, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 12,
+    "ref_2": "Ecclesiastes 1:10",
+    "heRef_2": "קהלת א, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 12,
+    "ref_2": "Ecclesiastes 1:10",
+    "heRef_2": "קהלת א, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 37,
+    "line_index_2": 13,
+    "ref_2": "Ecclesiastes 1:11",
+    "heRef_2": "קהלת א, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 13,
+    "ref_2": "Ecclesiastes 1:11",
+    "heRef_2": "קהלת א, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 14,
+    "ref_2": "Ecclesiastes 1:12",
+    "heRef_2": "קהלת א, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 14,
+    "ref_2": "Ecclesiastes 1:12",
+    "heRef_2": "קהלת א, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 15,
+    "ref_2": "Ecclesiastes 1:13",
+    "heRef_2": "קהלת א, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 15,
+    "ref_2": "Ecclesiastes 1:13",
+    "heRef_2": "קהלת א, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 16,
+    "ref_2": "Ecclesiastes 1:14",
+    "heRef_2": "קהלת א, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 47,
+    "line_index_2": 16,
+    "ref_2": "Ecclesiastes 1:14",
+    "heRef_2": "קהלת א, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 17,
+    "ref_2": "Ecclesiastes 1:15",
+    "heRef_2": "קהלת א, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 17,
+    "ref_2": "Ecclesiastes 1:15",
+    "heRef_2": "קהלת א, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 18,
+    "ref_2": "Ecclesiastes 1:16",
+    "heRef_2": "קהלת א, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 53,
+    "line_index_2": 18,
+    "ref_2": "Ecclesiastes 1:16",
+    "heRef_2": "קהלת א, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 19,
+    "ref_2": "Ecclesiastes 1:17",
+    "heRef_2": "קהלת א, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 19,
+    "ref_2": "Ecclesiastes 1:17",
+    "heRef_2": "קהלת א, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 20,
+    "ref_2": "Ecclesiastes 1:18",
+    "heRef_2": "קהלת א, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 20,
+    "ref_2": "Ecclesiastes 1:18",
+    "heRef_2": "קהלת א, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 22,
+    "ref_2": "Ecclesiastes 2:1",
+    "heRef_2": "קהלת ב, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 22,
+    "ref_2": "Ecclesiastes 2:1",
+    "heRef_2": "קהלת ב, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 65,
+    "line_index_2": 23,
+    "ref_2": "Ecclesiastes 2:2",
+    "heRef_2": "קהלת ב, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 23,
+    "ref_2": "Ecclesiastes 2:2",
+    "heRef_2": "קהלת ב, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 24,
+    "ref_2": "Ecclesiastes 2:3",
+    "heRef_2": "קהלת ב, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 24,
+    "ref_2": "Ecclesiastes 2:3",
+    "heRef_2": "קהלת ב, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 71,
+    "line_index_2": 25,
+    "ref_2": "Ecclesiastes 2:4",
+    "heRef_2": "קהלת ב, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 72,
+    "line_index_2": 25,
+    "ref_2": "Ecclesiastes 2:4",
+    "heRef_2": "קהלת ב, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 26,
+    "ref_2": "Ecclesiastes 2:5",
+    "heRef_2": "קהלת ב, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 75,
+    "line_index_2": 26,
+    "ref_2": "Ecclesiastes 2:5",
+    "heRef_2": "קהלת ב, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 77,
+    "line_index_2": 27,
+    "ref_2": "Ecclesiastes 2:6",
+    "heRef_2": "קהלת ב, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 27,
+    "ref_2": "Ecclesiastes 2:6",
+    "heRef_2": "קהלת ב, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 80,
+    "line_index_2": 28,
+    "ref_2": "Ecclesiastes 2:7",
+    "heRef_2": "קהלת ב, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 81,
+    "line_index_2": 28,
+    "ref_2": "Ecclesiastes 2:7",
+    "heRef_2": "קהלת ב, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 29,
+    "ref_2": "Ecclesiastes 2:8",
+    "heRef_2": "קהלת ב, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 84,
+    "line_index_2": 29,
+    "ref_2": "Ecclesiastes 2:8",
+    "heRef_2": "קהלת ב, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 86,
+    "line_index_2": 30,
+    "ref_2": "Ecclesiastes 2:9",
+    "heRef_2": "קהלת ב, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 87,
+    "line_index_2": 30,
+    "ref_2": "Ecclesiastes 2:9",
+    "heRef_2": "קהלת ב, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 31,
+    "ref_2": "Ecclesiastes 2:10",
+    "heRef_2": "קהלת ב, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 31,
+    "ref_2": "Ecclesiastes 2:10",
+    "heRef_2": "קהלת ב, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 92,
+    "line_index_2": 32,
+    "ref_2": "Ecclesiastes 2:11",
+    "heRef_2": "קהלת ב, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 32,
+    "ref_2": "Ecclesiastes 2:11",
+    "heRef_2": "קהלת ב, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 95,
+    "line_index_2": 33,
+    "ref_2": "Ecclesiastes 2:12",
+    "heRef_2": "קהלת ב, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 96,
+    "line_index_2": 33,
+    "ref_2": "Ecclesiastes 2:12",
+    "heRef_2": "קהלת ב, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 98,
+    "line_index_2": 34,
+    "ref_2": "Ecclesiastes 2:13",
+    "heRef_2": "קהלת ב, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 99,
+    "line_index_2": 34,
+    "ref_2": "Ecclesiastes 2:13",
+    "heRef_2": "קהלת ב, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 101,
+    "line_index_2": 35,
+    "ref_2": "Ecclesiastes 2:14",
+    "heRef_2": "קהלת ב, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 35,
+    "ref_2": "Ecclesiastes 2:14",
+    "heRef_2": "קהלת ב, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 36,
+    "ref_2": "Ecclesiastes 2:15",
+    "heRef_2": "קהלת ב, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 105,
+    "line_index_2": 36,
+    "ref_2": "Ecclesiastes 2:15",
+    "heRef_2": "קהלת ב, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 107,
+    "line_index_2": 37,
+    "ref_2": "Ecclesiastes 2:16",
+    "heRef_2": "קהלת ב, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 37,
+    "ref_2": "Ecclesiastes 2:16",
+    "heRef_2": "קהלת ב, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 38,
+    "ref_2": "Ecclesiastes 2:17",
+    "heRef_2": "קהלת ב, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 38,
+    "ref_2": "Ecclesiastes 2:17",
+    "heRef_2": "קהלת ב, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 113,
+    "line_index_2": 39,
+    "ref_2": "Ecclesiastes 2:18",
+    "heRef_2": "קהלת ב, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 39,
+    "ref_2": "Ecclesiastes 2:18",
+    "heRef_2": "קהלת ב, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 116,
+    "line_index_2": 40,
+    "ref_2": "Ecclesiastes 2:19",
+    "heRef_2": "קהלת ב, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 117,
+    "line_index_2": 40,
+    "ref_2": "Ecclesiastes 2:19",
+    "heRef_2": "קהלת ב, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 119,
+    "line_index_2": 41,
+    "ref_2": "Ecclesiastes 2:20",
+    "heRef_2": "קהלת ב, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 120,
+    "line_index_2": 41,
+    "ref_2": "Ecclesiastes 2:20",
+    "heRef_2": "קהלת ב, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 42,
+    "ref_2": "Ecclesiastes 2:21",
+    "heRef_2": "קהלת ב, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 123,
+    "line_index_2": 42,
+    "ref_2": "Ecclesiastes 2:21",
+    "heRef_2": "קהלת ב, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 43,
+    "ref_2": "Ecclesiastes 2:22",
+    "heRef_2": "קהלת ב, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 126,
+    "line_index_2": 43,
+    "ref_2": "Ecclesiastes 2:22",
+    "heRef_2": "קהלת ב, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 44,
+    "ref_2": "Ecclesiastes 2:23",
+    "heRef_2": "קהלת ב, כג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 44,
+    "ref_2": "Ecclesiastes 2:23",
+    "heRef_2": "קהלת ב, כג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 131,
+    "line_index_2": 45,
+    "ref_2": "Ecclesiastes 2:24",
+    "heRef_2": "קהלת ב, כד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 45,
+    "ref_2": "Ecclesiastes 2:24",
+    "heRef_2": "קהלת ב, כד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 46,
+    "ref_2": "Ecclesiastes 2:25",
+    "heRef_2": "קהלת ב, כה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 135,
+    "line_index_2": 46,
+    "ref_2": "Ecclesiastes 2:25",
+    "heRef_2": "קהלת ב, כה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 47,
+    "ref_2": "Ecclesiastes 2:26",
+    "heRef_2": "קהלת ב, כו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 47,
+    "ref_2": "Ecclesiastes 2:26",
+    "heRef_2": "קהלת ב, כו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 49,
+    "ref_2": "Ecclesiastes 3:1",
+    "heRef_2": "קהלת ג, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 49,
+    "ref_2": "Ecclesiastes 3:1",
+    "heRef_2": "קהלת ג, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 50,
+    "ref_2": "Ecclesiastes 3:2",
+    "heRef_2": "קהלת ג, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 50,
+    "ref_2": "Ecclesiastes 3:2",
+    "heRef_2": "קהלת ג, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 51,
+    "ref_2": "Ecclesiastes 3:3",
+    "heRef_2": "קהלת ג, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 51,
+    "ref_2": "Ecclesiastes 3:3",
+    "heRef_2": "קהלת ג, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 52,
+    "ref_2": "Ecclesiastes 3:4",
+    "heRef_2": "קהלת ג, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 151,
+    "line_index_2": 52,
+    "ref_2": "Ecclesiastes 3:4",
+    "heRef_2": "קהלת ג, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 153,
+    "line_index_2": 53,
+    "ref_2": "Ecclesiastes 3:5",
+    "heRef_2": "קהלת ג, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 53,
+    "ref_2": "Ecclesiastes 3:5",
+    "heRef_2": "קהלת ג, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 54,
+    "ref_2": "Ecclesiastes 3:6",
+    "heRef_2": "קהלת ג, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 54,
+    "ref_2": "Ecclesiastes 3:6",
+    "heRef_2": "קהלת ג, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 159,
+    "line_index_2": 55,
+    "ref_2": "Ecclesiastes 3:7",
+    "heRef_2": "קהלת ג, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 160,
+    "line_index_2": 55,
+    "ref_2": "Ecclesiastes 3:7",
+    "heRef_2": "קהלת ג, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 56,
+    "ref_2": "Ecclesiastes 3:8",
+    "heRef_2": "קהלת ג, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 163,
+    "line_index_2": 56,
+    "ref_2": "Ecclesiastes 3:8",
+    "heRef_2": "קהלת ג, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 165,
+    "line_index_2": 57,
+    "ref_2": "Ecclesiastes 3:9",
+    "heRef_2": "קהלת ג, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 166,
+    "line_index_2": 57,
+    "ref_2": "Ecclesiastes 3:9",
+    "heRef_2": "קהלת ג, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 58,
+    "ref_2": "Ecclesiastes 3:10",
+    "heRef_2": "קהלת ג, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 169,
+    "line_index_2": 58,
+    "ref_2": "Ecclesiastes 3:10",
+    "heRef_2": "קהלת ג, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 171,
+    "line_index_2": 59,
+    "ref_2": "Ecclesiastes 3:11",
+    "heRef_2": "קהלת ג, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 172,
+    "line_index_2": 59,
+    "ref_2": "Ecclesiastes 3:11",
+    "heRef_2": "קהלת ג, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 174,
+    "line_index_2": 60,
+    "ref_2": "Ecclesiastes 3:12",
+    "heRef_2": "קהלת ג, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 175,
+    "line_index_2": 60,
+    "ref_2": "Ecclesiastes 3:12",
+    "heRef_2": "קהלת ג, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 177,
+    "line_index_2": 61,
+    "ref_2": "Ecclesiastes 3:13",
+    "heRef_2": "קהלת ג, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 178,
+    "line_index_2": 61,
+    "ref_2": "Ecclesiastes 3:13",
+    "heRef_2": "קהלת ג, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 180,
+    "line_index_2": 62,
+    "ref_2": "Ecclesiastes 3:14",
+    "heRef_2": "קהלת ג, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 181,
+    "line_index_2": 62,
+    "ref_2": "Ecclesiastes 3:14",
+    "heRef_2": "קהלת ג, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 63,
+    "ref_2": "Ecclesiastes 3:15",
+    "heRef_2": "קהלת ג, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 184,
+    "line_index_2": 63,
+    "ref_2": "Ecclesiastes 3:15",
+    "heRef_2": "קהלת ג, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 64,
+    "ref_2": "Ecclesiastes 3:16",
+    "heRef_2": "קהלת ג, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 187,
+    "line_index_2": 64,
+    "ref_2": "Ecclesiastes 3:16",
+    "heRef_2": "קהלת ג, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 189,
+    "line_index_2": 65,
+    "ref_2": "Ecclesiastes 3:17",
+    "heRef_2": "קהלת ג, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 190,
+    "line_index_2": 65,
+    "ref_2": "Ecclesiastes 3:17",
+    "heRef_2": "קהלת ג, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 66,
+    "ref_2": "Ecclesiastes 3:18",
+    "heRef_2": "קהלת ג, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 66,
+    "ref_2": "Ecclesiastes 3:18",
+    "heRef_2": "קהלת ג, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 67,
+    "ref_2": "Ecclesiastes 3:19",
+    "heRef_2": "קהלת ג, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 67,
+    "ref_2": "Ecclesiastes 3:19",
+    "heRef_2": "קהלת ג, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 198,
+    "line_index_2": 68,
+    "ref_2": "Ecclesiastes 3:20",
+    "heRef_2": "קהלת ג, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 199,
+    "line_index_2": 68,
+    "ref_2": "Ecclesiastes 3:20",
+    "heRef_2": "קהלת ג, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 69,
+    "ref_2": "Ecclesiastes 3:21",
+    "heRef_2": "קהלת ג, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 202,
+    "line_index_2": 69,
+    "ref_2": "Ecclesiastes 3:21",
+    "heRef_2": "קהלת ג, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 69,
+    "ref_2": "Ecclesiastes 3:21",
+    "heRef_2": "קהלת ג, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 70,
+    "ref_2": "Ecclesiastes 3:22",
+    "heRef_2": "קהלת ג, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 206,
+    "line_index_2": 70,
+    "ref_2": "Ecclesiastes 3:22",
+    "heRef_2": "קהלת ג, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 209,
+    "line_index_2": 72,
+    "ref_2": "Ecclesiastes 4:1",
+    "heRef_2": "קהלת ד, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 210,
+    "line_index_2": 72,
+    "ref_2": "Ecclesiastes 4:1",
+    "heRef_2": "קהלת ד, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 212,
+    "line_index_2": 73,
+    "ref_2": "Ecclesiastes 4:2",
+    "heRef_2": "קהלת ד, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 213,
+    "line_index_2": 73,
+    "ref_2": "Ecclesiastes 4:2",
+    "heRef_2": "קהלת ד, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 74,
+    "ref_2": "Ecclesiastes 4:3",
+    "heRef_2": "קהלת ד, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 216,
+    "line_index_2": 74,
+    "ref_2": "Ecclesiastes 4:3",
+    "heRef_2": "קהלת ד, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 218,
+    "line_index_2": 75,
+    "ref_2": "Ecclesiastes 4:4",
+    "heRef_2": "קהלת ד, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 75,
+    "ref_2": "Ecclesiastes 4:4",
+    "heRef_2": "קהלת ד, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 221,
+    "line_index_2": 76,
+    "ref_2": "Ecclesiastes 4:5",
+    "heRef_2": "קהלת ד, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 222,
+    "line_index_2": 76,
+    "ref_2": "Ecclesiastes 4:5",
+    "heRef_2": "קהלת ד, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 224,
+    "line_index_2": 77,
+    "ref_2": "Ecclesiastes 4:6",
+    "heRef_2": "קהלת ד, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 225,
+    "line_index_2": 77,
+    "ref_2": "Ecclesiastes 4:6",
+    "heRef_2": "קהלת ד, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 227,
+    "line_index_2": 78,
+    "ref_2": "Ecclesiastes 4:7",
+    "heRef_2": "קהלת ד, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 228,
+    "line_index_2": 78,
+    "ref_2": "Ecclesiastes 4:7",
+    "heRef_2": "קהלת ד, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 230,
+    "line_index_2": 79,
+    "ref_2": "Ecclesiastes 4:8",
+    "heRef_2": "קהלת ד, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 231,
+    "line_index_2": 79,
+    "ref_2": "Ecclesiastes 4:8",
+    "heRef_2": "קהלת ד, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 233,
+    "line_index_2": 80,
+    "ref_2": "Ecclesiastes 4:9",
+    "heRef_2": "קהלת ד, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 234,
+    "line_index_2": 80,
+    "ref_2": "Ecclesiastes 4:9",
+    "heRef_2": "קהלת ד, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 81,
+    "ref_2": "Ecclesiastes 4:10",
+    "heRef_2": "קהלת ד, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 237,
+    "line_index_2": 81,
+    "ref_2": "Ecclesiastes 4:10",
+    "heRef_2": "קהלת ד, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 239,
+    "line_index_2": 82,
+    "ref_2": "Ecclesiastes 4:11",
+    "heRef_2": "קהלת ד, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 82,
+    "ref_2": "Ecclesiastes 4:11",
+    "heRef_2": "קהלת ד, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 83,
+    "ref_2": "Ecclesiastes 4:12",
+    "heRef_2": "קהלת ד, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 83,
+    "ref_2": "Ecclesiastes 4:12",
+    "heRef_2": "קהלת ד, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 245,
+    "line_index_2": 84,
+    "ref_2": "Ecclesiastes 4:13",
+    "heRef_2": "קהלת ד, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 246,
+    "line_index_2": 84,
+    "ref_2": "Ecclesiastes 4:13",
+    "heRef_2": "קהלת ד, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 85,
+    "ref_2": "Ecclesiastes 4:14",
+    "heRef_2": "קהלת ד, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 249,
+    "line_index_2": 85,
+    "ref_2": "Ecclesiastes 4:14",
+    "heRef_2": "קהלת ד, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 86,
+    "ref_2": "Ecclesiastes 4:15",
+    "heRef_2": "קהלת ד, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 252,
+    "line_index_2": 86,
+    "ref_2": "Ecclesiastes 4:15",
+    "heRef_2": "קהלת ד, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 254,
+    "line_index_2": 87,
+    "ref_2": "Ecclesiastes 4:16",
+    "heRef_2": "קהלת ד, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 87,
+    "ref_2": "Ecclesiastes 4:16",
+    "heRef_2": "קהלת ד, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 88,
+    "ref_2": "Ecclesiastes 4:17",
+    "heRef_2": "קהלת ד, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 258,
+    "line_index_2": 88,
+    "ref_2": "Ecclesiastes 4:17",
+    "heRef_2": "קהלת ד, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 261,
+    "line_index_2": 90,
+    "ref_2": "Ecclesiastes 5:1",
+    "heRef_2": "קהלת ה, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 262,
+    "line_index_2": 90,
+    "ref_2": "Ecclesiastes 5:1",
+    "heRef_2": "קהלת ה, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 264,
+    "line_index_2": 91,
+    "ref_2": "Ecclesiastes 5:2",
+    "heRef_2": "קהלת ה, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 91,
+    "ref_2": "Ecclesiastes 5:2",
+    "heRef_2": "קהלת ה, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 92,
+    "ref_2": "Ecclesiastes 5:3",
+    "heRef_2": "קהלת ה, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 268,
+    "line_index_2": 92,
+    "ref_2": "Ecclesiastes 5:3",
+    "heRef_2": "קהלת ה, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 270,
+    "line_index_2": 93,
+    "ref_2": "Ecclesiastes 5:4",
+    "heRef_2": "קהלת ה, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 93,
+    "ref_2": "Ecclesiastes 5:4",
+    "heRef_2": "קהלת ה, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 273,
+    "line_index_2": 94,
+    "ref_2": "Ecclesiastes 5:5",
+    "heRef_2": "קהלת ה, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 274,
+    "line_index_2": 94,
+    "ref_2": "Ecclesiastes 5:5",
+    "heRef_2": "קהלת ה, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 276,
+    "line_index_2": 95,
+    "ref_2": "Ecclesiastes 5:6",
+    "heRef_2": "קהלת ה, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 277,
+    "line_index_2": 95,
+    "ref_2": "Ecclesiastes 5:6",
+    "heRef_2": "קהלת ה, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 96,
+    "ref_2": "Ecclesiastes 5:7",
+    "heRef_2": "קהלת ה, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 280,
+    "line_index_2": 96,
+    "ref_2": "Ecclesiastes 5:7",
+    "heRef_2": "קהלת ה, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 282,
+    "line_index_2": 97,
+    "ref_2": "Ecclesiastes 5:8",
+    "heRef_2": "קהלת ה, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 97,
+    "ref_2": "Ecclesiastes 5:8",
+    "heRef_2": "קהלת ה, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 285,
+    "line_index_2": 98,
+    "ref_2": "Ecclesiastes 5:9",
+    "heRef_2": "קהלת ה, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 286,
+    "line_index_2": 98,
+    "ref_2": "Ecclesiastes 5:9",
+    "heRef_2": "קהלת ה, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 288,
+    "line_index_2": 99,
+    "ref_2": "Ecclesiastes 5:10",
+    "heRef_2": "קהלת ה, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 289,
+    "line_index_2": 99,
+    "ref_2": "Ecclesiastes 5:10",
+    "heRef_2": "קהלת ה, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 100,
+    "ref_2": "Ecclesiastes 5:11",
+    "heRef_2": "קהלת ה, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 292,
+    "line_index_2": 100,
+    "ref_2": "Ecclesiastes 5:11",
+    "heRef_2": "קהלת ה, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 294,
+    "line_index_2": 101,
+    "ref_2": "Ecclesiastes 5:12",
+    "heRef_2": "קהלת ה, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 101,
+    "ref_2": "Ecclesiastes 5:12",
+    "heRef_2": "קהלת ה, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 102,
+    "ref_2": "Ecclesiastes 5:13",
+    "heRef_2": "קהלת ה, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 298,
+    "line_index_2": 102,
+    "ref_2": "Ecclesiastes 5:13",
+    "heRef_2": "קהלת ה, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 300,
+    "line_index_2": 103,
+    "ref_2": "Ecclesiastes 5:14",
+    "heRef_2": "קהלת ה, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 301,
+    "line_index_2": 103,
+    "ref_2": "Ecclesiastes 5:14",
+    "heRef_2": "קהלת ה, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 104,
+    "ref_2": "Ecclesiastes 5:15",
+    "heRef_2": "קהלת ה, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 104,
+    "ref_2": "Ecclesiastes 5:15",
+    "heRef_2": "קהלת ה, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 306,
+    "line_index_2": 105,
+    "ref_2": "Ecclesiastes 5:16",
+    "heRef_2": "קהלת ה, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 307,
+    "line_index_2": 105,
+    "ref_2": "Ecclesiastes 5:16",
+    "heRef_2": "קהלת ה, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 106,
+    "ref_2": "Ecclesiastes 5:17",
+    "heRef_2": "קהלת ה, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 106,
+    "ref_2": "Ecclesiastes 5:17",
+    "heRef_2": "קהלת ה, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 312,
+    "line_index_2": 107,
+    "ref_2": "Ecclesiastes 5:18",
+    "heRef_2": "קהלת ה, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 313,
+    "line_index_2": 107,
+    "ref_2": "Ecclesiastes 5:18",
+    "heRef_2": "קהלת ה, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 315,
+    "line_index_2": 108,
+    "ref_2": "Ecclesiastes 5:19",
+    "heRef_2": "קהלת ה, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 316,
+    "line_index_2": 108,
+    "ref_2": "Ecclesiastes 5:19",
+    "heRef_2": "קהלת ה, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 110,
+    "ref_2": "Ecclesiastes 6:1",
+    "heRef_2": "קהלת ו, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 320,
+    "line_index_2": 110,
+    "ref_2": "Ecclesiastes 6:1",
+    "heRef_2": "קהלת ו, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 322,
+    "line_index_2": 111,
+    "ref_2": "Ecclesiastes 6:2",
+    "heRef_2": "קהלת ו, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 323,
+    "line_index_2": 111,
+    "ref_2": "Ecclesiastes 6:2",
+    "heRef_2": "קהלת ו, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 112,
+    "ref_2": "Ecclesiastes 6:3",
+    "heRef_2": "קהלת ו, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 326,
+    "line_index_2": 112,
+    "ref_2": "Ecclesiastes 6:3",
+    "heRef_2": "קהלת ו, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 113,
+    "ref_2": "Ecclesiastes 6:4",
+    "heRef_2": "קהלת ו, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 329,
+    "line_index_2": 113,
+    "ref_2": "Ecclesiastes 6:4",
+    "heRef_2": "קהלת ו, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 114,
+    "ref_2": "Ecclesiastes 6:5",
+    "heRef_2": "קהלת ו, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 332,
+    "line_index_2": 114,
+    "ref_2": "Ecclesiastes 6:5",
+    "heRef_2": "קהלת ו, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 334,
+    "line_index_2": 115,
+    "ref_2": "Ecclesiastes 6:6",
+    "heRef_2": "קהלת ו, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 115,
+    "ref_2": "Ecclesiastes 6:6",
+    "heRef_2": "קהלת ו, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 337,
+    "line_index_2": 116,
+    "ref_2": "Ecclesiastes 6:7",
+    "heRef_2": "קהלת ו, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 338,
+    "line_index_2": 116,
+    "ref_2": "Ecclesiastes 6:7",
+    "heRef_2": "קהלת ו, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 340,
+    "line_index_2": 117,
+    "ref_2": "Ecclesiastes 6:8",
+    "heRef_2": "קהלת ו, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 117,
+    "ref_2": "Ecclesiastes 6:8",
+    "heRef_2": "קהלת ו, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 118,
+    "ref_2": "Ecclesiastes 6:9",
+    "heRef_2": "קהלת ו, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 344,
+    "line_index_2": 118,
+    "ref_2": "Ecclesiastes 6:9",
+    "heRef_2": "קהלת ו, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 346,
+    "line_index_2": 119,
+    "ref_2": "Ecclesiastes 6:10",
+    "heRef_2": "קהלת ו, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 347,
+    "line_index_2": 119,
+    "ref_2": "Ecclesiastes 6:10",
+    "heRef_2": "קהלת ו, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 120,
+    "ref_2": "Ecclesiastes 6:11",
+    "heRef_2": "קהלת ו, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 350,
+    "line_index_2": 120,
+    "ref_2": "Ecclesiastes 6:11",
+    "heRef_2": "קהלת ו, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 352,
+    "line_index_2": 121,
+    "ref_2": "Ecclesiastes 6:12",
+    "heRef_2": "קהלת ו, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 353,
+    "line_index_2": 121,
+    "ref_2": "Ecclesiastes 6:12",
+    "heRef_2": "קהלת ו, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 356,
+    "line_index_2": 123,
+    "ref_2": "Ecclesiastes 7:1",
+    "heRef_2": "קהלת ז, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 357,
+    "line_index_2": 123,
+    "ref_2": "Ecclesiastes 7:1",
+    "heRef_2": "קהלת ז, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 359,
+    "line_index_2": 124,
+    "ref_2": "Ecclesiastes 7:2",
+    "heRef_2": "קהלת ז, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 360,
+    "line_index_2": 124,
+    "ref_2": "Ecclesiastes 7:2",
+    "heRef_2": "קהלת ז, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 125,
+    "ref_2": "Ecclesiastes 7:3",
+    "heRef_2": "קהלת ז, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 363,
+    "line_index_2": 125,
+    "ref_2": "Ecclesiastes 7:3",
+    "heRef_2": "קהלת ז, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 126,
+    "ref_2": "Ecclesiastes 7:4",
+    "heRef_2": "קהלת ז, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 366,
+    "line_index_2": 126,
+    "ref_2": "Ecclesiastes 7:4",
+    "heRef_2": "קהלת ז, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 368,
+    "line_index_2": 127,
+    "ref_2": "Ecclesiastes 7:5",
+    "heRef_2": "קהלת ז, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 369,
+    "line_index_2": 127,
+    "ref_2": "Ecclesiastes 7:5",
+    "heRef_2": "קהלת ז, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 371,
+    "line_index_2": 128,
+    "ref_2": "Ecclesiastes 7:6",
+    "heRef_2": "קהלת ז, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 372,
+    "line_index_2": 128,
+    "ref_2": "Ecclesiastes 7:6",
+    "heRef_2": "קהלת ז, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 374,
+    "line_index_2": 129,
+    "ref_2": "Ecclesiastes 7:7",
+    "heRef_2": "קהלת ז, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 375,
+    "line_index_2": 129,
+    "ref_2": "Ecclesiastes 7:7",
+    "heRef_2": "קהלת ז, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 130,
+    "ref_2": "Ecclesiastes 7:8",
+    "heRef_2": "קהלת ז, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 378,
+    "line_index_2": 130,
+    "ref_2": "Ecclesiastes 7:8",
+    "heRef_2": "קהלת ז, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 380,
+    "line_index_2": 131,
+    "ref_2": "Ecclesiastes 7:9",
+    "heRef_2": "קהלת ז, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 381,
+    "line_index_2": 131,
+    "ref_2": "Ecclesiastes 7:9",
+    "heRef_2": "קהלת ז, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 383,
+    "line_index_2": 132,
+    "ref_2": "Ecclesiastes 7:10",
+    "heRef_2": "קהלת ז, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 384,
+    "line_index_2": 132,
+    "ref_2": "Ecclesiastes 7:10",
+    "heRef_2": "קהלת ז, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 386,
+    "line_index_2": 133,
+    "ref_2": "Ecclesiastes 7:11",
+    "heRef_2": "קהלת ז, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 133,
+    "ref_2": "Ecclesiastes 7:11",
+    "heRef_2": "קהלת ז, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 134,
+    "ref_2": "Ecclesiastes 7:12",
+    "heRef_2": "קהלת ז, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 390,
+    "line_index_2": 134,
+    "ref_2": "Ecclesiastes 7:12",
+    "heRef_2": "קהלת ז, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 392,
+    "line_index_2": 135,
+    "ref_2": "Ecclesiastes 7:13",
+    "heRef_2": "קהלת ז, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 393,
+    "line_index_2": 135,
+    "ref_2": "Ecclesiastes 7:13",
+    "heRef_2": "קהלת ז, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 395,
+    "line_index_2": 136,
+    "ref_2": "Ecclesiastes 7:14",
+    "heRef_2": "קהלת ז, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 136,
+    "ref_2": "Ecclesiastes 7:14",
+    "heRef_2": "קהלת ז, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 398,
+    "line_index_2": 137,
+    "ref_2": "Ecclesiastes 7:15",
+    "heRef_2": "קהלת ז, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 399,
+    "line_index_2": 137,
+    "ref_2": "Ecclesiastes 7:15",
+    "heRef_2": "קהלת ז, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 401,
+    "line_index_2": 138,
+    "ref_2": "Ecclesiastes 7:16",
+    "heRef_2": "קהלת ז, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 402,
+    "line_index_2": 138,
+    "ref_2": "Ecclesiastes 7:16",
+    "heRef_2": "קהלת ז, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 404,
+    "line_index_2": 139,
+    "ref_2": "Ecclesiastes 7:17",
+    "heRef_2": "קהלת ז, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 405,
+    "line_index_2": 139,
+    "ref_2": "Ecclesiastes 7:17",
+    "heRef_2": "קהלת ז, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 140,
+    "ref_2": "Ecclesiastes 7:18",
+    "heRef_2": "קהלת ז, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 140,
+    "ref_2": "Ecclesiastes 7:18",
+    "heRef_2": "קהלת ז, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 410,
+    "line_index_2": 141,
+    "ref_2": "Ecclesiastes 7:19",
+    "heRef_2": "קהלת ז, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 141,
+    "ref_2": "Ecclesiastes 7:19",
+    "heRef_2": "קהלת ז, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 142,
+    "ref_2": "Ecclesiastes 7:20",
+    "heRef_2": "קהלת ז, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 414,
+    "line_index_2": 142,
+    "ref_2": "Ecclesiastes 7:20",
+    "heRef_2": "קהלת ז, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 416,
+    "line_index_2": 143,
+    "ref_2": "Ecclesiastes 7:21",
+    "heRef_2": "קהלת ז, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 143,
+    "ref_2": "Ecclesiastes 7:21",
+    "heRef_2": "קהלת ז, כא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 419,
+    "line_index_2": 144,
+    "ref_2": "Ecclesiastes 7:22",
+    "heRef_2": "קהלת ז, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 420,
+    "line_index_2": 144,
+    "ref_2": "Ecclesiastes 7:22",
+    "heRef_2": "קהלת ז, כב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 422,
+    "line_index_2": 145,
+    "ref_2": "Ecclesiastes 7:23",
+    "heRef_2": "קהלת ז, כג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 145,
+    "ref_2": "Ecclesiastes 7:23",
+    "heRef_2": "קהלת ז, כג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 425,
+    "line_index_2": 146,
+    "ref_2": "Ecclesiastes 7:24",
+    "heRef_2": "קהלת ז, כד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 426,
+    "line_index_2": 146,
+    "ref_2": "Ecclesiastes 7:24",
+    "heRef_2": "קהלת ז, כד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 428,
+    "line_index_2": 147,
+    "ref_2": "Ecclesiastes 7:25",
+    "heRef_2": "קהלת ז, כה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 147,
+    "ref_2": "Ecclesiastes 7:25",
+    "heRef_2": "קהלת ז, כה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 431,
+    "line_index_2": 148,
+    "ref_2": "Ecclesiastes 7:26",
+    "heRef_2": "קהלת ז, כו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 432,
+    "line_index_2": 148,
+    "ref_2": "Ecclesiastes 7:26",
+    "heRef_2": "קהלת ז, כו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 434,
+    "line_index_2": 149,
+    "ref_2": "Ecclesiastes 7:27",
+    "heRef_2": "קהלת ז, כז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 435,
+    "line_index_2": 149,
+    "ref_2": "Ecclesiastes 7:27",
+    "heRef_2": "קהלת ז, כז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 150,
+    "ref_2": "Ecclesiastes 7:28",
+    "heRef_2": "קהלת ז, כח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 438,
+    "line_index_2": 150,
+    "ref_2": "Ecclesiastes 7:28",
+    "heRef_2": "קהלת ז, כח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 440,
+    "line_index_2": 151,
+    "ref_2": "Ecclesiastes 7:29",
+    "heRef_2": "קהלת ז, כט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 151,
+    "ref_2": "Ecclesiastes 7:29",
+    "heRef_2": "קהלת ז, כט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 444,
+    "line_index_2": 153,
+    "ref_2": "Ecclesiastes 8:1",
+    "heRef_2": "קהלת ח, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 153,
+    "ref_2": "Ecclesiastes 8:1",
+    "heRef_2": "קהלת ח, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 154,
+    "ref_2": "Ecclesiastes 8:2",
+    "heRef_2": "קהלת ח, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 448,
+    "line_index_2": 154,
+    "ref_2": "Ecclesiastes 8:2",
+    "heRef_2": "קהלת ח, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 450,
+    "line_index_2": 155,
+    "ref_2": "Ecclesiastes 8:3",
+    "heRef_2": "קהלת ח, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 451,
+    "line_index_2": 155,
+    "ref_2": "Ecclesiastes 8:3",
+    "heRef_2": "קהלת ח, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 453,
+    "line_index_2": 156,
+    "ref_2": "Ecclesiastes 8:4",
+    "heRef_2": "קהלת ח, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 454,
+    "line_index_2": 156,
+    "ref_2": "Ecclesiastes 8:4",
+    "heRef_2": "קהלת ח, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 456,
+    "line_index_2": 157,
+    "ref_2": "Ecclesiastes 8:5",
+    "heRef_2": "קהלת ח, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 157,
+    "ref_2": "Ecclesiastes 8:5",
+    "heRef_2": "קהלת ח, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 459,
+    "line_index_2": 158,
+    "ref_2": "Ecclesiastes 8:6",
+    "heRef_2": "קהלת ח, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 460,
+    "line_index_2": 158,
+    "ref_2": "Ecclesiastes 8:6",
+    "heRef_2": "קהלת ח, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 462,
+    "line_index_2": 159,
+    "ref_2": "Ecclesiastes 8:7",
+    "heRef_2": "קהלת ח, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 159,
+    "ref_2": "Ecclesiastes 8:7",
+    "heRef_2": "קהלת ח, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 465,
+    "line_index_2": 160,
+    "ref_2": "Ecclesiastes 8:8",
+    "heRef_2": "קהלת ח, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 466,
+    "line_index_2": 160,
+    "ref_2": "Ecclesiastes 8:8",
+    "heRef_2": "קהלת ח, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 468,
+    "line_index_2": 161,
+    "ref_2": "Ecclesiastes 8:9",
+    "heRef_2": "קהלת ח, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 161,
+    "ref_2": "Ecclesiastes 8:9",
+    "heRef_2": "קהלת ח, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 471,
+    "line_index_2": 162,
+    "ref_2": "Ecclesiastes 8:10",
+    "heRef_2": "קהלת ח, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 472,
+    "line_index_2": 162,
+    "ref_2": "Ecclesiastes 8:10",
+    "heRef_2": "קהלת ח, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 163,
+    "ref_2": "Ecclesiastes 8:11",
+    "heRef_2": "קהלת ח, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 475,
+    "line_index_2": 163,
+    "ref_2": "Ecclesiastes 8:11",
+    "heRef_2": "קהלת ח, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 477,
+    "line_index_2": 164,
+    "ref_2": "Ecclesiastes 8:12",
+    "heRef_2": "קהלת ח, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 478,
+    "line_index_2": 164,
+    "ref_2": "Ecclesiastes 8:12",
+    "heRef_2": "קהלת ח, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 480,
+    "line_index_2": 165,
+    "ref_2": "Ecclesiastes 8:13",
+    "heRef_2": "קהלת ח, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 165,
+    "ref_2": "Ecclesiastes 8:13",
+    "heRef_2": "קהלת ח, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 166,
+    "ref_2": "Ecclesiastes 8:14",
+    "heRef_2": "קהלת ח, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 484,
+    "line_index_2": 166,
+    "ref_2": "Ecclesiastes 8:14",
+    "heRef_2": "קהלת ח, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 486,
+    "line_index_2": 167,
+    "ref_2": "Ecclesiastes 8:15",
+    "heRef_2": "קהלת ח, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 487,
+    "line_index_2": 167,
+    "ref_2": "Ecclesiastes 8:15",
+    "heRef_2": "קהלת ח, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 168,
+    "ref_2": "Ecclesiastes 8:16",
+    "heRef_2": "קהלת ח, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 490,
+    "line_index_2": 168,
+    "ref_2": "Ecclesiastes 8:16",
+    "heRef_2": "קהלת ח, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 492,
+    "line_index_2": 169,
+    "ref_2": "Ecclesiastes 8:17",
+    "heRef_2": "קהלת ח, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 493,
+    "line_index_2": 169,
+    "ref_2": "Ecclesiastes 8:17",
+    "heRef_2": "קהלת ח, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 496,
+    "line_index_2": 171,
+    "ref_2": "Ecclesiastes 9:1",
+    "heRef_2": "קהלת ט, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 171,
+    "ref_2": "Ecclesiastes 9:1",
+    "heRef_2": "קהלת ט, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 499,
+    "line_index_2": 172,
+    "ref_2": "Ecclesiastes 9:2",
+    "heRef_2": "קהלת ט, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 500,
+    "line_index_2": 172,
+    "ref_2": "Ecclesiastes 9:2",
+    "heRef_2": "קהלת ט, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 502,
+    "line_index_2": 173,
+    "ref_2": "Ecclesiastes 9:3",
+    "heRef_2": "קהלת ט, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 173,
+    "ref_2": "Ecclesiastes 9:3",
+    "heRef_2": "קהלת ט, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 174,
+    "ref_2": "Ecclesiastes 9:4",
+    "heRef_2": "קהלת ט, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 506,
+    "line_index_2": 174,
+    "ref_2": "Ecclesiastes 9:4",
+    "heRef_2": "קהלת ט, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 508,
+    "line_index_2": 175,
+    "ref_2": "Ecclesiastes 9:5",
+    "heRef_2": "קהלת ט, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 509,
+    "line_index_2": 175,
+    "ref_2": "Ecclesiastes 9:5",
+    "heRef_2": "קהלת ט, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 511,
+    "line_index_2": 176,
+    "ref_2": "Ecclesiastes 9:6",
+    "heRef_2": "קהלת ט, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 512,
+    "line_index_2": 176,
+    "ref_2": "Ecclesiastes 9:6",
+    "heRef_2": "קהלת ט, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 514,
+    "line_index_2": 177,
+    "ref_2": "Ecclesiastes 9:7",
+    "heRef_2": "קהלת ט, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 515,
+    "line_index_2": 177,
+    "ref_2": "Ecclesiastes 9:7",
+    "heRef_2": "קהלת ט, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 517,
+    "line_index_2": 178,
+    "ref_2": "Ecclesiastes 9:8",
+    "heRef_2": "קהלת ט, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 518,
+    "line_index_2": 178,
+    "ref_2": "Ecclesiastes 9:8",
+    "heRef_2": "קהלת ט, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 520,
+    "line_index_2": 179,
+    "ref_2": "Ecclesiastes 9:9",
+    "heRef_2": "קהלת ט, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 521,
+    "line_index_2": 179,
+    "ref_2": "Ecclesiastes 9:9",
+    "heRef_2": "קהלת ט, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 523,
+    "line_index_2": 180,
+    "ref_2": "Ecclesiastes 9:10",
+    "heRef_2": "קהלת ט, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 524,
+    "line_index_2": 180,
+    "ref_2": "Ecclesiastes 9:10",
+    "heRef_2": "קהלת ט, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 526,
+    "line_index_2": 181,
+    "ref_2": "Ecclesiastes 9:11",
+    "heRef_2": "קהלת ט, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 527,
+    "line_index_2": 181,
+    "ref_2": "Ecclesiastes 9:11",
+    "heRef_2": "קהלת ט, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 529,
+    "line_index_2": 182,
+    "ref_2": "Ecclesiastes 9:12",
+    "heRef_2": "קהלת ט, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 530,
+    "line_index_2": 182,
+    "ref_2": "Ecclesiastes 9:12",
+    "heRef_2": "קהלת ט, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 532,
+    "line_index_2": 183,
+    "ref_2": "Ecclesiastes 9:13",
+    "heRef_2": "קהלת ט, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 533,
+    "line_index_2": 183,
+    "ref_2": "Ecclesiastes 9:13",
+    "heRef_2": "קהלת ט, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 535,
+    "line_index_2": 184,
+    "ref_2": "Ecclesiastes 9:14",
+    "heRef_2": "קהלת ט, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 184,
+    "ref_2": "Ecclesiastes 9:14",
+    "heRef_2": "קהלת ט, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 538,
+    "line_index_2": 185,
+    "ref_2": "Ecclesiastes 9:15",
+    "heRef_2": "קהלת ט, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 539,
+    "line_index_2": 185,
+    "ref_2": "Ecclesiastes 9:15",
+    "heRef_2": "קהלת ט, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 541,
+    "line_index_2": 186,
+    "ref_2": "Ecclesiastes 9:16",
+    "heRef_2": "קהלת ט, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 542,
+    "line_index_2": 186,
+    "ref_2": "Ecclesiastes 9:16",
+    "heRef_2": "קהלת ט, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 544,
+    "line_index_2": 187,
+    "ref_2": "Ecclesiastes 9:17",
+    "heRef_2": "קהלת ט, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 545,
+    "line_index_2": 187,
+    "ref_2": "Ecclesiastes 9:17",
+    "heRef_2": "קהלת ט, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 547,
+    "line_index_2": 188,
+    "ref_2": "Ecclesiastes 9:18",
+    "heRef_2": "קהלת ט, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 548,
+    "line_index_2": 188,
+    "ref_2": "Ecclesiastes 9:18",
+    "heRef_2": "קהלת ט, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 551,
+    "line_index_2": 190,
+    "ref_2": "Ecclesiastes 10:1",
+    "heRef_2": "קהלת י, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 552,
+    "line_index_2": 190,
+    "ref_2": "Ecclesiastes 10:1",
+    "heRef_2": "קהלת י, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 554,
+    "line_index_2": 191,
+    "ref_2": "Ecclesiastes 10:2",
+    "heRef_2": "קהלת י, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 191,
+    "ref_2": "Ecclesiastes 10:2",
+    "heRef_2": "קהלת י, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 557,
+    "line_index_2": 192,
+    "ref_2": "Ecclesiastes 10:3",
+    "heRef_2": "קהלת י, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 558,
+    "line_index_2": 192,
+    "ref_2": "Ecclesiastes 10:3",
+    "heRef_2": "קהלת י, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 560,
+    "line_index_2": 193,
+    "ref_2": "Ecclesiastes 10:4",
+    "heRef_2": "קהלת י, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 561,
+    "line_index_2": 193,
+    "ref_2": "Ecclesiastes 10:4",
+    "heRef_2": "קהלת י, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 563,
+    "line_index_2": 194,
+    "ref_2": "Ecclesiastes 10:5",
+    "heRef_2": "קהלת י, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 564,
+    "line_index_2": 194,
+    "ref_2": "Ecclesiastes 10:5",
+    "heRef_2": "קהלת י, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 566,
+    "line_index_2": 195,
+    "ref_2": "Ecclesiastes 10:6",
+    "heRef_2": "קהלת י, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 567,
+    "line_index_2": 195,
+    "ref_2": "Ecclesiastes 10:6",
+    "heRef_2": "קהלת י, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 196,
+    "ref_2": "Ecclesiastes 10:7",
+    "heRef_2": "קהלת י, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 570,
+    "line_index_2": 196,
+    "ref_2": "Ecclesiastes 10:7",
+    "heRef_2": "קהלת י, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 572,
+    "line_index_2": 197,
+    "ref_2": "Ecclesiastes 10:8",
+    "heRef_2": "קהלת י, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 573,
+    "line_index_2": 197,
+    "ref_2": "Ecclesiastes 10:8",
+    "heRef_2": "קהלת י, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 575,
+    "line_index_2": 198,
+    "ref_2": "Ecclesiastes 10:9",
+    "heRef_2": "קהלת י, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 576,
+    "line_index_2": 198,
+    "ref_2": "Ecclesiastes 10:9",
+    "heRef_2": "קהלת י, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 578,
+    "line_index_2": 199,
+    "ref_2": "Ecclesiastes 10:10",
+    "heRef_2": "קהלת י, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 579,
+    "line_index_2": 199,
+    "ref_2": "Ecclesiastes 10:10",
+    "heRef_2": "קהלת י, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 200,
+    "ref_2": "Ecclesiastes 10:11",
+    "heRef_2": "קהלת י, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 582,
+    "line_index_2": 200,
+    "ref_2": "Ecclesiastes 10:11",
+    "heRef_2": "קהלת י, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 201,
+    "ref_2": "Ecclesiastes 10:12",
+    "heRef_2": "קהלת י, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 585,
+    "line_index_2": 201,
+    "ref_2": "Ecclesiastes 10:12",
+    "heRef_2": "קהלת י, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 587,
+    "line_index_2": 202,
+    "ref_2": "Ecclesiastes 10:13",
+    "heRef_2": "קהלת י, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 202,
+    "ref_2": "Ecclesiastes 10:13",
+    "heRef_2": "קהלת י, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 590,
+    "line_index_2": 203,
+    "ref_2": "Ecclesiastes 10:14",
+    "heRef_2": "קהלת י, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 203,
+    "ref_2": "Ecclesiastes 10:14",
+    "heRef_2": "קהלת י, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 593,
+    "line_index_2": 204,
+    "ref_2": "Ecclesiastes 10:15",
+    "heRef_2": "קהלת י, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 594,
+    "line_index_2": 204,
+    "ref_2": "Ecclesiastes 10:15",
+    "heRef_2": "קהלת י, טו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 596,
+    "line_index_2": 205,
+    "ref_2": "Ecclesiastes 10:16",
+    "heRef_2": "קהלת י, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 597,
+    "line_index_2": 205,
+    "ref_2": "Ecclesiastes 10:16",
+    "heRef_2": "קהלת י, טז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 206,
+    "ref_2": "Ecclesiastes 10:17",
+    "heRef_2": "קהלת י, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 600,
+    "line_index_2": 206,
+    "ref_2": "Ecclesiastes 10:17",
+    "heRef_2": "קהלת י, יז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 602,
+    "line_index_2": 207,
+    "ref_2": "Ecclesiastes 10:18",
+    "heRef_2": "קהלת י, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 603,
+    "line_index_2": 207,
+    "ref_2": "Ecclesiastes 10:18",
+    "heRef_2": "קהלת י, יח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 208,
+    "ref_2": "Ecclesiastes 10:19",
+    "heRef_2": "קהלת י, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 606,
+    "line_index_2": 208,
+    "ref_2": "Ecclesiastes 10:19",
+    "heRef_2": "קהלת י, יט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 209,
+    "ref_2": "Ecclesiastes 10:20",
+    "heRef_2": "קהלת י, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 209,
+    "ref_2": "Ecclesiastes 10:20",
+    "heRef_2": "קהלת י, כ",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 612,
+    "line_index_2": 211,
+    "ref_2": "Ecclesiastes 11:1",
+    "heRef_2": "קהלת יא, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 211,
+    "ref_2": "Ecclesiastes 11:1",
+    "heRef_2": "קהלת יא, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 615,
+    "line_index_2": 212,
+    "ref_2": "Ecclesiastes 11:2",
+    "heRef_2": "קהלת יא, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 212,
+    "ref_2": "Ecclesiastes 11:2",
+    "heRef_2": "קהלת יא, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 618,
+    "line_index_2": 213,
+    "ref_2": "Ecclesiastes 11:3",
+    "heRef_2": "קהלת יא, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 619,
+    "line_index_2": 213,
+    "ref_2": "Ecclesiastes 11:3",
+    "heRef_2": "קהלת יא, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 621,
+    "line_index_2": 214,
+    "ref_2": "Ecclesiastes 11:4",
+    "heRef_2": "קהלת יא, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 214,
+    "ref_2": "Ecclesiastes 11:4",
+    "heRef_2": "קהלת יא, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 215,
+    "ref_2": "Ecclesiastes 11:5",
+    "heRef_2": "קהלת יא, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 625,
+    "line_index_2": 215,
+    "ref_2": "Ecclesiastes 11:5",
+    "heRef_2": "קהלת יא, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 627,
+    "line_index_2": 216,
+    "ref_2": "Ecclesiastes 11:6",
+    "heRef_2": "קהלת יא, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 628,
+    "line_index_2": 216,
+    "ref_2": "Ecclesiastes 11:6",
+    "heRef_2": "קהלת יא, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 630,
+    "line_index_2": 217,
+    "ref_2": "Ecclesiastes 11:7",
+    "heRef_2": "קהלת יא, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 631,
+    "line_index_2": 217,
+    "ref_2": "Ecclesiastes 11:7",
+    "heRef_2": "קהלת יא, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 633,
+    "line_index_2": 218,
+    "ref_2": "Ecclesiastes 11:8",
+    "heRef_2": "קהלת יא, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 634,
+    "line_index_2": 218,
+    "ref_2": "Ecclesiastes 11:8",
+    "heRef_2": "קהלת יא, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 636,
+    "line_index_2": 219,
+    "ref_2": "Ecclesiastes 11:9",
+    "heRef_2": "קהלת יא, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 637,
+    "line_index_2": 219,
+    "ref_2": "Ecclesiastes 11:9",
+    "heRef_2": "קהלת יא, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 639,
+    "line_index_2": 220,
+    "ref_2": "Ecclesiastes 11:10",
+    "heRef_2": "קהלת יא, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 640,
+    "line_index_2": 220,
+    "ref_2": "Ecclesiastes 11:10",
+    "heRef_2": "קהלת יא, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 643,
+    "line_index_2": 222,
+    "ref_2": "Ecclesiastes 12:1",
+    "heRef_2": "קהלת יב, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 222,
+    "ref_2": "Ecclesiastes 12:1",
+    "heRef_2": "קהלת יב, א",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 646,
+    "line_index_2": 223,
+    "ref_2": "Ecclesiastes 12:2",
+    "heRef_2": "קהלת יב, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 223,
+    "ref_2": "Ecclesiastes 12:2",
+    "heRef_2": "קהלת יב, ב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 224,
+    "ref_2": "Ecclesiastes 12:3",
+    "heRef_2": "קהלת יב, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 650,
+    "line_index_2": 224,
+    "ref_2": "Ecclesiastes 12:3",
+    "heRef_2": "קהלת יב, ג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 652,
+    "line_index_2": 225,
+    "ref_2": "Ecclesiastes 12:4",
+    "heRef_2": "קהלת יב, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 225,
+    "ref_2": "Ecclesiastes 12:4",
+    "heRef_2": "קהלת יב, ד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 226,
+    "ref_2": "Ecclesiastes 12:5",
+    "heRef_2": "קהלת יב, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 656,
+    "line_index_2": 226,
+    "ref_2": "Ecclesiastes 12:5",
+    "heRef_2": "קהלת יב, ה",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 658,
+    "line_index_2": 227,
+    "ref_2": "Ecclesiastes 12:6",
+    "heRef_2": "קהלת יב, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 659,
+    "line_index_2": 227,
+    "ref_2": "Ecclesiastes 12:6",
+    "heRef_2": "קהלת יב, ו",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 661,
+    "line_index_2": 228,
+    "ref_2": "Ecclesiastes 12:7",
+    "heRef_2": "קהלת יב, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 662,
+    "line_index_2": 228,
+    "ref_2": "Ecclesiastes 12:7",
+    "heRef_2": "קהלת יב, ז",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 664,
+    "line_index_2": 229,
+    "ref_2": "Ecclesiastes 12:8",
+    "heRef_2": "קהלת יב, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 229,
+    "ref_2": "Ecclesiastes 12:8",
+    "heRef_2": "קהלת יב, ח",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 667,
+    "line_index_2": 230,
+    "ref_2": "Ecclesiastes 12:9",
+    "heRef_2": "קהלת יב, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 668,
+    "line_index_2": 230,
+    "ref_2": "Ecclesiastes 12:9",
+    "heRef_2": "קהלת יב, ט",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 670,
+    "line_index_2": 231,
+    "ref_2": "Ecclesiastes 12:10",
+    "heRef_2": "קהלת יב, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 231,
+    "ref_2": "Ecclesiastes 12:10",
+    "heRef_2": "קהלת יב, י",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 232,
+    "ref_2": "Ecclesiastes 12:11",
+    "heRef_2": "קהלת יב, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 674,
+    "line_index_2": 232,
+    "ref_2": "Ecclesiastes 12:11",
+    "heRef_2": "קהלת יב, יא",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 676,
+    "line_index_2": 233,
+    "ref_2": "Ecclesiastes 12:12",
+    "heRef_2": "קהלת יב, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 677,
+    "line_index_2": 233,
+    "ref_2": "Ecclesiastes 12:12",
+    "heRef_2": "קהלת יב, יב",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 679,
+    "line_index_2": 234,
+    "ref_2": "Ecclesiastes 12:13",
+    "heRef_2": "קהלת יב, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 680,
+    "line_index_2": 234,
+    "ref_2": "Ecclesiastes 12:13",
+    "heRef_2": "קהלת יב, יג",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 682,
+    "line_index_2": 235,
+    "ref_2": "Ecclesiastes 12:14",
+    "heRef_2": "קהלת יב, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 683,
+    "line_index_2": 235,
+    "ref_2": "Ecclesiastes 12:14",
+    "heRef_2": "קהלת יב, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 684,
+    "line_index_2": 235,
+    "ref_2": "Ecclesiastes 12:14",
+    "heRef_2": "קהלת יב, יד",
+    "path_2": "קהלת.txt",
+    "Conection Type": "source"
+  }
+]
