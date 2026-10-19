@@ -117,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "fc277a7a6f96a45bae60aef3047aaab2"
+    "hash": "50d9be774bb14ef86bfd0b191e338c0f"
   },
   {
     "name": "שו״ת",
@@ -155,9 +155,9 @@
     "zip": "folder_0251.zip",
     "label": "תנ״ך",
     "parent": "",
-    "size": "22.9 MB",
+    "size": "43.7 MB",
     "depth": 0,
-    "hash": "f3104fb833fd90099bf2412ed3e4ec49"
+    "hash": "605837a25553623a76a6b5fcb7580ca4"
   },
   {
     "name": "יוסף בן מתתיהו",
@@ -905,9 +905,9 @@
     "zip": "folder_0550.zip",
     "label": "אחרונים",
     "parent": "תנ״ך",
-    "size": "4.7 MB",
+    "size": "25.6 MB",
     "depth": 1,
-    "hash": "a289a73bbc0c34f861eeae86ffff7dd7"
+    "hash": "0add6e3b4a43097f93365245580c687d"
   },
   {
     "name": "כתובים",
