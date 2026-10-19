@@ -25,9 +25,9 @@
     "zip": "folder_0577.zip",
     "label": "חסידות",
     "parent": "",
-    "size": "33.0 MB",
+    "size": "40.4 MB",
     "depth": 0,
-    "hash": "0df96efd2dc830a80b0d8594232410db"
+    "hash": "6c617fa31249298032dd49112e5b1b1a"
   },
   {
     "name": "מדרש",
@@ -35,9 +35,9 @@
     "zip": "folder_0201.zip",
     "label": "מדרש",
     "parent": "",
-    "size": "2.3 MB",
+    "size": "2.4 MB",
     "depth": 0,
-    "hash": "db562eb05b3a95cd573a421412082db0"
+    "hash": "eb49ff723918044e61b3ee85c46cfec0"
   },
   {
     "name": "מחשבת ישראל",
@@ -65,9 +65,9 @@
     "zip": "folder_0327.zip",
     "label": "משנה",
     "parent": "",
-    "size": "483 KB",
+    "size": "2.6 MB",
     "depth": 0,
-    "hash": "66c2e5f2e5825f8ed4099c7afda64fee"
+    "hash": "fec533c39f4866cf2428c0db4aa6480c"
   },
   {
     "name": "סדר התפילה",
@@ -75,9 +75,9 @@
     "zip": "folder_0057.zip",
     "label": "סדר התפילה",
     "parent": "",
-    "size": "604 KB",
+    "size": "4.0 MB",
     "depth": 0,
-    "hash": "d3a2085f2d6694c36b9e5afcc2848ae1"
+    "hash": "28f0b37aa02810acc1affd5be9acc38e"
   },
   {
     "name": "ספרות עזר",
@@ -85,9 +85,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "7.1 MB",
+    "size": "12.0 MB",
     "depth": 0,
-    "hash": "af373b8e416adb067622769007ef66a0"
+    "hash": "deeb691bc20e1345a34664d85f7f4579"
   },
   {
     "name": "ספרי מוסר",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "6419710b9d3028b521c12742a6a933b9"
+    "hash": "57d73779db96053511dae0fa594110a7"
   },
   {
     "name": "שו״ת",
@@ -345,9 +345,19 @@
     "zip": "folder_0589.zip",
     "label": "ספרי חסידות כללי",
     "parent": "חסידות",
-    "size": "7.1 MB",
+    "size": "7.8 MB",
     "depth": 1,
-    "hash": "c79c52b0c2b894729892f3c1b24c6044"
+    "hash": "b18e2b10c5e2cfef144e12f10006db16"
+  },
+  {
+    "name": "ספרי קאמארנא",
+    "path": "חסידות/ספרי קאמארנא",
+    "zip": "folder_0590.zip",
+    "label": "ספרי קאמארנא",
+    "parent": "חסידות",
+    "size": "6.7 MB",
+    "depth": 1,
+    "hash": "b4e840e9f09416576940c33ec64d15ac"
   },
   {
     "name": "אגדה",
@@ -355,9 +365,9 @@
     "zip": "folder_0202.zip",
     "label": "אגדה",
     "parent": "מדרש",
-    "size": "2.3 MB",
+    "size": "2.4 MB",
     "depth": 1,
-    "hash": "f08146423a518d5ed8720f9aaec874cc"
+    "hash": "f73418cb7d5a6961ffe300a43aa2d747"
   },
   {
     "name": "אחרונים",
@@ -410,14 +420,24 @@
     "hash": "4887da80d51147c0a29ae34f4401f5a9"
   },
   {
+    "name": "מפרשים",
+    "path": "משנה/מפרשים",
+    "zip": "folder_0591.zip",
+    "label": "מפרשים",
+    "parent": "משנה",
+    "size": "2.1 MB",
+    "depth": 1,
+    "hash": "1bdbf54d88ef03ba984f8a7576aafbf0"
+  },
+  {
     "name": "הגדה",
     "path": "סדר התפילה/הגדה",
     "zip": "folder_0068.zip",
     "label": "הגדה",
     "parent": "סדר התפילה",
-    "size": "27 KB",
+    "size": "766 KB",
     "depth": 1,
-    "hash": "9c69a153661b65a107382190ddde7289"
+    "hash": "aad478833ab59181891bb82c786b23b2"
   },
   {
     "name": "מפרשים",
@@ -430,6 +450,16 @@
     "hash": "f9038b6edcd41007bc1b389d2ff28819"
   },
   {
+    "name": "סידור",
+    "path": "סדר התפילה/סידור",
+    "zip": "folder_0592.zip",
+    "label": "סידור",
+    "parent": "סדר התפילה",
+    "size": "2.7 MB",
+    "depth": 1,
+    "hash": "1ec1d848057d6c953cd123a4d3a2d685"
+  },
+  {
     "name": "אנציקלופדיות",
     "path": "ספרות עזר/אנציקלופדיות",
     "zip": "folder_0547.zip",
@@ -438,6 +468,26 @@
     "size": "599 KB",
     "depth": 1,
     "hash": "23eefd66acd2c7b3c7a609ae738c9108"
+  },
+  {
+    "name": "ביבליוגרפיה",
+    "path": "ספרות עזר/ביבליוגרפיה",
+    "zip": "folder_0593.zip",
+    "label": "ביבליוגרפיה",
+    "parent": "ספרות עזר",
+    "size": "1.4 MB",
+    "depth": 1,
+    "hash": "326b92d0ad993e2cf012fa1bee75549b"
+  },
+  {
+    "name": "דיקטה",
+    "path": "ספרות עזר/דיקטה",
+    "zip": "folder_0594.zip",
+    "label": "דיקטה",
+    "parent": "ספרות עזר",
+    "size": "3.5 MB",
+    "depth": 1,
+    "hash": "dadc59d90b13f1a437feac585da00994"
   },
   {
     "name": "דקדוק",
@@ -815,9 +865,9 @@
     "zip": "folder_0085.zip",
     "label": "מפרשים",
     "parent": "סדר התפילה/הגדה",
-    "size": "27 KB",
+    "size": "765 KB",
     "depth": 2,
-    "hash": "7e2368c3fdf45c2ef1fabdff00cd3240"
+    "hash": "b556d21a55ef57e48d22445ceba69adc"
   },
   {
     "name": "פיוט ותפילה",
