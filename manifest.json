@@ -85,9 +85,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "12.0 MB",
+    "size": "21.3 MB",
     "depth": 0,
-    "hash": "deeb691bc20e1345a34664d85f7f4579"
+    "hash": "b884a4998d22d1f8e3e7e6b0ad3a7cc2"
   },
   {
     "name": "ספרי מוסר",
@@ -95,9 +95,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "7.4 MB",
+    "size": "21.0 MB",
     "depth": 0,
-    "hash": "598519f2905b846031d1340b3cac4089"
+    "hash": "57e3a4861579445d2937b6caf5a33513"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "57d73779db96053511dae0fa594110a7"
+    "hash": "31ca9e653539c504559ac19dfebdde21"
   },
   {
     "name": "שו״ת",
@@ -485,9 +485,9 @@
     "zip": "folder_0594.zip",
     "label": "דיקטה",
     "parent": "ספרות עזר",
-    "size": "3.5 MB",
+    "size": "9.5 MB",
     "depth": 1,
-    "hash": "dadc59d90b13f1a437feac585da00994"
+    "hash": "be273460c1eb3efddfd6792409fa8455"
   },
   {
     "name": "דקדוק",
@@ -495,9 +495,9 @@
     "zip": "folder_0569.zip",
     "label": "דקדוק",
     "parent": "ספרות עזר",
-    "size": "560 KB",
+    "size": "3.8 MB",
     "depth": 1,
-    "hash": "09ee253938d1fa1a29efc725d9c6e601"
+    "hash": "a8ea611fdb7da1e46646e371f5d416da"
   },
   {
     "name": "כללי השס",
@@ -540,6 +540,16 @@
     "hash": "9ae597c57ade5dc3420ec69bb6df5d73"
   },
   {
+    "name": "כתבי הרמב״ן",
+    "path": "ספרי מוסר/כתבי הרמב״ן",
+    "zip": "folder_0595.zip",
+    "label": "כתבי הרמב״ן",
+    "parent": "ספרי מוסר",
+    "size": "60 KB",
+    "depth": 1,
+    "hash": "b9070d4d7e3238aa81f68ab1bea1d52b"
+  },
+  {
     "name": "מחברי זמננו",
     "path": "ספרי מוסר/מחברי זמננו",
     "zip": "folder_0069.zip",
@@ -548,6 +558,56 @@
     "size": "2.9 MB",
     "depth": 1,
     "hash": "702672a6f326c8bf06ccd56bafe8c2ba"
+  },
+  {
+    "name": "ספרי בעל עקידת יצחק",
+    "path": "ספרי מוסר/ספרי בעל עקידת יצחק",
+    "zip": "folder_0596.zip",
+    "label": "ספרי בעל עקידת יצחק",
+    "parent": "ספרי מוסר",
+    "size": "300 KB",
+    "depth": 1,
+    "hash": "0e2bd64ab6b57b696ef82a2086361451"
+  },
+  {
+    "name": "ספרי החיד״א",
+    "path": "ספרי מוסר/ספרי החיד״א",
+    "zip": "folder_0597.zip",
+    "label": "ספרי החיד״א",
+    "parent": "ספרי מוסר",
+    "size": "1.2 MB",
+    "depth": 1,
+    "hash": "e84c2f386f952d1e08f3fc3697242991"
+  },
+  {
+    "name": "ספרי החפץ חיים",
+    "path": "ספרי מוסר/ספרי החפץ חיים",
+    "zip": "folder_0598.zip",
+    "label": "ספרי החפץ חיים",
+    "parent": "ספרי מוסר",
+    "size": "382 KB",
+    "depth": 1,
+    "hash": "94c2d560eaf64ccdfe56e39ad9d720c0"
+  },
+  {
+    "name": "ספרי המוסר",
+    "path": "ספרי מוסר/ספרי המוסר",
+    "zip": "folder_0599.zip",
+    "label": "ספרי המוסר",
+    "parent": "ספרי מוסר",
+    "size": "334 KB",
+    "depth": 1,
+    "hash": "e5857500ca88def36f90c775e265ab76"
+  },
+  {
+    "name": "ספרי המחשבה",
+    "path": "ספרי מוסר/ספרי המחשבה",
+    "zip": "folder_0600.zip",
+    "label": "ספרי המחשבה",
+    "parent": "ספרי מוסר",
+    "size": "2.8 MB",
+    "depth": 1,
+    "hash": "4127cb9e77c70617dc6f5110e94c9223"
   },
   {
     "name": "קישורים",
