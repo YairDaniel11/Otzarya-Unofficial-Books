@@ -15,9 +15,19 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "46.1 MB",
+    "size": "54.7 MB",
     "depth": 0,
-    "hash": "e31657d2ea8538aa0b5ec9faf17afe63"
+    "hash": "277322279af73156f9ca0897b74329d8"
+  },
+  {
+    "name": "חסידות",
+    "path": "חסידות",
+    "zip": "folder_0577.zip",
+    "label": "חסידות",
+    "parent": "",
+    "size": "11.7 MB",
+    "depth": 0,
+    "hash": "2d3a002ce5b911af75a5e156bbdd80d8"
   },
   {
     "name": "מדרש",
@@ -97,7 +107,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "bae6db02b96bedff7d9af260d5b7f456"
+    "hash": "aac87d03afb77e6c973837e0f16d0898"
   },
   {
     "name": "שו״ת",
@@ -215,9 +225,59 @@
     "zip": "folder_0065.zip",
     "label": "שולחן ערוך",
     "parent": "הלכה",
-    "size": "10.4 MB",
+    "size": "19.0 MB",
     "depth": 1,
-    "hash": "fe77aea2524dbef8423e245ecaea7b83"
+    "hash": "fc05953f6cb3c60b0ffe4c7fd45161e1"
+  },
+  {
+    "name": "כתבי הרצ״א שפירא ז״ל (בני יששכר)",
+    "path": "חסידות/כתבי הרצ״א שפירא ז״ל (בני יששכר)",
+    "zip": "folder_0578.zip",
+    "label": "כתבי הרצ״א שפירא ז״ל (בני יששכר)",
+    "parent": "חסידות",
+    "size": "803 KB",
+    "depth": 1,
+    "hash": "32901a67b0551e58c75f88b330fe0575"
+  },
+  {
+    "name": "כתבי רבי אברהם דוד מבוטשטש",
+    "path": "חסידות/כתבי רבי אברהם דוד מבוטשטש",
+    "zip": "folder_0579.zip",
+    "label": "כתבי רבי אברהם דוד מבוטשטש",
+    "parent": "חסידות",
+    "size": "419 KB",
+    "depth": 1,
+    "hash": "6ba207a78a17da9ad1cd0a76149aa468"
+  },
+  {
+    "name": "כתבי רבי צדוק הכהן מלובלין",
+    "path": "חסידות/כתבי רבי צדוק הכהן מלובלין",
+    "zip": "folder_0580.zip",
+    "label": "כתבי רבי צדוק הכהן מלובלין",
+    "parent": "חסידות",
+    "size": "173 KB",
+    "depth": 1,
+    "hash": "724817a93c8c2ecd98bbfc6ac49306b6"
+  },
+  {
+    "name": "כתבי רבי שמחה בונים מפרשיסחא",
+    "path": "חסידות/כתבי רבי שמחה בונים מפרשיסחא",
+    "zip": "folder_0581.zip",
+    "label": "כתבי רבי שמחה בונים מפרשיסחא",
+    "parent": "חסידות",
+    "size": "1.0 MB",
+    "depth": 1,
+    "hash": "5a968282337a885bf1e9f7741a79a4f5"
+  },
+  {
+    "name": "ספרי אדמור״י אלכסנדר",
+    "path": "חסידות/ספרי אדמור״י אלכסנדר",
+    "zip": "folder_0582.zip",
+    "label": "ספרי אדמור״י אלכסנדר",
+    "parent": "חסידות",
+    "size": "4.8 MB",
+    "depth": 1,
+    "hash": "f94fa182f69f0a8f03d6dde2ed9d2f79"
   },
   {
     "name": "אגדה",
@@ -635,9 +695,9 @@
     "zip": "folder_0083.zip",
     "label": "מפרשים",
     "parent": "הלכה/שולחן ערוך",
-    "size": "10.4 MB",
+    "size": "19.0 MB",
     "depth": 2,
-    "hash": "ffc488031e8392e43aa4650e3eeae777"
+    "hash": "86e2e4eb22a532c602cec3a5720de9a1"
   },
   {
     "name": "בן סירא",
