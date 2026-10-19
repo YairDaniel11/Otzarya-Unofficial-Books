@@ -105,9 +105,9 @@
     "zip": "folder_0601.zip",
     "label": "קבלה",
     "parent": "",
-    "size": "1.8 MB",
+    "size": "21.2 MB",
     "depth": 0,
-    "hash": "3311d901f7bfd14b995d9ea6dc626d2d"
+    "hash": "02c9d17a03b38a34c4fd0b922cfe6934"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -117,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "4405092f49121f7484a374ddc8fbd670"
+    "hash": "8bbcbf7d4c24c3844a8355c98ce1cb74"
   },
   {
     "name": "שו״ת",
@@ -628,6 +628,76 @@
     "size": "4.9 MB",
     "depth": 1,
     "hash": "5418e2a54c721ecb001e1682cc42df54"
+  },
+  {
+    "name": "כתבי הגרמ״מ משקלוב",
+    "path": "קבלה/כתבי הגרמ״מ משקלוב",
+    "zip": "folder_0603.zip",
+    "label": "כתבי הגרמ״מ משקלוב",
+    "parent": "קבלה",
+    "size": "1.0 MB",
+    "depth": 1,
+    "hash": "365b9b59f9ce70bde3e0b7d7e0333c0a"
+  },
+  {
+    "name": "כתבי הרמח״ל",
+    "path": "קבלה/כתבי הרמח״ל",
+    "zip": "folder_0604.zip",
+    "label": "כתבי הרמח״ל",
+    "parent": "קבלה",
+    "size": "468 KB",
+    "depth": 1,
+    "hash": "85ade98648f1ff7eab6224b9e83f99b0"
+  },
+  {
+    "name": "כתבי הרמ״ע מפאנו",
+    "path": "קבלה/כתבי הרמ״ע מפאנו",
+    "zip": "folder_0605.zip",
+    "label": "כתבי הרמ״ע מפאנו",
+    "parent": "קבלה",
+    "size": "715 KB",
+    "depth": 1,
+    "hash": "1eb3adb45fba91b36e922a56b7800bbb"
+  },
+  {
+    "name": "כתבי הר״י אשלג בעל הסולם",
+    "path": "קבלה/כתבי הר״י אשלג בעל הסולם",
+    "zip": "folder_0606.zip",
+    "label": "כתבי הר״י אשלג בעל הסולם",
+    "parent": "קבלה",
+    "size": "1.3 MB",
+    "depth": 1,
+    "hash": "dca73652cda54c786ea6320e29ef4391"
+  },
+  {
+    "name": "כתבי לשם שבו ואחלמה",
+    "path": "קבלה/כתבי לשם שבו ואחלמה",
+    "zip": "folder_0607.zip",
+    "label": "כתבי לשם שבו ואחלמה",
+    "parent": "קבלה",
+    "size": "4.3 MB",
+    "depth": 1,
+    "hash": "81cc2577e05d9a21d9cdfa2e4aaa7dc9"
+  },
+  {
+    "name": "כתבי רבי אברהם אבולעפיא",
+    "path": "קבלה/כתבי רבי אברהם אבולעפיא",
+    "zip": "folder_0608.zip",
+    "label": "כתבי רבי אברהם אבולעפיא",
+    "parent": "קבלה",
+    "size": "771 KB",
+    "depth": 1,
+    "hash": "3cc4c1182f749aae15cfbe3e1bf5bc0f"
+  },
+  {
+    "name": "כתבי רבינו האר״י",
+    "path": "קבלה/כתבי רבינו האר״י",
+    "zip": "folder_0609.zip",
+    "label": "כתבי רבינו האר״י",
+    "parent": "קבלה",
+    "size": "202 KB",
+    "depth": 1,
+    "hash": "41a1db5762b80336b967fd015651c4c3"
   },
   {
     "name": "קישורים",
