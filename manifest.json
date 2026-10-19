@@ -117,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "30d2c727f59bfa42dd80c4cbbc19d6c2"
+    "hash": "2e7e04f679b034ce835bb309b3067100"
   },
   {
     "name": "שו״ת",
@@ -135,9 +135,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "844.5 MB",
+    "size": "860.8 MB",
     "depth": 0,
-    "hash": "7188a46de6fe62bb5bdf1209cbcb86da"
+    "hash": "2d08668c824f5ecd18c7249404f8eec2"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -770,6 +770,26 @@
     "hash": "b1fa1e66f4a163428f12c05922e1fe0f"
   },
   {
+    "name": "ספרי קבלת הראשונים",
+    "path": "קבלה/ספרי קבלת הראשונים",
+    "zip": "folder_0615.zip",
+    "label": "ספרי קבלת הראשונים",
+    "parent": "קבלה",
+    "size": "3.3 MB",
+    "depth": 1,
+    "hash": "41279a813dd1cf15369075e632dfd3af"
+  },
+  {
+    "name": "ספרי רבי משה די ליאון",
+    "path": "קבלה/ספרי רבי משה די ליאון",
+    "zip": "folder_0616.zip",
+    "label": "ספרי רבי משה די ליאון",
+    "parent": "קבלה",
+    "size": "623 KB",
+    "depth": 1,
+    "hash": "b1fa1e66f4a163428f12c05922e1fe0f"
+  },
+  {
     "name": "קישורים",
     "path": "קבצי קישורים וסדר הדורות/קישורים",
     "zip": "folder_0420.zip",
@@ -835,9 +855,9 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "30.0 MB",
+    "size": "46.3 MB",
     "depth": 1,
-    "hash": "af259b58269e001df4bce25c768c18d5"
+    "hash": "b027c79fdc8a5ab24bfe35ab76032e3f"
   },
   {
     "name": "מחברי זמננו",
