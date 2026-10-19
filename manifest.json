@@ -105,9 +105,9 @@
     "zip": "folder_0601.zip",
     "label": "קבלה",
     "parent": "",
-    "size": "42.2 MB",
+    "size": "49.4 MB",
     "depth": 0,
-    "hash": "a378dccee5580c02b4c555b9e09282f7"
+    "hash": "f836778132e41823b10afc3e00239e21"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -117,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "058442f07d91c28615e6c383b33ca625"
+    "hash": "30d2c727f59bfa42dd80c4cbbc19d6c2"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "60.5 MB",
+    "size": "61.6 MB",
     "depth": 0,
-    "hash": "636b6ab7fcbdb11d3a6643288e3caa53"
+    "hash": "2acf64e02bd50ea7c82fda4a7fd21974"
   },
   {
     "name": "תלמוד בבלי",
@@ -135,9 +135,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "838.2 MB",
+    "size": "844.5 MB",
     "depth": 0,
-    "hash": "0bfcc0f18f5c1aa9d79b6473b7b7e5ab"
+    "hash": "7188a46de6fe62bb5bdf1209cbcb86da"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -745,9 +745,29 @@
     "zip": "folder_0614.zip",
     "label": "ספרי קבלת האחרונים",
     "parent": "קבלה",
-    "size": "2.5 MB",
+    "size": "5.9 MB",
     "depth": 1,
-    "hash": "10268f874673b2310493a3fbbc36efee"
+    "hash": "af81e8e5e97e3efe4cce50b74e2b8600"
+  },
+  {
+    "name": "ספרי קבלת הראשונים",
+    "path": "קבלה/ספרי קבלת הראשונים",
+    "zip": "folder_0615.zip",
+    "label": "ספרי קבלת הראשונים",
+    "parent": "קבלה",
+    "size": "3.3 MB",
+    "depth": 1,
+    "hash": "41279a813dd1cf15369075e632dfd3af"
+  },
+  {
+    "name": "ספרי רבי משה די ליאון",
+    "path": "קבלה/ספרי רבי משה די ליאון",
+    "zip": "folder_0616.zip",
+    "label": "ספרי רבי משה די ליאון",
+    "parent": "קבלה",
+    "size": "623 KB",
+    "depth": 1,
+    "hash": "b1fa1e66f4a163428f12c05922e1fe0f"
   },
   {
     "name": "קישורים",
@@ -775,9 +795,9 @@
     "zip": "folder_0138.zip",
     "label": "אחרונים",
     "parent": "שו״ת",
-    "size": "17.5 MB",
+    "size": "18.6 MB",
     "depth": 1,
-    "hash": "6a399db3e3f562ddb23fcb675738e183"
+    "hash": "6fd2719eb192e9adcb9810cf5942b72e"
   },
   {
     "name": "גאונים",
@@ -815,9 +835,9 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "23.6 MB",
+    "size": "30.0 MB",
     "depth": 1,
-    "hash": "c55d0cee30f21622d48a9c94955e5dd3"
+    "hash": "af259b58269e001df4bce25c768c18d5"
   },
   {
     "name": "מחברי זמננו",
