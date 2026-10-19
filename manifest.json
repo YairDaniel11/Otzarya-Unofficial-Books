@@ -95,9 +95,19 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "21.0 MB",
+    "size": "27.8 MB",
     "depth": 0,
-    "hash": "57e3a4861579445d2937b6caf5a33513"
+    "hash": "d952909affbf769cefbd1799d5d492f2"
+  },
+  {
+    "name": "קבלה",
+    "path": "קבלה",
+    "zip": "folder_0601.zip",
+    "label": "קבלה",
+    "parent": "",
+    "size": "1.8 MB",
+    "depth": 0,
+    "hash": "3311d901f7bfd14b995d9ea6dc626d2d"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -107,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "31ca9e653539c504559ac19dfebdde21"
+    "hash": "4405092f49121f7484a374ddc8fbd670"
   },
   {
     "name": "שו״ת",
@@ -605,9 +615,19 @@
     "zip": "folder_0600.zip",
     "label": "ספרי המחשבה",
     "parent": "ספרי מוסר",
-    "size": "2.8 MB",
+    "size": "4.8 MB",
     "depth": 1,
-    "hash": "4127cb9e77c70617dc6f5110e94c9223"
+    "hash": "61496fa809ffa57b915cd55b77597b8f"
+  },
+  {
+    "name": "ספרי רבי יעקב אבוחצירא",
+    "path": "ספרי מוסר/ספרי רבי יעקב אבוחצירא",
+    "zip": "folder_0602.zip",
+    "label": "ספרי רבי יעקב אבוחצירא",
+    "parent": "ספרי מוסר",
+    "size": "4.9 MB",
+    "depth": 1,
+    "hash": "5418e2a54c721ecb001e1682cc42df54"
   },
   {
     "name": "קישורים",
