@@ -25,9 +25,9 @@
     "zip": "folder_0577.zip",
     "label": "חסידות",
     "parent": "",
-    "size": "11.7 MB",
+    "size": "33.0 MB",
     "depth": 0,
-    "hash": "2d3a002ce5b911af75a5e156bbdd80d8"
+    "hash": "0df96efd2dc830a80b0d8594232410db"
   },
   {
     "name": "מדרש",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "aac87d03afb77e6c973837e0f16d0898"
+    "hash": "6419710b9d3028b521c12742a6a933b9"
   },
   {
     "name": "שו״ת",
@@ -278,6 +278,76 @@
     "size": "4.8 MB",
     "depth": 1,
     "hash": "f94fa182f69f0a8f03d6dde2ed9d2f79"
+  },
+  {
+    "name": "ספרי אדמור״י פולין",
+    "path": "חסידות/ספרי אדמור״י פולין",
+    "zip": "folder_0583.zip",
+    "label": "ספרי אדמור״י פולין",
+    "parent": "חסידות",
+    "size": "4.8 MB",
+    "depth": 1,
+    "hash": "a0abfacd634b2c4c7a4baab8f11c20eb"
+  },
+  {
+    "name": "ספרי איזביצא",
+    "path": "חסידות/ספרי איזביצא",
+    "zip": "folder_0584.zip",
+    "label": "ספרי איזביצא",
+    "parent": "חסידות",
+    "size": "351 KB",
+    "depth": 1,
+    "hash": "bf181d8b6d6ab18e8b7fd7f3004ef0dc"
+  },
+  {
+    "name": "ספרי בית ראפשיץ - דזי'קוב",
+    "path": "חסידות/ספרי בית ראפשיץ - דזי'קוב",
+    "zip": "folder_0585.zip",
+    "label": "ספרי בית ראפשיץ - דזי'קוב",
+    "parent": "חסידות",
+    "size": "2.9 MB",
+    "depth": 1,
+    "hash": "494ff00a8f498ceb900df945c660cb71"
+  },
+  {
+    "name": "ספרי ברסלב",
+    "path": "חסידות/ספרי ברסלב",
+    "zip": "folder_0586.zip",
+    "label": "ספרי ברסלב",
+    "parent": "חסידות",
+    "size": "3.2 MB",
+    "depth": 1,
+    "hash": "bdbcdc04e1b45ae092f14b2a6ea2e8b7"
+  },
+  {
+    "name": "ספרי השומר אמונים",
+    "path": "חסידות/ספרי השומר אמונים",
+    "zip": "folder_0587.zip",
+    "label": "ספרי השומר אמונים",
+    "parent": "חסידות",
+    "size": "1.4 MB",
+    "depth": 1,
+    "hash": "ec726787857e4d4a1c5cc7245e936e3a"
+  },
+  {
+    "name": "ספרי זידיטשוב",
+    "path": "חסידות/ספרי זידיטשוב",
+    "zip": "folder_0588.zip",
+    "label": "ספרי זידיטשוב",
+    "parent": "חסידות",
+    "size": "1.5 MB",
+    "depth": 1,
+    "hash": "050ef88ca9a7343f3141e0e492a20b61"
+  },
+  {
+    "name": "ספרי חסידות כללי",
+    "path": "חסידות/ספרי חסידות כללי",
+    "zip": "folder_0589.zip",
+    "label": "ספרי חסידות כללי",
+    "parent": "חסידות",
+    "size": "7.1 MB",
+    "depth": 1,
+    "hash": "c79c52b0c2b894729892f3c1b24c6044"
   },
   {
     "name": "אגדה",
