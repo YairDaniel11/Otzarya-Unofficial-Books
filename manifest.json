@@ -117,7 +117,7 @@
     "parent": "",
     "size": "8.5 MB",
     "depth": 0,
-    "hash": "726560b2c2481cb5926bb18d8d490258"
+    "hash": "fc277a7a6f96a45bae60aef3047aaab2"
   },
   {
     "name": "שו״ת",
@@ -135,9 +135,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "882.6 MB",
+    "size": "896.3 MB",
     "depth": 0,
-    "hash": "f5697fa84c74ece95ffcd5c80f0c7cac"
+    "hash": "0c98b3c4be72b9e7298ca303f9c6ae3d"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -155,9 +155,9 @@
     "zip": "folder_0251.zip",
     "label": "תנ״ך",
     "parent": "",
-    "size": "18.4 MB",
+    "size": "22.9 MB",
     "depth": 0,
-    "hash": "a8b8b09ae2d0339999f6900f98306c2f"
+    "hash": "f3104fb833fd90099bf2412ed3e4ec49"
   },
   {
     "name": "יוסף בן מתתיהו",
@@ -835,9 +835,19 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "68.1 MB",
+    "size": "80.6 MB",
     "depth": 1,
-    "hash": "71af26da89b6802de491aa30ea2174e5"
+    "hash": "8bb21843546ccbabc381be29effd9a54"
+  },
+  {
+    "name": "כללי הש״ס",
+    "path": "תלמוד בבלי/כללי הש״ס",
+    "zip": "folder_0617.zip",
+    "label": "כללי הש״ס",
+    "parent": "תלמוד בבלי",
+    "size": "1.2 MB",
+    "depth": 1,
+    "hash": "3023e1caf1a56553915e44c8c1e2a887"
   },
   {
     "name": "מחברי זמננו",
@@ -895,9 +905,9 @@
     "zip": "folder_0550.zip",
     "label": "אחרונים",
     "parent": "תנ״ך",
-    "size": "253 KB",
+    "size": "4.7 MB",
     "depth": 1,
-    "hash": "4a5ad5f0a71c1bf043421a88e4eee1b9"
+    "hash": "a289a73bbc0c34f861eeae86ffff7dd7"
   },
   {
     "name": "כתובים",
