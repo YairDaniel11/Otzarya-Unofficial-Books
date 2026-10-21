@@ -15,9 +15,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "55.1 MB",
+    "size": "60.3 MB",
     "depth": 0,
-    "hash": "9be043f80f7b6dbb98308dd3654ededb"
+    "hash": "2726fd4418fe8d35b38b4ae2d3052ed8"
   },
   {
     "name": "חסידות",
@@ -27,7 +27,7 @@
     "parent": "",
     "size": "40.4 MB",
     "depth": 0,
-    "hash": "6c617fa31249298032dd49112e5b1b1a"
+    "hash": "7bf23c57f0f38d61527cd64e3af2a9f7"
   },
   {
     "name": "מדרש",
@@ -45,9 +45,9 @@
     "zip": "folder_0415.zip",
     "label": "מחשבת ישראל",
     "parent": "",
-    "size": "3.7 MB",
+    "size": "8.5 MB",
     "depth": 0,
-    "hash": "3fc09c31283b0b5ff3f19b886009072a"
+    "hash": "dd1ce990be2801d3c3387f269920df9a"
   },
   {
     "name": "מילונים וספרי יעץ",
@@ -85,9 +85,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "19.3 MB",
+    "size": "9.8 MB",
     "depth": 0,
-    "hash": "24cc4a4611cd3209f3da055feac6ea1f"
+    "hash": "2841a9f43866293a6fbaa23edf4c681a"
   },
   {
     "name": "ספרי מוסר",
@@ -95,9 +95,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "27.8 MB",
+    "size": "23.0 MB",
     "depth": 0,
-    "hash": "d952909affbf769cefbd1799d5d492f2"
+    "hash": "bb7527e9af4dcd4bd50de5a427d71556"
   },
   {
     "name": "קבלה",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "49.5 MB",
     "depth": 0,
-    "hash": "3a722d7255bf0616798b1800a5d49d30"
+    "hash": "9f82b512358d293610420911bd0d6d50"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -117,7 +117,7 @@
     "parent": "",
     "size": "7.6 MB",
     "depth": 0,
-    "hash": "04457105b204ca1a90aab072b0b7f077"
+    "hash": "1d5a0aaef9475f368a6c2626f154887d"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "61.4 MB",
+    "size": "61.8 MB",
     "depth": 0,
-    "hash": "5dc16b91f6561d86bcda460a5c5edb48"
+    "hash": "43b4a0cadf70991937e70ec55c5bee83"
   },
   {
     "name": "תלמוד בבלי",
@@ -137,7 +137,7 @@
     "parent": "",
     "size": "897.9 MB",
     "depth": 0,
-    "hash": "3cc6ac25fa326d8bc13a36eb59a906be"
+    "hash": "bdbbfd2410904817244b14fd66f89759"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -175,9 +175,9 @@
     "zip": "folder_0061.zip",
     "label": "אחרונים",
     "parent": "הלכה",
-    "size": "12.4 MB",
+    "size": "8.4 MB",
     "depth": 1,
-    "hash": "3f2e640c3a57be00bfe3fdbdcd6ac4c3"
+    "hash": "973fdf9237cdba4cca6f3ca85d5bd4de"
   },
   {
     "name": "מחברי זמננו",
@@ -185,9 +185,9 @@
     "zip": "folder_0062.zip",
     "label": "מחברי זמננו",
     "parent": "הלכה",
-    "size": "11.4 MB",
+    "size": "20.6 MB",
     "depth": 1,
-    "hash": "f55fb9593299a956c6f84f845236a572"
+    "hash": "c4cfa4c4aafa7c665d47e273e26cabad"
   },
   {
     "name": "מפרשים",
@@ -240,6 +240,26 @@
     "hash": "1b3ccd4da65f50fef06bee2a2e1769a2"
   },
   {
+    "name": "איזביצה",
+    "path": "חסידות/איזביצה",
+    "zip": "folder_0633.zip",
+    "label": "איזביצה",
+    "parent": "חסידות",
+    "size": "351 KB",
+    "depth": 1,
+    "hash": "bf181d8b6d6ab18e8b7fd7f3004ef0dc"
+  },
+  {
+    "name": "ברסלב",
+    "path": "חסידות/ברסלב",
+    "zip": "folder_0634.zip",
+    "label": "ברסלב",
+    "parent": "חסידות",
+    "size": "3.2 MB",
+    "depth": 1,
+    "hash": "bdbcdc04e1b45ae092f14b2a6ea2e8b7"
+  },
+  {
     "name": "כתבי הרצ״א שפירא ז״ל (בני יששכר)",
     "path": "חסידות/כתבי הרצ״א שפירא ז״ל (בני יששכר)",
     "zip": "folder_0578.zip",
@@ -258,16 +278,6 @@
     "size": "419 KB",
     "depth": 1,
     "hash": "6ba207a78a17da9ad1cd0a76149aa468"
-  },
-  {
-    "name": "כתבי רבי צדוק הכהן מלובלין",
-    "path": "חסידות/כתבי רבי צדוק הכהן מלובלין",
-    "zip": "folder_0580.zip",
-    "label": "כתבי רבי צדוק הכהן מלובלין",
-    "parent": "חסידות",
-    "size": "173 KB",
-    "depth": 1,
-    "hash": "724817a93c8c2ecd98bbfc6ac49306b6"
   },
   {
     "name": "כתבי רבי שמחה בונים מפרשיסחא",
@@ -300,16 +310,6 @@
     "hash": "a0abfacd634b2c4c7a4baab8f11c20eb"
   },
   {
-    "name": "ספרי איזביצא",
-    "path": "חסידות/ספרי איזביצא",
-    "zip": "folder_0584.zip",
-    "label": "ספרי איזביצא",
-    "parent": "חסידות",
-    "size": "351 KB",
-    "depth": 1,
-    "hash": "bf181d8b6d6ab18e8b7fd7f3004ef0dc"
-  },
-  {
     "name": "ספרי בית ראפשיץ - דזי'קוב",
     "path": "חסידות/ספרי בית ראפשיץ - דזי'קוב",
     "zip": "folder_0585.zip",
@@ -318,16 +318,6 @@
     "size": "2.9 MB",
     "depth": 1,
     "hash": "494ff00a8f498ceb900df945c660cb71"
-  },
-  {
-    "name": "ספרי ברסלב",
-    "path": "חסידות/ספרי ברסלב",
-    "zip": "folder_0586.zip",
-    "label": "ספרי ברסלב",
-    "parent": "חסידות",
-    "size": "3.2 MB",
-    "depth": 1,
-    "hash": "bdbcdc04e1b45ae092f14b2a6ea2e8b7"
   },
   {
     "name": "ספרי השומר אמונים",
@@ -370,6 +360,16 @@
     "hash": "b4e840e9f09416576940c33ec64d15ac"
   },
   {
+    "name": "ר' צדוק הכוהן",
+    "path": "חסידות/ר' צדוק הכוהן",
+    "zip": "folder_0635.zip",
+    "label": "ר' צדוק הכוהן",
+    "parent": "חסידות",
+    "size": "173 KB",
+    "depth": 1,
+    "hash": "724817a93c8c2ecd98bbfc6ac49306b6"
+  },
+  {
     "name": "אגדה",
     "path": "מדרש/אגדה",
     "zip": "folder_0202.zip",
@@ -387,7 +387,7 @@
     "parent": "מחשבת ישראל",
     "size": "1.8 MB",
     "depth": 1,
-    "hash": "2b25f38949dbf6573465562247d47ecc"
+    "hash": "a47cfdee8a8699c8ec07d390b22a57a4"
   },
   {
     "name": "מאמרי השקפה",
@@ -398,6 +398,16 @@
     "size": "1.6 MB",
     "depth": 1,
     "hash": "7958505a6b9b0052633a31cf4d7c8e17"
+  },
+  {
+    "name": "ספרי מחשבה",
+    "path": "מחשבת ישראל/ספרי מחשבה",
+    "zip": "folder_0636.zip",
+    "label": "ספרי מחשבה",
+    "parent": "מחשבת ישראל",
+    "size": "4.8 MB",
+    "depth": 1,
+    "hash": "61496fa809ffa57b915cd55b77597b8f"
   },
   {
     "name": "ראשונים",
@@ -488,16 +498,6 @@
     "size": "1.4 MB",
     "depth": 1,
     "hash": "326b92d0ad993e2cf012fa1bee75549b"
-  },
-  {
-    "name": "דיקטה",
-    "path": "ספרות עזר/דיקטה",
-    "zip": "folder_0594.zip",
-    "label": "דיקטה",
-    "parent": "ספרות עזר",
-    "size": "9.5 MB",
-    "depth": 1,
-    "hash": "be273460c1eb3efddfd6792409fa8455"
   },
   {
     "name": "דקדוק",
@@ -600,26 +600,6 @@
     "hash": "94c2d560eaf64ccdfe56e39ad9d720c0"
   },
   {
-    "name": "ספרי המוסר",
-    "path": "ספרי מוסר/ספרי המוסר",
-    "zip": "folder_0599.zip",
-    "label": "ספרי המוסר",
-    "parent": "ספרי מוסר",
-    "size": "334 KB",
-    "depth": 1,
-    "hash": "e5857500ca88def36f90c775e265ab76"
-  },
-  {
-    "name": "ספרי המחשבה",
-    "path": "ספרי מוסר/ספרי המחשבה",
-    "zip": "folder_0600.zip",
-    "label": "ספרי המחשבה",
-    "parent": "ספרי מוסר",
-    "size": "4.8 MB",
-    "depth": 1,
-    "hash": "61496fa809ffa57b915cd55b77597b8f"
-  },
-  {
     "name": "ספרי רבי יעקב אבוחצירא",
     "path": "ספרי מוסר/ספרי רבי יעקב אבוחצירא",
     "zip": "folder_0602.zip",
@@ -638,16 +618,6 @@
     "size": "1.0 MB",
     "depth": 1,
     "hash": "365b9b59f9ce70bde3e0b7d7e0333c0a"
-  },
-  {
-    "name": "כתבי הרמח״ל",
-    "path": "קבלה/כתבי הרמח״ל",
-    "zip": "folder_0604.zip",
-    "label": "כתבי הרמח״ל",
-    "parent": "קבלה",
-    "size": "468 KB",
-    "depth": 1,
-    "hash": "85ade98648f1ff7eab6224b9e83f99b0"
   },
   {
     "name": "כתבי הרמ״ע מפאנו",
@@ -770,6 +740,16 @@
     "hash": "b1fa1e66f4a163428f12c05922e1fe0f"
   },
   {
+    "name": "רמח״ל",
+    "path": "קבלה/רמח״ל",
+    "zip": "folder_0637.zip",
+    "label": "רמח״ל",
+    "parent": "קבלה",
+    "size": "468 KB",
+    "depth": 1,
+    "hash": "85ade98648f1ff7eab6224b9e83f99b0"
+  },
+  {
     "name": "קישורים",
     "path": "קבצי קישורים וסדר הדורות/קישורים",
     "zip": "folder_0420.zip",
@@ -795,9 +775,9 @@
     "zip": "folder_0138.zip",
     "label": "אחרונים",
     "parent": "שו״ת",
-    "size": "18.6 MB",
+    "size": "19.0 MB",
     "depth": 1,
-    "hash": "6fd2719eb192e9adcb9810cf5942b72e"
+    "hash": "124a2f0792d9f4df94975830bcd737e8"
   },
   {
     "name": "גאונים",
@@ -857,7 +837,7 @@
     "parent": "תלמוד בבלי",
     "size": "47.7 MB",
     "depth": 1,
-    "hash": "3a42df963f26c5e3b4b23880868c8193"
+    "hash": "a919294a21827de8ce418f7d621b85f4"
   },
   {
     "name": "מערכות ועניינים",
@@ -990,6 +970,16 @@
     "hash": "bb86910cd22ae6b16af6fdf04db49ea3"
   },
   {
+    "name": "טהרת הבית",
+    "path": "הלכה/מחברי זמננו/טהרת הבית",
+    "zip": "folder_0638.zip",
+    "label": "טהרת הבית",
+    "parent": "הלכה/מחברי זמננו",
+    "size": "1.7 MB",
+    "depth": 2,
+    "hash": "3f5e3d0a0257edb50dd4ddf010b90775"
+  },
+  {
     "name": "שונה הלכות",
     "path": "הלכה/מחברי זמננו/שונה הלכות",
     "zip": "folder_0079.zip",
@@ -1070,10 +1060,10 @@
     "hash": "bb8c9f858eb1beb8d61a3eafe851c7dd"
   },
   {
-    "name": "ספרי הרמח״ל",
-    "path": "מחשבת ישראל/אחרונים/ספרי הרמח״ל",
-    "zip": "folder_0529.zip",
-    "label": "ספרי הרמח״ל",
+    "name": "רמח״ל",
+    "path": "מחשבת ישראל/אחרונים/רמח״ל",
+    "zip": "folder_0639.zip",
+    "label": "רמח״ל",
     "parent": "מחשבת ישראל/אחרונים",
     "size": "1.0 MB",
     "depth": 2,
@@ -2105,9 +2095,9 @@
     "zip": "folder_0552.zip",
     "label": "שיעורי הגרח״פ ברמן",
     "parent": "תלמוד בבלי/מחברי זמננו",
-    "size": "502 KB",
+    "size": "504 KB",
     "depth": 2,
-    "hash": "913677dd1d9b6644e6e50e9a3f0ef5a2"
+    "hash": "c0175456c7b0f08d767859d72f30765e"
   },
   {
     "name": "שיעורי הגרמ״ד סאלאווציק - מנחות",
@@ -2127,7 +2117,7 @@
     "parent": "תלמוד בבלי/מחברי זמננו",
     "size": "1.5 MB",
     "depth": 2,
-    "hash": "0a37318578fb7e46fab882dd9915af50"
+    "hash": "97c31e62aaf8c4d26554e7e49bb0d7ad"
   },
   {
     "name": "שיעורי הגר״י ארנברג",
@@ -2751,30 +2741,30 @@
   },
   {
     "name": "מאמרים",
-    "path": "מחשבת ישראל/אחרונים/ספרי הרמח״ל/מאמרים",
-    "zip": "folder_0531.zip",
+    "path": "מחשבת ישראל/אחרונים/רמח״ל/מאמרים",
+    "zip": "folder_0640.zip",
     "label": "מאמרים",
-    "parent": "מחשבת ישראל/אחרונים/ספרי הרמח״ל",
+    "parent": "מחשבת ישראל/אחרונים/רמח״ל",
     "size": "143 KB",
     "depth": 3,
     "hash": "7b001d1e4504f7863db2ec05b294d604"
   },
   {
     "name": "נספחים",
-    "path": "מחשבת ישראל/אחרונים/ספרי הרמח״ל/נספחים",
-    "zip": "folder_0532.zip",
+    "path": "מחשבת ישראל/אחרונים/רמח״ל/נספחים",
+    "zip": "folder_0641.zip",
     "label": "נספחים",
-    "parent": "מחשבת ישראל/אחרונים/ספרי הרמח״ל",
+    "parent": "מחשבת ישראל/אחרונים/רמח״ל",
     "size": "103 KB",
     "depth": 3,
     "hash": "e9d922d4ea4fbca6591d94abda328272"
   },
   {
     "name": "ספרים",
-    "path": "מחשבת ישראל/אחרונים/ספרי הרמח״ל/ספרים",
-    "zip": "folder_0533.zip",
+    "path": "מחשבת ישראל/אחרונים/רמח״ל/ספרים",
+    "zip": "folder_0642.zip",
     "label": "ספרים",
-    "parent": "מחשבת ישראל/אחרונים/ספרי הרמח״ל",
+    "parent": "מחשבת ישראל/אחרונים/רמח״ל",
     "size": "818 KB",
     "depth": 3,
     "hash": "1a9c3a5ea36f4874b466daf4bb812916"
@@ -2927,7 +2917,7 @@
     "parent": "תלמוד בבלי/מחברי זמננו/שיעורי הגרח״פ ברמן",
     "size": "180 KB",
     "depth": 3,
-    "hash": "616bdbfaedce3fa83aeecb1bd5a14c2e"
+    "hash": "bdb6fa46703de6e4045df559829981af"
   },
   {
     "name": "כתובות",
@@ -2937,7 +2927,7 @@
     "parent": "תלמוד בבלי/מחברי זמננו/שיעורי הגרח״פ ברמן",
     "size": "7 KB",
     "depth": 3,
-    "hash": "c6270657b7758a84572394238bf606b5"
+    "hash": "6df38f7007d14f55813bfbbc1511982a"
   },
   {
     "name": "נדרים",
@@ -2955,9 +2945,9 @@
     "zip": "folder_0558.zip",
     "label": "קידושין",
     "parent": "תלמוד בבלי/מחברי זמננו/שיעורי הגרח״פ ברמן",
-    "size": "65 KB",
+    "size": "67 KB",
     "depth": 3,
-    "hash": "806fa7f6928de9892f4d90d3168a1c01"
+    "hash": "e062d9d29210983b695c9d571595cddf"
   },
   {
     "name": "בבא בתרא",
@@ -3025,9 +3015,9 @@
     "zip": "folder_0565.zip",
     "label": "סנהדרין",
     "parent": "תלמוד בבלי/מחברי זמננו/שיעורי הגר״ד מילר",
-    "size": "183 KB",
+    "size": "184 KB",
     "depth": 3,
-    "hash": "ed1535d4be57251f5a8cac188b4da436"
+    "hash": "cda683bef31e424d53139a9c2ae1ab04"
   },
   {
     "name": "פסחים",
