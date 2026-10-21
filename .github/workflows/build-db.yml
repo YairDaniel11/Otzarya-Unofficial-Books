@@ -377,12 +377,21 @@ jobs:
         run: |
           set -euo pipefail
           t0=$SECONDS
-          NOTES="עדכון אוטומטי, גרסה $VERSION, קומיט ${GITHUB_SHA::7}, $(TZ='Asia/Jerusalem' date +'%d.%m.%Y %H:%M')"
+          # הערות גרסה: סיכום שינויי ספרים מאז הקומיט שבמניפסט הקודם; כל כשל חוזר לטקסט הגנרי
+          NOTES_FILE="$WORK/release-notes.txt"
+          FALLBACK="עדכון אוטומטי, גרסה $VERSION, קומיט ${GITHUB_SHA::7}, $(TZ='Asia/Jerusalem' date +'%d.%m.%Y %H:%M')"
+          git fetch --no-tags --filter=blob:none --unshallow origin >/dev/null 2>&1 \
+            || git fetch --no-tags --filter=blob:none --depth=500 origin >/dev/null 2>&1 || true
+          PMAN=""; [ -f "$WORK/prev1/manifest.json" ] && PMAN="$WORK/prev1/manifest.json"
+          python -X utf8 "$TOOLS_DIR/release_notes.py" --repo . --head "$GITHUB_SHA" --version "$VERSION" \
+            ${PMAN:+--prev-manifest "$PMAN"} > "$NOTES_FILE" 2>/dev/null || true
+          [ -s "$NOTES_FILE" ] || printf '%s\n' "$FALLBACK" > "$NOTES_FILE"
+          cat "$NOTES_FILE"
           ARGS=()
           mapfile -t PREVS < "$WORK/prev-list.txt"
           [ "${#PREVS[@]}" -gt 0 ] && ARGS+=(--prev-dbs "${PREVS[@]}")
           python -X utf8 "$TOOLS_DIR/release_db.py" pack --db "$WORK/new.db" --out "$WORK/out" \
-            --url-prefix "$DOWNLOAD_BASE/db-v$VERSION" --notes "$NOTES" "${ARGS[@]}"
+            --url-prefix "$DOWNLOAD_BASE/db-v$VERSION" --notes "$NOTES_FILE" "${ARGS[@]}"
           ls -l "$WORK/out"
           df -h / | tail -1
           echo "pack $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
