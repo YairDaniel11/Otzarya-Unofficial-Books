@@ -27,6 +27,8 @@ on:
       - 'יצירת קישורים וסדר הדורות/כלי יצירה/build_personal_db.py'
       - 'יצירת קישורים וסדר הדורות/כלי יצירה/compress_personal_db.py'
       - 'יצירת קישורים וסדר הדורות/כלי יצירה/release_db.py'
+      - 'יצירת קישורים וסדר הדורות/כלי יצירה/zstd_dict_32768.bin'
+      - 'יצירת קישורים וסדר הדורות/כלי יצירה/train_zstd_dict.py'
   workflow_dispatch:
     inputs:
       start_version:
@@ -137,7 +139,7 @@ jobs:
           # טביעת אצבע של הקלט: עץ git של 'ספרים', ה-DB הרשמי, כלי הבנייה, ה-helpers וקובץ ה-workflow
           TOOLS="$TOOLS_DIR"
           FP=$( { git rev-parse "HEAD:ספרים"; echo "$OFFICIAL_TAG"; \
-                  sha256sum "$TOOLS/build_personal_db.py" "$TOOLS/compress_personal_db.py" "$TOOLS/release_db.py"                           .github/scripts/db_release_helpers.py .github/workflows/build-db.yml; } \
+                  sha256sum "$TOOLS/build_personal_db.py" "$TOOLS/compress_personal_db.py" "$TOOLS/release_db.py" "$TOOLS/zstd_dict_32768.bin"                           .github/scripts/db_release_helpers.py .github/workflows/build-db.yml; } \
                 | sha256sum | cut -d' ' -f1)
 
           SKIP=false

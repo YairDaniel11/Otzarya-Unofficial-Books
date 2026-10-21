@@ -9,7 +9,12 @@
       שאר הטבלאות ללא שינוי. VACUUM בסוף. דטרמיניסטי: אותו קלט + אותם
       פרמטרים => אותו קובץ.
 
-שימוש:  python compress_personal_db.py IN.db OUT.db [--level 19] [--dict-size 112640]
+המילון קבוע: נטען מהקובץ zstd_dict_32768.bin (ליד הסקריפט, או --dict), כדי שבלוקים של
+שורות שלא השתנו יישארו זהים בייט-לבייט בין גרסאות והדלתא (zstd --patch-from) תהיה קטנה.
+אימון מחדש בכל בנייה היה משנה את כל הבלוקים. ליצירת המילון: train_zstd_dict.py.
+בלי קובץ מילון (ובלי --dict) נופלים לאימון ממדגם המסד, כמו בעבר (עם אזהרה).
+
+שימוש:  python compress_personal_db.py IN.db OUT.db [--level 19] [--dict FILE] [--dict-size 112640]
 דורש: pip install zstandard
 """
 import argparse
@@ -26,6 +31,7 @@ SAMPLE_BYTES = 64 * 1024 * 1024
 MAX_SAMPLE_LEN = 8192
 MIN_SAMPLE_LEN = 16
 BATCH = 20000
+DEFAULT_DICT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "zstd_dict_32768.bin")
 
 
 def pick_samples(db):
@@ -51,7 +57,8 @@ def main():
     ap.add_argument("src")
     ap.add_argument("dst")
     ap.add_argument("--level", type=int, default=19)
-    ap.add_argument("--dict-size", type=int, default=112640)
+    ap.add_argument("--dict-size", type=int, default=112640, help="רק באימון חלופי (אין קובץ מילון)")
+    ap.add_argument("--dict", default=DEFAULT_DICT, help="קובץ מילון קבוע (dictID 32768)")
     a = ap.parse_args()
     if os.path.exists(a.dst):
         sys.exit(f"הקובץ {a.dst} כבר קיים; מחק אותו ידנית")
@@ -69,12 +76,19 @@ def main():
     if db.execute("SELECT 1 FROM sqlite_master WHERE name IN ('line_content','zstd_dict')").fetchone():
         sys.exit("הקלט כבר מכיל line_content/zstd_dict")
 
-    samples, used, step = pick_samples(db)
-    print(f"מדגם: {len(samples)} שורות, {used/1e6:.1f}MB (כל {step}-ית)", flush=True)
-    dict_data = zstd.train_dictionary(a.dict_size, samples, dict_id=DICT_ID, threads=1)
+    if os.path.exists(a.dict):
+        dict_data = zstd.ZstdCompressionDict(open(a.dict, "rb").read())
+        if dict_data.dict_id() != DICT_ID:
+            sys.exit(f"{a.dict}: dictID={dict_data.dict_id()}, נדרש {DICT_ID}")
+        print(f"מילון קבוע: {a.dict}", flush=True)
+    else:
+        print(f"אזהרה: אין {a.dict}; מאמנים מילון חדש (הדלתא בין גרסאות תהיה גדולה)", file=sys.stderr, flush=True)
+        samples, used, step = pick_samples(db)
+        print(f"מדגם: {len(samples)} שורות, {used/1e6:.1f}MB (כל {step}-ית)", flush=True)
+        dict_data = zstd.train_dictionary(a.dict_size, samples, dict_id=DICT_ID, threads=1)
+        del samples
     dbytes = dict_data.as_bytes()
     print(f"מילון: {len(dbytes)} בייט, dictID={dict_data.dict_id()}, {time.time()-t0:.0f}s", flush=True)
-    del samples
 
     cctx = zstd.ZstdCompressor(level=a.level, dict_data=dict_data,
                                write_content_size=True, write_checksum=False,
