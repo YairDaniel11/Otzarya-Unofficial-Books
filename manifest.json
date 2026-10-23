@@ -57,7 +57,7 @@
     "parent": "",
     "size": "24.0 MB",
     "depth": 0,
-    "hash": "1bab320f8a6c5d13b13165543dc800c6"
+    "hash": "bcd3cc78438fa4464550c82282f6d6a9"
   },
   {
     "name": "משנה",
@@ -95,9 +95,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "23.0 MB",
+    "size": "23.1 MB",
     "depth": 0,
-    "hash": "bb7527e9af4dcd4bd50de5a427d71556"
+    "hash": "8604a5af4f9d2711c6515b6c488c47f3"
   },
   {
     "name": "קבלה",
@@ -427,7 +427,7 @@
     "parent": "מילונים וספרי יעץ",
     "size": "24.0 MB",
     "depth": 1,
-    "hash": "eb0f2446128a8ef9883b1b767df105a0"
+    "hash": "b5211ae41b8f1079263d21b5e9c50f5c"
   },
   {
     "name": "מחברי זמננו",
@@ -567,7 +567,7 @@
     "parent": "ספרי מוסר",
     "size": "2.9 MB",
     "depth": 1,
-    "hash": "702672a6f326c8bf06ccd56bafe8c2ba"
+    "hash": "abb3b716c7251b81924b8a2b3365879b"
   },
   {
     "name": "ספרי בעל עקידת יצחק",
@@ -1077,7 +1077,7 @@
     "parent": "מילונים וספרי יעץ/אנציקלופדיות",
     "size": "20.9 MB",
     "depth": 2,
-    "hash": "9e33b11214b2a1de96a4d6b2fc653143"
+    "hash": "90e761396ea10a175d13e204d7469eb3"
   },
   {
     "name": "links",
@@ -1137,7 +1137,7 @@
     "parent": "ספרי מוסר/מחברי זמננו",
     "size": "2.4 MB",
     "depth": 2,
-    "hash": "c39d1e61e171e7cfe8875925d12fb523"
+    "hash": "247c1c170b3cb31ad0bf94ea190d28ed"
   },
   {
     "name": "01",
@@ -2777,7 +2777,7 @@
     "parent": "מילונים וספרי יעץ/אנציקלופדיות/אנציקלופדיה תלמודית",
     "size": "890 KB",
     "depth": 3,
-    "hash": "0115470578a8a8c80590a3b5f0e96314"
+    "hash": "402715876eaf11325d29015b3dcc70cc"
   },
   {
     "name": "הערות על אנציקלופדיה",
@@ -2798,6 +2798,16 @@
     "size": "8 KB",
     "depth": 3,
     "hash": "6fb113e34183424381341eb68a190a20"
+  },
+  {
+    "name": "links",
+    "path": "ספרי מוסר/מחברי זמננו/ספרי דעת של הרב שלוסברג/links",
+    "zip": "folder_0647.zip",
+    "label": "links",
+    "parent": "ספרי מוסר/מחברי זמננו/ספרי דעת של הרב שלוסברג",
+    "size": "20 KB",
+    "depth": 3,
+    "hash": "30d04b45317bb7fdcc42f12824d27abd"
   },
   {
     "name": "links",
