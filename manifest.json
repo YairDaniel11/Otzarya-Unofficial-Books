@@ -55,9 +55,9 @@
     "zip": "folder_0056.zip",
     "label": "מילונים וספרי יעץ",
     "parent": "",
-    "size": "24.0 MB",
+    "size": "23.8 MB",
     "depth": 0,
-    "hash": "bcd3cc78438fa4464550c82282f6d6a9"
+    "hash": "7c9c1df4fca3601d59ebaef81ff76cbc"
   },
   {
     "name": "משנה",
@@ -425,9 +425,9 @@
     "zip": "folder_0066.zip",
     "label": "אנציקלופדיות",
     "parent": "מילונים וספרי יעץ",
-    "size": "24.0 MB",
+    "size": "23.8 MB",
     "depth": 1,
-    "hash": "b5211ae41b8f1079263d21b5e9c50f5c"
+    "hash": "d33fea16fcde435f7baf3b542fb685f4"
   },
   {
     "name": "מחברי זמננו",
@@ -1075,9 +1075,9 @@
     "zip": "folder_0084.zip",
     "label": "אנציקלופדיה תלמודית",
     "parent": "מילונים וספרי יעץ/אנציקלופדיות",
-    "size": "20.9 MB",
+    "size": "20.7 MB",
     "depth": 2,
-    "hash": "90e761396ea10a175d13e204d7469eb3"
+    "hash": "00a6808a124b34ee161ac7fdf91227ba"
   },
   {
     "name": "links",
