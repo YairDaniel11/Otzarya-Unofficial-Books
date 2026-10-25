@@ -17,7 +17,7 @@
     "parent": "",
     "size": "60.6 MB",
     "depth": 0,
-    "hash": "693d3dd060f79fc0e4a69b26297fda57"
+    "hash": "1b339c68d13378e30b26bca9557bacb7"
   },
   {
     "name": "חסידות",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "49.9 MB",
     "depth": 0,
-    "hash": "6455438499ff3e24aff1fbeef80bc87c"
+    "hash": "f1417de58d69a1fb1e43235ab205858e"
   },
   {
     "name": "קבצי קישורים וסדר הדורות",
@@ -117,7 +117,7 @@
     "parent": "",
     "size": "7.6 MB",
     "depth": 0,
-    "hash": "3857967f531e872c427aa8e1961b16b3"
+    "hash": "c483a4c947aeb9d55fc54f1ac682411b"
   },
   {
     "name": "שו״ת",
@@ -157,7 +157,7 @@
     "parent": "",
     "size": "47.8 MB",
     "depth": 0,
-    "hash": "55589a941481b5ddcdcb7844a08ae0a3"
+    "hash": "91465e82853be8f9cb6c1958d6545e8c"
   },
   {
     "name": "יוסף בן מתתיהו",
@@ -197,7 +197,7 @@
     "parent": "הלכה",
     "size": "20.6 MB",
     "depth": 1,
-    "hash": "c4cfa4c4aafa7c665d47e273e26cabad"
+    "hash": "c88636dbd8040356adbc0f74327f8096"
   },
   {
     "name": "מפרשים",
@@ -620,6 +620,16 @@
     "hash": "5418e2a54c721ecb001e1682cc42df54"
   },
   {
+    "name": "אחרונים",
+    "path": "קבלה/אחרונים",
+    "zip": "folder_0655.zip",
+    "label": "אחרונים",
+    "parent": "קבלה",
+    "size": "5.8 MB",
+    "depth": 1,
+    "hash": "2c51f372301ccf75d17363ea8dd83fac"
+  },
+  {
     "name": "כתבי הגרמ״מ משקלוב",
     "path": "קבלה/כתבי הגרמ״מ משקלוב",
     "zip": "folder_0603.zip",
@@ -675,9 +685,9 @@
     "zip": "folder_0609.zip",
     "label": "כתבי רבינו האר״י",
     "parent": "קבלה",
-    "size": "3.8 MB",
+    "size": "3.9 MB",
     "depth": 1,
-    "hash": "66de6be73a6aa524e7ef9c6b1541c5fa"
+    "hash": "cc001d41862a9cd678fb0978b14e654a"
   },
   {
     "name": "כתבי רי״א חבר",
@@ -718,16 +728,6 @@
     "size": "561 KB",
     "depth": 1,
     "hash": "d73dd7fdd775377a5e0265c534120ecc"
-  },
-  {
-    "name": "ספרי קבלת האחרונים",
-    "path": "קבלה/ספרי קבלת האחרונים",
-    "zip": "folder_0614.zip",
-    "label": "ספרי קבלת האחרונים",
-    "parent": "קבלה",
-    "size": "5.9 MB",
-    "depth": 1,
-    "hash": "af81e8e5e97e3efe4cce50b74e2b8600"
   },
   {
     "name": "ספרי קבלת הראשונים",
@@ -910,6 +910,16 @@
     "hash": "04cf7105240e90a9e554ec5ce77b418c"
   },
   {
+    "name": "מחברי זמנינו",
+    "path": "תנ״ך/מחברי זמנינו",
+    "zip": "folder_0656.zip",
+    "label": "מחברי זמנינו",
+    "parent": "תנ״ך",
+    "size": "9.1 MB",
+    "depth": 1,
+    "hash": "c1553af9b9fcafc3c6358aaf65e4791e"
+  },
+  {
     "name": "מסורה",
     "path": "תנ״ך/מסורה",
     "zip": "folder_0253.zip",
@@ -935,9 +945,9 @@
     "zip": "folder_0255.zip",
     "label": "ראשונים",
     "parent": "תנ״ך",
-    "size": "14.3 MB",
+    "size": "16.6 MB",
     "depth": 1,
-    "hash": "50eba0e6df621d675fd330b9ad7d1788"
+    "hash": "669851e22a49de40ab07b4ee5236dfe9"
   },
   {
     "name": "תורה",
@@ -998,6 +1008,16 @@
     "size": "1.7 MB",
     "depth": 2,
     "hash": "3f5e3d0a0257edb50dd4ddf010b90775"
+  },
+  {
+    "name": "טהרת הבית - הקצר",
+    "path": "הלכה/מחברי זמננו/טהרת הבית - הקצר",
+    "zip": "folder_0657.zip",
+    "label": "טהרת הבית - הקצר",
+    "parent": "הלכה/מחברי זמננו",
+    "size": "85 KB",
+    "depth": 2,
+    "hash": "29103415d1cfad3e430e0ca7c85267d2"
   },
   {
     "name": "שונה הלכות",
