@@ -29,7 +29,8 @@ def sha_from_notes(text):
 
 def relevant(path):
     return (path.startswith(BOOKS + "/") and path.endswith(".txt")
-            and not path.startswith(IGNORE_DIR) and "/links/" not in path)
+            and not path.startswith(IGNORE_DIR) and "/links/" not in path
+            and path.rsplit("/", 1)[-1] != "סדר.txt")  # קובץ סדר, לא ספר
 
 
 def parse_diff(out):

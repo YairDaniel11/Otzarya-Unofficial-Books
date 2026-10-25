@@ -24,8 +24,55 @@ ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', '..', 'ס�
 LINKS_DIR = os.path.join(ROOT, 'קבצי קישורים וסדר הדורות')
 OFFICIAL_DB = r'C:\ProgramData\otzaria\books\seforim.db'
 BOOK_EXTS = {'.txt'}  # בניסוי: טקסט בלבד (PDF/DOCX דורשים filePath)
+ORDER_FILE = 'סדר.txt'  # קובץ סדר אופציונלי בכל תיקייה (לא נכנס ל-DB כספר)
 LIBRARY_ID = 'otzarya-unofficial-books'
 ROW_STRIDE = 1 << 20  # שורות/רשומות תוכן-עניינים לספר: מזהה = bookId*ROW_STRIDE + מונה, בלי תלות בספרים אחרים
+
+
+def read_order_file(path):
+    """שמות הפריטים מקובץ סדר: שורה לשורה, בלי ריקות והערות (#)."""
+    with open(path, encoding='utf-8-sig') as f:
+        names = [l.strip() for l in f]
+    return [n for n in names if n and not n.startswith('#')]
+
+
+def load_orders(root, dirs):
+    """{נתיב תיקייה יחסי כ-tuple: רשימת שמות} לכל תיקייה ב-dirs (יחסיות ל-root) שיש בה סדר.txt."""
+    orders = {}
+    for d in dirs:
+        p = os.path.join(root, *d, ORDER_FILE)
+        if os.path.isfile(p):
+            orders[tuple(d)] = read_order_file(p)
+    return orders
+
+
+def order_key(rel_path, orders):
+    """מפתח מיון היררכי לנתיב קובץ יחסי ל-root. לכל רכיב: (מקומו ברשימת הסדר של תיקיית האב, אחרת אינסוף) ואז הרכיב עצמו.
+    כשאין אף סדר.txt המפתח שקול בדיוק למיון לפי הנתיב המלא (רכיבי תיקייה מסתיימים ב-os.sep)."""
+    parts = rel_path.split(os.sep)
+    key = []
+    for i, comp in enumerate(parts):
+        last = i == len(parts) - 1
+        name = os.path.splitext(comp)[0] if last else comp
+        lst = orders.get(tuple(parts[:i]))
+        rank = lst.index(name) if lst and name in lst else float('inf')
+        key.append((rank, comp if last else comp + os.sep))
+    return tuple(key)
+
+
+def collect_books(root, base):
+    """כל קבצי הספרים תחת base, ממוינים לפי סדר.txt ואז א-ב. מחזיר נתיבים מלאים."""
+    found, dirs = [], []
+    for d, _, fs in os.walk(base):
+        dirs.append([] if os.path.relpath(d, root) == '.' else os.path.relpath(d, root).split(os.sep))
+        found += [os.path.join(d, f) for f in fs
+                  if os.path.splitext(f)[1] in BOOK_EXTS and f != ORDER_FILE]
+    # תיקיות האב של base (מעל base, בתוך root) משפיעות גם הן על הסדר
+    rel_base = os.path.relpath(base, root)
+    anc = [] if rel_base == '.' else rel_base.split(os.sep)
+    dirs += [anc[:i] for i in range(len(anc))]
+    orders = load_orders(root, dirs)
+    return sorted(found, key=lambda p: order_key(os.path.relpath(p, root), orders))
 
 
 class Ids:
@@ -191,8 +238,7 @@ def main():
     root = os.path.normpath(a.root)
 
     base = os.path.join(root, a.folder)
-    files = sorted(os.path.join(d, f) for d, _, fs in os.walk(base) for f in fs
-                   if os.path.splitext(f)[1] in BOOK_EXTS)
+    files = collect_books(root, base)
     if os.path.exists(a.out):
         os.remove(a.out)
     db = sqlite3.connect(a.out)

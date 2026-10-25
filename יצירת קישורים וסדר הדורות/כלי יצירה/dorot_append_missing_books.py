@@ -9,7 +9,7 @@ gen={}
 for dp,_,fs in os.walk("."):
     if "קבצי קישורים" in dp or "ספרים שאינם מותאמים" in dp: continue
     for f in fs:
-        if not f.endswith('.txt'): continue
+        if not f.endswith('.txt') or f == 'סדר.txt': continue
         s=f[:-4]
         if s in have: continue
         p=dp

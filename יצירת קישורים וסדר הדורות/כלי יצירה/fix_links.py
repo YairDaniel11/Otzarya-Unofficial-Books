@@ -38,7 +38,7 @@ def candidates():
             continue
         rel = tuple(os.path.relpath(dp, A.BASE).split(os.sep))
         for f in sorted(fs):
-            if f.endswith('.txt'):
+            if f.endswith('.txt') and f != 'סדר.txt':  # סדר.txt = קובץ סדר ל-DB, לא ספר
                 c[f[:-4]].append((rel, os.path.join(dp, f)))
     return c
 

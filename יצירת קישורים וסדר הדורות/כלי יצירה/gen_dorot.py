@@ -59,6 +59,7 @@ rows=[];un=[];src={}
 for dp,dn,fn in os.walk(ROOT):
     for n in sorted(fn):
         b,ext=os.path.splitext(n)
+        if n=='סדר.txt': continue
         if ext.lower() not in('.txt','.pdf','.docx'): continue
         if b=='ספרים שאינם מותאמים לאוצריא': continue
         parts=os.path.relpath(dp,ROOT).split(os.sep)

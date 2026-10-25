@@ -292,7 +292,7 @@ def main():
         rel = tuple(os.path.relpath(dp, BASE).split(os.sep))
         for f in sorted(fs):
             stem, ext = os.path.splitext(f)
-            if ext == '.txt':
+            if ext == '.txt' and f != 'סדר.txt':  # קובץ סדר, לא ספר
                 dups[stem].append((rel, os.path.join(dp, f)))
     for stem, lst in dups.items():
         # מעדיפים את הנתיב שבו הספר מותאם (לא "שאינם מותאמים")

@@ -19,6 +19,7 @@ files=[]
 for dp,dn,fn in os.walk(ROOT):
     for n in fn:
         ext=os.path.splitext(n)[1].lower()
+        if n=='סדר.txt': continue
         if ext in('.txt','.pdf','.docx'):
             files.append((os.path.join(dp,n), os.path.relpath(dp,ROOT).split(os.sep), os.path.splitext(n)[0]))
 print(len(files))

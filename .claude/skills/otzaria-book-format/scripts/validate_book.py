@@ -306,7 +306,7 @@ def gather(paths: list[str]) -> list[Path]:
     for p in paths:
         path = Path(p)
         if path.is_dir():
-            out.extend(sorted(path.rglob("*.txt")))
+            out.extend(sorted(q for q in path.rglob("*.txt") if q.name != "סדר.txt"))
         else:
             out.append(path)
     return out

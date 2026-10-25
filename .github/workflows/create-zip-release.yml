@@ -107,6 +107,8 @@ jobs:
                   for dp, dns, fns in os.walk(src_dir):
                       dns.sort()
                       for fn in sorted(fns):
+                          if fn == 'סדר.txt':  # קובץ סדר ל-DB בלבד, לא ספר להתקנה בתוסף
+                              continue
                           fp  = os.path.join(dp, fn)
                           arc = os.path.relpath(fp, src_dir).replace('\\', '/')
                           info = zipfile.ZipInfo(arc, date_time=ZIP_EPOCH)
