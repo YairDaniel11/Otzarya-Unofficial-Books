@@ -1,128 +1,128 @@
 <h1>פשיטתא - שיר השירים</h1>
 
-מהדורת ליידן של הפשיטתא (The Old Testament in Syriac according to the Peshiṭta Version), מתוך Peshitta Online של הוצאת בריל
+מהדורת ליידן של הפשיטתא, מתוך הוצאת בריל
 <h2>פרק א</h2>
-(א) תשבחת<sup class="footnote-marker">1</sup><i class="footnote">תש̈בחת‎ 7a1</i> תשב̈חתא דשלימון<sup class="footnote-marker">2</sup><i class="footnote">בר דויד מלכא דאיסריל דאי̇תיה̇ זמיר̈ת זמיר̈תא. ומתקריא עבראית שאר̈ת שאר̈ין‎ +7a1</i>
+(א) תשבחת<sup>1</sup> תשב̈חתא דשלימון<sup>2</sup>
 (ב) נ̇שקני מן נוש̈קתא דפומה מטל דטב̈ין ר̈חמיך מן חמרא
 (ג) לריח בס̈מניך טב̈א משחא דמורא שמך מטל הנא עלימ̈תא רחמך
 (ד) גדיני בתרך נרהט אעליני מלכא לקיטונך נחדא ונדוץ בך נתדכר חובך מן חמרא ומן תר̈יצא רחמתך
-(ה) אוכמא אנא ויאיא אנא ב̈נת אורשלם איך מש̈כני קדר ואיך יר̈יעת<sup class="footnote-marker">3</sup><i class="footnote">יר̈יעתי‎ 6h17, 9h1 &amp;</i><sup class="footnote-marker">4</sup><i class="footnote">יריעת‎11c1 &amp;</i> שלימון
-(ו) לא תחזונני דאוכמת<sup class="footnote-marker">5</sup><i class="footnote">דאוכמא‎ 8a1c, 9c1, 9h1, 9l2, 9l6,10c1,11c1, 12a1fam &amp;</i><sup class="footnote-marker">6</sup><i class="footnote">אנא‎ +8a1c, 9c1, 9h1, 9l2, 9l6,10c1,11c1,12a1fam &amp;</i> דאוכמני שמשא בנ̈י אמי אתכתשו בי סמוני נטרת כר̈מא<sup class="footnote-marker">7</sup><i class="footnote">כרמא‎ 6h17, 9l6 &amp;</i> וכרמי<sup class="footnote-marker">8</sup><i class="footnote">וכ̈רמי‎ 9l2</i><sup class="footnote-marker">9</sup><i class="footnote">וכרמא‎ 6h17,10c1 &amp;</i> דילי לא נטרת
-(ז) חואוני מ̇ן<sup class="footnote-marker">10</sup><i class="footnote">למ̇ן‎ 9l6 &amp;</i> דרחמת נפשי איכא<sup class="footnote-marker">11</sup><i class="footnote">איכנא‎ 8a1c, 9c1, 9h1, 9l6, 10c1,11c1,12a1c &amp;</i> רעית ואיכנא<sup class="footnote-marker">12</sup><i class="footnote">ואיכא‎ 6h17, 8a1*, 9h1,12a1* &amp;</i> רבעת בThrא דלמא אהוא איך טעיתא בגזרא דער̈ביך
-(ח) אלא תדעין יתכי שפירת בנש̈א<sup class="footnote-marker">13</sup><i class="footnote">נש̈א‎ 6h17, 9c1, 9h1,10c1,11c1 &amp;</i> תי אנתי בעקבתא<sup class="footnote-marker">14</sup><i class="footnote">בעקבא‎ 8a1c, 9c1, 9h1, 9l2,10c1,11c1 &amp;</i> דענא ורעי גדי̈כי במשכנא<sup class="footnote-marker">15</sup><i class="footnote">במש̈כנא‎ 9c1, 9h1,10c1,11c1,12a1fam &amp;</i> דר̈עותא
-(ט) לסוסתי במרכבתה<sup class="footnote-marker">16</sup><i class="footnote">במר̈כבתה‎ 9l2</i> דפרעון דמיתכי קריבתי
+(ה) אוכמא אנא ויאיא אנא ב̈נת אורשלם איך מש̈כני קדר ואיך יר̈יעת<sup>3</sup><sup>4</sup> שלימון
+(ו) לא תחזונני דאוכמת<sup>5</sup><sup>6</sup> דאוכמני שמשא בנ̈י אמי אתכתשו בי סמוני נטרת כר̈מא<sup>7</sup> וכרמי<sup>8</sup><sup>9</sup> דילי לא נטרת
+(ז) חואוני מ̇ן<sup>10</sup> דרחמת נפשי איכא<sup>11</sup> רעית ואיכנא<sup>12</sup> רבעת בא דלמא אהוא איך טעיתא בגזרא דער̈ביך
+(ח) אלא תדעין יתכי שפירת בנש̈א<sup>13</sup> תי אנתי בעקבתא<sup>14</sup> דענא ורעי גדי̈כי במשכנא<sup>15</sup> דר̈עותא
+(ט) לסוסתי במרכבתה<sup>16</sup> דפרעון דמיתכי קריבתי
 (י) יא̇ין פכי̈כי בגדו̈לא̈ וצורכי בעק̈א
-(יא) גדו̈לא<sup class="footnote-marker">17</sup><i class="footnote">גדי̈לא‎ 9h1</i> דדהבא נעבד לכי עם זליח̈א דסאמא
-(יב) עם מלכא בסמכה נרדי<sup class="footnote-marker">18</sup><i class="footnote">נר̈די‎ 9h1</i><sup class="footnote-marker">19</sup><i class="footnote">נרדין‎ 8a1, 9l2, 9l6,12a1fam &amp;</i> יהב ריחה
+(יא) גדו̈לא<sup>17</sup> דדהבא נעבד לכי עם זליח̈א דסאמא
+(יב) עם מלכא בסמכה נרדי<sup>18</sup><sup>19</sup> יהב ריחה
 (יג) צררא דמורא דרח̇ם לי בית ת̈די נבות
-(יד) סגולא דכופרא דדי<sup class="footnote-marker">20</sup><i class="footnote">לי‎ +9l6</i> בכרמא דעין גד
+(יד) סגולא דכופרא דדי<sup>20</sup> בכרמא דעין גד
 (טו) הא שפירתי קריבתי̈ הא שפירתי עינ̈יכי דיונא
-(טז) הא שפיר<sup class="footnote-marker">21</sup><i class="footnote">שפירתי‎ 9h1,11c1 &amp;</i><sup class="footnote-marker">22</sup><i class="footnote">אנת‎ -9h1,11c1 &amp;</i> דדי אף<sup class="footnote-marker">23</sup><i class="footnote">ואף‎ 7a1</i> בסים<sup class="footnote-marker">24</sup><i class="footnote">אנת‎ +8a1c, 9c1, 9h1,10c1,11c1 &amp;</i><sup class="footnote-marker">25</sup><i class="footnote">אף‎ -12a1fam</i> ערסן רציף<sup class="footnote-marker">26</sup><i class="footnote">רצף‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i>
-(יז) קר̈ית<sup class="footnote-marker">27</sup><i class="footnote">קר̈יתי‎ 7a1</i><sup class="footnote-marker">28</sup><i class="footnote">קרית‎ 9h1,11c1 &amp;</i><sup class="footnote-marker">29</sup><i class="footnote">קריתי‎ 8a1*</i> ביתן אר̈זא ער̈קא דקטר̈קא<sup class="footnote-marker">30</sup><i class="footnote">דקטרקא‎10c1,11c1 &amp;</i>
+(טז) הא שפיר<sup>21</sup><sup>22</sup> דדי אף<sup>23</sup> בסים<sup>24</sup><sup>25</sup> ערסן רציף<sup>26</sup>
+(יז) קר̈ית<sup>27</sup><sup>28</sup><sup>29</sup> ביתן אר̈זא ער̈קא דקטר̈קא<sup>30</sup>
 <h2>פרק ב</h2>
 (א) איך שושנת שרוינא שושנת עומקא
-(ב) איך שו̈שנא<sup class="footnote-marker">1</sup><i class="footnote">שושנא‎ 6h17 &amp;</i> בינ̈ת כו̈בא הכנא קר̈יבתי בינ̈ת בנ̈תא
-(ג) איך חזורא בקי̈סא<sup class="footnote-marker">2</sup><i class="footnote">בקיסא‎ 6h17, 9h1 &amp;</i> דעבא הכנא דדי בי̈נת בני̈א בטללה אתרגרגת ויתבת פארה חלא לחכי
+(ב) איך שו̈שנא<sup>1</sup> בינ̈ת כו̈בא הכנא קר̈יבתי בינ̈ת בנ̈תא
+(ג) איך חזורא בקי̈סא<sup>2</sup> דעבא הכנא דדי בי̈נת בני̈א בטללה אתרגרגת ויתבת פארה חלא לחכי
 (ד) אעלוני לבית חמרא טכסו עלי רחמתא
-(ה) סמוני<sup class="footnote-marker">3</sup><i class="footnote">סמכוני‎ 7a1, 8a1*,12a1fam &amp;</i> בפונ̈קא אכרכוני<sup class="footnote-marker">4</sup><i class="footnote">אכר̈כוני‎ 7a1</i> בחזור̈א מטל דכריהת רחמתא אנא
+(ה) סמוני<sup>3</sup> בפונ̈קא אכרכוני<sup>4</sup> בחזור̈א מטל דכריהת רחמתא אנא
 (ו) סמלה תחית רישי וימינה תעפקני
-(ז) אומ̈יתכין<sup class="footnote-marker">5</sup><i class="footnote">אומ̈יתין‎ 7a1</i><sup class="footnote-marker">6</sup><i class="footnote">או‎ +12a1fam</i> בנ̈ת אורשלם בטב̈יא או ב̈עוזילא דחקלא אן תעיר̈ן<sup class="footnote-marker">7</sup><i class="footnote">ואן תעיר̈ן‎ -6h17,12k3 &amp;</i> ית רחמתא עדמא דתצבא
-(ח) קלה דדדי הא הנא דאתא<sup class="footnote-marker">8</sup><i class="footnote">אתא‎ 7a1, 8a1*,12k3</i> משור על טור̈א<sup class="footnote-marker">9</sup><i class="footnote">טורא‎ 12a1</i> מקיז על ר̈מתא
-(ט) דמ̇א דדי לטביא או לעוזילא דאי̈לא<sup class="footnote-marker">10</sup><i class="footnote">דאילא‎12a1fam</i><sup class="footnote-marker">11</sup><i class="footnote">על טור̈א דבית איל‎ +12k3</i> הא הו קאם בסתר אסתן מדיק מן כו̈א מרכן מן ציר̈תא
-(י) ענא דדי ואמר לי קומי<sup class="footnote-marker">12</sup><i class="footnote">תי‎ +12k3</i> לכי קריבתי̈<sup class="footnote-marker">13</sup><i class="footnote">שפירתי‎11c1 &amp;</i> שפירתי̈<sup class="footnote-marker">14</sup><i class="footnote">שפירתי̈ קריבתי̈‎ 8a1c, 9c1, 9h1,10c1,12k3 &amp;</i><sup class="footnote-marker">15</sup><i class="footnote">וקריבתי‎11c1 &amp;</i> וזל לכי<sup class="footnote-marker">16</sup><i class="footnote">יונא דילי‎12k3</i>
-(יא) מטל דהא סתוא עבר מטרא<sup class="footnote-marker">17</sup><i class="footnote">ומטרא‎ 9c1, 9h1,10c1,11c1 &amp;</i> עבר ואזל לה
-(יב) ה̈בבא אתחזיו בארעא זבנא דכסחא מטא וקלא<sup class="footnote-marker">18</sup><i class="footnote">קלא‎ 6h17</i> דשופנינא אשתמע באתרן<sup class="footnote-marker">19</sup><i class="footnote">בארען‎ 8a1c, 9c1, 9h1,10c1,11c1,12k3 &amp;</i>
-(יג) תתא יהבת פקו̈עיה̇ גו̈פנא<sup class="footnote-marker">20</sup><i class="footnote">גופנא‎10c1</i><sup class="footnote-marker">21</sup><i class="footnote">וגו̈פנא‎ 9h1</i> וסמדר̈א<sup class="footnote-marker">22</sup><i class="footnote">וסמדרא‎12a1fam &amp;</i> יהבו ריחא קומי לכי שפיר̈תי̈ קר̈יבתי̈ ותי<sup class="footnote-marker">23</sup><i class="footnote">ותי‎ 7a1</i><sup class="footnote-marker">24</sup><i class="footnote">לכי‎ -7a1</i>
-(יד) יוני̈ בחולבא<sup class="footnote-marker">25</sup><i class="footnote">בחו̈לנא‎ 8a1c, 9c1, 9h1,10c1,11c1,12a1c,12k3 &amp;</i> דשועא בסתרא דסיגא חואיני חזוכי<sup class="footnote-marker">26</sup><i class="footnote">שופרכי‎12a1 &amp;</i> ואשמעיני קלכי מטל דקלכי בסים וחזוכי יאא<sup class="footnote-marker">27</sup><i class="footnote">יאיא‎ 9h1,11c1,12a1fam &amp;</i>
-(טו) אחוד<sup class="footnote-marker">28</sup><i class="footnote">אחודו‎ 6h17, 8a1, 9c1,12a1fam &amp;</i> לן ת̈עלא<sup class="footnote-marker">29</sup><i class="footnote">ת̈עלא‎ -12k3 &amp;</i> דק̈דקא מח̈בלי כר̈מא וכר̈מין דסמדר̈א<sup class="footnote-marker">30</sup><i class="footnote">דסמדר̈ין‎ 8a1c, 9c1, 9h1,10c1, 11c1 &amp;</i>
-(טז) דדי לי ואנא לה דרעא<sup class="footnote-marker">31</sup><i class="footnote">דדי‎ 9h1</i> בש̈ושנא
+(ז) אומ̈יתכין<sup>5</sup><sup>6</sup> בנ̈ת אורשלם בטב̈יא או ב̈עוזילא דחקלא אן תעיר̈ן<sup>7</sup> ית רחמתא עדמא דתצבא
+(ח) קלה דדדי הא הנא דאתא<sup>8</sup> משור על טור̈א<sup>9</sup> מקיז על ר̈מתא
+(ט) דמ̇א דדי לטביא או לעוזילא דאי̈לא<sup>10</sup><sup>11</sup> הא הו קאם בסתר אסתן מדיק מן כו̈א מרכן מן ציר̈תא
+(י) ענא דדי ואמר לי קומי<sup>12</sup> לכי קריבתי̈<sup>13</sup> שפירתי̈<sup>14</sup><sup>15</sup> וזל לכי<sup>16</sup>
+(יא) מטל דהא סתוא עבר מטרא<sup>17</sup> עבר ואזל לה
+(יב) ה̈בבא אתחזיו בארעא זבנא דכסחא מטא וקלא<sup>18</sup> דשופנינא אשתמע באתרן<sup>19</sup>
+(יג) תתא יהבת פקו̈עיה̇ גו̈פנא<sup>20</sup><sup>21</sup> וסמדר̈א<sup>22</sup> יהבו ריחא קומי לכי שפיר̈תי̈ קר̈יבתי̈ ותי<sup>23</sup><sup>24</sup>
+(יד) יוני̈ בחולבא<sup>25</sup> דשועא בסתרא דסיגא חואיני חזוכי<sup>26</sup> ואשמעיני קלכי מטל דקלכי בסים וחזוכי יאא<sup>27</sup>
+(טו) אחוד<sup>28</sup> לן ת̈עלא<sup>29</sup> דק̈דקא מח̈בלי כר̈מא וכר̈מין דסמדר̈א<sup>30</sup>
+(טז) דדי לי ואנא לה דרעא<sup>31</sup> בש̈ושנא
 (יז) עד נפוג יומא ונרכנון ט̈ללא אתהפך דמי לך דדי לטביא או לעוזילא דאי̈לא על טור̈י בס̈מנא
 <h2>פרק ג</h2>
-(א) על משכבי ב̈לילותא בעית לדרחמת נפשי בעיתה ולא אשכחתה<sup class="footnote-marker">1</sup><i class="footnote">קריתה ולא ענני‎ +12k3</i>
-(ב) אקום נא אתכרך<sup class="footnote-marker">2</sup><i class="footnote">ואתכרך‎ 6h17 &amp;</i> במדינתא בש̈וקא וב̈פלטותא אבעא<sup class="footnote-marker">3</sup><i class="footnote">ואבעא‎ 12k3</i> לדרחמת נפשי בעיתה ולא אשכחתה<sup class="footnote-marker">4</sup><i class="footnote">קריתה ולא ענני‎ +12k3</i>
+(א) על משכבי ב̈לילותא בעית לדרחמת נפשי בעיתה ולא אשכחתה<sup>1</sup>
+(ב) אקום נא אתכרך<sup>2</sup> במדינתא בש̈וקא וב̈פלטותא אבעא<sup>3</sup> לדרחמת נפשי בעיתה ולא אשכחתה<sup>4</sup>
 (ג) אשכחוני נטור̈א דמתכר̈כין במדינתא למא לדרחמת נפשי חזיתון
-(ד) כד<sup class="footnote-marker">5</sup><i class="footnote">עד‎ 9h1</i> קליל עברת מנהון עדמא דאשכחת ית דרחמת נפשי אחדתה ולא ארפיתה עדמא דאעלתה לבית אמי ולקיטונה̇<sup class="footnote-marker">6</sup><i class="footnote">ולקיטונא‎ 6h17, 8a1*,12a1 &amp;</i> דילדתי
-(ה) או̈מיתכין בנ̈ת אורשלם בטב̈יא או בא̈ילא<sup class="footnote-marker">7</sup><i class="footnote">בעו̈זילא‎ 8a1c, 9c1, 9h1, 10c1,11c1,12a1fam &amp;</i> דחקלא אן תעיר̈ן<sup class="footnote-marker">8</sup><i class="footnote">תקי̈מן‎12k3</i> ואן תעיר̈ן ית רחמתא עדמא דתצבא
-(ו) מ̇ן הי הדא דסלקא מן מדברא איך עטרא דתננא מבסמא במורא ובלבונתא<sup class="footnote-marker">9</sup><i class="footnote">ולבונתא‎ 8a1*, 9c1*,12k3</i> מן<sup class="footnote-marker">10</sup><i class="footnote">דמן‎ 6h17,12k3</i> כל חלא דבס̈מא<sup class="footnote-marker">11</sup><i class="footnote">דבסמא‎ 6h17 &amp;</i>
+(ד) כד<sup>5</sup> קליל עברת מנהון עדמא דאשכחת ית דרחמת נפשי אחדתה ולא ארפיתה עדמא דאעלתה לבית אמי ולקיטונה̇<sup>6</sup> דילדתי
+(ה) או̈מיתכין בנ̈ת אורשלם בטב̈יא או בא̈ילא<sup>7</sup> דחקלא אן תעיר̈ן<sup>8</sup> ואן תעיר̈ן ית רחמתא עדמא דתצבא
+(ו) מ̇ן הי הדא דסלקא מן מדברא איך עטרא דתננא מבסמא במורא ובלבונתא<sup>9</sup> מן<sup>10</sup> כל חלא דבס̈מא<sup>11</sup>
 (ז) הא ערסה דשלימון שתין גנבר̈ין כר̈יכין לה̇ מן גנבר̈א דאיסריל
 (ח) כלהון א̈חידי חרבא ומ̈לפי קרבא גבר חרבה על עטמה מן דחלתא דלי̈לותא
-(ט) מגדלא<sup class="footnote-marker">12</sup><i class="footnote">כורסיא‎12a1fam</i><sup class="footnote-marker">13</sup><i class="footnote">פוריון‎12k3</i> עבד לה מלכא שלימון מן קי̈סא דלבנן
-(י) עמ̈ודוהי עבד דסאמא תשויתה דדהבא<sup class="footnote-marker">14</sup><i class="footnote">דהבא‎12a1fam &amp;</i> ותכסיתה<sup class="footnote-marker">15</sup><i class="footnote">תכסיתה‎ 9c1, 9h1,10c1,11c1,12a1fam,12k3 &amp;</i> דארגונא גוה רציף<sup class="footnote-marker">16</sup><i class="footnote">רצף‎12a1 &amp;</i> רחמתא מן<sup class="footnote-marker">17</sup><i class="footnote">מן רחמתא‎ 8a1c, 9c1, 9h1,10c1,11c1</i> בנ̈ת אורשלם
-(יא) פוק̈ין וח̈זיין בנ̈ת צהיון במלכא<sup class="footnote-marker">18</sup><i class="footnote">למלכא‎ 6h17,12k3</i> שלימון בכלילא דכללתה אמה ביומא דחתנותה ביומא דחדות לבה
+(ט) מגדלא<sup>12</sup><sup>13</sup> עבד לה מלכא שלימון מן קי̈סא דלבנן
+(י) עמ̈ודוהי עבד דסאמא תשויתה דדהבא<sup>14</sup> ותכסיתה<sup>15</sup> דארגונא גוה רציף<sup>16</sup> רחמתא מן<sup>17</sup> בנ̈ת אורשלם
+(יא) פוק̈ין וח̈זיין בנ̈ת צהיון במלכא<sup>18</sup> שלימון בכלילא דכללתה אמה ביומא דחתנותה ביומא דחדות לבה
 <h2>פרק ד</h2>
-(א) הא שפירתי̈ קריבתי̈ הא שפירתי עינ̈יכי דיונא<sup class="footnote-marker">1</sup><i class="footnote">יונא‎12k3</i> לבר מן שתקכי סערכי איך גזרא<sup class="footnote-marker">2</sup><i class="footnote">גז̈רא‎ 8a1</i> דע̈זא<sup class="footnote-marker">3</sup><i class="footnote">דענ̈א‎11c1</i> דסלק<sup class="footnote-marker">4</sup><i class="footnote">דאתחזי‎12k3</i> מן טורא דגלעד
-(ב) שני̈כי איך גזרא<sup class="footnote-marker">5</sup><i class="footnote">גז̈רא‎ 6h17, 7a1</i> דגזי̈זתא דסלק מן מסחותא דכלהין מתא̈מן ודמגזיא לית בהין
-(ג) איך חוטא דזחוריתא ס̈פותכי וממללכי<sup class="footnote-marker">6</sup><i class="footnote">ממללכי‎12a1fam</i> יאא<sup class="footnote-marker">7</sup><i class="footnote">יאיא‎ 9h1, 11c1,12a1 &amp;</i> איך צלפא דרומנא<sup class="footnote-marker">8</sup><i class="footnote">דרו̈מנא‎ 6h17, 9c1 &amp;</i> קדלכי מטל שתקכי
-(ד) איך מגדלה דדויד צורכי בנא בת̈כא<sup class="footnote-marker">9</sup><i class="footnote">בס̈כא‎12a1</i> אלף סכר̈ין ת̈לין עלוהי כל ש̈לטא דגנבר̈א<sup class="footnote-marker">10</sup><i class="footnote">דגבר̈א‎ 7a1 &amp;</i>
+(א) הא שפירתי̈ קריבתי̈ הא שפירתי עינ̈יכי דיונא<sup>1</sup> לבר מן שתקכי סערכי איך גזרא<sup>2</sup> דע̈זא<sup>3</sup> דסלק<sup>4</sup> מן טורא דגלעד
+(ב) שני̈כי איך גזרא<sup>5</sup> דגזי̈זתא דסלק מן מסחותא דכלהין מתא̈מן ודמגזיא לית בהין
+(ג) איך חוטא דזחוריתא ס̈פותכי וממללכי<sup>6</sup> יאא<sup>7</sup> איך צלפא דרומנא<sup>8</sup> קדלכי מטל שתקכי
+(ד) איך מגדלה דדויד צורכי בנא בת̈כא<sup>9</sup> אלף סכר̈ין ת̈לין עלוהי כל ש̈לטא דגנבר̈א<sup>10</sup>
 (ה) תר̈ין תדי̈כי איך תר̈ין עוזי̈לא תא̈מא דטבי̈א דרעין בש̈ושנא
-(ו) עד נפוג יומא ונרכנון ט̈ללא<sup class="footnote-marker">11</sup><i class="footnote">ט̈ללי‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i><sup class="footnote-marker">12</sup><i class="footnote">רמשא‎ +8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> זל<sup class="footnote-marker">13</sup><i class="footnote">אזל‎12k3</i> לטור̈א<sup class="footnote-marker">14</sup><i class="footnote">לטורא‎ 6h17 &amp;</i> דמורא ולר̈מתא<sup class="footnote-marker">15</sup><i class="footnote">ולרמתא‎ 6h17 &amp;</i> דלבונתא
+(ו) עד נפוג יומא ונרכנון ט̈ללא<sup>11</sup><sup>12</sup> זל<sup>13</sup> לטור̈א<sup>14</sup> דמורא ולר̈מתא<sup>15</sup> דלבונתא
 (ז) כלכי שפירתי קריבתי̈ ומומא לית בכי
-(ח) תי מן לבנן<sup class="footnote-marker">16</sup><i class="footnote">חתי‎ +8a1c, 9c1, 9h1,10c1,11c1,12a1c</i> כלתא תי מן לבנן תאתין ותעברין מן<sup class="footnote-marker">17</sup><i class="footnote">על‎11c1</i><sup class="footnote-marker">18</sup><i class="footnote">ריש‎ -6h17 &amp;</i> א̈מנא ומן ריש סניר וחרמון מן<sup class="footnote-marker">19</sup><i class="footnote">ומן‎ 9c1,10c1,11c1 &amp;</i> מרבועיתא דאר̈יותא ומן טור̈י נמר̈א<sup class="footnote-marker">20</sup><i class="footnote">נמרא‎ 6h17 &amp;</i>
+(ח) תי מן לבנן<sup>16</sup> כלתא תי מן לבנן תאתין ותעברין מן<sup>17</sup><sup>18</sup> א̈מנא ומן ריש סניר וחרמון מן<sup>19</sup> מרבועיתא דאר̈יותא ומן טור̈י נמר̈א<sup>20</sup>
 (ט) לבבתיני חתי כלתא לבבתיני בחדא מן עינ̈יכי בחד עקא מן צורכי
-(י) מא שפיר̈ין תדי̈כי חתי כלתא מא שפיר̈ין תדי̈כי מן חמרא וריח בסמני̈כי מן כול בסמ̈נין<sup class="footnote-marker">21</sup><i class="footnote">בס̈מין‎ 6h17</i>
+(י) מא שפיר̈ין תדי̈כי חתי כלתא מא שפיר̈ין תדי̈כי מן חמרא וריח בסמני̈כי מן כול בסמ̈נין<sup>21</sup>
 (יא) ככריתא מ̈טפן ס̈פותכי כל דבשא וחלבא תחית ס̈פותכי וריח תכסיתכי איך ריח לבנן
 (יב) גנתא דאחידא חתי כלתא גנתא דאחידא מעינא דחתימא
-(יג) שליחותכי פרדיסא דר̈ומנא עם פאר̈א דא̈בנא כופרא עם<sup class="footnote-marker">22</sup><i class="footnote">נרדון‎ -8a1c, 9c1, 9h1,10c1,11c1 &amp;</i><sup class="footnote-marker">23</sup><i class="footnote">נרדין‎12a1 &amp;</i>
-(יד) נרדון<sup class="footnote-marker">24</sup><i class="footnote">נרדין‎12a1fam &amp;</i> וכורכמא קניא וקונמון<sup class="footnote-marker">25</sup><i class="footnote">וקנומון‎12a1fam &amp;</i> עם קיסא דלבונתא מורא ועלוי עם כל ריש בס̈מנא
+(יג) שליחותכי פרדיסא דר̈ומנא עם פאר̈א דא̈בנא כופרא עם<sup>22</sup><sup>23</sup>
+(יד) נרדון<sup>24</sup> וכורכמא קניא וקונמון<sup>25</sup> עם קיסא דלבונתא מורא ועלוי עם כל ריש בס̈מנא
 (טו) מעינא דגנ̈א ברא דמ̈יא ח̈יא דר̈דין מן לבנן
-(טז) אתעירי גרביא ותי תימנא שבי בגנתי נרדון בס̈מני ונאתא<sup class="footnote-marker">26</sup><i class="footnote">נאתא‎ 8a1c, 9c1, 9h1,10c1,11c1,12a1 &amp;</i> דדי לגנתה ונאכול מן פאר̈א דא̈בבנוהי
+(טז) אתעירי גרביא ותי תימנא שבי בגנתי נרדון בס̈מני ונאתא<sup>26</sup> דדי לגנתה ונאכול מן פאר̈א דא̈בבנוהי
 <h2>פרק ה</h2>
-(א) אתית לגנתי חתי כלתא אתית לגנתי קטפת מורי עם בס̈מני אכלת<sup class="footnote-marker">1</sup><i class="footnote">אכלתי‎ 12a1fam</i><sup class="footnote-marker">2</sup><i class="footnote">ואכלת‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> בסימותי עם דבשי אשתית<sup class="footnote-marker">3</sup><i class="footnote">אשתיתי‎12a1fam</i><sup class="footnote-marker">4</sup><i class="footnote">ואשתית‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> חמרי עם חלבי אכולו חבר̈י̈ ואשתו ורוו דד̈י<sup class="footnote-marker">5</sup><i class="footnote">דדי‎ 6h17, V &amp;</i>
+(א) אתית לגנתי חתי כלתא אתית לגנתי קטפת מורי עם בס̈מני אכלת<sup>1</sup><sup>2</sup> בסימותי עם דבשי אשתית<sup>3</sup><sup>4</sup> חמרי עם חלבי אכולו חבר̈י̈ ואשתו ורוו דד̈י<sup>5</sup>
 (ב) אנא דמכא ולבי עיר קלה דדדי דנקש פתחי לי חתי קריבתי̈ יוני תמימתא מטל דרישי אתמלי טלא וקו̈צתי מן ר̈סיסי לליא
 (ג) שלחת כותיני איכנא אלבשיה̇ אשיגת ר̈גלי איכנא אטנף אני̈ן
-(ד) דדי אושט אידה מן נקבא ומ̈עי געו<sup class="footnote-marker">6</sup><i class="footnote">גלו‎ 7a1, 8a1*,12a1fam &amp;</i> עלוהי
-(ה) קמת אנא דאפתח לדדי ואידי<sup class="footnote-marker">7</sup><i class="footnote">וא̈ידי‎ 9h1</i> נטפת מורא וצ̈בעתי מורא נטף<sup class="footnote-marker">8</sup><i class="footnote">נטף מורא‎ 8a1c &amp;</i> על יד<sup class="footnote-marker">9</sup><i class="footnote">א̈ידי‎ 6h17</i> סוכרא<sup class="footnote-marker">10</sup><i class="footnote">סו̈כרא‎ 8a1 &amp;</i>
+(ד) דדי אושט אידה מן נקבא ומ̈עי געו<sup>6</sup> עלוהי
+(ה) קמת אנא דאפתח לדדי ואידי<sup>7</sup> נטפת מורא וצ̈בעתי מורא נטף<sup>8</sup> על יד<sup>9</sup> סוכרא<sup>10</sup>
 (ו) פתחת אנא לדדי ודדי ארכן עבר נפשי נפקת בממללה בעיתה ולא אשכחתה קריתה ולא ענני
-(ז) אשכחוני נטור̈א דמתכר̈כין במדינתא מחאוני וצלפוני נסבו ארדידי מני<sup class="footnote-marker">11</sup><i class="footnote">מני ארדידי‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> נטר̈י שורא<sup class="footnote-marker">12</sup><i class="footnote">שו̈רא‎ 9h1 &amp;</i>
+(ז) אשכחוני נטור̈א דמתכר̈כין במדינתא מחאוני וצלפוני נסבו ארדידי מני<sup>11</sup> נטר̈י שורא<sup>12</sup>
 (ח) אומ̈יתכין בנ̈ת אורשלם אן תשכח̈ן לדדי אשת̈עין לה דכריהת רחמתא אנא
-(ט) מנו דדכי מן ד̈דא שפירת בנש̈א<sup class="footnote-marker">13</sup><i class="footnote">נש̈א‎ 6h17, 9c1, 9h1,11c1 &amp;</i><sup class="footnote-marker">14</sup><i class="footnote">מנו דדכי מן ד̈דא שפירת ב̈נשא.‎ +7a1</i> מנו דדכי מן ד̈דא<sup class="footnote-marker">15</sup><i class="footnote">דהכנא‎ -6h17</i> אומיתין<sup class="footnote-marker">16</sup><i class="footnote">אומיתיני‎ 7a1, 9c1, 9h1 &amp;</i><sup class="footnote-marker">17</sup><i class="footnote">דאומיתין‎ 6h17</i>
+(ט) מנו דדכי מן ד̈דא שפירת בנש̈א<sup>13</sup><sup>14</sup> מנו דדכי מן ד̈דא<sup>15</sup> אומיתין<sup>16</sup><sup>17</sup>
 (י) דדי חור וסומק וגבא מן ר̈בותא
-(יא) רישה איך כאפא<sup class="footnote-marker">18</sup><i class="footnote">כא̈פא‎ 6h17,12a1</i> דדהבא ק̈וצתה מפש̈טן או̈כמן<sup class="footnote-marker">19</sup><i class="footnote">ואו̈כמן‎ 9c1,10c1,11c1 &amp;</i> איך עור̈בא<sup class="footnote-marker">20</sup><i class="footnote">עורבא‎ 9c1,10c1 &amp;</i>
-(יב) עינ̈והי איך דיונא<sup class="footnote-marker">21</sup><i class="footnote">די̈ונא‎ 7a1, 8a1,12a1fam &amp;</i> על שב̈קא<sup class="footnote-marker">22</sup><i class="footnote">שבקא‎ 6h17</i> דמ̈יא דסח̈ין בחלבא וית̈בן על שלמותא
-(יג) פכ̈והי איך מש̈כבתא דבס̈מא ס̈פותה<sup class="footnote-marker">23</sup><i class="footnote">איך‎ +9c1, 9h1,10c1,11c1 &amp;</i> ש̈ושנא דנ̈טפן מורא ונרדון<sup class="footnote-marker">24</sup><i class="footnote">ונרדא‎ 6h17</i><sup class="footnote-marker">25</sup><i class="footnote">ונרדין‎ 8a1c, 9c1, 9h1, 10c1,11c1,12a1fam &amp;</i>
+(יא) רישה איך כאפא<sup>18</sup> דדהבא ק̈וצתה מפש̈טן או̈כמן<sup>19</sup> איך עור̈בא<sup>20</sup>
+(יב) עינ̈והי איך דיונא<sup>21</sup> על שב̈קא<sup>22</sup> דמ̈יא דסח̈ין בחלבא וית̈בן על שלמותא
+(יג) פכ̈והי איך מש̈כבתא דבס̈מא ס̈פותה<sup>23</sup> ש̈ושנא דנ̈טפן מורא ונרדון<sup>24</sup><sup>25</sup>
 (יד) א̈ידוהי איך כרכא דדהבא דמלא כא̈פי דהבא כרסה עבדא דשנא על מפחא דספילא
-(טו) שק̈והי עמ̈ודא<sup class="footnote-marker">26</sup><i class="footnote">עמודא‎ 9h1,11c1 &amp;</i> דשישא דמתקנין על חומר̈א דדהבא חדיה איך דלבנן וגבא<sup class="footnote-marker">27</sup><i class="footnote">דגבא‎12a1 &amp;</i> איך אר̈זא
-(טז) חכה<sup class="footnote-marker">28</sup><i class="footnote">איך‎ -6h17 &amp;</i> ככר̈יתא<sup class="footnote-marker">29</sup><i class="footnote">ככריתא‎ 9h1 &amp;</i> דח̈לין ומא̈נוהי<sup class="footnote-marker">30</sup><i class="footnote">מא̈נוהי‎ 6h17 &amp;</i> ר̈גיגין הנו דדי והנו<sup class="footnote-marker">31</sup><i class="footnote">הנו‎11c1 &amp;</i> חברי בנ̈ת אורשלם
+(טו) שק̈והי עמ̈ודא<sup>26</sup> דשישא דמתקנין על חומר̈א דדהבא חדיה איך דלבנן וגבא<sup>27</sup> איך אר̈זא
+(טז) חכה<sup>28</sup> ככר̈יתא<sup>29</sup> דח̈לין ומא̈נוהי<sup>30</sup> ר̈גיגין הנו דדי והנו<sup>31</sup> חברי בנ̈ת אורשלם
 <h2>פרק ו</h2>
-(א) לאיכא אזל דדכי שפירת בנש̈א<sup class="footnote-marker">1</sup><i class="footnote">נש̈א‎ 9c1, 9h1,10c1 &amp;</i> לאיכא פנא דדכי דנבעיוהי עמכי
-(ב) דדי נחת לגנתה ולמש̈כבתא<sup class="footnote-marker">2</sup><i class="footnote">ולמשכבתא‎ 6h17</i> דבס̈מא<sup class="footnote-marker">3</sup><i class="footnote">דבס̈מנא‎ 9c1, 9h1, 10c1,11c1 &amp;</i> דנרעא ב̈גנא ונלקוט<sup class="footnote-marker">4</sup><i class="footnote">ונלקט‎12a1 &amp;</i> שו̈שנא
+(א) לאיכא אזל דדכי שפירת בנש̈א<sup>1</sup> לאיכא פנא דדכי דנבעיוהי עמכי
+(ב) דדי נחת לגנתה ולמש̈כבתא<sup>2</sup> דבס̈מא<sup>3</sup> דנרעא ב̈גנא ונלקוט<sup>4</sup> שו̈שנא
 (ג) אנא לדדי ודדי לי דרעא בש̈ושנא
-(ד) שפירתי קריבתי איך צבינא יאיתי<sup class="footnote-marker">5</sup><i class="footnote">ויאיתי‎ 8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> איך אורשלם ודחילתי<sup class="footnote-marker">6</sup><i class="footnote">דחילתי‎ 6h17</i> איך גביתא
-(ה) אהפכי עיני̈כי מן לוקבלי מטל דהנין אפרדני סערכי איך גזרא<sup class="footnote-marker">7</sup><i class="footnote">גז̈רא‎ 7a1</i> דע̈זא<sup class="footnote-marker">8</sup><i class="footnote">דס̇לק‎ -6h17, 7a1,12a1fam</i> מן טורא<sup class="footnote-marker">9</sup><i class="footnote">טו̈רא‎ 6h17</i> דגלעד
-(ו) ש̈ניכי איך גזרא<sup class="footnote-marker">10</sup><i class="footnote">גז̈רא‎ 6h17, 7a1 &amp;</i> דגזי̈זתא דס̇לק<sup class="footnote-marker">11</sup><i class="footnote">דס̣לק‎ 7a1</i> מן מסחותא דכלהין מתא̈מן ודמגזיא לית בהין
-(ז) איך צלפא<sup class="footnote-marker">12</sup><i class="footnote">צל̈פא‎ 7a1, 8a1 &amp;</i> דרומנא<sup class="footnote-marker">13</sup><i class="footnote">דרו̈מנא‎ 6h17, 9c1,12a1fam &amp;</i> קדלכי לבר מן שתקכי
-(ח) שת̈ין א̈נין מ̈לכן ותמ̈נאין<sup class="footnote-marker">14</sup><i class="footnote">אנין‎ +8a1c, 9c1,10c1,11c1 &amp;</i> דר̈וכן ועלימ̈תא דלית להין מ̈נין
-(ט) חדא הי יוני תמימתא חדא הי לאמה̇ וגביא הי לילדתה̇ חזיה̇ בנת̈א ושבחה̇ מ̈לכתא<sup class="footnote-marker">15</sup><i class="footnote">ומ̈לכתא‎12a1fam</i> ודר̈וכתא שבחה̇<sup class="footnote-marker">16</sup><i class="footnote">ושבחה̇‎12a1fam</i>
-(י) מ̇ן הי הדא דמדיקא איך צפרא שפירא איך סהרא דכיא איך שמשא דחילא איך ר̈ורבתא<sup class="footnote-marker">17</sup><i class="footnote">ר̈בותא‎10c1c,12a1fam &amp;</i>
-(יא) לגנת גו̈זא נחתת דאחזא באבא דנח̈לא<sup class="footnote-marker">18</sup><i class="footnote">דנחלא‎ 9c1 &amp;</i> למחזא אן פרעת גפתא ואן בלצו ר̈ומנא
-(יב) לא ידעת נפשי סמתני מרכבתא<sup class="footnote-marker">19</sup><i class="footnote">במרכבתא‎ 8a1c, 9c1, 9h1,10c1,11c1, 12a1fam &amp;</i> דעמא דמטיב
+(ד) שפירתי קריבתי איך צבינא יאיתי<sup>5</sup> איך אורשלם ודחילתי<sup>6</sup> איך גביתא
+(ה) אהפכי עיני̈כי מן לוקבלי מטל דהנין אפרדני סערכי איך גזרא<sup>7</sup> דע̈זא<sup>8</sup> מן טורא<sup>9</sup> דגלעד
+(ו) ש̈ניכי איך גזרא<sup>10</sup> דגזי̈זתא דס̇לק<sup>11</sup> מן מסחותא דכלהין מתא̈מן ודמגזיא לית בהין
+(ז) איך צלפא<sup>12</sup> דרומנא<sup>13</sup> קדלכי לבר מן שתקכי
+(ח) שת̈ין א̈נין מ̈לכן ותמ̈נאין<sup>14</sup> דר̈וכן ועלימ̈תא דלית להין מ̈נין
+(ט) חדא הי יוני תמימתא חדא הי לאמה̇ וגביא הי לילדתה̇ חזיה̇ בנת̈א ושבחה̇ מ̈לכתא<sup>15</sup> ודר̈וכתא שבחה̇<sup>16</sup>
+(י) מ̇ן הי הדא דמדיקא איך צפרא שפירא איך סהרא דכיא איך שמשא דחילא איך ר̈ורבתא<sup>17</sup>
+(יא) לגנת גו̈זא נחתת דאחזא באבא דנח̈לא<sup>18</sup> למחזא אן פרעת גפתא ואן בלצו ר̈ומנא
+(יב) לא ידעת נפשי סמתני מרכבתא<sup>19</sup> דעמא דמטיב
 <h2>פרק ז</h2>
-(א) תובי̈ תובי̈ שילומיתא תובי תובי ונחור בכי מנא תחזון בשילומיתא<sup class="footnote-marker">1</sup><i class="footnote">דנחתא‎ -12a1 &amp;</i><sup class="footnote-marker">2</sup><i class="footnote">כד‎ 6h17</i><sup class="footnote-marker">3</sup><i class="footnote">נחתא‎ +6h17</i> איך חדותא<sup class="footnote-marker">4</sup><i class="footnote">חזיר̈א‎ 6h17</i> איך<sup class="footnote-marker">5</sup><i class="footnote">ואיך‎ 9c1, 9h1,10c1,11c1,12a1fam &amp;</i> חדותא<sup class="footnote-marker">6</sup><i class="footnote">חזיר̈א‎ 6h17</i> דמשר̈יתא<sup class="footnote-marker">7</sup><i class="footnote">דמשריתא‎ 6h17 &amp;</i>
-(ב) מא שפיר̈ן ר̈גליכי במס̈נא<sup class="footnote-marker">8</sup><i class="footnote">במסנא‎ 7a1 &amp;</i><sup class="footnote-marker">9</sup><i class="footnote">בס̈מנא‎ 9h1 &amp;</i> ברת מטיבא וצורת<sup class="footnote-marker">10</sup><i class="footnote">מט̈יבא וצ̈ורת‎12a1 &amp;</i> עטמ̈תכי<sup class="footnote-marker">11</sup><i class="footnote">עטמתכי‎ 8a1 &amp;</i> איך חר̈קא<sup class="footnote-marker">12</sup><i class="footnote">חרקא‎ 6h17</i> עב̇ד א̈ידי אומנא
-(ג) ש̇רכי<sup class="footnote-marker">13</sup><i class="footnote">איך‎ +6h17, 9c1 &amp;</i> אגנא דכריכא דלא חסר בה̇ מזגא כרסכי ערמתא<sup class="footnote-marker">14</sup><i class="footnote">ער̈מתא‎ 9h1,10c1</i> דח̈טא דסיגא בש̈ושנא
+(א) תובי̈ תובי̈ שילומיתא תובי תובי ונחור בכי מנא תחזון בשילומיתא<sup>1</sup><sup>2</sup><sup>3</sup> איך חדותא<sup>4</sup> איך<sup>5</sup> חדותא<sup>6</sup> דמשר̈יתא<sup>7</sup>
+(ב) מא שפיר̈ן ר̈גליכי במס̈נא<sup>8</sup><sup>9</sup> ברת מטיבא וצורת<sup>10</sup> עטמ̈תכי<sup>11</sup> איך חר̈קא<sup>12</sup> עב̇ד א̈ידי אומנא
+(ג) ש̇רכי<sup>13</sup> אגנא דכריכא דלא חסר בה̇ מזגא כרסכי ערמתא<sup>14</sup> דח̈טא דסיגא בש̈ושנא
 (ד) תר̈ין ת̈דיכי איך תר̈ין עוזי̈לא תא̈מא דטב̈יא דרעין בש̈ושנא
-(ה) צורכי איך מגדלא דשנא עיני̈כי איך יממ̈תא דחשבון על תרעא<sup class="footnote-marker">15</sup><i class="footnote">תר̈עא‎ 6h17 &amp;</i> דברת ס̈גיאא<sup class="footnote-marker">16</sup><i class="footnote">סגיאא‎ 9h1 &amp;</i> נחירכי איך מגדלא דלבנן דחאר לא̈פי דרמסוק
-(ו) רישכי<sup class="footnote-marker">17</sup><i class="footnote">רישי‎ 6h17</i> עליכי איך כרמלא וגדו̈לא דרישכי<sup class="footnote-marker">18</sup><i class="footnote">וגדו̈לי רישכי‎ 6h17</i> איך ארגונא<sup class="footnote-marker">19</sup><i class="footnote">דמלכא‎ -12a1 &amp;</i> דאסיר בר̈הטא<sup class="footnote-marker">20</sup><i class="footnote">ברהטא‎ 6h17, 8a1 &amp;</i>
-(ז) מא שפירתי ומא<sup class="footnote-marker">21</sup><i class="footnote">מא‎12a1fam &amp;</i> בסימתי<sup class="footnote-marker">22</sup><i class="footnote">או‎ +12a1fam</i> רחימתא̈ ברת פונק̈א
+(ה) צורכי איך מגדלא דשנא עיני̈כי איך יממ̈תא דחשבון על תרעא<sup>15</sup> דברת ס̈גיאא<sup>16</sup> נחירכי איך מגדלא דלבנן דחאר לא̈פי דרמסוק
+(ו) רישכי<sup>17</sup> עליכי איך כרמלא וגדו̈לא דרישכי<sup>18</sup> איך ארגונא<sup>19</sup> דאסיר בר̈הטא<sup>20</sup>
+(ז) מא שפירתי ומא<sup>21</sup> בסימתי<sup>22</sup> רחימתא̈ ברת פונק̈א
 (ח) והדא קומתכי דמ̇יא לדקלא ות̈דיכי לס̈גולא
-(ט) אמרת אסק בדקלא<sup class="footnote-marker">23</sup><i class="footnote">לדקלא‎11c1 &amp;</i> ואחוד<sup class="footnote-marker">24</sup><i class="footnote">אחוד‎ 6h17</i> בס̈וכוהי ונהוון ת̈דיכי איך ס̈גולי גו̈פנא וריח א̈פיכי איך חזור̈א<sup class="footnote-marker">25</sup><i class="footnote">חזורא‎ 9h1 &amp;</i>
+(ט) אמרת אסק בדקלא<sup>23</sup> ואחוד<sup>24</sup> בס̈וכוהי ונהוון ת̈דיכי איך ס̈גולי גו̈פנא וריח א̈פיכי איך חזור̈א<sup>25</sup>
 (י) וחככי איך חמרא טבא דאזל לדדי לתריצותא דמזיע ס̈פותי וש̈ני
 (יא) אנא לדדי ועלי פניתה
-(יב) תא<sup class="footnote-marker">26</sup><i class="footnote">ותא‎ 6h17</i> דדי נפוק לחקלא נבות בכפרא
-(יג) ונקדם<sup class="footnote-marker">27</sup><i class="footnote">נקדם‎ 8a1</i> לכרמא נחזא<sup class="footnote-marker">28</sup><i class="footnote">ונחזא‎ 9c1, 9h1,10c1,11c1 &amp;</i> אן פרעת גפתא ונפקו סמדר̈א ובלצו ר̈ומנא תמן אתל לך ת̈די
+(יב) תא<sup>26</sup> דדי נפוק לחקלא נבות בכפרא
+(יג) ונקדם<sup>27</sup> לכרמא נחזא<sup>28</sup> אן פרעת גפתא ונפקו סמדר̈א ובלצו ר̈ומנא תמן אתל לך ת̈די
 (יד) יבר̈וחא יהבו ריחא ועל תר̈עין כל אב̈בנין ח̈דתין ועתיק̈ין דדי נטרת לך
 <h2>פרק ח</h2>
-(א) מ̇ן נתלך<sup class="footnote-marker">1</sup><i class="footnote">נתל‎ 6h17 &amp;</i><sup class="footnote-marker">2</sup><i class="footnote">לך‎ +6h17 &amp;</i> איך אחא<sup class="footnote-marker">3</sup><i class="footnote">א̈חא‎ 6h17</i> לי אינקו ת̈די אמר̈י<sup class="footnote-marker">4</sup><i class="footnote">אמרי‎ 6h17 &amp;</i> אשכחך בשוקא<sup class="footnote-marker">5</sup><i class="footnote">בש̈וקא‎ 6h17</i> אשקך ולא נבסרונני
-(ב) אדברך ואעלך לבית אמי ולקיטונה̇<sup class="footnote-marker">6</sup><i class="footnote">ולקיטונא‎ 6h17, 7a1,12a1 &amp;</i> דילדתי אשקיך מן חמרי בסימא ומן חליותא דר̈ומני
+(א) מ̇ן נתלך<sup>1</sup><sup>2</sup> איך אחא<sup>3</sup> לי אינקו ת̈די אמר̈י<sup>4</sup> אשכחך בשוקא<sup>5</sup> אשקך ולא נבסרונני
+(ב) אדברך ואעלך לבית אמי ולקיטונה̇<sup>6</sup> דילדתי אשקיך מן חמרי בסימא ומן חליותא דר̈ומני
 (ג) סמלה תחית רישי וימינה תעפקני
 (ד) אומי̈תכין בנ̈ת אורשלם אן תעיר̈ן ואן תעיר̈ן ית רחמתא עדמא דתצבא
-(ה) מ̇ן הי הדא דסלקא מן מדברא<sup class="footnote-marker">7</sup><i class="footnote">מד̈ברא‎ 9c1</i> ומסתמכא על דדה̇ תחית חזורא<sup class="footnote-marker">8</sup><i class="footnote">חז̈ורא‎12a1 &amp;</i> עירתכי ותמן חבלתכי אמכי תמן חבלת<sup class="footnote-marker">9</sup><i class="footnote">חבלתכי‎ 7a1, 12a1fam &amp;</i> ילדתכי
-(ו) סימיני<sup class="footnote-marker">10</sup><i class="footnote">סמני‎12a1fam</i><sup class="footnote-marker">11</sup><i class="footnote">איך‎ +10c1</i> חתמא על לבך איך<sup class="footnote-marker">12</sup><i class="footnote">ואיך‎ 9c1, 9h1, 10c1,11c1 &amp;</i> חתמא על דרעך<sup class="footnote-marker">13</sup><i class="footnote">דר̈עיך‎12a1 &amp;</i> מטול דתקיפא<sup class="footnote-marker">14</sup><i class="footnote">הי‎ +6h17</i> איך מותא רחמתא וקשא איך שיול טננא זלי̈קיה̇<sup class="footnote-marker">15</sup><i class="footnote">איך‎ +7a1 &amp;</i> זליק̈י נורא ושלהביתא
-(ז) מ̈יא ס̈גיאא לא משכחין למדעכו לרחמתא ונהר̈ותא לא גרפין לה̇ אן נתל גברא כול<sup class="footnote-marker">16</sup><i class="footnote">כולה‎ 7a1,12a1fam &amp;</i> עותרא דביתה ברחמתא ממיקו נמיקון בה
+(ה) מ̇ן הי הדא דסלקא מן מדברא<sup>7</sup> ומסתמכא על דדה̇ תחית חזורא<sup>8</sup> עירתכי ותמן חבלתכי אמכי תמן חבלת<sup>9</sup> ילדתכי
+(ו) סימיני<sup>10</sup><sup>11</sup> חתמא על לבך איך<sup>12</sup> חתמא על דרעך<sup>13</sup> מטול דתקיפא<sup>14</sup> איך מותא רחמתא וקשא איך שיול טננא זלי̈קיה̇<sup>15</sup> זליק̈י נורא ושלהביתא
+(ז) מ̈יא ס̈גיאא לא משכחין למדעכו לרחמתא ונהר̈ותא לא גרפין לה̇ אן נתל גברא כול<sup>16</sup> עותרא דביתה ברחמתא ממיקו נמיקון בה
 (ח) חתא אית לן זעורתא ות̈דיא לית לה̇ מנא נעבד לחתן ביומא דמתמלל בה̇
 (ט) אן שורא הי נבנא עליה̇ עע̈ין דכסף ואן תרעא הי נצור עליה̇ לוח̈א דארזא
 (י) אנא שורא ות̈די מ̈גדלא הידין איתי הוית בעינ̈והי איך משכחת שלמא
 (יא) כרמא אית הוא לשלימון ואבה סגי יהבת כרמא לנטור̈א גברא יהב בפאר̈והי אלף דכסף
-(יב) כרמי<sup class="footnote-marker">17</sup><i class="footnote">כרמא‎ 9c1, 9h1,10c1,11c1 &amp;</i> דילי קדמי אלף לך שלימון ומאת̈ין לנטר̈י פאר̈א
+(יב) כרמי<sup>17</sup> דילי קדמי אלף לך שלימון ומאת̈ין לנטר̈י פאר̈א
 (יג) אילין דיתבין ב̈גנא וציתין לקלך אשמעיני
-(יד) <sup class="footnote-marker">18</sup><i class="footnote">וכד‎ -8a1c, 9c1, 9h1,10c1,11c1 &amp;</i> אתא<sup class="footnote-marker">19</sup><i class="footnote">אתהפך‎ 8a1c, 9c1, 9h1, 10c1,11c1 &amp;</i> דדי ודמי<sup class="footnote-marker">20</sup><i class="footnote">דמי‎ 8a1c, 9c1, 9h1,10c1,11c1,12a1fam &amp;</i> לך לטביא ולעוזילא דאי̈לא<sup class="footnote-marker">21</sup><i class="footnote">דאילא‎ 6h17, 7a1 &amp;</i> על טור̈י בס̈מנא
+(יד) <sup>18</sup> אתא<sup>19</sup> דדי ודמי<sup>20</sup> לך לטביא ולעוזילא דאי̈לא<sup>21</sup> על טור̈י בס̈מנא

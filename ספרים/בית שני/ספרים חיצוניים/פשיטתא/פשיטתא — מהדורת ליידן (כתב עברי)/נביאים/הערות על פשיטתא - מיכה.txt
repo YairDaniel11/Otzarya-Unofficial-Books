@@ -1,0 +1,80 @@
+<sup>1</sup> וחזקיא‎ 9l3,10l2 &amp;
+<sup>2</sup> דמתפשרא‎ +9d1
+<sup>3</sup> ומן‎ 9l3,10l2
+<sup>4</sup> אעבדיה̇‎ 9l3
+<sup>5</sup> איך‎12a1 &amp;
+<sup>6</sup> דבית‎ +12a1 &amp;
+<sup>7</sup> ארקדו ואיללו והלכו‎ 7a1,12a1 &amp;
+<sup>8</sup> ועבדו‎12a1 &amp;
+<sup>9</sup> יר̈ורא‎ 7a1,12d1 &amp;
+<sup>10</sup> הי‎ -12d2
+<sup>11</sup> מרכבתא‎12d2
+<sup>12</sup> הדא‎12a1 &amp;
+<sup>1</sup> דבזוזא‎ 7a1
+<sup>2</sup> תשרון‎ 8a1 &amp;
+<sup>3</sup> י̈לודיהון‎12a1 &amp;
+<sup>4</sup> דלטנפותא‎12d2 &amp;
+<sup>5</sup> ואעבדיה̇‎ 7a1
+<sup>6</sup> תרעו‎10d1 &amp;
+<sup>7</sup> ועבר‎12a1 &amp;
+<sup>1</sup> הלין‎ -7a1
+<sup>2</sup> לכון‎ -12a1 &amp;
+<sup>3</sup> טבתא‎ 7a1
+<sup>4</sup> דבק̈דסא‎ 8a1 &amp;
+<sup>5</sup> מרא‎12a1 &amp;
+<sup>6</sup> מר̈ותא‎ +12a1 &amp;
+<sup>7</sup> אנא‎ -9l3*
+<sup>8</sup> ורוחה‎12a1 &amp;
+<sup>9</sup> וד̈ינא‎12a1
+<sup>10</sup> לצהיון בעולא ולאורשלם בדמא‎ 9l6
+<sup>11</sup> ונבי̈ה̇‎ 9l6
+<sup>12</sup> מכיל‎ -9l6
+<sup>1</sup> עמ̈מא כלהון‎ 9l6
+<sup>2</sup> ופתגמה‎ 7a1, 9l2, 9l6
+<sup>3</sup> ונדון‎ 7a1, 9l2
+<sup>4</sup> ונכס‎ 7a1, 9l2
+<sup>5</sup> ונ̈יזכיהון‎ 7a1, 9l6
+<sup>6</sup> נשקלון‎ 7a1, 9l2
+<sup>7</sup> חילתנא‎ -9l3, 9l6
+<sup>8</sup> עבדת‎ 7a1
+<sup>9</sup> במדברא‎11l4,12a1 &amp;
+<sup>10</sup> מחש̈בתה‎11l5
+<sup>11</sup> וכנש‎10d1
+<sup>12</sup> שבלא‎ 7a1
+<sup>13</sup> דרוכי‎11l4
+<sup>14</sup> ואדרך‎ 7a1
+<sup>15</sup> דקר̈נתי‎ 7a1
+<sup>16</sup> עבד‎11l4
+<sup>17</sup> ונ̈יניהון‎12a1 &amp;
+<sup>18</sup> למריא‎ -12a1 &amp;
+<sup>1</sup> אנת‎10d1,11l1,12d1,12d2* &amp;
+<sup>2</sup> לא‎ +11l4
+<sup>3</sup> תהוין‎11l4
+<sup>4</sup> עמי‎ +9l3
+<sup>5</sup> ומן‎ 9l3 &amp;
+<sup>6</sup> על̈מא‎11l5,12a1 &amp;
+<sup>7</sup> אלהא‎ 9l3c
+<sup>8</sup> נתפנון‎ 9l3* &amp;
+<sup>9</sup> לותה‎ +11l4,11l5
+<sup>10</sup> דא̈נשא‎11d1 &amp;
+<sup>11</sup> רס̈יסא‎ 7a1 &amp;
+<sup>12</sup> בעמא‎ -12a1 &amp;
+<sup>13</sup> אתתרים‎11l1
+<sup>14</sup> ואעבר‎ 7a1
+<sup>1</sup> דשתאסה‎12d2
+<sup>2</sup> ואף‎ 7a1
+<sup>3</sup> לך‎ -12d2*
+<sup>4</sup> מריא‎ +7a1,10j2
+<sup>5</sup> במסאתא‎ 7a1,12d2 &amp;
+<sup>6</sup> דנכלא ובמרסופא דמ̈תקלא דעולא‎ 7a1
+<sup>7</sup> ואף‎ 7a1
+<sup>8</sup> בתרעיתהון‎ 8a1
+<sup>1</sup> דהבו‎11l1
+<sup>2</sup> טבת̈הון‎12d2 &amp;
+<sup>3</sup> הו‎ -7a1, 8a1,11l1 &amp;
+<sup>4</sup> מן‎ 7a1,11l1
+<sup>5</sup> ארעי‎ 7a1
+<sup>6</sup> ואחוא‎ 7a1, 8a1,11l1 &amp;
+<sup>7</sup> נלחכון‎ 7a1, 8a1,11l1
+<sup>8</sup> חטהין‎ V
+<sup>9</sup> קדים‎ 7a1,11l1

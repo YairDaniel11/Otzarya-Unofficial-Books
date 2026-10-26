@@ -1,0 +1,161 @@
+<sup>1</sup> רבא‎ +9d1, 9l2,10d1,10l2,11d1,12a1, 12d1,12d2,12d3 &amp;
+<sup>2</sup> אתפנו לותי אמר מריא חילתנא‎ -7a1
+<sup>3</sup> חילתנא‎ +6h9, 7a1
+<sup>4</sup> אלהא‎12a1 &amp;
+<sup>5</sup> בית‎12a1 &amp;
+<sup>6</sup> וענא‎ 8a1, 9d1,10d1,11d1,12d1,12d3 &amp;
+<sup>1</sup> ובעירא‎ 7a1
+<sup>2</sup> אלהא‎ +6h9
+<sup>3</sup> עמ̈מא‎ 6h9
+<sup>4</sup> למנתה‎ 6h9
+<sup>5</sup> ונצבא‎ 9l2
+<sup>6</sup> מרומא‎ 9d1,10d1,11d1, 12a1,12d1,12d2,12d3 &amp;
+<sup>1</sup> מאנא טבא‎ 6h9
+<sup>2</sup> .‎ +V
+<sup>3</sup> חילתנא‎ -7a1, 8a1*
+<sup>4</sup> דיתבין‎ 7a1
+<sup>5</sup> דחיא‎ V
+<sup>1</sup> ברוחי‎ 6h9 &amp;
+<sup>2</sup> עליכון‎ 6h9
+<sup>3</sup> וענית‎ 7a1, 8a1
+<sup>1</sup> והפכת‎ 8a1,10d1,11d1,12d1,12d2,12d3 &amp;
+<sup>2</sup> ארימת‎ +8a1, 10d1,11d1,12d1,12d2,12d3 &amp;
+<sup>3</sup> מן‎11k4
+<sup>4</sup> בדגלותא‎ 6h9
+<sup>5</sup> הדא‎ +11k4
+<sup>6</sup> דנפקא‎ -6h9
+<sup>7</sup> ככרא‎ 8a1,10d1, 11d1,12a1,12d1,12d2,12d3 &amp;
+<sup>8</sup> ושקליה‎ 7a1
+<sup>9</sup> לי‎ -6h9
+<sup>1</sup> הפכת‎11k4 &amp;
+<sup>2</sup> טור̈א‎11k4 &amp;
+<sup>3</sup> ה̈וי‎ -6h9
+<sup>4</sup> דנפקין‎11k4
+<sup>5</sup> ונפקין‎11l1
+<sup>6</sup> וסב‎ 6h9
+<sup>7</sup> חילתנא‎ -11k4*
+<sup>8</sup> הו‎ 6h9 &amp;
+<sup>9</sup> נתב‎ 9l2
+<sup>1</sup> נביא‎ +9l6
+<sup>2</sup> וגברוהי‎ 9l6
+<sup>3</sup> דביתה‎12d2*
+<sup>4</sup> צמתון או‎12a1 &amp;
+<sup>5</sup> ארקדתון‎ +12a1 &amp;
+<sup>6</sup> טור̈א‎12d2
+<sup>7</sup> חברה‎ 9l3
+<sup>8</sup> נמוסא‎ 9l6
+<sup>9</sup> אענא‎ 6h9
+<sup>1</sup> חילתנא‎ -9l6
+<sup>2</sup> וש̈וקא‎ 6h9
+<sup>3</sup> ואף‎ 7a1,12a1 &amp;
+<sup>4</sup> דשמע‎ 9l6
+<sup>5</sup> אף‎ 6h9, 7a1, 9l6 &amp;
+<sup>6</sup> דעאל ונפק‎ 9l6
+<sup>7</sup> אלוצוהי‎11l4
+<sup>8</sup> להון‎ -6h9 &amp;
+<sup>9</sup> דשלמא‎ 9l6
+<sup>10</sup> ע̈ללתא‎11l4
+<sup>11</sup> לשרכא‎ 9l6
+<sup>12</sup> הנא‎ -9l6
+<sup>13</sup> ואיך‎ 9l6,12a1 &amp;
+<sup>14</sup> ובית‎ 11l4
+<sup>15</sup> ולבית‎ 6h9, 7a1, 9l1
+<sup>16</sup> לא תדחלון‎ -9l1
+<sup>17</sup> ומללו‎ 9l1,10d1 &amp;
+<sup>18</sup> עם‎ 9l1
+<sup>19</sup> בלבכון‎ -9l6
+<sup>20</sup> חילתנא‎ -9l6,12a1 &amp;
+<sup>21</sup> ונאזלון‎ 9l1
+<sup>22</sup> בכנפיה‎11l4 &amp;
+<sup>1</sup> חילתנא‎ +6h9
+<sup>2</sup> מן‎ +12d1
+<sup>3</sup> קי̈ומא‎ 6h9,12d3
+<sup>4</sup> תוב עליהון‎ 8a1,10d1,11d1,12a1,12d1,12d2,12d3 &amp;
+<sup>5</sup> דהא‎12a1 &amp;
+<sup>6</sup> ומכיכא ופרוקא‎ 7pj2,12d1 &amp;
+<sup>7</sup> נובד‎12a1 &amp;
+<sup>8</sup> ונתבר‎ 9l2,10l1
+<sup>9</sup> על‎ 9l2
+<sup>10</sup> ונשתלט‎ 10l1,11l4
+<sup>11</sup> נהר̈ותא‎ 9l2,10l1,12a1 &amp;
+<sup>12</sup> ועדמא‎ 9l2 &amp;
+<sup>13</sup> אף‎ 6h9,10l1
+<sup>14</sup> אנת‎ -11l1
+<sup>15</sup> שרא אנת‎10l1
+<sup>16</sup> לאסיר̈א‎ +10l1
+<sup>17</sup> יומא חד‎10l1
+<sup>18</sup> לך‎ 6h9
+<sup>19</sup> ומליתה̇‎11l1
+<sup>20</sup> ומליתי‎10l1
+<sup>21</sup> בנ̈י יון ואעבדכי סכרא‎ 10l1
+<sup>22</sup> סיפא‎ -10l1
+<sup>23</sup> בק̈לעא‎ 7a1
+<sup>24</sup> ה̈וי‎ -6h9
+<sup>1</sup> ומנהון‎ 6h9 &amp;
+<sup>2</sup> מנהון‎ 6h9
+<sup>3</sup> קש̈תא‎12d3
+<sup>4</sup> אלהא‎ -8a1
+<sup>5</sup> ודלבנן‎12a1 &amp;
+<sup>6</sup> עמור̈והי‎ 12a1 &amp;
+<sup>1</sup> תר̈עיכי‎ 6h9
+<sup>2</sup> דנפלו אר̈זא‎ 6h9
+<sup>3</sup> מטל‎ +6h9,12a1,12d2 &amp;
+<sup>4</sup> לי‎ +8a1, 9d1, 9l6,10d1,11d1,12a1,12d1,12d2,12d3 &amp;
+<sup>5</sup> הו‎ +9l6, 11l1
+<sup>6</sup> קטינתא‎ +7a1,11l1 &amp;
+<sup>7</sup> תלת‎12d1 &amp;
+<sup>8</sup> תאכולי‎ 11l1 &amp;
+<sup>9</sup> דאבטל‎11l4 &amp;
+<sup>10</sup> על‎ 10l2
+<sup>11</sup> דנטירין‎11l5
+<sup>12</sup> הוא‎ 9l3,10l2
+<sup>13</sup> ואמר‎11l4
+<sup>14</sup> הב‎10l1
+<sup>15</sup> דתלתין‎11l1
+<sup>16</sup> ואיקרא‎ 9l6,10l1 &amp;
+<sup>17</sup> דאובדת‎ 9l6
+<sup>18</sup> לתלתין‎11l1
+<sup>19</sup> חוטרא‎11l1
+<sup>1</sup> דחדר̈ין‎ 10l1
+<sup>2</sup> ואף‎ 7a1,10l1 &amp;
+<sup>3</sup> נהוא‎ 6h9
+<sup>4</sup> בה‎ -6h9, 7a1,10l1 &amp;
+<sup>5</sup> ר̈כשא‎ 6h9, 7a1,10l1 &amp;
+<sup>6</sup> בה‎ -12a1 &amp;
+<sup>7</sup> דנורא‎ -12a1 &amp;
+<sup>8</sup> דחדר̈ין‎10l1
+<sup>9</sup> ודבית‎10l1
+<sup>10</sup> אמר מריא‎ +7a1
+<sup>11</sup> כלהון‎ +6h9, 7a1
+<sup>12</sup> לות מ̇ן‎ 9l6
+<sup>13</sup> דדקר‎10l1
+<sup>14</sup> שמעון‎ 9l6
+<sup>15</sup> נתן‎ 9l6
+<sup>16</sup> אכחדא‎ -9l6
+<sup>1</sup> ולעמור̈א‎ 9l3
+<sup>2</sup> ארעא‎12d2
+<sup>3</sup> מן‎12d2 &amp;
+<sup>4</sup> הנא‎ 7a1
+<sup>1</sup> לוקבל‎ 9l5,11l4,11l5 &amp;
+<sup>2</sup> במדנחה̇‎11l4
+<sup>3</sup> רם‎ 7a1
+<sup>4</sup> דיהודא‎ -11l2
+<sup>5</sup> בה‎ -6h9, 9d1,10d1,11d1,12a1,12d1, 12d3 &amp;
+<sup>6</sup> ונחדרה̇‎11l4
+<sup>7</sup> מן‎ 9d1,10d1, 11d1,11l4,11l5,12d1,12d2,12d3 &amp;
+<sup>8</sup> דבתימנה̇‎11l4,11l5 &amp;
+<sup>9</sup> ארעא‎ 9l2
+<sup>10</sup> לתרעא‎12a1 &amp;
+<sup>11</sup> דתרעא‎ -12a1 &amp;
+<sup>12</sup> לאתרא‎ 6h9 &amp;
+<sup>13</sup> למע̈צרתא‎12d2,12d3
+<sup>14</sup> חרבא‎11l4
+<sup>15</sup> תהוא‎ -6h9
+<sup>16</sup> ונתמסא‎12d2
+<sup>17</sup> מ̇ן‎ +7a1, 7k8, 9l2
+<sup>18</sup> למריא‎ 9l2 &amp;
+<sup>19</sup> מריא‎ -9l2 &amp;
+<sup>20</sup> כלהין‎ -6h9
+<sup>21</sup> ואף‎ 6h9, 7k8 &amp;
+<sup>22</sup> חטיתא‎ 9l2 &amp;
+<sup>23</sup> דבאורשלם וביהודא‎ 9d1,10d1,11d1, 12a1,12d1,12d2,12d3 &amp;

@@ -1,641 +1,641 @@
 <h1>פשיטתא - שופטים</h1>
 
-מהדורת ליידן של הפשיטתא (The Old Testament in Syriac according to the Peshiṭta Version), מתוך Peshitta Online של הוצאת בריל
+מהדורת ליידן של הפשיטתא, מתוך הוצאת בריל
 <h2>פרק א</h2>
-(א) והוא<sup class="footnote-marker">1</sup><i class="footnote">ומן‎ 6h7, 8a1c,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">2</sup><i class="footnote">מן‎ -6h7, 8a1c,10c1, 11c1,12a1fam &amp;</i> בתר דמית ישוע ברנון עבדה דמריא שאלו בנ̈י איסריל במריא ואמר̈ין מנו נסק<sup class="footnote-marker">3</sup><i class="footnote">לן‎ -9l3</i> על כנענ̈יא ברישא למתכתשו עמהון בקרבא
+(א) והוא<sup>1</sup><sup>2</sup> בתר דמית ישוע ברנון עבדה דמריא שאלו בנ̈י איסריל במריא ואמר̈ין מנו נסק<sup>3</sup> על כנענ̈יא ברישא למתכתשו עמהון בקרבא
 (ב) ואמר מריא יהודא נסק הא אשלמתה̇ לארעא בא̈ידוהי
 (ג) ואמר יהודא לשמעון אחוהי סק עמי בפצתי ונתכתש עם כנע̈ניא ואזל אף אנא עמך בפצתך ואזל עמה שמעון
 (ד) ואזל יהודא ואשלם אנון מריא לכנ̈עניא ולפר̈זיא בא̈ידיהון וחרבו מנהון בבזק עסרא א̈לפין גבר̈ין
 (ה) ואשכחוהי למרה̇ דבזק בבזק ואתכתשו עמה וחרבו לכנ̈עניא ולפר̈זיא
 (ו) וערק מרה̇ דבזק ורדפו בתרה ואחדוהי ופסקו כר̈ותא דא̈ידוהי ודר̈גלוהי
-(ז) ואמר מרה̇ דבזק שבעין מ̈לכין דמפס̈קן<sup class="footnote-marker">4</sup><i class="footnote">ה̈וי‎ -9a1fam</i> כר̈ותא דאי̈דיהון ודר̈גליהון מלקטין הוו לחמא מן תחית פתורי איך<sup class="footnote-marker">5</sup><i class="footnote">מא‎ -7a1</i> דעבדת הכנא פרעני אלהא ואעלוהי לאורשלם ומית תמן
+(ז) ואמר מרה̇ דבזק שבעין מ̈לכין דמפס̈קן<sup>4</sup> כר̈ותא דאי̈דיהון ודר̈גליהון מלקטין הוו לחמא מן תחית פתורי איך<sup>5</sup> דעבדת הכנא פרעני אלהא ואעלוהי לאורשלם ומית תמן
 (ח) ואתכתשו בנ̈י יהודא באורשלם וכבשוה ומחאוה בפומא דחרבא ולקור̈יה אוקדו בנורא
 (ט) ובתר הידין נחתו בנ̈י יהודא למתכתשו עם כנ̈עניא ית̈בי טורא ותימנא ופקעתא
-(י) ואזל יהודא על כנ̈עניא דיתבין בחברון ושמה̇ דחברון מן קדים קורית ארבע וקטלו לשישי ולאחימן ולתולמי<sup class="footnote-marker">6</sup><i class="footnote">בנ̈י גנבר̈א‎ -9a1fam</i>
-(יא) ואזלו<sup class="footnote-marker">7</sup><i class="footnote">ואתו‎12a1fam &amp;</i> מן תמן על ית̈בי דביר ושמה̇ דדביר מן קדים קורית ספרא
+(י) ואזל יהודא על כנ̈עניא דיתבין בחברון ושמה̇ דחברון מן קדים קורית ארבע וקטלו לשישי ולאחימן ולתולמי<sup>6</sup>
+(יא) ואזלו<sup>7</sup> מן תמן על ית̈בי דביר ושמה̇ דדביר מן קדים קורית ספרא
 (יב) ואמר כלב מ̇ן דנכבשיה לקורית ספרא ונחרביה אתל לה לעכסא ברתי אנתתא
 (יג) וכבשה̇ עתנאיל בר קנז אחוהי דכלב דזעור מנה ויהב לה לעכסא ברתה אנתתא
-(יד) וכד עאלא אתרגרגת למשאל מן אבוה חקלא ואתרכנת מן חמרא אמר<sup class="footnote-marker">8</sup><i class="footnote">ואמר‎ 7g1, 9a1fam &amp;</i> לה̇ כלב<sup class="footnote-marker">9</sup><i class="footnote">אבוה‎ 7a1</i> מא לכי<sup class="footnote-marker">10</sup><i class="footnote">ברתי‎ -7g1*, 9a1fam</i>
-(טו) אמרא לה הב לי בורכתא<sup class="footnote-marker">11</sup><i class="footnote">מטל‎ +6h7, 8a1c,10c1,11c1,12a1fam &amp;</i> דעל<sup class="footnote-marker">12</sup><i class="footnote">דבארעא‎ 8a1c,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">13</sup><i class="footnote">ארעא‎ -8a1c,10c1,11c1, 12a1fam &amp;</i> דתימנא יהבתני הב לי בית שקיא דמיא ויהב לה̇ כלב בית שקיא עליתא ובית שקיא תחתיתא
-(טז) וב̈ני קין<sup class="footnote-marker">14</sup><i class="footnote">קיני‎ 7g1, 8a1,10c1,11c1,12a1</i> חמוהי דמושא סלקו מן קריתא דדק̈לא עם<sup class="footnote-marker">15</sup><i class="footnote">על‎12a1fam &amp;</i> בנ̈י יהודא למדברא דיהודא דבתימנא דעדר ואזלו ואותבו לעמא
+(יד) וכד עאלא אתרגרגת למשאל מן אבוה חקלא ואתרכנת מן חמרא אמר<sup>8</sup> לה̇ כלב<sup>9</sup> מא לכי<sup>10</sup>
+(טו) אמרא לה הב לי בורכתא<sup>11</sup> דעל<sup>12</sup><sup>13</sup> דתימנא יהבתני הב לי בית שקיא דמיא ויהב לה̇ כלב בית שקיא עליתא ובית שקיא תחתיתא
+(טז) וב̈ני קין<sup>14</sup> חמוהי דמושא סלקו מן קריתא דדק̈לא עם<sup>15</sup> בנ̈י יהודא למדברא דיהודא דבתימנא דעדר ואזלו ואותבו לעמא
 (יז) ואזלו שמעון עם יהודא אחוהי ומחו לכנ̈עניא דיתבין בצופת ואחרמוה וקרו שמה̇ דקריתא חרמא
 (יח) וכבש יהודא לעאזא ולתח̈ומיה ולאשקלון ולתח̈ומיה ולעקרון ולתח̈ומיה
-(יט) והוא מריא עם יהודא ואירתו<sup class="footnote-marker">16</sup><i class="footnote">וירת‎ 9a1fam,11c1 &amp;</i> טורא<sup class="footnote-marker">17</sup><i class="footnote">טו̈רא‎ 6h7</i><sup class="footnote-marker">18</sup><i class="footnote">מטול‎ +7a1</i> דלא חרבו<sup class="footnote-marker">19</sup><i class="footnote">חרב‎ 6h7 &amp;</i> ליתב̈י עומקא מטל דמר̈כבתא דפרזלא אית<sup class="footnote-marker">20</sup><i class="footnote">הו̈י‎ +7g1</i> להון
-(כ) ויהבו<sup class="footnote-marker">21</sup><i class="footnote">ויהב‎ 6h7, 7g1, 9a1fam,10c1 &amp;</i> לכלב חברון איך דאמר מושא וקטל<sup class="footnote-marker">22</sup><i class="footnote">וקטלו‎ 7g1, 8a1c, 9a1fam,10c1,11c1,12a1fam &amp;</i> ואובד<sup class="footnote-marker">23</sup><i class="footnote">ואובדו‎ 7g1, 8a1c, 9a1,10c1,11c1,12a1fam &amp;</i> מן תמן תלתא בנ̈י גנבר̈א
+(יט) והוא מריא עם יהודא ואירתו<sup>16</sup> טורא<sup>17</sup><sup>18</sup> דלא חרבו<sup>19</sup> ליתב̈י עומקא מטל דמר̈כבתא דפרזלא אית<sup>20</sup> להון
+(כ) ויהבו<sup>21</sup> לכלב חברון איך דאמר מושא וקטל<sup>22</sup> ואובד<sup>23</sup> מן תמן תלתא בנ̈י גנבר̈א
 (כא) וליב̈וסיא דיתבין באורשלם לא אובדו בנ̈י בנימין ואיתבו יב̈וסיא עם בנ̈י בנימין באורשלם עדמא ליומנא
-(כב) וסלקו דבית יוסף אף<sup class="footnote-marker">24</sup><i class="footnote">ואף‎10c1,11c1 &amp;</i> הנון לבית איל ומריא עמהון
+(כב) וסלקו דבית יוסף אף<sup>24</sup> הנון לבית איל ומריא עמהון
 (כג) ופשו דבית יוסף בבית איל ושמה̇ דקריתא מן קדים לוז
-(כד) וחזו נטור̈א גברא דנפק̇ מן קריתא ואמרין לה חון אינא הו מעלנא<sup class="footnote-marker">25</sup><i class="footnote">מעלנה‎ 7a1</i> דקריתא ונעבד עמך שלמא
-(כה) וחוי אנון<sup class="footnote-marker">26</sup><i class="footnote">גברא הו‎ +6h7</i> מעלנא<sup class="footnote-marker">27</sup><i class="footnote">מעלנה‎ 6h7</i> דקריתא ומחו לקריתא בפומא דחרבא ולגברא הו ולכלה̇ שרבתה שבקוהי
-(כו) ואזל גברא<sup class="footnote-marker">28</sup><i class="footnote">הו‎ +8a1c,10c1,11c1,12a1fam &amp;</i> לארעא דח̈תיא ובנא קריתא וקרא<sup class="footnote-marker">29</sup><i class="footnote">ושמה‎ 9a1fam</i><sup class="footnote-marker">30</sup><i class="footnote">וקרה‎12a1fam &amp;</i> שמה̇<sup class="footnote-marker">31</sup><i class="footnote">קרא‎ 9a1fam</i> לוז והויו שמה̇<sup class="footnote-marker">32</sup><i class="footnote">דקריתא‎ -12a1fam &amp;</i> עדמא ליומנא
-(כז) ולא חרב מנשא לבית שאן ולכפר̈וניה ולתענך ולכפר̈וניה ולית̈בי דור ולכפר̈וניה<sup class="footnote-marker">33</sup><i class="footnote">ולי̈תבי אבינעם ולכפר̈וניה‎ -7a1</i> ולי̈תבי מגדו ולכפר̈וניה ולא אשתעבד<sup class="footnote-marker">34</sup><i class="footnote">אשתחר‎ 9a1fam</i> כנעניא דית̇ב בארעא הי
+(כד) וחזו נטור̈א גברא דנפק̇ מן קריתא ואמרין לה חון אינא הו מעלנא<sup>25</sup> דקריתא ונעבד עמך שלמא
+(כה) וחוי אנון<sup>26</sup> מעלנא<sup>27</sup> דקריתא ומחו לקריתא בפומא דחרבא ולגברא הו ולכלה̇ שרבתה שבקוהי
+(כו) ואזל גברא<sup>28</sup> לארעא דח̈תיא ובנא קריתא וקרא<sup>29</sup><sup>30</sup> שמה̇<sup>31</sup> לוז והויו שמה̇<sup>32</sup> עדמא ליומנא
+(כז) ולא חרב מנשא לבית שאן ולכפר̈וניה ולתענך ולכפר̈וניה ולית̈בי דור ולכפר̈וניה<sup>33</sup> ולי̈תבי מגדו ולכפר̈וניה ולא אשתעבד<sup>34</sup> כנעניא דית̇ב בארעא הי
 (כח) וכד אתחיל איסריל כבשה לכנעניא במדאתא ומובדו לא אובדה
 (כט) ואפרים לא אובד לכנעניא דית̇ב בגזר ואיתבו כנ̈עניא בינתהון בגזר
-(ל) וזבולון לא אובד לי̈תבי קטרון ולית̈בי יהליל ואיתבו<sup class="footnote-marker">35</sup><i class="footnote">כנע̈ניא‎ -9a1fam</i> עמה ואתכבשו במדאתא<sup class="footnote-marker">36</sup><i class="footnote">במדתא‎ 7a1</i>
+(ל) וזבולון לא אובד לי̈תבי קטרון ולית̈בי יהליל ואיתבו<sup>35</sup> עמה ואתכבשו במדאתא<sup>36</sup>
 (לא) ואשיר לא אובד לית̈בי עכו ולית̈בי צידון ולחבל ולאיזבל ולחלבא ולאפק ולרחוב
-(לב) ואיתב אשיר בינת<sup class="footnote-marker">37</sup><i class="footnote">בית‎ 7g1*</i> כנע̈ניא יתב̈י ארעא מטל דלא אובד<sup class="footnote-marker">38</sup><i class="footnote">אובדו‎ 12a1fam &amp;</i> אנון
-(לג) ונפתלי לא אובד לית̈בי בית שמש ולית̈בי בית ענת<sup class="footnote-marker">39</sup><i class="footnote">ויתבו בית‎ -7a1</i><sup class="footnote-marker">40</sup><i class="footnote">בינת‎ 6h7, 8a1,11c1</i><sup class="footnote-marker">41</sup><i class="footnote">כנ̈עניא י̈תבי ארעא וי̈תבי‎ -7a1</i><sup class="footnote-marker">42</sup><i class="footnote">וי̈תבי‎ 11c1 &amp;</i><sup class="footnote-marker">43</sup><i class="footnote">בית‎ -7a1</i><sup class="footnote-marker">44</sup><i class="footnote">בית‎11c1 &amp;</i><sup class="footnote-marker">45</sup><i class="footnote">שמש‎ -7a1</i><sup class="footnote-marker">46</sup><i class="footnote">ענת‎11c1 &amp;</i><sup class="footnote-marker">47</sup><i class="footnote">וי̈תבי‎ -7a1</i><sup class="footnote-marker">48</sup><i class="footnote">וי̈תבי‎11c1 &amp;</i><sup class="footnote-marker">49</sup><i class="footnote">בית‎ -7a1</i><sup class="footnote-marker">50</sup><i class="footnote">בית‎11c1 &amp;</i><sup class="footnote-marker">51</sup><i class="footnote">ענת‎ -7a1</i><sup class="footnote-marker">52</sup><i class="footnote">שמש‎ 11c1 &amp;</i> ואתכבשו להון במדאתא
-(לד) וארחקו<sup class="footnote-marker">53</sup><i class="footnote">ארחקו‎12a1fam &amp;</i> אנון לאמור̈יא בנ̈י<sup class="footnote-marker">54</sup><i class="footnote">אמור̈יא לבנ̈י‎ 9a1fam</i> דן לטורא מטל דלא שבקו אנון למחת לעומקא
-(לה) ואתטפיסו אמור̈יא למתב בארעא דחדס בטורא באלון<sup class="footnote-marker">55</sup><i class="footnote">דאילון‎ 6h7</i> ובשעלבין ועשנת אידא דבית יוסף ואתכבשו במדאתא
+(לב) ואיתב אשיר בינת<sup>37</sup> כנע̈ניא יתב̈י ארעא מטל דלא אובד<sup>38</sup> אנון
+(לג) ונפתלי לא אובד לית̈בי בית שמש ולית̈בי בית ענת<sup>39</sup><sup>40</sup><sup>41</sup><sup>42</sup><sup>43</sup><sup>44</sup><sup>45</sup><sup>46</sup><sup>47</sup><sup>48</sup><sup>49</sup><sup>50</sup><sup>51</sup><sup>52</sup> ואתכבשו להון במדאתא
+(לד) וארחקו<sup>53</sup> אנון לאמור̈יא בנ̈י<sup>54</sup> דן לטורא מטל דלא שבקו אנון למחת לעומקא
+(לה) ואתטפיסו אמור̈יא למתב בארעא דחדס בטורא באלון<sup>55</sup> ובשעלבין ועשנת אידא דבית יוסף ואתכבשו במדאתא
 (לו) ותחומא דאמור̈יא מן מסקנא דעקרון מן שקיפא ולעל
 <h2>פרק ב</h2>
-(א) וסלק מלאכה דמריא מן גלגלא לבכין ואמר לב̈ני איסריל הכנא<sup class="footnote-marker">1</sup><i class="footnote">הו‎ +9a1fam</i> אמר מריא אנא<sup class="footnote-marker">2</sup><i class="footnote">הו‎ +9a1fam</i> אסקתכון מן ארעא דמצרין ואיתיתכון לארעא דאימית לא̈בהיכון ואמרת דלא אבטל קימי דעמכון לעלם
-(ב) ואנתון לא תקימון קימא לית̈בי ארעא הדא מדבחי̈הון עקרו ולא שמעתון לקלי<sup class="footnote-marker">3</sup><i class="footnote">בקלי‎12a1*</i> למנא הכנא עבדתון
-(ג) אף<sup class="footnote-marker">4</sup><i class="footnote">ואף‎ 9a1fam</i> אנא הכנא אמרת דלא אובד אנון מן קדמיכון ונהוון לכון לסריקותא וא̈להיהון נהוון לכון לתוקלתא
-(ד) וכד אמר מלאכה דמריא מ̈לא הלין<sup class="footnote-marker">5</sup><i class="footnote">כלהין‎ -8a1c,10c1,11c1,12a1fam &amp;</i> לאיסריל ארימו כלה עמא<sup class="footnote-marker">6</sup><i class="footnote">עמא כלה‎ 8a1c, 9a1fam,10c1,11c1,12a1fam &amp;</i> קלהון ובכו
-(ה) וקרא<sup class="footnote-marker">7</sup><i class="footnote">וקרו‎ 9a1fam</i> עמא שמה דאתרא הו בכין ודבחו תמן למריא
+(א) וסלק מלאכה דמריא מן גלגלא לבכין ואמר לב̈ני איסריל הכנא<sup>1</sup> אמר מריא אנא<sup>2</sup> אסקתכון מן ארעא דמצרין ואיתיתכון לארעא דאימית לא̈בהיכון ואמרת דלא אבטל קימי דעמכון לעלם
+(ב) ואנתון לא תקימון קימא לית̈בי ארעא הדא מדבחי̈הון עקרו ולא שמעתון לקלי<sup>3</sup> למנא הכנא עבדתון
+(ג) אף<sup>4</sup> אנא הכנא אמרת דלא אובד אנון מן קדמיכון ונהוון לכון לסריקותא וא̈להיהון נהוון לכון לתוקלתא
+(ד) וכד אמר מלאכה דמריא מ̈לא הלין<sup>5</sup> לאיסריל ארימו כלה עמא<sup>6</sup> קלהון ובכו
+(ה) וקרא<sup>7</sup> עמא שמה דאתרא הו בכין ודבחו תמן למריא
 (ו) ושדר ישוע לעמא ואזלו בנ̈י איסריל גבר לירתותה למארת ארעא
-(ז) ופלחו עמא למריא כלהון יומ̈תה דישוע וכלהון יומ̈תא דקשי̈שא<sup class="footnote-marker">8</sup><i class="footnote">דסב̈א‎ 9a1fam</i> דאגרו בתר ישוע וחזו<sup class="footnote-marker">9</sup><i class="footnote">כלהון‎ +9a1fam,10c1,11c1,12a1fam &amp;</i> עבד̈והי<sup class="footnote-marker">10</sup><i class="footnote">עב̈דו‎ 7a1</i> דמריא ור̈ורבתא דעבד לאיסריל
-(ח) ומית ישוע<sup class="footnote-marker">11</sup><i class="footnote">ברנון‎ -9a1fam,12a1fam &amp;</i> עבדה דמריא בר מאא ועסר ש̈נין
-(ט) וקברוהי בתחומא דירתותה בתמנת סרח דבטורא דאפרים מן גרביא דטורא<sup class="footnote-marker">12</sup><i class="footnote">לטורא‎ 10c1,11c1,12a1fam &amp;</i> דגעש
-(י) ואף<sup class="footnote-marker">13</sup><i class="footnote">אף‎ 7a1 &amp;</i> כלה דרא הו אתכנשו לות אב̈היהון וקם דרא אחרנא בתרהון דלא אידעו למריא ואף לא לעב̈דוהי<sup class="footnote-marker">14</sup><i class="footnote">לעבדא‎ 9a1fam</i> דעבד לאיסריל
+(ז) ופלחו עמא למריא כלהון יומ̈תה דישוע וכלהון יומ̈תא דקשי̈שא<sup>8</sup> דאגרו בתר ישוע וחזו<sup>9</sup> עבד̈והי<sup>10</sup> דמריא ור̈ורבתא דעבד לאיסריל
+(ח) ומית ישוע<sup>11</sup> עבדה דמריא בר מאא ועסר ש̈נין
+(ט) וקברוהי בתחומא דירתותה בתמנת סרח דבטורא דאפרים מן גרביא דטורא<sup>12</sup> דגעש
+(י) ואף<sup>13</sup> כלה דרא הו אתכנשו לות אב̈היהון וקם דרא אחרנא בתרהון דלא אידעו למריא ואף לא לעב̈דוהי<sup>14</sup> דעבד לאיסריל
 (יא) ועבדו בני̈ איסריל דביש קדם מריא ופלחו לבעלא
-(יב) ושבקו למריא אלהא<sup class="footnote-marker">15</sup><i class="footnote">אלההון‎ 7a1</i><sup class="footnote-marker">16</sup><i class="footnote">דאבה̈יהון‎ -7a1</i> דאפק<sup class="footnote-marker">17</sup><i class="footnote">דאפקו‎ 7a1</i> אנון מן ארעא דמצרין ואזלו בתר א̈להא<sup class="footnote-marker">18</sup><i class="footnote">אחר̈נא‎ -6h7 &amp;</i><sup class="footnote-marker">19</sup><i class="footnote">דעמ̈מא‎ -9a1fam</i> דבחדר̈יהון<sup class="footnote-marker">20</sup><i class="footnote">דחדר̈יהון‎12a1fam &amp;</i> וסגדו להון וארגזו למריא
-(יג) ושבקו למריא ופלחו לבעלא ולאסתר̈תא<sup class="footnote-marker">21</sup><i class="footnote">ולאסתרא‎12a1 &amp;</i>
-(יד) ואתחמת מריא<sup class="footnote-marker">22</sup><i class="footnote">רוגזה‎ 6h7</i><sup class="footnote-marker">23</sup><i class="footnote">דמריא‎ +6h7</i> על איסריל ואשלם אנון באידא דבזו̈זא ובזו אנון ואשלם אנון באידא דב̈עלדבביהון דבחדר̈יהון ולא אשכחו תוב למקם קדם ב̈עלדבביהון
+(יב) ושבקו למריא אלהא<sup>15</sup><sup>16</sup> דאפק<sup>17</sup> אנון מן ארעא דמצרין ואזלו בתר א̈להא<sup>18</sup><sup>19</sup> דבחדר̈יהון<sup>20</sup> וסגדו להון וארגזו למריא
+(יג) ושבקו למריא ופלחו לבעלא ולאסתר̈תא<sup>21</sup>
+(יד) ואתחמת מריא<sup>22</sup><sup>23</sup> על איסריל ואשלם אנון באידא דבזו̈זא ובזו אנון ואשלם אנון באידא דב̈עלדבביהון דבחדר̈יהון ולא אשכחו תוב למקם קדם ב̈עלדבביהון
 (טו) ולכר דנפקין הוו אידה דמריא הויא הות עליהון לבישתא איך דאמר מריא ואיך דאימא להון מריא ועקת להון טב
-(טז) ואקים מריא דינ̈א בית איסריל ופרקו<sup class="footnote-marker">24</sup><i class="footnote">ופרק‎ 8a1*, 9l6 &amp;</i> אנון מן אידא דבזו̈זיהון
-(יז) ואף לדיני̈הון לא שמעו מטול דטעו בתר א̈להא אחר̈נא וסגדו להון וסטו בעגל מן אורחא דאזלו בה̇ א̈בהיהון למשמע<sup class="footnote-marker">25</sup><i class="footnote">ולא‎ 6h7</i><sup class="footnote-marker">26</sup><i class="footnote">ולמשמע‎ 9a1fam</i><sup class="footnote-marker">27</sup><i class="footnote">שמעו‎ +6h7</i> פוק̈דנוהי<sup class="footnote-marker">28</sup><i class="footnote">פוקדנה‎ 7a1, 7g1</i> דמריא ולא<sup class="footnote-marker">29</sup><i class="footnote">לא‎ 9a1fam</i> עבדו הכנא
-(יח) וכד אקים להון מריא דינ̈א הוא<sup class="footnote-marker">30</sup><i class="footnote">והוא‎11c1 &amp;</i> מריא עם דינ̈א ופרק אנון מן אידא דב̈עלדבביהון כל<sup class="footnote-marker">31</sup><i class="footnote">וכל‎ 6h7</i> יומ̈י דינ̈א שמ̇ע<sup class="footnote-marker">32</sup><i class="footnote">הוא‎ -9l6 &amp;</i><sup class="footnote-marker">33</sup><i class="footnote">מריא‎ -12a1fam &amp;</i> אנקתהון מן<sup class="footnote-marker">34</sup><i class="footnote">קדם‎ -6h7</i> א̈לוציהון ודחו̈קיהון
+(טז) ואקים מריא דינ̈א בית איסריל ופרקו<sup>24</sup> אנון מן אידא דבזו̈זיהון
+(יז) ואף לדיני̈הון לא שמעו מטול דטעו בתר א̈להא אחר̈נא וסגדו להון וסטו בעגל מן אורחא דאזלו בה̇ א̈בהיהון למשמע<sup>25</sup><sup>26</sup><sup>27</sup> פוק̈דנוהי<sup>28</sup> דמריא ולא<sup>29</sup> עבדו הכנא
+(יח) וכד אקים להון מריא דינ̈א הוא<sup>30</sup> מריא עם דינ̈א ופרק אנון מן אידא דב̈עלדבביהון כל<sup>31</sup> יומ̈י דינ̈א שמ̇ע<sup>32</sup><sup>33</sup> אנקתהון מן<sup>34</sup> א̈לוציהון ודחו̈קיהון
 (יט) וכד מיתו דינ̈א הפכו וחבלו מן א̈בהיהון למאזל בתר א̈להא אחר̈נא למפלח אנון ולמסגד להון ולא בצרו מן עב̈דיהון ומן אור̈חתהון ביש̈תא
 (כ) ואתחמת מריא על איסריל ואמר על דעברו עמא הנא על קימי דפקדת לא̈בהיהון ולא שמעו בקלי
-(כא) ואף אנא לא אוסף למובדו לאנש<sup class="footnote-marker">35</sup><i class="footnote">אנש‎ 9l6</i> מן קדמיהון<sup class="footnote-marker">36</sup><i class="footnote">קדמיכון‎ 6h7</i> מן עמ̈מא דשבק ישוע<sup class="footnote-marker">37</sup><i class="footnote">ברנון‎ +11c1</i> ומית
-(כב) מטל דננסא בהון מריא לאיסריל אן נטרין אורחה<sup class="footnote-marker">38</sup><i class="footnote">אור̈חתה‎ 9a1fam &amp;</i> דמריא ואן מהלכין בה̇ איך דנטרו א̈בהיהון או לא
-(כג) ושבק אנון מריא לעמ̈מא הלין ולא אובד אנון בעגל ולא אשלם אנון<sup class="footnote-marker">39</sup><i class="footnote">מריא‎ -9l6 &amp;</i> באידא דישוע<sup class="footnote-marker">40</sup><i class="footnote">ברנון‎ +9l6</i>
+(כא) ואף אנא לא אוסף למובדו לאנש<sup>35</sup> מן קדמיהון<sup>36</sup> מן עמ̈מא דשבק ישוע<sup>37</sup> ומית
+(כב) מטל דננסא בהון מריא לאיסריל אן נטרין אורחה<sup>38</sup> דמריא ואן מהלכין בה̇ איך דנטרו א̈בהיהון או לא
+(כג) ושבק אנון מריא לעמ̈מא הלין ולא אובד אנון בעגל ולא אשלם אנון<sup>39</sup> באידא דישוע<sup>40</sup>
 <h2>פרק ג</h2>
 (א) והלין עמ̈מא דשבק מריא למנסיו בהון לאיסריל כל דלא אידעו לכלהון קר̈בא דכנ̈עניא
 (ב) בלחוד מטל דנדעון דר̈א דבנ̈י איסריל דנאלפון קרבא בלחוד קדמ̈יא לא אידעו
-(ג) חמ̈שא טר̈ונא דפ̈לשתיא וכלהון כנ̈עניא וצ̈ידניא וח̈ויא ית̈בי טורא<sup class="footnote-marker">1</sup><i class="footnote">טו̈רא‎ 9a1 &amp;</i> דלבנן ומן טורא<sup class="footnote-marker">2</sup><i class="footnote">טו̈רא‎ 6h7</i> דבנ̈י חרמון ועדמא למעלנא דחמת
+(ג) חמ̈שא טר̈ונא דפ̈לשתיא וכלהון כנ̈עניא וצ̈ידניא וח̈ויא ית̈בי טורא<sup>1</sup> דלבנן ומן טורא<sup>2</sup> דבנ̈י חרמון ועדמא למעלנא דחמת
 (ד) הוו למנסיו בהון לאיסריל דנדע אן שמעין פוק̈דנוהי דמריא דפקד לא̈בהיהון באידא דמושא
-(ה) ובנ̈י איסריל איתבו בינת<sup class="footnote-marker">3</sup><i class="footnote">בית‎ 7g1,11c1 &amp;</i> כנע̈ניא וח̈ויא ואמור̈יא ופר̈זיא וח̈תיא ויבוס̈יא
+(ה) ובנ̈י איסריל איתבו בינת<sup>3</sup> כנע̈ניא וח̈ויא ואמור̈יא ופר̈זיא וח̈תיא ויבוס̈יא
 (ו) ונסבו מן בנ̈תהון להון נש̈א ובנ̈תהון יהבו לב̈ניהון
 (ז) ופלחו לא̈להיהון ועבדו בנ̈י איסריל דביש קדם מריא וטעו למריא אלההון ופלחו לבעלא ולאסתר̈תא
-(ח) ואתחמת מריא על איסריל ואשלם אנון<sup class="footnote-marker">4</sup><i class="footnote">מריא‎ +6h7</i> באידא דכושן עולא מלכא דארם נהר̈ין ופלחו בנ̈י איסריל לכושן עולא תמנא ש̈נין
+(ח) ואתחמת מריא על איסריל ואשלם אנון<sup>4</sup> באידא דכושן עולא מלכא דארם נהר̈ין ופלחו בנ̈י איסריל לכושן עולא תמנא ש̈נין
 (ט) וקרו בנ̈י איסריל למריא ואקים מריא פרוקא לבנ̈י איסריל ופרק אנון עתנאיל בר קנז אחוהי דכלב דזעור מנה
-(י) והות עלוהי אידה דמריא ודן לאיסריל ונפק לקרבא ואשלם מריא בא̈ידוהי לכושן עולא מלכא<sup class="footnote-marker">5</sup><i class="footnote">מלכא עולא‎ 9a1fam</i> דארם נהר̈ין ועשנת אידה על כושן עולא
+(י) והות עלוהי אידה דמריא ודן לאיסריל ונפק לקרבא ואשלם מריא בא̈ידוהי לכושן עולא מלכא<sup>5</sup> דארם נהר̈ין ועשנת אידה על כושן עולא
 (יא) ואתתניחת ארעא אר̈בעין ש̈נין ומית עתנאיל בר קנז
 (יב) ואוספו בנ̈י איסריל למעבד דביש קדם מריא וחיל מריא לעגלון מלכא דמואב על איסריל על דעבדו דביש קדם מריא
-(יג) וכנש עליהון לבנ̈י עמון ולעמליק ואזלו<sup class="footnote-marker">6</sup><i class="footnote">ואתו‎ 6h7</i> ומחו לאיסריל וירתו קריתא דדק̈לא
-(יד) ופלחו בני̈ איסריל לעגלון מלכא דמואב<sup class="footnote-marker">7</sup><i class="footnote">דמאוב‎ 7a1</i> תמנעסרא ש̈נין
-(טו) וקרו ב̈ני איסריל למריא ואקים להון מריא פרוקא לאהור בר גארא מן שבטא דבנימין גברא דפשיגא הות אידה דימינא ושדרו בנ̈י איסריל קורבנא<sup class="footnote-marker">8</sup><i class="footnote">קור̈בנא‎ 9a1fam</i> באידה לעגלון מלכא דמואב
-(טז) ועבד לה אהור סיפא דתר̈ין פומ̈והי קפס אורכה ואסרה לגו מן לבושה<sup class="footnote-marker">9</sup><i class="footnote">לבשה‎ 6h7, 7pj3, 8a1*,11c1* &amp;</i> על עטמה דימינא
-(יז) וקרב קורבנא לעגלון מלכא דמואב ועגלון מלכא<sup class="footnote-marker">10</sup><i class="footnote">דמואב‎ +6h7, 9a1fam &amp;</i> גברא הוא דבריר טב<sup class="footnote-marker">11</sup><i class="footnote">שמין הוא טב וגברא‎ 9a1fam</i><sup class="footnote-marker">12</sup><i class="footnote">הוא דבריר‎ +9a1fam</i>
-(יח) וכד גמר למקרבו קורבנא שרא לעמא שקי̈לי קורבנא<sup class="footnote-marker">13</sup><i class="footnote">קור̈בנא‎ 6h7</i>
-(יט) והו הפך מן פסילין דעל גנב גלגלא ואמר לה מלתא דסתרא אית לי דאמר לך מלכא ביני ולך ואמר מלכא עברו<sup class="footnote-marker">14</sup><i class="footnote">שורו‎ 9a1fam</i> מן תמן ופרקו להון כלהון<sup class="footnote-marker">15</sup><i class="footnote">אילין‎ +9a1fam,10c1,11c1,12a1fam &amp;</i> דקימין הוו לותה
-(כ) ואהור על לותה והו<sup class="footnote-marker">16</sup><i class="footnote">הו‎ 9a1</i> יתב<sup class="footnote-marker">17</sup><i class="footnote">הוא‎ -10c1*</i> בעליתא בלחודוהי דמתקנא הות לה ואמר<sup class="footnote-marker">18</sup><i class="footnote">לה‎ -7a1, 9a1fam</i> אהור מלתא דאלהא אית לי דאמר לך וקם עגלון מן כורסיה
+(יג) וכנש עליהון לבנ̈י עמון ולעמליק ואזלו<sup>6</sup> ומחו לאיסריל וירתו קריתא דדק̈לא
+(יד) ופלחו בני̈ איסריל לעגלון מלכא דמואב<sup>7</sup> תמנעסרא ש̈נין
+(טו) וקרו ב̈ני איסריל למריא ואקים להון מריא פרוקא לאהור בר גארא מן שבטא דבנימין גברא דפשיגא הות אידה דימינא ושדרו בנ̈י איסריל קורבנא<sup>8</sup> באידה לעגלון מלכא דמואב
+(טז) ועבד לה אהור סיפא דתר̈ין פומ̈והי קפס אורכה ואסרה לגו מן לבושה<sup>9</sup> על עטמה דימינא
+(יז) וקרב קורבנא לעגלון מלכא דמואב ועגלון מלכא<sup>10</sup> גברא הוא דבריר טב<sup>11</sup><sup>12</sup>
+(יח) וכד גמר למקרבו קורבנא שרא לעמא שקי̈לי קורבנא<sup>13</sup>
+(יט) והו הפך מן פסילין דעל גנב גלגלא ואמר לה מלתא דסתרא אית לי דאמר לך מלכא ביני ולך ואמר מלכא עברו<sup>14</sup> מן תמן ופרקו להון כלהון<sup>15</sup> דקימין הוו לותה
+(כ) ואהור על לותה והו<sup>16</sup> יתב<sup>17</sup> בעליתא בלחודוהי דמתקנא הות לה ואמר<sup>18</sup> אהור מלתא דאלהא אית לי דאמר לך וקם עגלון מן כורסיה
 (כא) ואושט אהור אידה דסמלא ונסב סיפא מן עטמה דימינא ומחיהי בכרסה
-(כב) ואתא מרקקה בתר מחותה וסכרה̇ חלבא למחותא מטל דלא שמטה סיפא<sup class="footnote-marker">19</sup><i class="footnote">לסיפא‎ 6h7</i><sup class="footnote-marker">20</sup><i class="footnote">סיפה‎ 9a1fam</i> מן כרסה ונפק<sup class="footnote-marker">21</sup><i class="footnote">הוא‎ +9a1fam</i> מסרהבאית
-(כג) ונפק אהור לכססטרון ואחד תרעא<sup class="footnote-marker">22</sup><i class="footnote">תר̈עא‎ 8a1,10c1,11c1 &amp;</i> דעליתא בא̈פוהי ונפק
-(כד) והו<sup class="footnote-marker">23</sup><i class="footnote">הו‎ 6h7, 7pj3, 8a1,10c1,12a1fam &amp;</i> נפק ועב̈דוהי עלו וחזין<sup class="footnote-marker">24</sup><i class="footnote">וחזו‎ 9a1fam &amp;</i> תר̈עא<sup class="footnote-marker">25</sup><i class="footnote">תרעא‎ 6h7</i> דעליתא טפין ואמרין כבר לפרותדקא<sup class="footnote-marker">26</sup><i class="footnote">לפרודקא‎ 7a1</i> נפק בתוונא דעליתא
-(כה) וכתרו סגי וחזין לא<sup class="footnote-marker">27</sup><i class="footnote">דלא‎ 8a1c, 9a1fam</i><sup class="footnote-marker">28</sup><i class="footnote">ולא‎ 6h7,12a1 &amp;</i> פתח תר̈עא<sup class="footnote-marker">29</sup><i class="footnote">תרעא‎ 6h7, 9a1fam,12a1 &amp;</i> דעליתא ונסבו אק̈לידא<sup class="footnote-marker">30</sup><i class="footnote">אקלידא‎12a1fam &amp;</i> ופתחו וחזין מרהון רמא<sup class="footnote-marker">31</sup><i class="footnote">ארמא‎ 7a1</i><sup class="footnote-marker">32</sup><i class="footnote">על אפ̈והי‎ +6h7, 7pj3, 8a1* &amp;</i> על ארעא ומית
-(כו) ועד<sup class="footnote-marker">33</sup><i class="footnote">וכד‎ 6h7,12a1fam &amp;</i><sup class="footnote-marker">34</sup><i class="footnote">הנון‎ -9a1fam</i> מתתוהין הוו אהור עבר לפסילין ואתפלט ורהט לשיערת
+(כב) ואתא מרקקה בתר מחותה וסכרה̇ חלבא למחותא מטל דלא שמטה סיפא<sup>19</sup><sup>20</sup> מן כרסה ונפק<sup>21</sup> מסרהבאית
+(כג) ונפק אהור לכססטרון ואחד תרעא<sup>22</sup> דעליתא בא̈פוהי ונפק
+(כד) והו<sup>23</sup> נפק ועב̈דוהי עלו וחזין<sup>24</sup> תר̈עא<sup>25</sup> דעליתא טפין ואמרין כבר לפרותדקא<sup>26</sup> נפק בתוונא דעליתא
+(כה) וכתרו סגי וחזין לא<sup>27</sup><sup>28</sup> פתח תר̈עא<sup>29</sup> דעליתא ונסבו אק̈לידא<sup>30</sup> ופתחו וחזין מרהון רמא<sup>31</sup><sup>32</sup> על ארעא ומית
+(כו) ועד<sup>33</sup><sup>34</sup> מתתוהין הוו אהור עבר לפסילין ואתפלט ורהט לשיערת
 (כז) וכד אתא קרא בשיפורא בטורא דאפרים ונחתו עמה בנ̈י איסריל מן טורא והו קדמיהון
-(כח) ואמר להון תו בתרי מטל דאשלם<sup class="footnote-marker">35</sup><i class="footnote">אנון‎ +6h7</i> מריא ב̈עלדבביכון<sup class="footnote-marker">36</sup><i class="footnote">לב̈עלדבביכון‎ 8a1c,10c1,11c1,12a1fam &amp;</i> מוא̈ביא בא̈ידיכון ונחתו בתרה ואחדו מעברתא<sup class="footnote-marker">37</sup><i class="footnote">מעב̈רתא‎ 7a1</i> דיורדנן דמואב ולא שבקו לאנש<sup class="footnote-marker">38</sup><i class="footnote">אנש‎ 10c1 &amp;</i> דנעבר
-(כט) וקטלו מן מוא̈ביא בהו זבנא איך עסרא א̈לפין גבר̈ין כל דעתיר<sup class="footnote-marker">39</sup><i class="footnote">דעתיד‎ 12a1fam</i> וכל גבר חילתן ולא אתפלט אנש
+(כח) ואמר להון תו בתרי מטל דאשלם<sup>35</sup> מריא ב̈עלדבביכון<sup>36</sup> מוא̈ביא בא̈ידיכון ונחתו בתרה ואחדו מעברתא<sup>37</sup> דיורדנן דמואב ולא שבקו לאנש<sup>38</sup> דנעבר
+(כט) וקטלו מן מוא̈ביא בהו זבנא איך עסרא א̈לפין גבר̈ין כל דעתיר<sup>39</sup> וכל גבר חילתן ולא אתפלט אנש
 (ל) ואתתברו מוא̈ביא בהו זבנא תחית אידא דאיסריל ושלית ארעא תמנאין ש̈נין
 (לא) ובתרה הוא שמגר בר ענת וחרב מן פלש̈תיא שתמאא גבר̈ין במססא דתור̈א ופרק אף הו לאיסראיל
 <h2>פרק ד</h2>
 (א) ואוספו תוב בנ̈י איסריל למעבד דביש קדם מריא ואהור מית
-(ב) ואשלם אנון מריא באידא דנבין מלכא דכנען דאמלך בחצור ורב חילה סיסרא והו ית̇ב הוא בחרשת<sup class="footnote-marker">1</sup><i class="footnote">בח̈רשת‎ 7a1</i> דעמ̈מא
-(ג) ואזעקו<sup class="footnote-marker">2</sup><i class="footnote">וזעקו‎ 7a1</i> בנ̈י איסריל למריא מטול דתשעמאא מר̈כבתא דפרזלא אית ה̈וי לה והו משעבד הוא<sup class="footnote-marker">3</sup><i class="footnote">להון‎ +9l1</i> לבנ̈י איסריל<sup class="footnote-marker">4</sup><i class="footnote">בקטירא‎ -7a1</i> עסר̈ין<sup class="footnote-marker">5</sup><i class="footnote">ארבעין‎ 6h7, 9l1</i> שני̈ן
-(ד) ודבורא אנתתא נביתא אתת לפיתור והי<sup class="footnote-marker">6</sup><i class="footnote">הי‎ 6h7, 8a1,10c1,11c1,12a1fam &amp;</i> הות די̇נא<sup class="footnote-marker">7</sup><i class="footnote">די̇נא הות‎ 9l1 &amp;</i> לאיסריל בהו זבנא
-(ה) והי דבורא יתבא הות תחית דקלא בית רמתא ובית<sup class="footnote-marker">8</sup><i class="footnote">ובינת‎ 9a1fam</i> בית<sup class="footnote-marker">9</sup><i class="footnote">ובית איל‎ 6h7, 8a1*, 9l1 &amp;</i><sup class="footnote-marker">10</sup><i class="footnote">בית‎ 9a1fam</i><sup class="footnote-marker">11</sup><i class="footnote">איל‎ -6h7, 8a1*, 9l1 &amp;</i><sup class="footnote-marker">12</sup><i class="footnote">איל‎ 9a1fam</i> דבטורא דאפרים וסלקו לותה̇ ב̈ני איסריל לדינא
-(ו) ושדרת קרת<sup class="footnote-marker">13</sup><i class="footnote">לותה‎ +11c1</i> לברק בר אבינעם מן רקם דנפתלי ואמרא לה לא<sup class="footnote-marker">14</sup><i class="footnote">דלא‎ 9a1fam</i> פקדך מריא אלהא דאיסריל דתאזל ותתב בטורא דתבור ותדבר עמך<sup class="footnote-marker">15</sup><i class="footnote">איך‎ +12a1fam &amp;</i> עסרא א̈לפין גבר̈ין מן בנ̈י נפתלי ומן בנ̈י זבולון
-(ז) ונאתון עמך לנחלא דקישון על סיסרא רב חילא<sup class="footnote-marker">16</sup><i class="footnote">חילה‎ 9l1 &amp;</i> דנבין ועל מר̈כבתה ועל חילה ואשלמיוהי בא̈ידיך
-(ח) אמר<sup class="footnote-marker">17</sup><i class="footnote">ואמר‎ 9a1fam</i> לה ברק אן אזלא אנתי עמי אזלנא ואן לא אזלא אנתי עמי לא אזל אנא
-(ט) אמרא<sup class="footnote-marker">18</sup><i class="footnote">ואמרא‎ 9a1fam</i> לה מאזל אזלא אנא עמך<sup class="footnote-marker">19</sup><i class="footnote">ברק‎ +6h7</i> ברם ברק לא תשתבהר על אורחא דאזל אנת מטל דבאידא דאנתתא נשלמיוהי מריא לסיסרא וקמת דבורא ואזלת עם ברק לרקם
-(י) וכנש ברק לזבולון ולנפתלי לרקם וסלקו עמה עסרא א̈לפין גבר̈ין וסלקת עמה<sup class="footnote-marker">20</sup><i class="footnote">אף‎ -11c1*</i> דבורא
-(יא) וחובר קינן נפק מן קין מן ב̈ני חובב<sup class="footnote-marker">21</sup><i class="footnote">בר רעואיל‎ +9a1fam</i> חמוהי דמושא ונקש משכנה עדמא לבטמתא דבצעינין דעל גנב רקם
+(ב) ואשלם אנון מריא באידא דנבין מלכא דכנען דאמלך בחצור ורב חילה סיסרא והו ית̇ב הוא בחרשת<sup>1</sup> דעמ̈מא
+(ג) ואזעקו<sup>2</sup> בנ̈י איסריל למריא מטול דתשעמאא מר̈כבתא דפרזלא אית ה̈וי לה והו משעבד הוא<sup>3</sup> לבנ̈י איסריל<sup>4</sup> עסר̈ין<sup>5</sup> שני̈ן
+(ד) ודבורא אנתתא נביתא אתת לפיתור והי<sup>6</sup> הות די̇נא<sup>7</sup> לאיסריל בהו זבנא
+(ה) והי דבורא יתבא הות תחית דקלא בית רמתא ובית<sup>8</sup> בית<sup>9</sup><sup>10</sup><sup>11</sup><sup>12</sup> דבטורא דאפרים וסלקו לותה̇ ב̈ני איסריל לדינא
+(ו) ושדרת קרת<sup>13</sup> לברק בר אבינעם מן רקם דנפתלי ואמרא לה לא<sup>14</sup> פקדך מריא אלהא דאיסריל דתאזל ותתב בטורא דתבור ותדבר עמך<sup>15</sup> עסרא א̈לפין גבר̈ין מן בנ̈י נפתלי ומן בנ̈י זבולון
+(ז) ונאתון עמך לנחלא דקישון על סיסרא רב חילא<sup>16</sup> דנבין ועל מר̈כבתה ועל חילה ואשלמיוהי בא̈ידיך
+(ח) אמר<sup>17</sup> לה ברק אן אזלא אנתי עמי אזלנא ואן לא אזלא אנתי עמי לא אזל אנא
+(ט) אמרא<sup>18</sup> לה מאזל אזלא אנא עמך<sup>19</sup> ברם ברק לא תשתבהר על אורחא דאזל אנת מטל דבאידא דאנתתא נשלמיוהי מריא לסיסרא וקמת דבורא ואזלת עם ברק לרקם
+(י) וכנש ברק לזבולון ולנפתלי לרקם וסלקו עמה עסרא א̈לפין גבר̈ין וסלקת עמה<sup>20</sup> דבורא
+(יא) וחובר קינן נפק מן קין מן ב̈ני חובב<sup>21</sup> חמוהי דמושא ונקש משכנה עדמא לבטמתא דבצעינין דעל גנב רקם
 (יב) וחויו לסיסרא דסלק ברק בר אבינעם לטורא דתבור
-(יג) וכנש סיסרא כלהין<sup class="footnote-marker">22</sup><i class="footnote">לכלהין‎ 6h7</i> מר̈כבתה תשעמאא מר̈כבתא דפרזלא וכלה עמא דעמה מן חרשת דעמ̈מא ועדמא<sup class="footnote-marker">23</sup><i class="footnote">עדמא‎ 8a1</i> לנחלא דקישון
-(יד) ואמרת דבורא לברק קום מטל דהנא הו יומא דאשלם מריא לסיסרא בא̈ידיך הא מריא<sup class="footnote-marker">24</sup><i class="footnote">נפק‎ -11c1</i> קדמיך ונחת ברק מן טורא דתבור ועסרא א̈לפין גבר̈ין עמה
-(טו) ותבר מריא לסיסרא ולכלהין מר̈כבתה ולכלה̇ משריתה בפומא דחרבא קדם ברק ונחת סיסרא מן מרכבתה<sup class="footnote-marker">25</sup><i class="footnote">מרכ̈בתה‎11c1 &amp;</i> וערק בר̈גלוהי
-(טז) וברק רדף<sup class="footnote-marker">26</sup><i class="footnote">הוא‎ +6h7, 8a1* &amp;</i> בתר מר̈כבתה<sup class="footnote-marker">27</sup><i class="footnote">מרכבתה‎ 6h7</i> ובתר משריתה<sup class="footnote-marker">28</sup><i class="footnote">משר̈יתה‎ 6h7</i> עדמא לחרשת דעמ̈מא ונפלת כלה̇ משריתה דסיסרא בפומא דחרבא ואנש לא אתפלט כד חי
-(יז) וסיסרא ערק ברגל ועל למשכנא דענאיל אנתת חובר קיניא מטל דשלמא אית הוא בית נבין מלכא דחצור<sup class="footnote-marker">29</sup><i class="footnote">דחוצר‎ 7a1</i> ובית חובר קיניא
+(יג) וכנש סיסרא כלהין<sup>22</sup> מר̈כבתה תשעמאא מר̈כבתא דפרזלא וכלה עמא דעמה מן חרשת דעמ̈מא ועדמא<sup>23</sup> לנחלא דקישון
+(יד) ואמרת דבורא לברק קום מטל דהנא הו יומא דאשלם מריא לסיסרא בא̈ידיך הא מריא<sup>24</sup> קדמיך ונחת ברק מן טורא דתבור ועסרא א̈לפין גבר̈ין עמה
+(טו) ותבר מריא לסיסרא ולכלהין מר̈כבתה ולכלה̇ משריתה בפומא דחרבא קדם ברק ונחת סיסרא מן מרכבתה<sup>25</sup> וערק בר̈גלוהי
+(טז) וברק רדף<sup>26</sup> בתר מר̈כבתה<sup>27</sup> ובתר משריתה<sup>28</sup> עדמא לחרשת דעמ̈מא ונפלת כלה̇ משריתה דסיסרא בפומא דחרבא ואנש לא אתפלט כד חי
+(יז) וסיסרא ערק ברגל ועל למשכנא דענאיל אנתת חובר קיניא מטל דשלמא אית הוא בית נבין מלכא דחצור<sup>29</sup> ובית חובר קיניא
 (יח) ונפקת ענאיל לאורעה דסיסרא ואמרא לה סטי מרי סטי לותי ולא תדחל וסטא לותה̇ למשכנא וכסיתה בחמילתא
 (יט) ואמר לה̇ אשקאיני קליל מ̈יא מטל דצהית ושרת חליצא דחלבא ואשקיתה וכסיתה
-(כ) ואמר לה̇ קום בתרעא דמשכנא ואנהו דאת̇א אנש שאל לכי<sup class="footnote-marker">30</sup><i class="footnote">ואמ̇ר‎ -6h7, 9a1fam</i> דאית תנן אנש אמר לה לית<sup class="footnote-marker">31</sup><i class="footnote">תנן‎ +9a1fam</i>
-(כא) ונסבת ענאיל אנתתה דחובר<sup class="footnote-marker">32</sup><i class="footnote">קיניא‎ +6h7,11c1 &amp;</i> סכתא דמשכנא ואחדת ארזפתא באידה̇ ועלת עלוהי כד דמך<sup class="footnote-marker">33</sup><i class="footnote">דמיך‎ 6h7 &amp;</i> ונקשת סכתא בצדעה וטבעת בארעא כד הו דמך<sup class="footnote-marker">34</sup><i class="footnote">דמיך‎ 6h7 &amp;</i> ואתטרף ומית
-(כב) והא ברק רדף בתר סיסרא ונפקת ענאיל לאורעה ואמרא לה תא אחויך לגברא דבעא אנת ועל לותה̇ וחזא והא סיסרא רמא<sup class="footnote-marker">35</sup><i class="footnote">ארמא‎ 7a1</i> ומית וסכתא בצדעה
+(כ) ואמר לה̇ קום בתרעא דמשכנא ואנהו דאת̇א אנש שאל לכי<sup>30</sup> דאית תנן אנש אמר לה לית<sup>31</sup>
+(כא) ונסבת ענאיל אנתתה דחובר<sup>32</sup> סכתא דמשכנא ואחדת ארזפתא באידה̇ ועלת עלוהי כד דמך<sup>33</sup> ונקשת סכתא בצדעה וטבעת בארעא כד הו דמך<sup>34</sup> ואתטרף ומית
+(כב) והא ברק רדף בתר סיסרא ונפקת ענאיל לאורעה ואמרא לה תא אחויך לגברא דבעא אנת ועל לותה̇ וחזא והא סיסרא רמא<sup>35</sup> ומית וסכתא בצדעה
 (כג) ותבר מריא ביומא הו לנבין מלכא דכנען קדם בנ̈י איסריל
-(כד) ואידא דבנ̈י איסריל אזלא<sup class="footnote-marker">36</sup><i class="footnote">הות‎ -6h7, 9a1fam</i> ועשנא על נבין מלכא דכנען עדמא דקטלוהי לנבין מלכא דכנען
+(כד) ואידא דבנ̈י איסריל אזלא<sup>36</sup> ועשנא על נבין מלכא דכנען עדמא דקטלוהי לנבין מלכא דכנען
 <h2>פרק ה</h2>
 (א) ושבחת דבורא וברק בר אבינעם ביומא הו למאמר
-(ב) בפורענותא דאתפרע איסריל בתשבוחתא דעמא שבחו<sup class="footnote-marker">1</sup><i class="footnote">דשבחו‎ 9a1fam</i> למריא
+(ב) בפורענותא דאתפרע איסריל בתשבוחתא דעמא שבחו<sup>1</sup> למריא
 (ג) שמעו מ̈לכא וצותו ש̈ליטנא אנא למריא אשבח ואזמר לה למריא אלהא דאיסריל
-(ד) מריא במפקך דמן סעיר כד הלכת בינת חק̈לתא דאדום ארעא זעת אף<sup class="footnote-marker">2</sup><i class="footnote">ואף‎ 8a1, 9a1,10c1,11c1,12a1fam &amp;</i> שמיא נטפו וענ̈נא רס<sup class="footnote-marker">3</sup><i class="footnote">רזפו‎ 6h7</i> מ̈יא
-(ה) וטור̈א דלו<sup class="footnote-marker">4</sup><i class="footnote">מן‎ +6h7,11c1</i> קדם מריא והנא סיני מן קדם מריא קדישא<sup class="footnote-marker">5</sup><i class="footnote">אלהא‎ 9a1fam</i> דאיסריל
+(ד) מריא במפקך דמן סעיר כד הלכת בינת חק̈לתא דאדום ארעא זעת אף<sup>2</sup> שמיא נטפו וענ̈נא רס<sup>3</sup> מ̈יא
+(ה) וטור̈א דלו<sup>4</sup> קדם מריא והנא סיני מן קדם מריא קדישא<sup>5</sup> דאיסריל
 (ו) בי̈ומוהי דשמגר בר ענת ובי̈ומי ענאיל פסקו אור̈חתא ודמהלכין הוו בשבי̈לא תר̈יצא הלכו באור̈חתא מעקמ̈תא
 (ז) פסקו שטח̈א דאיסריל פסקו עדמא דקמת אנא דבורא קמת אמא באיסריל
-(ח) נגבא אלהא חדתא והידין לחמא דסער̈א וסיפא ורומחא לא נתחזא בינת אר̈בעין א̈לפא<sup class="footnote-marker">6</sup><i class="footnote">א̈לפין‎ 9a1fam, 9l6 &amp;</i> דאיסריל
-(ט) לבי אמר למבדקנא<sup class="footnote-marker">7</sup><i class="footnote">למב̈דקנא‎ 9a1fam &amp;</i> דאיסריל אילין דפרישין בעמא ברכו למריא
-(י) ור̈כבי את̈נא חור̈תא וית̈בי<sup class="footnote-marker">8</sup><i class="footnote">ויתבו‎ 9a1fam</i> ב̈בתא ומה̈לכי באור̈חתא
-(יא) רנו<sup class="footnote-marker">9</sup><i class="footnote">ארנו‎ 7a1</i><sup class="footnote-marker">10</sup><i class="footnote">ורנו‎11c1</i> מן מ̈לא דבצ̈ויא דבינת מ̈לפנא תמן נתלון זדיקותה דמריא זדיקותה דאסגי<sup class="footnote-marker">11</sup><i class="footnote">דאיסריל‎ 9l6</i><sup class="footnote-marker">12</sup><i class="footnote">באיסריל‎ -9l6</i> הידין נחת לתרעא עמה דמריא
-(יב) אתתעירי אתתעירי דבורא אתתעירי ואתידי<sup class="footnote-marker">13</sup><i class="footnote">ואתנדי‎ 7a1</i> ומללי תשבוחתא קום ברק ושבי שבי̈ך ברה דאבינעם
-(יג) והידין<sup class="footnote-marker">14</sup><i class="footnote">הידין‎ 8a1c, 9a1fam,10c1,11c1,12a1fam &amp;</i> נחת מפצינא למשבחו קדם מריא דנחת לי בגברא<sup class="footnote-marker">15</sup><i class="footnote">בג̈ברא‎ 8a1 &amp;</i><sup class="footnote-marker">16</sup><i class="footnote">גברא‎ 7a1</i>
+(ח) נגבא אלהא חדתא והידין לחמא דסער̈א וסיפא ורומחא לא נתחזא בינת אר̈בעין א̈לפא<sup>6</sup> דאיסריל
+(ט) לבי אמר למבדקנא<sup>7</sup> דאיסריל אילין דפרישין בעמא ברכו למריא
+(י) ור̈כבי את̈נא חור̈תא וית̈בי<sup>8</sup> ב̈בתא ומה̈לכי באור̈חתא
+(יא) רנו<sup>9</sup><sup>10</sup> מן מ̈לא דבצ̈ויא דבינת מ̈לפנא תמן נתלון זדיקותה דמריא זדיקותה דאסגי<sup>11</sup><sup>12</sup> הידין נחת לתרעא עמה דמריא
+(יב) אתתעירי אתתעירי דבורא אתתעירי ואתידי<sup>13</sup> ומללי תשבוחתא קום ברק ושבי שבי̈ך ברה דאבינעם
+(יג) והידין<sup>14</sup> נחת מפצינא למשבחו קדם מריא דנחת לי בגברא<sup>15</sup><sup>16</sup>
 (יד) מן אפרים ועב̈דוהי בעמליק בתרך בנימין בחובך מן מכיר נפק מבדקנא ומן זבולון דכתבין בקניא דספרא
-(טו) ר̈ורבנא דאיסכר עם דבורא ואיסכר איך ברק בעמ̈מא אשתדר בר̈גלוהי לפלגותא<sup class="footnote-marker">17</sup><i class="footnote">פלגותא‎12a1 &amp;</i> דרוביל ר̈ורבין בדק̈י לבא
+(טו) ר̈ורבנא דאיסכר עם דבורא ואיסכר איך ברק בעמ̈מא אשתדר בר̈גלוהי לפלגותא<sup>17</sup> דרוביל ר̈ורבין בדק̈י לבא
 (טז) למנא יתב אנת בינת שב̈ילא למשמע סוקא דער̈דא לפלגותא דרוביל ר̈ורבין בדק̈י לבא
-(יז) גד בעברא דיורדנן שרא ודן למאנא<sup class="footnote-marker">18</sup><i class="footnote">למנא‎ 9a1fam,11c1 &amp;</i> גאר ספי̈נא אשיר יתב על ספרא דימא ועל תורעתה נשרא
+(יז) גד בעברא דיורדנן שרא ודן למאנא<sup>18</sup> גאר ספי̈נא אשיר יתב על ספרא דימא ועל תורעתה נשרא
 (יח) זבולון עמא דחסד נפשה למותא נפתלי על רומא דחקלה
-(יט) אתו מ̈לכא ואתכתשו<sup class="footnote-marker">19</sup><i class="footnote">ואתכנשו‎ 9a1fam</i> והידין<sup class="footnote-marker">20</sup><i class="footnote">והי‎ 7a1</i><sup class="footnote-marker">21</sup><i class="footnote">דין‎ +7a1</i> אתכנשו מ̈לכא דכנען בתענך אתכנשו על מ̈יא דמגדו קנינא וכספא לא נסבו
-(כ) עבדו קרבא כוכב̈א מן דוכי̈תהון קרבא מן שמיא עם<sup class="footnote-marker">22</sup><i class="footnote">על‎12a1 &amp;</i> סיסרא
-(כא) בנחלא דקישון גרף אנון נחלא דקישון ונחלא דקרמין תדרך נפשי<sup class="footnote-marker">23</sup><i class="footnote">נפשך‎ 12a1fam &amp;</i> חילא
-(כב) הידין<sup class="footnote-marker">24</sup><i class="footnote">והידין‎ 7a1</i> נפל עק̈בא<sup class="footnote-marker">25</sup><i class="footnote">עקב̈תא‎ 7a1</i><sup class="footnote-marker">26</sup><i class="footnote">עקבא‎ 6h7,11c1 &amp;</i> דרכשה מן נהמתא דחילא דתקי̈פוהי<sup class="footnote-marker">27</sup><i class="footnote">ותק̈יפוהי‎ 9a1fam</i>
-(כג) לוטו למרוד<sup class="footnote-marker">28</sup><i class="footnote">למר̈יה‎ 6h7c</i><sup class="footnote-marker">29</sup><i class="footnote">דמרוד‎ +6h7c</i> אמר מלאכה דמריא לוטוה ולוטו לית̈ביה מטל דלא אתו לעודרנה דמריא בגבר̈א
+(יט) אתו מ̈לכא ואתכתשו<sup>19</sup> והידין<sup>20</sup><sup>21</sup> אתכנשו מ̈לכא דכנען בתענך אתכנשו על מ̈יא דמגדו קנינא וכספא לא נסבו
+(כ) עבדו קרבא כוכב̈א מן דוכי̈תהון קרבא מן שמיא עם<sup>22</sup> סיסרא
+(כא) בנחלא דקישון גרף אנון נחלא דקישון ונחלא דקרמין תדרך נפשי<sup>23</sup> חילא
+(כב) הידין<sup>24</sup> נפל עק̈בא<sup>25</sup><sup>26</sup> דרכשה מן נהמתא דחילא דתקי̈פוהי<sup>27</sup>
+(כג) לוטו למרוד<sup>28</sup><sup>29</sup> אמר מלאכה דמריא לוטוה ולוטו לית̈ביה מטל דלא אתו לעודרנה דמריא בגבר̈א
 (כד) תתברך מן נש̈א ענאיל אנתתה דחובר קיניא מן נש̈א דבמשכנא תתברך
-(כה) מ̈יא שאל וחלבא יהבת בכסא דגנבר̈א<sup class="footnote-marker">30</sup><i class="footnote">דגנברא‎ 9a1fam,10c1 &amp;</i> קרבת חאותא
-(כו) אידה̇ על סכתא אושטת וימינה̇ לארזפתא<sup class="footnote-marker">31</sup><i class="footnote">על‎ 6h7 &amp;</i><sup class="footnote-marker">32</sup><i class="footnote">ארזפתא‎ +6h7 &amp;</i> דנגרא ומחתה לסיסרא ופכתה לרישה מחת ואעברת בצדעה
-(כז) ובינת ר̈גליה ברך ונפל ושכב בדוכתא דברך<sup class="footnote-marker">33</sup><i class="footnote">תמן‎ -10c1</i> נפל בזוזא
-(כח) ומן<sup class="footnote-marker">34</sup><i class="footnote">מן‎10c1</i> כותא אדיקת ויבבת<sup class="footnote-marker">35</sup><i class="footnote">ויתבת‎10c1</i> אמה דסיסרא מן כססטרון ואמרת מנא הו אשתוחר מר̈כבתה דברי למאתא ומנא<sup class="footnote-marker">36</sup><i class="footnote">הו‎ -6h7 &amp;</i> אוחר זנגא דמר̈כבתה
-(כט) חכימת ע̈לימתה̇<sup class="footnote-marker">37</sup><i class="footnote">ע̈לימתא‎ 6h7,12a1fam &amp;</i><sup class="footnote-marker">38</sup><i class="footnote">אף‎ -12a1fam &amp;</i><sup class="footnote-marker">39</sup><i class="footnote">ענת‎ 6h7, 9a1fam</i><sup class="footnote-marker">40</sup><i class="footnote">הי‎ -12a1fam &amp;</i> ענת<sup class="footnote-marker">41</sup><i class="footnote">אף הי‎ 6h7, 9a1fam</i> ואמרא לה̇
-(ל) כבר אזל ואשכח בזתא סגיאתא ופלג כודניא כודניא לריש גברא<sup class="footnote-marker">42</sup><i class="footnote">לר̈ישי גבר̈א‎ 12a1fam &amp;</i> ובזתא סגיאתא וצ̈ובענא וצור̈תא לסיסרא וצו̈בענא וצור̈תא על צורא<sup class="footnote-marker">43</sup><i class="footnote">צו̈רא‎12a1fam &amp;</i> דבזו̈זא
-(לא) הכנא נאבדון כלהון ב̈עלדבביך מריא ור̈חמיך איך מפק<sup class="footnote-marker">44</sup><i class="footnote">מפ̈קי‎ 6h7</i> שמשא בגנברותה ושלית ארעא אר̈בעין שנ̈ין
+(כה) מ̈יא שאל וחלבא יהבת בכסא דגנבר̈א<sup>30</sup> קרבת חאותא
+(כו) אידה̇ על סכתא אושטת וימינה̇ לארזפתא<sup>31</sup><sup>32</sup> דנגרא ומחתה לסיסרא ופכתה לרישה מחת ואעברת בצדעה
+(כז) ובינת ר̈גליה ברך ונפל ושכב בדוכתא דברך<sup>33</sup> נפל בזוזא
+(כח) ומן<sup>34</sup> כותא אדיקת ויבבת<sup>35</sup> אמה דסיסרא מן כססטרון ואמרת מנא הו אשתוחר מר̈כבתה דברי למאתא ומנא<sup>36</sup> אוחר זנגא דמר̈כבתה
+(כט) חכימת ע̈לימתה̇<sup>37</sup><sup>38</sup><sup>39</sup><sup>40</sup> ענת<sup>41</sup> ואמרא לה̇
+(ל) כבר אזל ואשכח בזתא סגיאתא ופלג כודניא כודניא לריש גברא<sup>42</sup> ובזתא סגיאתא וצ̈ובענא וצור̈תא לסיסרא וצו̈בענא וצור̈תא על צורא<sup>43</sup> דבזו̈זא
+(לא) הכנא נאבדון כלהון ב̈עלדבביך מריא ור̈חמיך איך מפק<sup>44</sup> שמשא בגנברותה ושלית ארעא אר̈בעין שנ̈ין
 <h2>פרק ו</h2>
 (א) ועבדו בני̈ איסריל דביש קדם מריא ואשלם אנון מריא באידא דמדינ̈יא שבע ש̈נין
-(ב) ועשנת אידא דמדינ̈יא על<sup class="footnote-marker">1</sup><i class="footnote">בנ̈י‎ +6h7</i> איסריל וערקו מן קדם מדינ̈יא ועבדו להון בנ̈י איסריל ב̈תא בטור̈א ומער̈א<sup class="footnote-marker">2</sup><i class="footnote">בטורא ומנר̈א‎ 7a1</i> וטיר̈א
-(ג) ומא דזרע הוא איסריל סלקין הוו מדינ̈יא ועמלי̈קיא ובנ̈י רקם<sup class="footnote-marker">3</sup><i class="footnote">מדין‎ 9a1fam</i>
-(ד) ושרין הוו עליהון ומחבלין הוו כלה̇ ארעא עדמא למעלנא דעאזא ולא שבקין הוו לאיסריל<sup class="footnote-marker">4</sup><i class="footnote">לבנ̈י‎ 6h7 &amp;</i><sup class="footnote-marker">5</sup><i class="footnote">איסריל‎ +6h7 &amp;</i> דנחון תור̈א ואמר̈א וחמר̈א<sup class="footnote-marker">6</sup><i class="footnote">וחמר̈א ואמר̈א‎ 7a1</i>
+(ב) ועשנת אידא דמדינ̈יא על<sup>1</sup> איסריל וערקו מן קדם מדינ̈יא ועבדו להון בנ̈י איסריל ב̈תא בטור̈א ומער̈א<sup>2</sup> וטיר̈א
+(ג) ומא דזרע הוא איסריל סלקין הוו מדינ̈יא ועמלי̈קיא ובנ̈י רקם<sup>3</sup>
+(ד) ושרין הוו עליהון ומחבלין הוו כלה̇ ארעא עדמא למעלנא דעאזא ולא שבקין הוו לאיסריל<sup>4</sup><sup>5</sup> דנחון תור̈א ואמר̈א וחמר̈א<sup>6</sup>
 (ה) מטל דהנון ובעירהון ומש̈כניהון אתין הוו איך קמצא סגיאא ולהון ולגמ̈ליהון לית הוא מנין ועלו לארעא למחבלותה̇
-(ו) ואתתזיע טב איסריל<sup class="footnote-marker">7</sup><i class="footnote">איסריל טב‎12a1fam &amp;</i> מן קדם מדינ̈יא
-(ז) וזעקו<sup class="footnote-marker">8</sup><i class="footnote">ואזעקו‎ 6h7, 6ph11, 8a1,10c1,11c1,12a1fam &amp;</i> בני̈ איסריל למריא על צבותא דמדין
+(ו) ואתתזיע טב איסריל<sup>7</sup> מן קדם מדינ̈יא
+(ז) וזעקו<sup>8</sup> בני̈ איסריל למריא על צבותא דמדין
 (ח) ושדר מריא לגברא נביא לות ב̈ני איסריל ואמר להון הכנא אמר מריא אלהא דאיסריל אנא אסקתכון מן ארעא דמצרין ואפקתכון מן בית עבדותא
 (ט) ופציתכון מן אידא דמצר̈יא ומן אידא דכלהון א̈לוציכון ואובדת אנון מן קדמיכון ויהבת לכון ארעהון
 (י) ואמרת לכון דאנא אנא מריא אלהכון לא תדחלון לא̈להא דאמור̈יא דיתבין אנתון בארעהון ולא שמעתון בקלי
-(יא) ואתא מלאכה דמריא ואיתב תחית בטמתא דאית בעופרא קריתה דיואש אבוהי<sup class="footnote-marker">9</sup><i class="footnote">אחוהי‎ 9l6</i> דעזרי וגדעון ברה חבט הוא ח̈טא בגת דנערוק מן קדם מדינ̈יא
-(יב) ואתחזי לה מלאכה<sup class="footnote-marker">10</sup><i class="footnote">מלאכא‎ 6h7</i> דמריא ואמר<sup class="footnote-marker">11</sup><i class="footnote">לה‎ -9a1fam</i> מריא גנבר חילא עמך
-(יג) ואמר לה גדעון בעא אנא<sup class="footnote-marker">12</sup><i class="footnote">מנך‎ -9l6*</i> מרי אן אית מריא עמן למנא גדש לן הלין כולהין ואיכא<sup class="footnote-marker">13</sup><i class="footnote">איכא‎ 9l2 &amp;</i><sup class="footnote-marker">14</sup><i class="footnote">איכנא‎10l2</i> אני̈ן כלהין תדמר̈תה דאשתעיו לן א̈בהין ואמרו לן דמן מצרין אפקן<sup class="footnote-marker">15</sup><i class="footnote">אפק‎ 9l6</i> מריא והשא<sup class="footnote-marker">16</sup><i class="footnote">השא‎ 9l2,10l2</i> שבקן מריא ואשלמן<sup class="footnote-marker">17</sup><i class="footnote">מריא‎ +9l6 &amp;</i> באידא דמדינ̈יא
-(יד) ואתפני עלוהי מריא ואמר לה זל בחילך הנא ואנת<sup class="footnote-marker">18</sup><i class="footnote">מטל‎ 8a1c,10c1,11c1, 12a1fam</i><sup class="footnote-marker">19</sup><i class="footnote">דאנת‎ +8a1c,10c1,11c1,12a1fam</i> תפרוק לאיסריל מן אידא דמדינ̈יא הא שדרתך
-(טו) אמר<sup class="footnote-marker">20</sup><i class="footnote">ואמר‎ 6h7,12a1fam &amp;</i> לה בעא אנא<sup class="footnote-marker">21</sup><i class="footnote">בענא אנא‎11c1</i> מנך מרי במנא אפרקיוהי לאיסריל דהא שרבתי בצירא הי במנשא ואנא זעורא אנא דבית אבי
-(טז) ואמר<sup class="footnote-marker">22</sup><i class="footnote">אמר‎11c1</i> לה מריא אנא אהוא עמך ותחרוב למדינ̈יא איך גברא חד
-(יז) ואמר<sup class="footnote-marker">23</sup><i class="footnote">אמר‎ 6h7</i> לה אן אשכחת ר̈חמא בעינ̈יך עבד לי אתא ואדע דאנת ממלל עמי
-(יח) לא<sup class="footnote-marker">24</sup><i class="footnote">דלא‎10c1</i><sup class="footnote-marker">25</sup><i class="footnote">ולא‎ 9l2</i> תפרוק מכא עדמא דאתא לותך ואפק שרותי אסים<sup class="footnote-marker">26</sup><i class="footnote">ואסים‎ 6h7, 8a1c, 9l6 &amp;</i> קדמיך ואמר<sup class="footnote-marker">27</sup><i class="footnote">לה‎ +8a1c,10c1,11c1,12a1fam &amp;</i> אנא אתב עדמא דתאתא
-(יט) וגדעון על עבד גדיא דעז̈א וסאתא דקמחא פטירא<sup class="footnote-marker">28</sup><i class="footnote">ופטירא‎ 9l2</i> ובסרא סם בסלא ומצללא ארמי בקסטא ואפק לה<sup class="footnote-marker">29</sup><i class="footnote">לבר‎12a1fam &amp;</i> תחית בטמתא<sup class="footnote-marker">30</sup><i class="footnote">וקרב לה‎ -7a1</i>
-(כ) ואמר לה מלאכה דמריא סב בסרא ופטירא סים<sup class="footnote-marker">31</sup><i class="footnote">וסים‎ 6h7, 8a1c,10c1,11c1, 12a1fam &amp;</i> על כאפא ומצללא אשוד עליה ועבד הכנא
-(כא) ואושט מלאכה דמריא בריש חוטרא דבאידה וקרב לבסרא ולפטירא וסלקת נורא מן כאפא ואכלת בסרא ופטירא ומלאכה דמריא אתגלז מן צא̈דוהי<sup class="footnote-marker">32</sup><i class="footnote">צא̈ידוהי‎ 7a1</i>
-(כב) וחזא גדעון דמלאכה הו דמריא ואמר גדעון און מריא אלהא דחזית מלאכה דמריא<sup class="footnote-marker">33</sup><i class="footnote">דאלהא‎10l2</i> א̈פין בא̈פין
+(יא) ואתא מלאכה דמריא ואיתב תחית בטמתא דאית בעופרא קריתה דיואש אבוהי<sup>9</sup> דעזרי וגדעון ברה חבט הוא ח̈טא בגת דנערוק מן קדם מדינ̈יא
+(יב) ואתחזי לה מלאכה<sup>10</sup> דמריא ואמר<sup>11</sup> מריא גנבר חילא עמך
+(יג) ואמר לה גדעון בעא אנא<sup>12</sup> מרי אן אית מריא עמן למנא גדש לן הלין כולהין ואיכא<sup>13</sup><sup>14</sup> אני̈ן כלהין תדמר̈תה דאשתעיו לן א̈בהין ואמרו לן דמן מצרין אפקן<sup>15</sup> מריא והשא<sup>16</sup> שבקן מריא ואשלמן<sup>17</sup> באידא דמדינ̈יא
+(יד) ואתפני עלוהי מריא ואמר לה זל בחילך הנא ואנת<sup>18</sup><sup>19</sup> תפרוק לאיסריל מן אידא דמדינ̈יא הא שדרתך
+(טו) אמר<sup>20</sup> לה בעא אנא<sup>21</sup> מנך מרי במנא אפרקיוהי לאיסריל דהא שרבתי בצירא הי במנשא ואנא זעורא אנא דבית אבי
+(טז) ואמר<sup>22</sup> לה מריא אנא אהוא עמך ותחרוב למדינ̈יא איך גברא חד
+(יז) ואמר<sup>23</sup> לה אן אשכחת ר̈חמא בעינ̈יך עבד לי אתא ואדע דאנת ממלל עמי
+(יח) לא<sup>24</sup><sup>25</sup> תפרוק מכא עדמא דאתא לותך ואפק שרותי אסים<sup>26</sup> קדמיך ואמר<sup>27</sup> אנא אתב עדמא דתאתא
+(יט) וגדעון על עבד גדיא דעז̈א וסאתא דקמחא פטירא<sup>28</sup> ובסרא סם בסלא ומצללא ארמי בקסטא ואפק לה<sup>29</sup> תחית בטמתא<sup>30</sup>
+(כ) ואמר לה מלאכה דמריא סב בסרא ופטירא סים<sup>31</sup> על כאפא ומצללא אשוד עליה ועבד הכנא
+(כא) ואושט מלאכה דמריא בריש חוטרא דבאידה וקרב לבסרא ולפטירא וסלקת נורא מן כאפא ואכלת בסרא ופטירא ומלאכה דמריא אתגלז מן צא̈דוהי<sup>32</sup>
+(כב) וחזא גדעון דמלאכה הו דמריא ואמר גדעון און מריא אלהא דחזית מלאכה דמריא<sup>33</sup> א̈פין בא̈פין
 (כג) ואמר לה מריא שלם לך לא תדחל לא מאת אנת
-(כד) ובנא תמן<sup class="footnote-marker">34</sup><i class="footnote">גדעון‎ -10l2</i> מדבחא למריא וקריהי מריא שלמא עדמא ליומנא ועדכיל בעופרא הוא קריתא דאבוהי דעזרי
+(כד) ובנא תמן<sup>34</sup> מדבחא למריא וקריהי מריא שלמא עדמא ליומנא ועדכיל בעופרא הוא קריתא דאבוהי דעזרי
 (כה) והוא ביומא הו ואמר לה מריא סב תורא דאבוך ותורא אחרנא בר שבע ש̈נין וסחוף מדבחה דבעלא פתכרה דאבוך ואסתרא דקימא עלוהי פסק
-(כו) ובני מדבחא למריא אלהך על ריש תוקפא הנא בסדרא וסב תורא אחרנא ואסק עלוהי עלתא וקיס̈א<sup class="footnote-marker">35</sup><i class="footnote">דקי̈סא‎ 9a1fam</i> בקיס̈א דאסתרא דמפסק אנת
-(כז) ודבר גדעון עסרא גבר̈ין מן עב̈דוהי ועבד איך דאמר לה מריא ומטל דדחל הוא מן בית אבוהי ומן אנש̈י קריתא<sup class="footnote-marker">36</sup><i class="footnote">קריתה‎ 6h7, 9a1fam</i> דנעבד באיממא עבד בלליא
-(כח) וקדמו אנש̈י קריתא בצפרא וחזין<sup class="footnote-marker">37</sup><i class="footnote">וחזו‎12a1fam &amp;</i> דעקיר מדבחה<sup class="footnote-marker">38</sup><i class="footnote">מדבחא‎ 7g1, 8a1, 9a1fam,10c1,11c1,12a1fam &amp;</i> דבעלא ואסתרא דעלוהי מפסקא ותורא אחרנא מסק על מדבחא אחרנא דבנא
-(כט) ואמרין גבר לחברה מנו עבד עבידתא הדא<sup class="footnote-marker">39</sup><i class="footnote">ושאלו ועקבו‎ -9l3</i> ואמרין גדעון בר יואש עבד עבידתא הדא
-(ל) ואמרו<sup class="footnote-marker">40</sup><i class="footnote">ואמרין‎ 6h7</i> אנש̈י קריתא ליואש אפק ברך נמות דעקר מדבחה דבעלא ופסק אסתרא דעלוהי
+(כו) ובני מדבחא למריא אלהך על ריש תוקפא הנא בסדרא וסב תורא אחרנא ואסק עלוהי עלתא וקיס̈א<sup>35</sup> בקיס̈א דאסתרא דמפסק אנת
+(כז) ודבר גדעון עסרא גבר̈ין מן עב̈דוהי ועבד איך דאמר לה מריא ומטל דדחל הוא מן בית אבוהי ומן אנש̈י קריתא<sup>36</sup> דנעבד באיממא עבד בלליא
+(כח) וקדמו אנש̈י קריתא בצפרא וחזין<sup>37</sup> דעקיר מדבחה<sup>38</sup> דבעלא ואסתרא דעלוהי מפסקא ותורא אחרנא מסק על מדבחא אחרנא דבנא
+(כט) ואמרין גבר לחברה מנו עבד עבידתא הדא<sup>39</sup> ואמרין גדעון בר יואש עבד עבידתא הדא
+(ל) ואמרו<sup>40</sup> אנש̈י קריתא ליואש אפק ברך נמות דעקר מדבחה דבעלא ופסק אסתרא דעלוהי
 (לא) ואמר יואש לכול דקמו עלוהי אנתון דינין אנתון על א̈פי בעלא או אנתון מפצין אנתון לה מנו דדאן על א̈פוהי עדמא לצפרא נמות אן אלהא הו נדון על א̈פי נפשה על דעקר מדבחה
 (לב) וקריהי ביומא הו נדובעיל ואמר נדוניוהי בעלא על דעקר מדבחה
 (לג) וכלהון מדיני̈א ועמלק̈יא ובנ̈י רקם אתכנשו אכחדא ועברו ושרו בעומקא דאיזרעיל
-(לד) ורוחה<sup class="footnote-marker">41</sup><i class="footnote">ורוחא‎ 6h7</i> דמריא לבשת לגדעון וקעא<sup class="footnote-marker">42</sup><i class="footnote">וקרא‎ 7a1 &amp;</i> בשיפורא וקרא איזרעיל בתרה
-(לה) ואיז̈גדוהי שדר בכלה מנשא וקעו אף<sup class="footnote-marker">43</sup><i class="footnote">ואף‎10c1 &amp;</i> הנון<sup class="footnote-marker">44</sup><i class="footnote">בתרה‎ -9a1fam</i> ואיז̈גדוהי שדר<sup class="footnote-marker">45</sup><i class="footnote">עברו‎ 6h7</i> אף על אשיר ועל זבולון ועל נפתלי וסלקו<sup class="footnote-marker">46</sup><i class="footnote">וסלק‎ 8a1, 9a1fam,10c1,11c1,12a1fam &amp;</i> לאורעהון
-(לו) ואמר גדעון למריא<sup class="footnote-marker">47</sup><i class="footnote">אנהו דפרק אנת בא̈ידי לאיסריל איכנא דאמרת‎ -11/9l3</i>
-(לז) הא סאם אנא גזתא דעמרא באדרא<sup class="footnote-marker">48</sup><i class="footnote">אנהו‎11/9l3 &amp;</i><sup class="footnote-marker">49</sup><i class="footnote">דפרק אנת לאיסריל באי̈די איכנא דאמרת‎ +11/9l3 &amp;</i> אן<sup class="footnote-marker">50</sup><i class="footnote">ונהוא‎ 7a1</i><sup class="footnote-marker">51</sup><i class="footnote">נהוא‎ -7a1</i> טלא על גזתא בלחודיה ועל כולה̇ ארעא יבשא ידע אנא דפרק אנת בא̈ידי לאיסריל איכנא דאמרת
-(לח) והוא הכנא וקדם בתר יומא ועצרה̇ לגזתא ואמצי טלא מן<sup class="footnote-marker">52</sup><i class="footnote">מנה‎ 6h7</i><sup class="footnote-marker">53</sup><i class="footnote">גזתא‎ -6h7</i> מלא לקנא מ̈יא
-(לט) ואמר גדעון לאלהא<sup class="footnote-marker">54</sup><i class="footnote">למריא‎ 9a1fam</i> לא נתחמת רוגזך עלי ואמלל הדא זבנתא בלחוד<sup class="footnote-marker">55</sup><i class="footnote">בלחוד זבנתא הדא‎ 7a1</i> אנסא תוב זבנתא הדא<sup class="footnote-marker">56</sup><i class="footnote">הדא זבנתא‎ 9l5,11l4 &amp;</i> בגזתא נהוא יבשא על גזתא בלחודיה ועל כלה̇ ארעא נהוא טלא
+(לד) ורוחה<sup>41</sup> דמריא לבשת לגדעון וקעא<sup>42</sup> בשיפורא וקרא איזרעיל בתרה
+(לה) ואיז̈גדוהי שדר בכלה מנשא וקעו אף<sup>43</sup> הנון<sup>44</sup> ואיז̈גדוהי שדר<sup>45</sup> אף על אשיר ועל זבולון ועל נפתלי וסלקו<sup>46</sup> לאורעהון
+(לו) ואמר גדעון למריא<sup>47</sup>
+(לז) הא סאם אנא גזתא דעמרא באדרא<sup>48</sup><sup>49</sup> אן<sup>50</sup><sup>51</sup> טלא על גזתא בלחודיה ועל כולה̇ ארעא יבשא ידע אנא דפרק אנת בא̈ידי לאיסריל איכנא דאמרת
+(לח) והוא הכנא וקדם בתר יומא ועצרה̇ לגזתא ואמצי טלא מן<sup>52</sup><sup>53</sup> מלא לקנא מ̈יא
+(לט) ואמר גדעון לאלהא<sup>54</sup> לא נתחמת רוגזך עלי ואמלל הדא זבנתא בלחוד<sup>55</sup> אנסא תוב זבנתא הדא<sup>56</sup> בגזתא נהוא יבשא על גזתא בלחודיה ועל כלה̇ ארעא נהוא טלא
 (מ) ועבד אלהא בלליא הו הכנא והוא יבשא על גזתא בלחודיה ועל כלה̇ ארעא הוא טלא
 <h2>פרק ז</h2>
-(א) וקדם נדובעל דהויו<sup class="footnote-marker">1</sup><i class="footnote">דהו‎12a1fam &amp;</i> גדעון וכלה עמא דעמה ושרו על עין חדר ומשריתא דמדין הות<sup class="footnote-marker">2</sup><i class="footnote">לה̇‎ -9a1fam</i> מן גרביא דגבעת רמתא בעומקא
-(ב) ואמר מריא לגדעון סגי הו עמא הנא<sup class="footnote-marker">3</sup><i class="footnote">הנא עמא‎ 8a1c, 9a1fam,10c1,11c1, 12a1fam &amp;</i> דעמך דאשלם<sup class="footnote-marker">4</sup><i class="footnote">ואשלם‎ 7a1</i> אנון למדי̈ניא בא̈ידיכון<sup class="footnote-marker">5</sup><i class="footnote">בא̈ידיך‎ 9a1fam</i> דלא נשתבהר איסראיל ונאמר אידי הו זכיתני
-(ג) השא קרי בא̈דני עמא ואמר מן דדחיל ורתית נפוש לה ונהפוך מן טורא דגלעד והפך מן עמא עסר̈ין ותר̈ין א̈לפין ועסרא א̈לפין<sup class="footnote-marker">6</sup><i class="footnote">בלחוד‎ +9a1fam</i> אשתחרו
-(ד) ואמר מריא לגדעון תוב סגי הו עמא הנא<sup class="footnote-marker">7</sup><i class="footnote">עמך‎ +9l6</i> אחת אנון למ̈יא ואבקא אנון לך תמן ולמן דאמר לך דהו<sup class="footnote-marker">8</sup><i class="footnote">דהנא‎ 9l6</i> נאזל עמך הו נאזל עמך ולמן דאמר לך דהו לא נאזל עמך הו לא נאזל עמך
-(ה) ואחתה<sup class="footnote-marker">9</sup><i class="footnote">ואחת‎ 9a1fam</i><sup class="footnote-marker">10</sup><i class="footnote">אנון‎ +9a1fam</i> לעמא למ̈יא ואמר מריא לגדעון כל דלאע<sup class="footnote-marker">11</sup><i class="footnote">דלאיע‎ 9a1fam, 9l6,12a1fam</i> מ̈יא בלשנה איך דלאע<sup class="footnote-marker">12</sup><i class="footnote">דלאיע‎ 9a1fam, 9l6,12a1fam &amp;</i> כלבא אקים<sup class="footnote-marker">13</sup><i class="footnote">אנון‎ -12a1fam &amp;</i> איך חדא וכל<sup class="footnote-marker">14</sup><i class="footnote">אינא‎ +7a1</i> דב̇רך על בור̈כוהי למשתא<sup class="footnote-marker">15</sup><i class="footnote">מי̈א‎ +9a1fam</i> אקימיהי אכחדא
-(ו) והוא מנינא דאילין דלעין בא̈ידיהון לפומהון תלתמאא גבר̈ין וכלה שרכה<sup class="footnote-marker">16</sup><i class="footnote">שרכא‎ 6h7 &amp;</i> דעמא ברכו על בור̈כיהון למשתא מ̈יא
-(ז) ואמר מריא לגדעון בהלין תלתמאא גבר̈ין דלעין מ̈יא בא̈ידיהון לפומהון<sup class="footnote-marker">17</sup><i class="footnote">בהון‎ +9a1fam</i> אפרוקכון ואשלם<sup class="footnote-marker">18</sup><i class="footnote">אנון‎ +9a1fam</i> למדינ̈יא בא̈ידיכון וכלה עמא נאזלון אנש לאתרה
+(א) וקדם נדובעל דהויו<sup>1</sup> גדעון וכלה עמא דעמה ושרו על עין חדר ומשריתא דמדין הות<sup>2</sup> מן גרביא דגבעת רמתא בעומקא
+(ב) ואמר מריא לגדעון סגי הו עמא הנא<sup>3</sup> דעמך דאשלם<sup>4</sup> אנון למדי̈ניא בא̈ידיכון<sup>5</sup> דלא נשתבהר איסראיל ונאמר אידי הו זכיתני
+(ג) השא קרי בא̈דני עמא ואמר מן דדחיל ורתית נפוש לה ונהפוך מן טורא דגלעד והפך מן עמא עסר̈ין ותר̈ין א̈לפין ועסרא א̈לפין<sup>6</sup> אשתחרו
+(ד) ואמר מריא לגדעון תוב סגי הו עמא הנא<sup>7</sup> אחת אנון למ̈יא ואבקא אנון לך תמן ולמן דאמר לך דהו<sup>8</sup> נאזל עמך הו נאזל עמך ולמן דאמר לך דהו לא נאזל עמך הו לא נאזל עמך
+(ה) ואחתה<sup>9</sup><sup>10</sup> לעמא למ̈יא ואמר מריא לגדעון כל דלאע<sup>11</sup> מ̈יא בלשנה איך דלאע<sup>12</sup> כלבא אקים<sup>13</sup> איך חדא וכל<sup>14</sup> דב̇רך על בור̈כוהי למשתא<sup>15</sup> אקימיהי אכחדא
+(ו) והוא מנינא דאילין דלעין בא̈ידיהון לפומהון תלתמאא גבר̈ין וכלה שרכה<sup>16</sup> דעמא ברכו על בור̈כיהון למשתא מ̈יא
+(ז) ואמר מריא לגדעון בהלין תלתמאא גבר̈ין דלעין מ̈יא בא̈ידיהון לפומהון<sup>17</sup> אפרוקכון ואשלם<sup>18</sup> למדינ̈יא בא̈ידיכון וכלה עמא נאזלון אנש לאתרה
 (ח) ונסבו זודי̈הון כלה עמא בא̈ידיהון וקר̈נתהון ולכלהון בני̈ איסריל שרא אנון אנש לירתותה ולמשכנה ובתלתמאא גבר̈ין אתחיל ומשריתא דמדין הות לה̇ לתחת בעומקא
-(ט) והוא בלליא הו ואמר<sup class="footnote-marker">19</sup><i class="footnote">אמר‎12a1fam &amp;</i> לה מריא קום חות למשריתא מטל דאשלמתה̇ בא̈ידיך
+(ט) והוא בלליא הו ואמר<sup>19</sup> לה מריא קום חות למשריתא מטל דאשלמתה̇ בא̈ידיך
 (י) ואן דחל אנת למחת חות אנת ופארא עלימך למשריתא
-(יא) ותשמע מדם דממללין והידין נתח̈ילן א̈ידיך ונחת למשריתא<sup class="footnote-marker">20</sup><i class="footnote">על‎ 9a1fam, 9l2</i><sup class="footnote-marker">21</sup><i class="footnote">משריתא‎ +9a1fam, 9l2</i> הו ופארא עלימה על ריש חמשין דבמשריתא
-(יב) ומדין<sup class="footnote-marker">22</sup><i class="footnote">דמדין.‎ 6h7</i> ועמליק וכלהון בנ̈י רקם נפלו בעומקא איך קמצא סגיאא<sup class="footnote-marker">23</sup><i class="footnote">ולהון‎ -7a1</i> ולגמ̈ליהון לית<sup class="footnote-marker">24</sup><i class="footnote">הוא‎ +9a1fam</i> מ̈נין איך חלא דעל ספתה דימא סוגאא
-(יג) ואתא גדעון וחזא גברא<sup class="footnote-marker">25</sup><i class="footnote">לגברא‎ 9a1</i> משתעא<sup class="footnote-marker">26</sup><i class="footnote">דמשתעא‎ 9a1fam &amp;</i> לחברה חלמא ואמר לה חזית בחלמי כוכא דלחמא דסער̈א מתהפך במשריתא דמדין ומטי עדמא למשכנא והפכה לעל<sup class="footnote-marker">27</sup><i class="footnote">ונפל משכנא‎ -9a1fam</i>
-(יד) ענא חברה ואמר לה לא איתיה הדא אלא אן חרבה<sup class="footnote-marker">28</sup><i class="footnote">חברה‎ 7a1</i> דגדעון בר יואש גנברא<sup class="footnote-marker">29</sup><i class="footnote">גברא‎ 9a1fam</i> דאיסריל דאשלם אלהא באידה<sup class="footnote-marker">30</sup><i class="footnote">בא̈ידוהי‎ 9a1fam</i> למשריתא דמדין
+(יא) ותשמע מדם דממללין והידין נתח̈ילן א̈ידיך ונחת למשריתא<sup>20</sup><sup>21</sup> הו ופארא עלימה על ריש חמשין דבמשריתא
+(יב) ומדין<sup>22</sup> ועמליק וכלהון בנ̈י רקם נפלו בעומקא איך קמצא סגיאא<sup>23</sup> ולגמ̈ליהון לית<sup>24</sup> מ̈נין איך חלא דעל ספתה דימא סוגאא
+(יג) ואתא גדעון וחזא גברא<sup>25</sup> משתעא<sup>26</sup> לחברה חלמא ואמר לה חזית בחלמי כוכא דלחמא דסער̈א מתהפך במשריתא דמדין ומטי עדמא למשכנא והפכה לעל<sup>27</sup>
+(יד) ענא חברה ואמר לה לא איתיה הדא אלא אן חרבה<sup>28</sup> דגדעון בר יואש גנברא<sup>29</sup> דאיסריל דאשלם אלהא באידה<sup>30</sup> למשריתא דמדין
 (טו) וכד שמע גדעון תשעיתה דחלמא ופשרה סגד והפך למשריתא דאיסריל ואמר קומו מטל דאשלם מריא בא̈ידיכון למשריתא דמדין
-(טז) ופלג תלתמאא גבר̈ין לתלתא<sup class="footnote-marker">31</sup><i class="footnote">תלתא‎ 9a1fam</i> ר̈שין ואוחד קר̈נתא בא̈ידיהון דכולהון וק̈ולא סר̈יקתא ולמפא̈דא בגו קו̈לא
-(יז) ואמר להון לי חזו והכנא עבדו הא עאל אנא בגו משריתא איכנא דעבד אנא<sup class="footnote-marker">32</sup><i class="footnote">הכנא‎ -11c1</i> עבדו
-(יח) וקרא אנא בשיפורא אנא וכלה עמא דעמי וקרו אף אנתון בשיפורא<sup class="footnote-marker">33</sup><i class="footnote">בשי̈פורא‎ 8a1, 9a1fam,10c1,11c1,12a1fam &amp;</i> בחדר̈י<sup class="footnote-marker">34</sup><i class="footnote">כלה̇‎ -9a1fam</i> משריתא ואמרו חרבא למריא ולגדעון
-(יט) ועל גדעון ומאא גבר̈ין דעמה<sup class="footnote-marker">35</sup><i class="footnote">עמה‎ 6h7 &amp;</i> בריש משריתא במטרתא מצעיתא ומקמו אקים לנטור̈א<sup class="footnote-marker">36</sup><i class="footnote">נטור̈א‎ 7a1 &amp;</i>
-(כ) וקרו תלתמאא ר̈שין בקר̈נתא ותברו ק̈ולא ואחדו בס̈מליהון למפא̈דא ובימי̈ניהון קר̈נתא דנקרון<sup class="footnote-marker">37</sup><i class="footnote">בהין‎ +9a1fam</i> וקרו חרבא למריא ולגדעון
+(טז) ופלג תלתמאא גבר̈ין לתלתא<sup>31</sup> ר̈שין ואוחד קר̈נתא בא̈ידיהון דכולהון וק̈ולא סר̈יקתא ולמפא̈דא בגו קו̈לא
+(יז) ואמר להון לי חזו והכנא עבדו הא עאל אנא בגו משריתא איכנא דעבד אנא<sup>32</sup> עבדו
+(יח) וקרא אנא בשיפורא אנא וכלה עמא דעמי וקרו אף אנתון בשיפורא<sup>33</sup> בחדר̈י<sup>34</sup> משריתא ואמרו חרבא למריא ולגדעון
+(יט) ועל גדעון ומאא גבר̈ין דעמה<sup>35</sup> בריש משריתא במטרתא מצעיתא ומקמו אקים לנטור̈א<sup>36</sup>
+(כ) וקרו תלתמאא ר̈שין בקר̈נתא ותברו ק̈ולא ואחדו בס̈מליהון למפא̈דא ובימי̈ניהון קר̈נתא דנקרון<sup>37</sup> וקרו חרבא למריא ולגדעון
 (כא) וקמו אנש בדוכתה חדר̈י משריתא ורהטת כולה̇ משריתא ויבבו וערקו
-(כב) וקר̈י תלתמאא קר̈נן וסם מריא חרבה דגברא בחברה בכולה̇ משריתא וערקת כולה̇ משריתא עדמא לבית שב̈טא ולצדדת<sup class="footnote-marker">38</sup><i class="footnote">ולצררת‎ 6h7,11c1</i> ועדמא לספתא דאבל מחולא דעל יטבת
+(כב) וקר̈י תלתמאא קר̈נן וסם מריא חרבה דגברא בחברה בכולה̇ משריתא וערקת כולה̇ משריתא עדמא לבית שב̈טא ולצדדת<sup>38</sup> ועדמא לספתא דאבל מחולא דעל יטבת
 (כג) וקעו בנ̈י איסריל מן נפתלי ומן אשיר ומן כלה מנשא ורדפו בתר מדין
-(כד) וא̈יזגדא שדר גדעון בכלה טורא דאפרים ואמר חותו לאורעא<sup class="footnote-marker">39</sup><i class="footnote">לארעא‎ 6h7, 7a1, 7g1, 9a1fam,11c1* &amp;</i> דמדין ואחודו מ̈יא עדמא לבית ברא דעל<sup class="footnote-marker">40</sup><i class="footnote">גנב‎ -12a1* &amp;</i> יורדנן וקעו כלהון דבית אפרים ואחדו מ̈יא עדמא לבית ברא דיורדנן
-(כה) ואחדו לתר̈ין ר̈ורבנא דמדין לעוריב ולזיב וקטלוהי לעוריב בצור ולזיב קטלו<sup class="footnote-marker">41</sup><i class="footnote">וקטלו לזיב‎ 6h7</i><sup class="footnote-marker">42</sup><i class="footnote">קברו‎ 7a1</i> בית קברב<sup class="footnote-marker">43</sup><i class="footnote">בית קרקב‎ 7g1, 9a1*</i> ורדפו למדין<sup class="footnote-marker">44</sup><i class="footnote">ורדף בתר‎ 6h7</i><sup class="footnote-marker">45</sup><i class="footnote">מדין‎ +6h7</i> ולר̈שיהון דעוריב ודזיב<sup class="footnote-marker">46</sup><i class="footnote">וזיב‎ 9a1fam &amp;</i> איתיו לגדעון לעברא דיורדנן
+(כד) וא̈יזגדא שדר גדעון בכלה טורא דאפרים ואמר חותו לאורעא<sup>39</sup> דמדין ואחודו מ̈יא עדמא לבית ברא דעל<sup>40</sup> יורדנן וקעו כלהון דבית אפרים ואחדו מ̈יא עדמא לבית ברא דיורדנן
+(כה) ואחדו לתר̈ין ר̈ורבנא דמדין לעוריב ולזיב וקטלוהי לעוריב בצור ולזיב קטלו<sup>41</sup><sup>42</sup> בית קברב<sup>43</sup> ורדפו למדין<sup>44</sup><sup>45</sup> ולר̈שיהון דעוריב ודזיב<sup>46</sup> איתיו לגדעון לעברא דיורדנן
 <h2>פרק ח</h2>
-(א) ואמרין<sup class="footnote-marker">1</sup><i class="footnote">לה‎ -9a1fam</i> דבית אפרים למנא עבדת הכנא ולא קריתן כד אזל אנת למתכתשו עם מדין ונצין הוו עמה קשיאית
-(ב) אמר<sup class="footnote-marker">2</sup><i class="footnote">ואמר‎ 6h7 &amp;</i> להון<sup class="footnote-marker">3</sup><i class="footnote">גדעון‎ +7a1</i> מנא עבדת השא אכותכון לא הוא טב בוערה דאפרים מן קטפה דאיזרעיל<sup class="footnote-marker">4</sup><i class="footnote">דאיסריל‎ 7g1</i> ובאיזרעיל
-(ג) בא̈ידיכון<sup class="footnote-marker">5</sup><i class="footnote">ובא̈ידיכון‎12a1fam &amp;</i> אשלם אלהא לתר̈ין ר̈ורבנא דמדין לעוריב ולזיב ומנא<sup class="footnote-marker">6</sup><i class="footnote">ובמנא‎ 7a1</i> אשכחת דאעבד אכותכון הידין<sup class="footnote-marker">7</sup><i class="footnote">הי‎ 7a1</i><sup class="footnote-marker">8</sup><i class="footnote">דין‎ +7a1</i> פרקת חמתהון מנה כד אמר פתגמא הנא
+(א) ואמרין<sup>1</sup> דבית אפרים למנא עבדת הכנא ולא קריתן כד אזל אנת למתכתשו עם מדין ונצין הוו עמה קשיאית
+(ב) אמר<sup>2</sup> להון<sup>3</sup> מנא עבדת השא אכותכון לא הוא טב בוערה דאפרים מן קטפה דאיזרעיל<sup>4</sup> ובאיזרעיל
+(ג) בא̈ידיכון<sup>5</sup> אשלם אלהא לתר̈ין ר̈ורבנא דמדין לעוריב ולזיב ומנא<sup>6</sup> אשכחת דאעבד אכותכון הידין<sup>7</sup><sup>8</sup> פרקת חמתהון מנה כד אמר פתגמא הנא
 (ד) ואתא גדעון ליורדנן ועבר הו ותלתמאא גבר̈ין דעמה רהטין ועייפין
 (ה) ואמר לאנש̈י סכות הבו גריצתא גריצתא דלחמא לעמא דעמי מטול דעייפין אנון ואנא הא רדף אנא בתר זבח וצלמנע מ̈לכא דמדין
-(ו) אמרין לה ר̈ורבנא דסכות הא אידה דזבח ודצלמנע<sup class="footnote-marker">9</sup><i class="footnote">וצלמנע‎ 7g1, 9a1fam &amp;</i> השא בא̈ידיך דנתל לחילך<sup class="footnote-marker">10</sup><i class="footnote">לעב̈דיך‎ 8a1</i> לחמא
+(ו) אמרין לה ר̈ורבנא דסכות הא אידה דזבח ודצלמנע<sup>9</sup> השא בא̈ידיך דנתל לחילך<sup>10</sup> לחמא
 (ז) ואמר להון גדעון מטל הנא מא דאשלם מריא לזבח ולצלמנע בא̈ידי אדוש בסרכון על כ̈ובא דבמדברא ועל קור̈טבא
-(ח) וסלק מן תמן לפנואיל ואיך דענאוהי אנש̈י סכות הכנא ענאוהי<sup class="footnote-marker">11</sup><i class="footnote">אף‎ 9a1fam</i><sup class="footnote-marker">12</sup><i class="footnote">אף‎ -10c1*,12a1* &amp;</i><sup class="footnote-marker">13</sup><i class="footnote">ענאוהי‎ 9a1fam</i> אנש̈י פנואיל
-(ט) ואמר<sup class="footnote-marker">14</sup><i class="footnote">אף‎ -11c1 &amp;</i> לא̈נשי פנואיל מא דאתית בשלמא אעקריוהי למגדלא הנא
-(י) וזבח וצלמנע שרין בקרקב<sup class="footnote-marker">15</sup><i class="footnote">בקברב‎ 7a1, 9a1c</i><sup class="footnote-marker">16</sup><i class="footnote">הנון‎ +6h7, 6ph11, 8a1, 10c1,11c1,12a1fam &amp;</i> ומשר̈יתהון עמהון איך חמשתעסר א̈לפין כל<sup class="footnote-marker">17</sup><i class="footnote">וכל‎ 9a1</i> דאשתחרו מן כולהין משר̈יתא דבנ̈י מדנחא ודנפלו מאא ועסר̈ין א̈לפין גבר̈ין<sup class="footnote-marker">18</sup><i class="footnote">גבר̈א‎12a1fam &amp;</i> שמ̈טי סיפא
-(יא) וסלק גדעון באורחא דשר̈יי משכנא מן מדנחא דנכח ודיבגהא<sup class="footnote-marker">19</sup><i class="footnote">ודנגבהא‎ 7a1</i> ומחא למשריתא ומשריתא הות בשליא
-(יב) וערקו זבח וצלמנע ורדפו בתרהון ואחדו לתר̈ין מ̈לכא<sup class="footnote-marker">20</sup><i class="footnote">מ̈לכין‎ 7a1</i> דמדין ולכלה̇ משריתא אזיע
+(ח) וסלק מן תמן לפנואיל ואיך דענאוהי אנש̈י סכות הכנא ענאוהי<sup>11</sup><sup>12</sup><sup>13</sup> אנש̈י פנואיל
+(ט) ואמר<sup>14</sup> לא̈נשי פנואיל מא דאתית בשלמא אעקריוהי למגדלא הנא
+(י) וזבח וצלמנע שרין בקרקב<sup>15</sup><sup>16</sup> ומשר̈יתהון עמהון איך חמשתעסר א̈לפין כל<sup>17</sup> דאשתחרו מן כולהין משר̈יתא דבנ̈י מדנחא ודנפלו מאא ועסר̈ין א̈לפין גבר̈ין<sup>18</sup> שמ̈טי סיפא
+(יא) וסלק גדעון באורחא דשר̈יי משכנא מן מדנחא דנכח ודיבגהא<sup>19</sup> ומחא למשריתא ומשריתא הות בשליא
+(יב) וערקו זבח וצלמנע ורדפו בתרהון ואחדו לתר̈ין מ̈לכא<sup>20</sup> דמדין ולכלה̇ משריתא אזיע
 (יג) והפך גדעון בר יואש מן קרבא מן מסקנא דחדס
-(יד) ואחד עלימא חד מן אנש̈יה דסכות ושאלה ואכתב לה ר̈ורבנא<sup class="footnote-marker">21</sup><i class="footnote">ר̈ורבניה‎ 6h7, 7g1, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> דסכות וקשיש̈יה שבעין ושבעא גבר̈ין
-(טו) ואתא לות אנש̈י סכות ואמר להון הא זבח וצלמנע דחסדתונני<sup class="footnote-marker">22</sup><i class="footnote">בהון‎ +9a1fam</i> ואמרתון לי זבח<sup class="footnote-marker">23</sup><i class="footnote">דזבח‎ 9a1fam &amp;</i> וצלמנע פכירין בא̈ידיך דנתל לעב̈דיך לחמא דעייפין
+(יד) ואחד עלימא חד מן אנש̈יה דסכות ושאלה ואכתב לה ר̈ורבנא<sup>21</sup> דסכות וקשיש̈יה שבעין ושבעא גבר̈ין
+(טו) ואתא לות אנש̈י סכות ואמר להון הא זבח וצלמנע דחסדתונני<sup>22</sup> ואמרתון לי זבח<sup>23</sup> וצלמנע פכירין בא̈ידיך דנתל לעב̈דיך לחמא דעייפין
 (טז) וגר לס̈בא דקריתא על כ̈ובא דבמדברא ועל קור̈טבא ואשתנד בהון בא̈נשי סכות
 (יז) ומגדלא דפנואיל עקר וקטל לאנש̈י קריתא
-(יח) ואמר לזבח ולצלמנע איכא<sup class="footnote-marker">24</sup><i class="footnote">איכנא‎ 6h7, 6ph11, 7g1, 8a1,10c1,11c1, 12a1fam &amp;</i> אנון אנשא דקטלתון בתבור ואמרין<sup class="footnote-marker">25</sup><i class="footnote">אמרין‎ 6h7, 6ph11, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> לה אכותך איתיהון הוו איך חזוא דבני̈ מלכא<sup class="footnote-marker">26</sup><i class="footnote">מל̈כא‎ 7g1, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i>
-(יט) ואמר א̈חי אנון בנ̈י אמי חי הו מריא אלהא דאלו<sup class="footnote-marker">27</sup><i class="footnote">אלו‎ 6h7</i> אחיתון אנון לא קטלתכון
-(כ) ואמר ליתר בוכרה קום קטול<sup class="footnote-marker">28</sup><i class="footnote">ק̇טל‎ 9a1fam</i> אנון ולא שמט טליא סיפה מטל דדחל דעדכיל טליא הוא
-(כא) ואמר זבח וצלמנע קום אנת ופגע בן ואיך גברא גנברותה וקם גדעון וקטל לזבח ולצלמנע ונסב סהר̈נא דאית הוו<sup class="footnote-marker">29</sup><i class="footnote">הוא‎ 6h7,11c1</i> בצור̈א דגמ̈ליהון
-(כב) ואמר̈ין<sup class="footnote-marker">30</sup><i class="footnote">ואמרו‎ 7g1 &amp;</i> ב̈ני איסריל לגדעון אשתלט בן<sup class="footnote-marker">31</sup><i class="footnote">אף‎ -10c1 &amp;</i> אנת אף ברך אף<sup class="footnote-marker">32</sup><i class="footnote">ואף‎ 6h7 &amp;</i> בר ברך דפרקתן מן אידא דמדין
+(יח) ואמר לזבח ולצלמנע איכא<sup>24</sup> אנון אנשא דקטלתון בתבור ואמרין<sup>25</sup> לה אכותך איתיהון הוו איך חזוא דבני̈ מלכא<sup>26</sup>
+(יט) ואמר א̈חי אנון בנ̈י אמי חי הו מריא אלהא דאלו<sup>27</sup> אחיתון אנון לא קטלתכון
+(כ) ואמר ליתר בוכרה קום קטול<sup>28</sup> אנון ולא שמט טליא סיפה מטל דדחל דעדכיל טליא הוא
+(כא) ואמר זבח וצלמנע קום אנת ופגע בן ואיך גברא גנברותה וקם גדעון וקטל לזבח ולצלמנע ונסב סהר̈נא דאית הוו<sup>29</sup> בצור̈א דגמ̈ליהון
+(כב) ואמר̈ין<sup>30</sup> ב̈ני איסריל לגדעון אשתלט בן<sup>31</sup> אנת אף ברך אף<sup>32</sup> בר ברך דפרקתן מן אידא דמדין
 (כג) אמר להון גדעון לא אנא משתלט אנא בכון ולא ברי משתלט בכון מריא נשתלט בכון
-(כד) ואמר<sup class="footnote-marker">33</sup><i class="footnote">אמר‎ 7g1 &amp;</i> להון גדעון אנא שאלתא חדא שאל אנא מנכון הבו לי אנש<sup class="footnote-marker">34</sup><i class="footnote">אנש‎ +9c1</i> חד<sup class="footnote-marker">35</sup><i class="footnote">אנש‎ 7a1</i> חד קדשא מן בזתה<sup class="footnote-marker">36</sup><i class="footnote">בזתא‎ 9a1fam</i> מטל דקדש̈א דדהבא אית הוו<sup class="footnote-marker">37</sup><i class="footnote">הוא‎ 6h7,11c1</i> להון מטל דער̈ביא הוו
-(כה) אמר̈ין לה יהבינן לך ופרס<sup class="footnote-marker">38</sup><i class="footnote">ופרסו‎ 7a1,11c1 &amp;</i> מרטוטא וארמיו<sup class="footnote-marker">39</sup><i class="footnote">תמן‎ -9a1fam</i><sup class="footnote-marker">40</sup><i class="footnote">אנש חד‎ +6h7, 6ph11, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> אנש<sup class="footnote-marker">41</sup><i class="footnote">חד‎ 6h7, 6ph11, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> קדשא<sup class="footnote-marker">42</sup><i class="footnote">דדהבא‎ +9a1fam</i> מן בזתה
-(כו) והוא מתקלא דק̈דשא דדהבא דשאל אלף ושבעמאא דדהבא סטר מן סהר̈נא ועק̈א ולב̈ושא דארגונא דאית הוו<sup class="footnote-marker">43</sup><i class="footnote">הוא‎ 8a1,11c1* &amp;</i> על מ̈לכא דמדין וסטר מן עק̈א דאית הוו<sup class="footnote-marker">44</sup><i class="footnote">הוא‎ 6h7,11c1*</i> בצור̈א דגמ̈ליהון ונסב מנהון גדעון
-(כז) ועבד לופרא ואקימה בקריתה<sup class="footnote-marker">45</sup><i class="footnote">בקריתא‎ 9a1fam &amp;</i> בעופרא וטעו להון בנ̈י איסריל בתרה תמן והוא<sup class="footnote-marker">46</sup><i class="footnote">והות‎ 9a1fam</i> לגדעון ולביתה לתוקלתא
-(כח) ואתתברו מדי̈ניא קדם בנ̈י איסריל ותוב לא אוספו דנרימון רישהון<sup class="footnote-marker">47</sup><i class="footnote">ר̈ישיהון‎ 6h7 &amp;</i> ושלית ארעא אר̈בעין שני̈ן בי̈ומוהי דגדעון<sup class="footnote-marker">48</sup><i class="footnote">ביו̈מי גדעון‎11c1</i>
+(כד) ואמר<sup>33</sup> להון גדעון אנא שאלתא חדא שאל אנא מנכון הבו לי אנש<sup>34</sup> חד<sup>35</sup> חד קדשא מן בזתה<sup>36</sup> מטל דקדש̈א דדהבא אית הוו<sup>37</sup> להון מטל דער̈ביא הוו
+(כה) אמר̈ין לה יהבינן לך ופרס<sup>38</sup> מרטוטא וארמיו<sup>39</sup><sup>40</sup> אנש<sup>41</sup> קדשא<sup>42</sup> מן בזתה
+(כו) והוא מתקלא דק̈דשא דדהבא דשאל אלף ושבעמאא דדהבא סטר מן סהר̈נא ועק̈א ולב̈ושא דארגונא דאית הוו<sup>43</sup> על מ̈לכא דמדין וסטר מן עק̈א דאית הוו<sup>44</sup> בצור̈א דגמ̈ליהון ונסב מנהון גדעון
+(כז) ועבד לופרא ואקימה בקריתה<sup>45</sup> בעופרא וטעו להון בנ̈י איסריל בתרה תמן והוא<sup>46</sup> לגדעון ולביתה לתוקלתא
+(כח) ואתתברו מדי̈ניא קדם בנ̈י איסריל ותוב לא אוספו דנרימון רישהון<sup>47</sup> ושלית ארעא אר̈בעין שני̈ן בי̈ומוהי דגדעון<sup>48</sup>
 (כט) ואזל נדובעיל בר יואש ואיתב בביתה
 (ל) ולה לגדעון אית הוו שבעין ב̈נין דנפקו מן חצה מטל דנש̈א ס̈גיאתא אית ה̈וי לה
 (לא) ודרוכתה דבשכים ילדת לה ברא ושמי שמה אבימלך
-(לב) ומית גדעון<sup class="footnote-marker">49</sup><i class="footnote">נדובעל‎ 9a1fam</i> בר יואש בסיבותא טבתא ואתקבר בקריתא דיואש<sup class="footnote-marker">50</sup><i class="footnote">אבוהי‎ -9a1fam</i> בעופרא דאבוהי<sup class="footnote-marker">51</sup><i class="footnote">דאיתיה‎12a1fam &amp;</i> דעזרי
+(לב) ומית גדעון<sup>49</sup> בר יואש בסיבותא טבתא ואתקבר בקריתא דיואש<sup>50</sup> בעופרא דאבוהי<sup>51</sup> דעזרי
 (לג) וכד מית גדעון הפכו בני̈ איסריל וטעו בתר בעלא ועבדו להון בעל קימא אלהא
-(לד) ולא אתדכרו ב̈ני איסריל למריא אלההון דמפצא<sup class="footnote-marker">52</sup><i class="footnote">דהו‎ 9a1fam</i><sup class="footnote-marker">53</sup><i class="footnote">מפצא‎ +9a1fam</i> להון מן כולהון ב̈עלדבביהון דבחדר̈יהון<sup class="footnote-marker">54</sup><i class="footnote">דאית‎ 7g1</i><sup class="footnote-marker">55</sup><i class="footnote">דמן‎ 6h7</i><sup class="footnote-marker">56</sup><i class="footnote">חדר̈יהון‎ +6h7</i><sup class="footnote-marker">57</sup><i class="footnote">בחדר̈יהון‎ +7g1</i>
-(לה) ולא עבדו טיבותא עם ביתה דנדובעיל דהויו גדעון איך כלה̇ טיבותא דעבד עם<sup class="footnote-marker">58</sup><i class="footnote">דעבדו באיסריל‎ 7a1</i><sup class="footnote-marker">59</sup><i class="footnote">איסריל‎ -7a1</i>
+(לד) ולא אתדכרו ב̈ני איסריל למריא אלההון דמפצא<sup>52</sup><sup>53</sup> להון מן כולהון ב̈עלדבביהון דבחדר̈יהון<sup>54</sup><sup>55</sup><sup>56</sup><sup>57</sup>
+(לה) ולא עבדו טיבותא עם ביתה דנדובעיל דהויו גדעון איך כלה̇ טיבותא דעבד עם<sup>58</sup><sup>59</sup>
 <h2>פרק ט</h2>
 (א) ואזל אבימלך בר נדובעל לשכים לות אח̈א דאמה ואמר להון ולכלה̇ שרבתא דבית אבוה דאמה
-(ב) אמר<sup class="footnote-marker">1</sup><i class="footnote">ואמר‎ 6h7</i> קדם כלהון מר̈יה דשכים מנא פקח<sup class="footnote-marker">2</sup><i class="footnote">לכון‎ -9a1fam</i> דנשתלטון בכון שבעין גבר̈ין בנ̈והי<sup class="footnote-marker">3</sup><i class="footnote">כלהון‎ +9a1fam</i> דנדובעיל או דנשתלט בכון חד גבר ואתדכרו דגרמכון אנא ובסרכון
+(ב) אמר<sup>1</sup> קדם כלהון מר̈יה דשכים מנא פקח<sup>2</sup> דנשתלטון בכון שבעין גבר̈ין בנ̈והי<sup>3</sup> דנדובעיל או דנשתלט בכון חד גבר ואתדכרו דגרמכון אנא ובסרכון
 (ג) ואמרו א̈חא דאמה קדם כולהון מר̈יה דשכים עלוהי כלהין מ̈לא הלין ואצטבי לבהון בתר אבימלך ואמרין אחון הו
-(ד) ויהבו לה שבעין דכספא מן בית בעל קימא ואגר בהון אבימלך אנשא<sup class="footnote-marker">4</sup><i class="footnote">לאנשא‎ 6h7</i> סר̈יקא ופח̈זא ואזלו בתרה
-(ה) ועל<sup class="footnote-marker">5</sup><i class="footnote">ועלו‎ 6h7, 6ph11, 9c1 &amp;</i> לבית אבוהי לעופרא וקטל לא̈חוהי בנ̈והי דנדובעיל שבעין גבר̈ין על כאפא חדא ואשתחר יותם בר נדובעיל זעורא מטל דאתטשי
-(ו) ואתכנשו כלהון מר̈יה דשכים וכולה עמא דבית מלו ואזלו ואקימו לאבימלך דנהוא עליהון מלכא על גנב בלוטא דמצפיא<sup class="footnote-marker">6</sup><i class="footnote">דבמצפיא‎ 7a1</i> דאית בשכים
+(ד) ויהבו לה שבעין דכספא מן בית בעל קימא ואגר בהון אבימלך אנשא<sup>4</sup> סר̈יקא ופח̈זא ואזלו בתרה
+(ה) ועל<sup>5</sup> לבית אבוהי לעופרא וקטל לא̈חוהי בנ̈והי דנדובעיל שבעין גבר̈ין על כאפא חדא ואשתחר יותם בר נדובעיל זעורא מטל דאתטשי
+(ו) ואתכנשו כלהון מר̈יה דשכים וכולה עמא דבית מלו ואזלו ואקימו לאבימלך דנהוא עליהון מלכא על גנב בלוטא דמצפיא<sup>6</sup> דאית בשכים
 (ז) וחויו ליותם וסלק וקם בריש טורא דגרזים וארים קלה ואמר שומעוני מר̈יה דשכים דנשמעכון אלהא
-(ח) מאזל אזלו א̈ילנא דנמשחון עליהון מלכא אמרין<sup class="footnote-marker">7</sup><i class="footnote">ואמרין‎ 6h7, 9l3 &amp;</i> לזיתא אמלך עלין
+(ח) מאזל אזלו א̈ילנא דנמשחון עליהון מלכא אמרין<sup>7</sup> לזיתא אמלך עלין
 (ט) אמר להון זיתא לא שבק אנא דוהני דבי מתיקרין א̈להא וא̈נשא ואזל אנא למנד על א̈ילנא
-(י) אמרין א̈ילנא לתתא תי אנתי<sup class="footnote-marker">8</sup><i class="footnote">אנתי תי‎ 7a1</i> אמלך עלין
+(י) אמרין א̈ילנא לתתא תי אנתי<sup>8</sup> אמלך עלין
 (יא) אמרא להון תתא לא שבקא אנא חליותי ואבי טבא ואזלא אנא למנד על א̈ילנא
-(יב) אמר̈ין אי̈לנא לגפתא אנתי תי<sup class="footnote-marker">9</sup><i class="footnote">תי אנתי‎ 6h7, 8a1, 9a1fam, 9c1,10c1, 11c1,12a1fam &amp;</i> אמלך עלין
-(יג) אמרא להון גפתא לא שבקא אנא אדשי דמחדא לבא דא̈להא ואנשא<sup class="footnote-marker">10</sup><i class="footnote">ודאנשא‎ 6h7, 6ph11, 7g1, 8a1, 9c1, 9l3,10c1,11c1,12a1fam &amp;</i> ואזלא אנא למנד על א̈ילנא
+(יב) אמר̈ין אי̈לנא לגפתא אנתי תי<sup>9</sup> אמלך עלין
+(יג) אמרא להון גפתא לא שבקא אנא אדשי דמחדא לבא דא̈להא ואנשא<sup>10</sup> ואזלא אנא למנד על א̈ילנא
 (יד) אמרין אי̈לנא כלהון להטטא אנת אמלך עלין
-(טו) אמר הטטא לא̈ילנא אן בשררא משחין אנתון לי דאמלך עליכון תו אסתתרו בטללי ואלא תפוק נורא מן הטטא ותאכול לאר̈זא<sup class="footnote-marker">11</sup><i class="footnote">אר̈זא‎ 9a1fam &amp;</i> דבלבנן<sup class="footnote-marker">12</sup><i class="footnote">דלבנן‎ 6h7,11c1* &amp;</i>
-(טז) והשא אן בקושתא ובשררא עבדתון ואמלכתון<sup class="footnote-marker">13</sup><i class="footnote">דאמלכתון‎12a1fam &amp;</i> לאבימלך ואן טבתא עבדתון עם נדובעיל ועם ביתה או איך עמלא דא̈ידוהי פרעתוניהי
+(טו) אמר הטטא לא̈ילנא אן בשררא משחין אנתון לי דאמלך עליכון תו אסתתרו בטללי ואלא תפוק נורא מן הטטא ותאכול לאר̈זא<sup>11</sup> דבלבנן<sup>12</sup>
+(טז) והשא אן בקושתא ובשררא עבדתון ואמלכתון<sup>13</sup> לאבימלך ואן טבתא עבדתון עם נדובעיל ועם ביתה או איך עמלא דא̈ידוהי פרעתוניהי
 (יז) דאתכתש אבי על א̈פיכון ושדא נפשה מן קבול ופציכון מן אידא דמדין
 (יח) ואנתון קמתון על בית אבי יומנא וקטלתון לבנ̈והי שבעין גבר̈ין על כאפא חדא ואמלכתון לאבימלך בר אמתה על מר̈יה דשכים מטל דאחוכון הו
-(יט) ואן בקושתא ובשררא עבדתון עם<sup class="footnote-marker">14</sup><i class="footnote">דבית‎ -6h7, 8a1c, 9c1,10c1,11c1, 12a1fam &amp;</i><sup class="footnote-marker">15</sup><i class="footnote">בית‎ 8a1*, 9a1fam &amp;</i> נדובעיל ועם ביתה יומנא חדו באבימלך ואף<sup class="footnote-marker">16</sup><i class="footnote">אף‎ 6h7</i> הו נחדא בכון
-(כ) ואלא תפוק נורא מן אבימלך ותאכול למר̈יה דשכים ולמר̈יה דמלו ותפוק נורא מן<sup class="footnote-marker">17</sup><i class="footnote">בית‎ -11c1*,12a1fam &amp;</i> מר̈יה דשכים ומר̈יה<sup class="footnote-marker">18</sup><i class="footnote">ומן‎ 7a1 &amp;</i><sup class="footnote-marker">19</sup><i class="footnote">מר̈יה‎ +7a1 &amp;</i> דמלו ותאכליוהי לאבימלך
-(כא) וערק יותם ואתפלט ואזל לדביר ואיתב תמן איכא דית̇ב הוא אבימלך<sup class="footnote-marker">20</sup><i class="footnote">ואח̈והי‎ +6h7</i> מן קדים
+(יט) ואן בקושתא ובשררא עבדתון עם<sup>14</sup><sup>15</sup> נדובעיל ועם ביתה יומנא חדו באבימלך ואף<sup>16</sup> הו נחדא בכון
+(כ) ואלא תפוק נורא מן אבימלך ותאכול למר̈יה דשכים ולמר̈יה דמלו ותפוק נורא מן<sup>17</sup> מר̈יה דשכים ומר̈יה<sup>18</sup><sup>19</sup> דמלו ותאכליוהי לאבימלך
+(כא) וערק יותם ואתפלט ואזל לדביר ואיתב תמן איכא דית̇ב הוא אבימלך<sup>20</sup> מן קדים
 (כב) ואשתלט אבימלך על איסריל תלת ש̈נין
 (כג) ושדר אלהא רוחא בישתא על אבימלך ועל מר̈יה דשכים ודגלו מר̈יה דשכים באבימלך
-(כד) מטל דנאתא עולא דשבעין ב̈נוהי דנדובעל ודמהון למסם על אבימלך אחוהון דקטל אנון ועל מר̈יה דשכים דחילו א̈ידוהי<sup class="footnote-marker">21</sup><i class="footnote">לא̈ידוהי‎11c1,12a1fam &amp;</i> דנקטל לאח̈והי
-(כה) ואכמנו לה<sup class="footnote-marker">22</sup><i class="footnote">דאכמנו עלוהי‎ 9a1fam</i> כמאנא<sup class="footnote-marker">23</sup><i class="footnote">כמ̈אנא‎ 6h7, 9a1fam &amp;</i> על ריש טורא וחטפו כל דעבר עליהון באורחא ואתחוי לאבימלך
-(כו) ואתא געל בר עפר<sup class="footnote-marker">24</sup><i class="footnote">הו‎ +8a1c,10c1,11c1 &amp;</i><sup class="footnote-marker">25</sup><i class="footnote">וא̈חוהי‎ -12a1fam &amp;</i> ועבר<sup class="footnote-marker">26</sup><i class="footnote">ועברו‎ 6h7, 6ph11, 8a1,10c1,11c1 &amp;</i> בשכים ואתתכלו עלוהי מר̈יה דשכים
+(כד) מטל דנאתא עולא דשבעין ב̈נוהי דנדובעל ודמהון למסם על אבימלך אחוהון דקטל אנון ועל מר̈יה דשכים דחילו א̈ידוהי<sup>21</sup> דנקטל לאח̈והי
+(כה) ואכמנו לה<sup>22</sup> כמאנא<sup>23</sup> על ריש טורא וחטפו כל דעבר עליהון באורחא ואתחוי לאבימלך
+(כו) ואתא געל בר עפר<sup>24</sup><sup>25</sup> ועבר<sup>26</sup> בשכים ואתתכלו עלוהי מר̈יה דשכים
 (כז) ונפקו לדברא וקטפו כר̈מיהון ועצרו ועבדו חלולא ועלו לבית א̈להיהון ולעסו ואשתיו וצחיו לאבימלך
 (כח) ואמר געל בר עפר מנו אבימלך ומנו שכים דנפלחיוהי לא הוא בר נדובעל וזכל דשני פוקדנה פלח לאנש̈י חמור אבוהי דשכים מטול מנא נפלחיוהי חנן
-(כט) מ̇ן דין אשלמה לעמא הנא בא̈ידי<sup class="footnote-marker">27</sup><i class="footnote">בא̈יד‎ V</i> ואעברתה לאבימלך. ואמר לאבימלך אסגא חילך ופוק
+(כט) מ̇ן דין אשלמה לעמא הנא בא̈ידי<sup>27</sup> ואעברתה לאבימלך. ואמר לאבימלך אסגא חילך ופוק
 (ל) ושמע זכל שליטא דקריתא מ̈לוהי דגעל בר עפר ואתחמת רוגזה
-(לא) ושדר אי̈זגדא לות אבימלך בנכלא ואמר הא געל בר עפר הו ואח̈והי אתו<sup class="footnote-marker">28</sup><i class="footnote">אתא‎ 7g1, 9a1fam &amp;</i> לשכים והא חדירין<sup class="footnote-marker">29</sup><i class="footnote">חדרין‎ 9a1fam</i> לקריתא עליך
-(לב) השא קום<sup class="footnote-marker">30</sup><i class="footnote">קדם‎ 9a1fam</i> בלליא אנת ועמא דעמך ואתכמנו<sup class="footnote-marker">31</sup><i class="footnote">ואתכמן‎ 7g1, 9a1fam,10c1,11c1,12a1 &amp;</i> בדברא<sup class="footnote-marker">32</sup><i class="footnote">במדברא‎ 7a1</i>
+(לא) ושדר אי̈זגדא לות אבימלך בנכלא ואמר הא געל בר עפר הו ואח̈והי אתו<sup>28</sup> לשכים והא חדירין<sup>29</sup> לקריתא עליך
+(לב) השא קום<sup>30</sup> בלליא אנת ועמא דעמך ואתכמנו<sup>31</sup> בדברא<sup>32</sup>
 (לג) ובצפרא מא דדנחת שמשא קום והלך על קריתא והא הו ועמא דעמה נפקין לותך עבד להון איך מא דספקא בא̈ידיך
-(לד) וקם אבימלך וכלה עמא<sup class="footnote-marker">33</sup><i class="footnote">ועמא כלה‎ 6h7, 7g1, 9a1fam, 9c1,10c1,11c1, 12a1fam</i> דעמה בלליא ואתכמנו על שכים ארבעא ר̈שין
-(לה) ונפק געל בר עפר וקם במעלנא דתרעא דקריתא וקם אבימלך ועמא דעמה מן כמאנא<sup class="footnote-marker">34</sup><i class="footnote">כמ̈אנא‎ 6h7 &amp;</i>
-(לו) וחזא געל לעמא ואמר לזכל הא עמא נחתין מן ר̈ישי טור̈א<sup class="footnote-marker">35</sup><i class="footnote">ריש טורא‎ 9a1fam,12a1fam &amp;</i> ואמר לה זכל טללא הו דטור̈א חזא אנת איך אנש̈א
+(לד) וקם אבימלך וכלה עמא<sup>33</sup> דעמה בלליא ואתכמנו על שכים ארבעא ר̈שין
+(לה) ונפק געל בר עפר וקם במעלנא דתרעא דקריתא וקם אבימלך ועמא דעמה מן כמאנא<sup>34</sup>
+(לו) וחזא געל לעמא ואמר לזכל הא עמא נחתין מן ר̈ישי טור̈א<sup>35</sup> ואמר לה זכל טללא הו דטור̈א חזא אנת איך אנש̈א
 (לז) ואוסף געל ואמר לזכל הא עמא נחתין מן תוקנה̇ דארעא ורשא חד את̇א מן אורחא דבית בלוטא דמעונין
-(לח) אמר לה זכל איכא הו פומך הו דאמר הוא דמנו<sup class="footnote-marker">36</sup><i class="footnote">מנו‎ 6h7, 9a1fam &amp;</i> אבימלך דנפלחיוהי לא הוא הנא עמא<sup class="footnote-marker">37</sup><i class="footnote">עמא הנא‎ 6ph11</i> דאסלית פוק השא ואתכתש עמה
-(לט) ונפק געל קדם מר̈יה דקריתא<sup class="footnote-marker">38</sup><i class="footnote">דשכים‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> ואתכתש עם אבימלך
+(לח) אמר לה זכל איכא הו פומך הו דאמר הוא דמנו<sup>36</sup> אבימלך דנפלחיוהי לא הוא הנא עמא<sup>37</sup> דאסלית פוק השא ואתכתש עמה
+(לט) ונפק געל קדם מר̈יה דקריתא<sup>38</sup> ואתכתש עם אבימלך
 (מ) ורדפה אבימלך וערק מן קדמוהי ונפלו ק̈טילא ס̈גיאא עדמא למעלנא דתרעא
 (מא) ואיתב אבימלך באדומא וטרד זכל לגעל ולא̈חוהי דלא נתבון בשכים
 (מב) והוא מן בתר יומא ונפקו עמא לדברא וחויו לאבימלך
-(מג) ודבר לעמא ופלג אנון לתלתא ר̈שין ואתכמנו<sup class="footnote-marker">39</sup><i class="footnote">ואתכמן‎ 7g1, 9a1fam,10c1, 11c1,12a1fam &amp;</i> בדברא וחזא<sup class="footnote-marker">40</sup><i class="footnote">וחזו‎ 7a1</i> והא עמא נפק מן קריתא וקם עליהון וקטל אנון
-(מד) ואבימלך ור̈ישא דעמה הלכו וקמו במעלנא דתרעא<sup class="footnote-marker">41</sup><i class="footnote">דת̈רעא‎ 7a1</i> דקריתא ותר̈ין ר̈ישין הלכו על כל דבמדברא וקטלו אנון
-(מה) ואבימלך אתכתש בקריתא כלה יומא הו וכבשה̇ לקריתא ולכלה עמא דאית<sup class="footnote-marker">42</sup><i class="footnote">דבה‎ 12a1fam &amp;</i><sup class="footnote-marker">43</sup><i class="footnote">בה̇‎ -12a1fam &amp;</i> קטל ועקרה̇ לקריתא וזרעה̇ מלוחא
-(מו) ושמעו כלהון מר̈יה דמגדל שכים ואתו למפסק בית איל<sup class="footnote-marker">44</sup><i class="footnote">בבית איל‎ 6ph11, 8a1c, 9c1,10c1,12a1fam &amp;</i> קימא
-(מז) וחויו לאבימלך דאתכנשו<sup class="footnote-marker">45</sup><i class="footnote">כלהון‎ +6h7, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> מר̈יה דמגדל שכים
-(מח) וסלק אבימלך לטורא דצלמון וכלה עמא דעמה ונסב אבימלך נרגא באידה ופסק סוכתא דקי̈סא<sup class="footnote-marker">46</sup><i class="footnote">דקיסא‎12a1fam &amp;</i> ושקלה̇ וסמה̇ על כתפה ואמר לעמא דעמה מא דחזיתון דעבדת עבדו אף אנתון בעגל אכותי
-(מט) ופסקו גבר סוכתה ואזלו בתר אבימלך וסמו כשיתא<sup class="footnote-marker">47</sup><i class="footnote">כש̈יתא‎ 9a1fam &amp;</i> ואוקדוה<sup class="footnote-marker">48</sup><i class="footnote">ואוקדה‎ 7g1, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> לקריתא בנורא ומיתו כלהון אנשא דאית<sup class="footnote-marker">49</sup><i class="footnote">הוו‎ +6h7</i> במגדל שכים בנורא איך אלף בית גבר̈א לנש̈א
+(מג) ודבר לעמא ופלג אנון לתלתא ר̈שין ואתכמנו<sup>39</sup> בדברא וחזא<sup>40</sup> והא עמא נפק מן קריתא וקם עליהון וקטל אנון
+(מד) ואבימלך ור̈ישא דעמה הלכו וקמו במעלנא דתרעא<sup>41</sup> דקריתא ותר̈ין ר̈ישין הלכו על כל דבמדברא וקטלו אנון
+(מה) ואבימלך אתכתש בקריתא כלה יומא הו וכבשה̇ לקריתא ולכלה עמא דאית<sup>42</sup><sup>43</sup> קטל ועקרה̇ לקריתא וזרעה̇ מלוחא
+(מו) ושמעו כלהון מר̈יה דמגדל שכים ואתו למפסק בית איל<sup>44</sup> קימא
+(מז) וחויו לאבימלך דאתכנשו<sup>45</sup> מר̈יה דמגדל שכים
+(מח) וסלק אבימלך לטורא דצלמון וכלה עמא דעמה ונסב אבימלך נרגא באידה ופסק סוכתא דקי̈סא<sup>46</sup> ושקלה̇ וסמה̇ על כתפה ואמר לעמא דעמה מא דחזיתון דעבדת עבדו אף אנתון בעגל אכותי
+(מט) ופסקו גבר סוכתה ואזלו בתר אבימלך וסמו כשיתא<sup>47</sup> ואוקדוה<sup>48</sup> לקריתא בנורא ומיתו כלהון אנשא דאית<sup>49</sup> במגדל שכים בנורא איך אלף בית גבר̈א לנש̈א
 (נ) ואזל אבימלך לתבץ ושרא בתבץ ואחדה̇
-(נא) ומגדלא עשינא הוא בגוה̇ דקריתא<sup class="footnote-marker">50</sup><i class="footnote">בגו קריתא‎ 8a1*</i> וערקו לתמן<sup class="footnote-marker">51</sup><i class="footnote">כלהון‎ -7a1</i> גבר̈א ונש̈א וכלהון מר̈יה דקריתא ואחדו<sup class="footnote-marker">52</sup><i class="footnote">ואחד‎ 7a1</i> בא̈פיהון וסלקו<sup class="footnote-marker">53</sup><i class="footnote">וסלק‎ 7a1</i> לאגרא<sup class="footnote-marker">54</sup><i class="footnote">לא̈גרא‎12a1fam &amp;</i> דמגדלא
-(נב) ומטי אבימלך עדמא למגדלא ומתכתש<sup class="footnote-marker">55</sup><i class="footnote">ואתכתש‎ 7a1</i> בה וקרב עדמא לתרעא דמגדלא דנוקדיוהי<sup class="footnote-marker">56</sup><i class="footnote">דנוקדונה‎ 6h7</i> בנורא
+(נא) ומגדלא עשינא הוא בגוה̇ דקריתא<sup>50</sup> וערקו לתמן<sup>51</sup> גבר̈א ונש̈א וכלהון מר̈יה דקריתא ואחדו<sup>52</sup> בא̈פיהון וסלקו<sup>53</sup> לאגרא<sup>54</sup> דמגדלא
+(נב) ומטי אבימלך עדמא למגדלא ומתכתש<sup>55</sup> בה וקרב עדמא לתרעא דמגדלא דנוקדיוהי<sup>56</sup> בנורא
 (נג) ושדת אנתתא חדא תברא דרכבא דרחיא על רישה דאבימלך ותברתה לרישה
-(נד) וקרא מסרהבאית לטליא ש̇קל<sup class="footnote-marker">57</sup><i class="footnote">דש̇קל‎ 7a1</i> מא̈נוהי ואמר לה שמוט סיפך וקטוליני בה דלא נאמרון עלי דאנתתא קטלתה<sup class="footnote-marker">58</sup><i class="footnote">קטלתני‎ 7a1</i> ודקרה עלימא<sup class="footnote-marker">59</sup><i class="footnote">טליא‎10c1*</i><sup class="footnote-marker">60</sup><i class="footnote">עלימה‎ 6h7</i> ומית
-(נה) וחזו ב̈ני איסריל דמית לה אבימלך ואזלו<sup class="footnote-marker">61</sup><i class="footnote">ואזל‎ 9a1fam &amp;</i> אנש לאתרה
-(נו) ופרעה אלהא בישתא לאבימלך<sup class="footnote-marker">62</sup><i class="footnote">לאבימלך בישתא‎12a1fam &amp;</i> דעבד לאבוהי וקטל שבעין<sup class="footnote-marker">63</sup><i class="footnote">לשבעין‎ 7g1, 8a1, 9a1fam, 9c1,10c1,11c1,12a1fam &amp;</i> א̈חוהי
-(נז) וכלה̇ בישתא דעבדו אנש̈י שכים אהפך אלהא ברישהון ואתת עליהון כלה̇ לוטתה<sup class="footnote-marker">64</sup><i class="footnote">לוטתא‎ 7a1 &amp;</i> דיותם בר נדובעיל
+(נד) וקרא מסרהבאית לטליא ש̇קל<sup>57</sup> מא̈נוהי ואמר לה שמוט סיפך וקטוליני בה דלא נאמרון עלי דאנתתא קטלתה<sup>58</sup> ודקרה עלימא<sup>59</sup><sup>60</sup> ומית
+(נה) וחזו ב̈ני איסריל דמית לה אבימלך ואזלו<sup>61</sup> אנש לאתרה
+(נו) ופרעה אלהא בישתא לאבימלך<sup>62</sup> דעבד לאבוהי וקטל שבעין<sup>63</sup> א̈חוהי
+(נז) וכלה̇ בישתא דעבדו אנש̈י שכים אהפך אלהא ברישהון ואתת עליהון כלה̇ לוטתה<sup>64</sup> דיותם בר נדובעיל
 <h2>פרק י</h2>
-(א) וקם מן בתר אבימלך למפרק לאיסריל תולע בר פואא בר דדה גברא מן איסכר והו יתב<sup class="footnote-marker">1</sup><i class="footnote">הוא‎ -12a1fam &amp;</i> בשמיר<sup class="footnote-marker">2</sup><i class="footnote">בשמרין‎ 7a1</i> טורא דאפרים
-(ב) ודן לאיסראיל עסר̈ין ותלת ש̈נין ומית ואתקבר בשמיר<sup class="footnote-marker">3</sup><i class="footnote">במשיר‎ 7a1</i>
+(א) וקם מן בתר אבימלך למפרק לאיסריל תולע בר פואא בר דדה גברא מן איסכר והו יתב<sup>1</sup> בשמיר<sup>2</sup> טורא דאפרים
+(ב) ודן לאיסראיל עסר̈ין ותלת ש̈נין ומית ואתקבר בשמיר<sup>3</sup>
 (ג) וקם מן בתרה יאיר גלעדיא ודן לאיסריל עסר̈ין ותר̈תין שני̈ן
-(ד) והוו לה תלתין בני̈ן ור̈כיבין הוו על תלתין עי̈לין ותלתין קור̈יא אית ה̈וי להון וקרין הוו להין כפר̈ונא דיאיר עדמא ליומנא דבארעא<sup class="footnote-marker">4</sup><i class="footnote">דבארעא דגלעד עדמא‎ 9a1fam</i><sup class="footnote-marker">5</sup><i class="footnote">בארעא‎ 7a1</i> דגלעד<sup class="footnote-marker">6</sup><i class="footnote">ליומנא‎ 9a1fam</i>
+(ד) והוו לה תלתין בני̈ן ור̈כיבין הוו על תלתין עי̈לין ותלתין קור̈יא אית ה̈וי להון וקרין הוו להין כפר̈ונא דיאיר עדמא ליומנא דבארעא<sup>4</sup><sup>5</sup> דגלעד<sup>6</sup>
 (ה) ומית יאיר ואתקבר בקמון
-(ו) ואוספו ב̈ני איסריל למעבד דביש קדם מריא ופלחו לבעלא ולאסתר̈תא ולא̈להא דאדום ולא̈להא<sup class="footnote-marker">7</sup><i class="footnote">דצידן ולא̈להא‎ -7a1</i><sup class="footnote-marker">8</sup><i class="footnote">ולאלהא‎ 7g1</i> דמואב ולא̈להא דבנ̈י עמון ולא̈להא דפלש̈תיא ולא̈להא דשרכא דעמ̈מא ושבקו למריא ולא פלחוהי
+(ו) ואוספו ב̈ני איסריל למעבד דביש קדם מריא ופלחו לבעלא ולאסתר̈תא ולא̈להא דאדום ולא̈להא<sup>7</sup><sup>8</sup> דמואב ולא̈להא דבנ̈י עמון ולא̈להא דפלש̈תיא ולא̈להא דשרכא דעמ̈מא ושבקו למריא ולא פלחוהי
 (ז) ואתחמת רוגזה דמריא על איסריל ואשלם אנון באידא דפלש̈תיא ובאידא דבנ̈י עמון
-(ח) ועצו ואלצו לבנ̈י<sup class="footnote-marker">9</sup><i class="footnote">ליסריל‎11c1*</i><sup class="footnote-marker">10</sup><i class="footnote">איסריל‎ -11c1*</i><sup class="footnote-marker">11</sup><i class="footnote">מן הי שנתא‎ -7a1</i> תמנעסרא שני̈ן לכלהון בנ̈י איסריל דבעברא דיורדנן בארעא דאמור̈יא דבגלעד<sup class="footnote-marker">12</sup><i class="footnote">ודגלעד‎ 7pj3</i>
-(ט) ועברו בנ̈י עמון<sup class="footnote-marker">13</sup><i class="footnote">יורדנן‎ -12a1fam &amp;</i> למתכתשו עם<sup class="footnote-marker">14</sup><i class="footnote">על‎ 9a1</i> יהודא ואף עם<sup class="footnote-marker">15</sup><i class="footnote">על‎ 7a1</i> בנ̈י אפרים ובנימין ועקת לאיסריל טב
+(ח) ועצו ואלצו לבנ̈י<sup>9</sup><sup>10</sup><sup>11</sup> תמנעסרא שני̈ן לכלהון בנ̈י איסריל דבעברא דיורדנן בארעא דאמור̈יא דבגלעד<sup>12</sup>
+(ט) ועברו בנ̈י עמון<sup>13</sup> למתכתשו עם<sup>14</sup> יהודא ואף עם<sup>15</sup> בנ̈י אפרים ובנימין ועקת לאיסריל טב
 (י) ואזעקו ב̈ני איסריל לות מריא ואמר̈ין חטין לך דשבקן לאלהן ופלחן לבעלא
 (יא) ואמר מריא לבנ̈י איסריל לא מצר̈יא ומוא̈ביא ובנ̈י עמון ופלש̈תיא
 (יב) וצי̈דניא ועמליק ועמון אלצכון וגעיתון לותי ופרקתכון מן א̈ידיהון
-(יג) ואנתון שבקתונני ופלחתון לא̈להא אחר̈נא מטל הנא לא אוסף תוב דאפרוקכון<sup class="footnote-marker">16</sup><i class="footnote">אפרוקכון‎ 6h7</i>
-(יד) זלו צלו לות א̈להא דצביתון בהון הנון<sup class="footnote-marker">17</sup><i class="footnote">והנון‎ 8a1</i> נהוון לכון פר̈וקא בזבנא<sup class="footnote-marker">18</sup><i class="footnote">בז̈בנא‎ 7a1</i><sup class="footnote-marker">19</sup><i class="footnote">הנא‎ +11c1</i> דעקתכון
+(יג) ואנתון שבקתונני ופלחתון לא̈להא אחר̈נא מטל הנא לא אוסף תוב דאפרוקכון<sup>16</sup>
+(יד) זלו צלו לות א̈להא דצביתון בהון הנון<sup>17</sup> נהוון לכון פר̈וקא בזבנא<sup>18</sup><sup>19</sup> דעקתכון
 (טו) ואמרו בנ̈י איסריל למריא חטין לך אנת עבד לן מדם דשפיר בעינ̈יך בלחוד פצן יומנא
 (טז) ואפרקו ב̈ני איסריל א̈להא נוכר̈יא מן בינתהון ופלחו למריא מטל דאתתעיקת נפשה דאיסריל
-(יז) ואתכנשו בנ̈י עמון ושרו בגלעד<sup class="footnote-marker">20</sup><i class="footnote">בגבע‎ 9a1fam</i> ואתכנשו בנ̈י איסריל ושרו במצפיא
+(יז) ואתכנשו בנ̈י עמון ושרו בגלעד<sup>20</sup> ואתכנשו בנ̈י איסריל ושרו במצפיא
 (יח) ואמרו עמא ר̈ורבני גלעד אנש לחברה אינא גברא דנשרא למתכתשו עם בנ̈י עמון הו נהוא רישא לכל י̈תבי גלעד
 <h2>פרק יא</h2>
 (א) ונפתח גלעדיא גנבר הוא חילה והו בר אנתתא הוא זניתא ואולד גלעד לנפתח
-(ב) וילדת אנתתה דגלעד לה ב̈ניא ורבו בני̈ה דאנתתא וטרדוהי לנפתח ואמרין לא נארת בית אבון מטל דבר אנתתא הו אחרתא<sup class="footnote-marker">1</sup><i class="footnote">זניתא‎ 7a1</i>
-(ג) וערק נפתח מן קדם א̈חוהי ואיתב בארעא טבתא ואתלקטו לות נפתח אנש̈א סר̈יקא<sup class="footnote-marker">2</sup><i class="footnote">ופ̈חזא‎ +6h7, 8a1* &amp;</i> ונפקו עמה
-(ד) והוא מן בתר יומ̈תא ואתכתשו<sup class="footnote-marker">3</sup><i class="footnote">אתכתשו‎ 9c1,10c1,11c1,12a1fam &amp;</i> בנ̈י עמון עם<sup class="footnote-marker">4</sup><i class="footnote">בנ̈י‎ -6h7, 9a1fam,10c1,12a1fam &amp;</i> איסריל
-(ה) וכד אתכתשו<sup class="footnote-marker">5</sup><i class="footnote">אתכנשו‎ 7a1</i> בנ̈י עמון עם<sup class="footnote-marker">6</sup><i class="footnote">בנ̈י‎ -8a1 &amp;</i> איסריל אזלו<sup class="footnote-marker">7</sup><i class="footnote">ואזלו‎ 6h7 &amp;</i> קשי̈שא דגלעד למדברה לנפתח מן ארעא טבתא
-(ו) ואמרו לנפתח תא הוי לן רישא ונתכתש<sup class="footnote-marker">8</sup><i class="footnote">ואתכתש‎ 7g1, 9a1fam</i> עם בנ̈י עמון
+(ב) וילדת אנתתה דגלעד לה ב̈ניא ורבו בני̈ה דאנתתא וטרדוהי לנפתח ואמרין לא נארת בית אבון מטל דבר אנתתא הו אחרתא<sup>1</sup>
+(ג) וערק נפתח מן קדם א̈חוהי ואיתב בארעא טבתא ואתלקטו לות נפתח אנש̈א סר̈יקא<sup>2</sup> ונפקו עמה
+(ד) והוא מן בתר יומ̈תא ואתכתשו<sup>3</sup> בנ̈י עמון עם<sup>4</sup> איסריל
+(ה) וכד אתכתשו<sup>5</sup> בנ̈י עמון עם<sup>6</sup> איסריל אזלו<sup>7</sup> קשי̈שא דגלעד למדברה לנפתח מן ארעא טבתא
+(ו) ואמרו לנפתח תא הוי לן רישא ונתכתש<sup>8</sup> עם בנ̈י עמון
 (ז) ואמר נפתח לקשי̈שא דגלעד לא אנתון סניתונני וטרדתונני מן בית אבי והשא מנא אתיתון לותי כד עקת לכון
-(ח) ואמרו לה קשיש̈א דגלעד לנפתח מטל הנא השא הא אתין לותך זל עמן ונתכתש<sup class="footnote-marker">9</sup><i class="footnote">ואתכתש‎ 9a1fam</i> עם ב̈ני עמון והוי רישא לכל יתב̈י גלעד
-(ט) ואמר נפתח לק̈שישא דגלעד אן מהפכין אנתון לי דאתכתש עם ב̈ני עמון ומשלם להון מריא קדמי<sup class="footnote-marker">10</sup><i class="footnote">בא̈ידי‎ 7a1</i> אנא אהוא לכון רישא
-(י) ואמרו לה קשיש̈א דגלעד מריא נהוא שמועא בינתן אלא איך מלתך הכנא נעבד<sup class="footnote-marker">11</sup><i class="footnote">נהוא‎ 9a1fam</i>
+(ח) ואמרו לה קשיש̈א דגלעד לנפתח מטל הנא השא הא אתין לותך זל עמן ונתכתש<sup>9</sup> עם ב̈ני עמון והוי רישא לכל יתב̈י גלעד
+(ט) ואמר נפתח לק̈שישא דגלעד אן מהפכין אנתון לי דאתכתש עם ב̈ני עמון ומשלם להון מריא קדמי<sup>10</sup> אנא אהוא לכון רישא
+(י) ואמרו לה קשיש̈א דגלעד מריא נהוא שמועא בינתן אלא איך מלתך הכנא נעבד<sup>11</sup>
 (יא) ואזל נפתח עם קשי̈שא דגלעד ואקימוהי עליהון רישא ושליטא ואמר נפתח כלהין מ̈לוהי קדם מריא במצפיא
 (יב) ושדר נפתח אי̈זגדא לות מלכא דבנ̈י עמון למאמר לה מא לי ולך דאתית למתכתשו בארעי
-(יג) ואמר מלכא דבני̈<sup class="footnote-marker">12</sup><i class="footnote">דעמון‎12a1fam &amp;</i><sup class="footnote-marker">13</sup><i class="footnote">עמון‎ -12a1fam &amp;</i> לאי̈זגדוהי דנפתח מטל דנסבו הוו בנ̈י איסריל ארעי כד סלקין הוו מן ארעא דמצרין מן ארנון ועדמא לאבק<sup class="footnote-marker">14</sup><i class="footnote">לאפק‎ 6h7, 8a1*</i> ועדמא ליורדנן השא פנא אני̈ן לי בשלמא
-(יד) והפך תוב נפתח ושדר<sup class="footnote-marker">15</sup><i class="footnote">שדר‎ 6h7*</i> אגרתא<sup class="footnote-marker">16</sup><i class="footnote">אג̈רתא‎ 6h7, 7g1, 8a1, 9a1fam, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">17</sup><i class="footnote">איגרתא‎ 7a1</i> ואי̈זגדא לות מלכא דבנ̈י עמון
-(טו) ואמר<sup class="footnote-marker">18</sup><i class="footnote">ואמרו‎ 7g1</i> לה הכנא אמר נפתח לא נסב<sup class="footnote-marker">19</sup><i class="footnote">איסריל‎ -9a1fam</i> ארעא דמואב וארעא דבנ̈י עמון
-(טז) מטל דכד סלקין הוו<sup class="footnote-marker">20</sup><i class="footnote">הוין‎ 7g1</i> מן מצרין הלכו הוו ב̈ני איסראיל במדברא עדמא לימא דסוף ומטיו לרקם
-(יז) ושדר הוא איסריל<sup class="footnote-marker">21</sup><i class="footnote">אי̈זגדא‎ -12a1fam &amp;</i> לות מלכא דאדום למאמר לה נעבר<sup class="footnote-marker">22</sup><i class="footnote">דנעבר‎ 9a1fam</i> בארעך ולא שמע מלכא דאדום ואף למלכא דמואב שלח ולא אתטפיס לה ואיתב איסריל ברקם
-(יח) והלך במדברא ואתכרך ארעא דאדום וארעא דמואב ושרו בעברא דארנון ולא עלו בתחומא<sup class="footnote-marker">23</sup><i class="footnote">לתחומא‎ 7a1</i> דמואב מטול דארנון תחומא הוא דמואב
+(יג) ואמר מלכא דבני̈<sup>12</sup><sup>13</sup> לאי̈זגדוהי דנפתח מטל דנסבו הוו בנ̈י איסריל ארעי כד סלקין הוו מן ארעא דמצרין מן ארנון ועדמא לאבק<sup>14</sup> ועדמא ליורדנן השא פנא אני̈ן לי בשלמא
+(יד) והפך תוב נפתח ושדר<sup>15</sup> אגרתא<sup>16</sup><sup>17</sup> ואי̈זגדא לות מלכא דבנ̈י עמון
+(טו) ואמר<sup>18</sup> לה הכנא אמר נפתח לא נסב<sup>19</sup> ארעא דמואב וארעא דבנ̈י עמון
+(טז) מטל דכד סלקין הוו<sup>20</sup> מן מצרין הלכו הוו ב̈ני איסראיל במדברא עדמא לימא דסוף ומטיו לרקם
+(יז) ושדר הוא איסריל<sup>21</sup> לות מלכא דאדום למאמר לה נעבר<sup>22</sup> בארעך ולא שמע מלכא דאדום ואף למלכא דמואב שלח ולא אתטפיס לה ואיתב איסריל ברקם
+(יח) והלך במדברא ואתכרך ארעא דאדום וארעא דמואב ושרו בעברא דארנון ולא עלו בתחומא<sup>23</sup> דמואב מטול דארנון תחומא הוא דמואב
 (יט) ושדר הוא איסריל איז̈גדא לות סיחון מלכא דאמור̈יא ומלכא דחשבון ואמר לה איסריל נעבר בארעך עדמא לארעי
-(כ) ולא הימן סיחון לאיסריל דנעבר בתחומה וכנש סיחון לכלה עמה ושרו ביהץ ואתכתש<sup class="footnote-marker">24</sup><i class="footnote">ואתכתשו‎ 6h7 &amp;</i> עם איסריל
-(כא) ואשלם מריא אלהן<sup class="footnote-marker">25</sup><i class="footnote">אלהא‎ 9a1fam</i> לסיחון ולכלה עמה באידא דאיסריל ואובד איסריל ארעא דאמור̈יא
-(כב) ואירת כלה תחומהון מן ארנון ועדמא<sup class="footnote-marker">26</sup><i class="footnote">עדמא‎ 9a1fam</i> לאבק<sup class="footnote-marker">27</sup><i class="footnote">לאפק‎ 6h7, 8a1*</i> ומן מדברא ועדמא<sup class="footnote-marker">28</sup><i class="footnote">עדמא‎ 6h7 &amp;</i> ליורדנן
+(כ) ולא הימן סיחון לאיסריל דנעבר בתחומה וכנש סיחון לכלה עמה ושרו ביהץ ואתכתש<sup>24</sup> עם איסריל
+(כא) ואשלם מריא אלהן<sup>25</sup> לסיחון ולכלה עמה באידא דאיסריל ואובד איסריל ארעא דאמור̈יא
+(כב) ואירת כלה תחומהון מן ארנון ועדמא<sup>26</sup> לאבק<sup>27</sup> ומן מדברא ועדמא<sup>28</sup> ליורדנן
 (כג) והשא מריא אלהא אובד לאמור̈יא מן קדם עמה איסריל ואנת ירת אנת להון
-(כד) לא הוא מדם דאורתך כמוש אלהך ירת אנת ומדם<sup class="footnote-marker">29</sup><i class="footnote">ואחנן‎ 9a1fam</i><sup class="footnote-marker">30</sup><i class="footnote">מדם‎ +9a1fam</i> דאובד מריא אלהן מן קדמין לה<sup class="footnote-marker">31</sup><i class="footnote">הו‎ -11c1*</i> ירתין חנן
-(כה) השא מטב טב אנת מן בלק בר צפור מלכא דמואב דלמא מתחריו אתחרי<sup class="footnote-marker">32</sup><i class="footnote">הוא‎ -11c1*,12a1fam &amp;</i> עם איסריל או מתכתשו אתכתש<sup class="footnote-marker">33</sup><i class="footnote">הוא‎ -9a1fam</i> עמהון
-(כו) כד יתב<sup class="footnote-marker">34</sup><i class="footnote">הוא‎ +11c1 &amp;</i> איסראיל בחשבון ובכפר̈וניה ובעדועיר ובכפר̈וניה ובכלהין קור̈יא דעל גנב ארנון תלתמאא שני̈ן למנא לא אעדיתון א̈נין בזבנא הו
+(כד) לא הוא מדם דאורתך כמוש אלהך ירת אנת ומדם<sup>29</sup><sup>30</sup> דאובד מריא אלהן מן קדמין לה<sup>31</sup> ירתין חנן
+(כה) השא מטב טב אנת מן בלק בר צפור מלכא דמואב דלמא מתחריו אתחרי<sup>32</sup> עם איסריל או מתכתשו אתכתש<sup>33</sup> עמהון
+(כו) כד יתב<sup>34</sup> איסראיל בחשבון ובכפר̈וניה ובעדועיר ובכפר̈וניה ובכלהין קור̈יא דעל גנב ארנון תלתמאא שני̈ן למנא לא אעדיתון א̈נין בזבנא הו
 (כז) אלא אנא השא לא חטית לך ואנת עבד אנת עמי בישתא למתכתשו עמי נדון מריא יומנא דינא ביני בנ̈י איסריל ולבית בנ̈י עמון
-(כח) ולא שמע מלכא דבנ̈י עמון מ̈לוהי<sup class="footnote-marker">35</sup><i class="footnote">למ̈לוהי‎ 6ph11, 7g1, 9a1fam, 9c1, 10c1,11c1,12a1fam &amp;</i> דנפתח דשלח לה
+(כח) ולא שמע מלכא דבנ̈י עמון מ̈לוהי<sup>35</sup> דנפתח דשלח לה
 (כט) והות על נפתח רוחה דמריא ועבר לגלעד ולמנשא ועבר למצפיא דגלעד ומן מצפיא דגלעד עבר לבנ̈י עמון
 (ל) ונדר נפתח נדרא למריא ואמר אן משלמו תשלם לבנ̈י עמון בא̈ידי
-(לא) מ̇ן דנפק מן<sup class="footnote-marker">36</sup><i class="footnote">לות‎ +11l2</i> תרעא דביתי לאורעי מא דאתית בשלמא מן בנ̈י עמון נהוא למריא ואסקיוהי לעלתא
-(לב) ועבר נפתח על<sup class="footnote-marker">37</sup><i class="footnote">לות‎11l2</i> בנ̈י עמון למתכתשו עמהון ואשלם אנון מריא באידה
-(לג) ומחא אנון מן עדועיר ועדמא<sup class="footnote-marker">38</sup><i class="footnote">עדמא‎11l1</i> למעלנא דמכיר עסר̈ין קור̈יא ועדמא<sup class="footnote-marker">39</sup><i class="footnote">עדמא‎ 7a1</i> לאבל כר̈מין מחותא רבתא דטב ואתתברו בנ̈י עמון קדם בנ̈י איסריל
-(לד) ואתא נפתח למצפיא לביתה והא ברתה נפקת<sup class="footnote-marker">40</sup><i class="footnote">לאורעה‎ -11l1</i> ב̈פלגא ובר̈ביעא<sup class="footnote-marker">41</sup><i class="footnote">ובאר̈ביעא‎ 7a1</i> והי יחידיתא<sup class="footnote-marker">42</sup><i class="footnote">איחידיתא‎ 7a1</i> הות לה ולית הוא<sup class="footnote-marker">43</sup><i class="footnote">לה‎ -6h7 &amp;</i> ברא או ברתא לבר מנה̇
-(לה) וכד חזה̇ צרי לבוש̈והי ואמר אוה<sup class="footnote-marker">44</sup><i class="footnote">או‎ 7g1 &amp;</i> ברתי מסחף סחפתיני ואנת הויתי יומנא מן סח̈ופי דהא אנא פתחת פומי לות אלהא ולא משכח אנא דאהפוך
-(לו) ואמרת לה ברתה אבי פתחת פומך לות אלהא עבד לי<sup class="footnote-marker">45</sup><i class="footnote">איך‎ -11l2</i> מדם דנפק מן פומך מן בתר דעבד לך מריא<sup class="footnote-marker">46</sup><i class="footnote">אלהא‎11c1,11l2 &amp;</i> נקמתא מן ב̈עלדבביך מן בנ̈י עמון
-(לז) ואמרא לאבוה בלחוד עבד לי הדא<sup class="footnote-marker">47</sup><i class="footnote">הדא בלחוד עבד לי‎ 7a1</i> ארפני<sup class="footnote-marker">48</sup><i class="footnote">וארפני‎ 7g1,11c1</i> תר̈ין יר̈חין ואזל<sup class="footnote-marker">49</sup><i class="footnote">אזל‎ 7a1, 9l2,11l2</i> אהלך על טור̈א ואבכא על בתולותי אנא וחבר̈תי
+(לא) מ̇ן דנפק מן<sup>36</sup> תרעא דביתי לאורעי מא דאתית בשלמא מן בנ̈י עמון נהוא למריא ואסקיוהי לעלתא
+(לב) ועבר נפתח על<sup>37</sup> בנ̈י עמון למתכתשו עמהון ואשלם אנון מריא באידה
+(לג) ומחא אנון מן עדועיר ועדמא<sup>38</sup> למעלנא דמכיר עסר̈ין קור̈יא ועדמא<sup>39</sup> לאבל כר̈מין מחותא רבתא דטב ואתתברו בנ̈י עמון קדם בנ̈י איסריל
+(לד) ואתא נפתח למצפיא לביתה והא ברתה נפקת<sup>40</sup> ב̈פלגא ובר̈ביעא<sup>41</sup> והי יחידיתא<sup>42</sup> הות לה ולית הוא<sup>43</sup> ברא או ברתא לבר מנה̇
+(לה) וכד חזה̇ צרי לבוש̈והי ואמר אוה<sup>44</sup> ברתי מסחף סחפתיני ואנת הויתי יומנא מן סח̈ופי דהא אנא פתחת פומי לות אלהא ולא משכח אנא דאהפוך
+(לו) ואמרת לה ברתה אבי פתחת פומך לות אלהא עבד לי<sup>45</sup> מדם דנפק מן פומך מן בתר דעבד לך מריא<sup>46</sup> נקמתא מן ב̈עלדבביך מן בנ̈י עמון
+(לז) ואמרא לאבוה בלחוד עבד לי הדא<sup>47</sup> ארפני<sup>48</sup> תר̈ין יר̈חין ואזל<sup>49</sup> אהלך על טור̈א ואבכא על בתולותי אנא וחבר̈תי
 (לח) ואמר לה̇ זל ושדרה̇ תר̈ין יר̈חין ואזלת הי וחבר̈תה̇ ובכת על בתולותה̇ על טור̈א
-(לט) ומן בתר תר̈ין יר̈חין אתת לות אבוה ועבד לה̇ איך נדרא דנדר והי לא חכמה̇ גבר והות<sup class="footnote-marker">50</sup><i class="footnote">לה‎ -11l1 &amp;</i><sup class="footnote-marker">51</sup><i class="footnote">לאתא‎ 9a1fam</i><sup class="footnote-marker">52</sup><i class="footnote">אתא‎ -9a1fam</i> ביני<sup class="footnote-marker">53</sup><i class="footnote">בינת‎ 6h7, 7g1, 8a1, 9c1, 9l2,10c1,11c1,11l1,12a1fam &amp;</i> בנ̈י איסריל
-(מ) ומן עדן לעדן אז̈לן ה̈וי בנ̈ת איסראיל וב̈כין וא̈לין על ברתה דנפתח גלעדיא ארבעא יו̈מין<sup class="footnote-marker">54</sup><i class="footnote">יר̈חין‎ 7a1</i> בשנתא
+(לט) ומן בתר תר̈ין יר̈חין אתת לות אבוה ועבד לה̇ איך נדרא דנדר והי לא חכמה̇ גבר והות<sup>50</sup><sup>51</sup><sup>52</sup> ביני<sup>53</sup> בנ̈י איסריל
+(מ) ומן עדן לעדן אז̈לן ה̈וי בנ̈ת איסראיל וב̈כין וא̈לין על ברתה דנפתח גלעדיא ארבעא יו̈מין<sup>54</sup> בשנתא
 <h2>פרק יב</h2>
-(א) וקעו גבר̈א דאפרים ועברו לגרביא ואמרו לנפתח למנא עברת למתכתשו עם<sup class="footnote-marker">1</sup><i class="footnote">על‎ 7a1</i> בנ̈י עמון ולן לא קרית<sup class="footnote-marker">2</sup><i class="footnote">קריתן‎11c1 &amp;</i> למאזל<sup class="footnote-marker">3</sup><i class="footnote">דנאזל‎ 9a1fam</i> עמך ביתך מוקדינן עליך<sup class="footnote-marker">4</sup><i class="footnote">בנורא‎ -6h7</i>
+(א) וקעו גבר̈א דאפרים ועברו לגרביא ואמרו לנפתח למנא עברת למתכתשו עם<sup>1</sup> בנ̈י עמון ולן לא קרית<sup>2</sup> למאזל<sup>3</sup> עמך ביתך מוקדינן עליך<sup>4</sup>
 (ב) ואמר להון נפתח גבר̈א נצא הוית אנא ועמי עם ב̈ני עמון וקריתכון ולא פרקתונני מן א̈ידיהון
-(ג) וכד חזית דלית<sup class="footnote-marker">5</sup><i class="footnote">מ̇ן‎ -8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> דפרק לי סמת נפשי בזור̈י<sup class="footnote-marker">6</sup><i class="footnote">בזור̈תי‎ 8a1* &amp;</i><sup class="footnote-marker">7</sup><i class="footnote">בזורי‎12a1 &amp;</i> ועברן<sup class="footnote-marker">8</sup><i class="footnote">ועברת‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> על בנ̈י עמון ואשלם אנון מריא בא̈ידי<sup class="footnote-marker">9</sup><i class="footnote">באידן‎ 6h7</i> והשא למנא סלקתון עלי יומנא דתתכתשון עמי
-(ד) וכנש נפתח לכלהון אנשא דגלעד ואתכתש<sup class="footnote-marker">10</sup><i class="footnote">ואתכתשו‎12a1fam &amp;</i> עם אפרים ומחו אנש̈י גלעד לא̈נשי<sup class="footnote-marker">11</sup><i class="footnote">א̈נשי‎ 9a1fam</i> אפרים מטל דאמר̈ין<sup class="footnote-marker">12</sup><i class="footnote">דאמרו‎ 6h7, 6ph11, 7g1, 9a1fam</i> דאפר̈מיא<sup class="footnote-marker">13</sup><i class="footnote">דאפר̈תיא‎ 9a1fam</i> אנון דבית אפרים ומנשא
-(ה) ואחדו גלעד̈יא למעברתא<sup class="footnote-marker">14</sup><i class="footnote">למע̈ברתא‎ 7a1</i> דיורדנן דאפרים ומא דעברין הוו במעברתא אילין דמתפלטין הוו מן אפרים למעבר משאלין הוו<sup class="footnote-marker">15</sup><i class="footnote">לה‎ -7a1 &amp;</i><sup class="footnote-marker">16</sup><i class="footnote">להון‎11c1</i> אנש̈י גלעד אפרמיא<sup class="footnote-marker">17</sup><i class="footnote">אפרותיא‎ 9a1fam</i> אנת
-(ו) אמ̇ר<sup class="footnote-marker">18</sup><i class="footnote">ואמ̇ר‎ 9a1fam</i> לא אמר̈ין לה אמר שב̈לא אמ̇ר סב̈לא מטל דלא<sup class="footnote-marker">19</sup><i class="footnote">גיר‎ -7a1 &amp;</i> משכח הוא לממללו הכנא ואעברוהי ונכסוהי על מעברתא דיורדנן ונפלו בזבנא הו מן אפרים אר̈בעין ותר̈ין א̈לפין
+(ג) וכד חזית דלית<sup>5</sup> דפרק לי סמת נפשי בזור̈י<sup>6</sup><sup>7</sup> ועברן<sup>8</sup> על בנ̈י עמון ואשלם אנון מריא בא̈ידי<sup>9</sup> והשא למנא סלקתון עלי יומנא דתתכתשון עמי
+(ד) וכנש נפתח לכלהון אנשא דגלעד ואתכתש<sup>10</sup> עם אפרים ומחו אנש̈י גלעד לא̈נשי<sup>11</sup> אפרים מטל דאמר̈ין<sup>12</sup> דאפר̈מיא<sup>13</sup> אנון דבית אפרים ומנשא
+(ה) ואחדו גלעד̈יא למעברתא<sup>14</sup> דיורדנן דאפרים ומא דעברין הוו במעברתא אילין דמתפלטין הוו מן אפרים למעבר משאלין הוו<sup>15</sup><sup>16</sup> אנש̈י גלעד אפרמיא<sup>17</sup> אנת
+(ו) אמ̇ר<sup>18</sup> לא אמר̈ין לה אמר שב̈לא אמ̇ר סב̈לא מטל דלא<sup>19</sup> משכח הוא לממללו הכנא ואעברוהי ונכסוהי על מעברתא דיורדנן ונפלו בזבנא הו מן אפרים אר̈בעין ותר̈ין א̈לפין
 (ז) ודן נפתח לאיסריל שת שני̈ן ומית נפתח גלעדיא ואתקבר בקריתא דגלעד
 (ח) ודן מן בתרה לאיסריל אביצן דמן בית לחם
-(ט) והוו לה תלתין בני̈ן ותלתין בנ̈ן ותלתין בנ̈תה אפק לבר ותלתין כ̈ללן אעל מן לבר ודן<sup class="footnote-marker">20</sup><i class="footnote">הוא‎ +9a1fam</i> לאיסריל שבע שנ̈ין
-(י) ומית אביצן ואתקבר בית לחם<sup class="footnote-marker">21</sup><i class="footnote">בבית לחם‎ 6ph11, 9a1fam &amp;</i>
-(יא) ודן מן בתרה<sup class="footnote-marker">22</sup><i class="footnote">לאיסריל‎ -12a1fam &amp;</i> אלון דמן זבולון עסר שני̈ן
-(יב) ומית אלון<sup class="footnote-marker">23</sup><i class="footnote">דמן זבולון‎ -9a1fam</i> ואתקבר באילון בארעא דזבולון
+(ט) והוו לה תלתין בני̈ן ותלתין בנ̈ן ותלתין בנ̈תה אפק לבר ותלתין כ̈ללן אעל מן לבר ודן<sup>20</sup> לאיסריל שבע שנ̈ין
+(י) ומית אביצן ואתקבר בית לחם<sup>21</sup>
+(יא) ודן מן בתרה<sup>22</sup> אלון דמן זבולון עסר שני̈ן
+(יב) ומית אלון<sup>23</sup> ואתקבר באילון בארעא דזבולון
 (יג) ודן מן בתרה לאיסריל עכרן בר הלין אפרעתוניא
-(יד) והוו לה אר̈בעין בני̈ן ותלתין בנ̈י בנ̈והי והוו ר̈כיבין<sup class="footnote-marker">24</sup><i class="footnote">רכבין‎11c1*</i> על שבעין ע̈ילין ודן לאיסריל תמנא שנ̈ין
-(טו) ומית עכרן בר הלין אפרעתוניא ואתקבר באפרעתון בארעא דאפרים בטורא דעמ̈לקיא<sup class="footnote-marker">25</sup><i class="footnote">דעמלק‎ 9a1fam</i>
+(יד) והוו לה אר̈בעין בני̈ן ותלתין בנ̈י בנ̈והי והוו ר̈כיבין<sup>24</sup> על שבעין ע̈ילין ודן לאיסריל תמנא שנ̈ין
+(טו) ומית עכרן בר הלין אפרעתוניא ואתקבר באפרעתון בארעא דאפרים בטורא דעמ̈לקיא<sup>25</sup>
 <h2>פרק יג</h2>
-(א) ואוספו<sup class="footnote-marker">1</sup><i class="footnote">תוב‎ -7g1, 9a1fam</i> בני̈ איסריל למעבד דביש קדם מריא ואשלם אנון מריא באידא דפלש̈תיא אר̈בעין שני̈ן
+(א) ואוספו<sup>1</sup> בני̈ איסריל למעבד דביש קדם מריא ואשלם אנון מריא באידא דפלש̈תיא אר̈בעין שני̈ן
 (ב) והוא גברא חד מן צדעא מן שרבתא דדן ושמה מנוח ואנתתה עקרתא הות ולא ילדא
-(ג) ואתחזי<sup class="footnote-marker">2</sup><i class="footnote">לה̇‎ +6ph11</i> מלאכה דמריא לאנתתא הי ואמר לה̇ הא אנתי עקרא<sup class="footnote-marker">3</sup><i class="footnote">עקרתא‎11/9l2 &amp;</i> ולא ילדא השא תבטנין ותאלדין ברא
-(ד) אזדהר דלמא תשתין חמרא או שכרא ולא תאכלין כל<sup class="footnote-marker">4</sup><i class="footnote">מדם‎ -11/9l2*</i> דטמא
-(ה) מטל דהא בטנא אנתי וילדא<sup class="footnote-marker">5</sup><i class="footnote">וילדת‎ 7a1</i><sup class="footnote-marker">6</sup><i class="footnote">אנתי‎ -7a1</i> ברא ומדכיא לא נסק על רישה מטול דנזירה<sup class="footnote-marker">7</sup><i class="footnote">דנזירא‎11/9l2*</i> דאלהא נהוא טליא מן מרבעא והו נשרא למפרק לאיסריל מן אידא דפלשת̈יא
-(ו) ואתת אנתתא ואמרת לבעלה̇ גברא דאלהא אתא לותי ואתחזי לי בחזוא דמלאכא<sup class="footnote-marker">8</sup><i class="footnote">מלאכא‎ 7a1</i> דאלהא וזעת טב ולא שאלתה מן אימכא הו ושמה לא חויני
-(ז) ואמר לי דהא בטנא אנתי וילדא<sup class="footnote-marker">9</sup><i class="footnote">אנתי‎ -9a1fam</i> ברא מכיל לא תשתין חמרא או<sup class="footnote-marker">10</sup><i class="footnote">ושכרא‎10c1,11/9l2,11c1,12a1fam &amp;</i><sup class="footnote-marker">11</sup><i class="footnote">שכרא‎ -10c1,11/9l2,11c1, 12a1fam &amp;</i> ולא תאכלין כל מדם דטמא מטל דנזירה דאלהא נהוא טליא מן מרבעא עדמא ליומא דמאת
-(ח) ובעא מנוח מן מריא ואמר בבעו מריא גברא דאלהא דשדרת נאתא<sup class="footnote-marker">12</sup><i class="footnote">תוב‎ -7a1 &amp;</i> לותן ונלפן<sup class="footnote-marker">13</sup><i class="footnote">ונלף‎12a1fam &amp;</i><sup class="footnote-marker">14</sup><i class="footnote">ונלפני‎11/9l2</i> מנא נעבד לה לטליא דמתילד
+(ג) ואתחזי<sup>2</sup> מלאכה דמריא לאנתתא הי ואמר לה̇ הא אנתי עקרא<sup>3</sup> ולא ילדא השא תבטנין ותאלדין ברא
+(ד) אזדהר דלמא תשתין חמרא או שכרא ולא תאכלין כל<sup>4</sup> דטמא
+(ה) מטל דהא בטנא אנתי וילדא<sup>5</sup><sup>6</sup> ברא ומדכיא לא נסק על רישה מטול דנזירה<sup>7</sup> דאלהא נהוא טליא מן מרבעא והו נשרא למפרק לאיסריל מן אידא דפלשת̈יא
+(ו) ואתת אנתתא ואמרת לבעלה̇ גברא דאלהא אתא לותי ואתחזי לי בחזוא דמלאכא<sup>8</sup> דאלהא וזעת טב ולא שאלתה מן אימכא הו ושמה לא חויני
+(ז) ואמר לי דהא בטנא אנתי וילדא<sup>9</sup> ברא מכיל לא תשתין חמרא או<sup>10</sup><sup>11</sup> ולא תאכלין כל מדם דטמא מטל דנזירה דאלהא נהוא טליא מן מרבעא עדמא ליומא דמאת
+(ח) ובעא מנוח מן מריא ואמר בבעו מריא גברא דאלהא דשדרת נאתא<sup>12</sup> לותן ונלפן<sup>13</sup><sup>14</sup> מנא נעבד לה לטליא דמתילד
 (ט) ושמע מריא בקלה דמנוח ואתא תוב מלאכה דמריא לות אנתתא והי יתבא הות בחקלא ומנוח בעלה̇ לא הוא לותה̇
-(י) ואסתרהבת אנתתא ורהטת וחוית לבעלה̇ ואמרא לה הא אתחזי<sup class="footnote-marker">15</sup><i class="footnote">לי‎ -9a1fam</i> גברא דאתא בהו יומא<sup class="footnote-marker">16</sup><i class="footnote">לותי‎ -6ph11</i>
-(יא) וקם<sup class="footnote-marker">17</sup><i class="footnote">קם‎11/9l2</i> מנוח ואזל עם אנתתה ואתא<sup class="footnote-marker">18</sup><i class="footnote">ואתו‎11/9l2</i> לות גברא ואמר<sup class="footnote-marker">19</sup><i class="footnote">ואמרו‎11/9l2</i> לה אנת הו גברא דמללת עם הדא אנתתא
+(י) ואסתרהבת אנתתא ורהטת וחוית לבעלה̇ ואמרא לה הא אתחזי<sup>15</sup> גברא דאתא בהו יומא<sup>16</sup>
+(יא) וקם<sup>17</sup> מנוח ואזל עם אנתתה ואתא<sup>18</sup> לות גברא ואמר<sup>19</sup> לה אנת הו גברא דמללת עם הדא אנתתא
 (יב) ואמר אנא הו ואמר מנוח השא הוא פתגמך אמר לי מנא הו דינה דטליא ועב̈דוהי
 (יג) ואמר מלאכה דמריא למנוח מן כל מדם דאמרת לאנתתא תזדהר
-(יד) מן<sup class="footnote-marker">20</sup><i class="footnote">ומן‎ 9l3 &amp;</i> כל<sup class="footnote-marker">21</sup><i class="footnote">מדם‎ +9l2 &amp;</i> דנפק מן גפתא לא תאכול וחמרא ושכרא לא תשתא וכול דטמא לא תאכול וכול דפקדתה̇ תטר
-(טו) ואמר מנוח למלאכה<sup class="footnote-marker">22</sup><i class="footnote">למלאכא‎ 6h7</i> דמריא נכליך ונעבד גדיא דעז̈א קדמיך
+(יד) מן<sup>20</sup> כל<sup>21</sup> דנפק מן גפתא לא תאכול וחמרא ושכרא לא תשתא וכול דטמא לא תאכול וכול דפקדתה̇ תטר
+(טו) ואמר מנוח למלאכה<sup>22</sup> דמריא נכליך ונעבד גדיא דעז̈א קדמיך
 (טז) ואמר מלאכה דמריא למנוח אן תכליני לא אכול מן לחמך ואן תסק עלתא למריא תסקיה מטל דלא ידע הוא מנוח דמלאכה הו דמריא
 (יז) ואמר מנוח למלאכה דמריא מנו שמך דמא דהוא פתגמך נקריך
-(יח) ואמר לה מלאכה דמריא למנא שאל<sup class="footnote-marker">23</sup><i class="footnote">שאלת‎ 9a1fam</i> אנת על שמי דהו משבח
-(יט) ונסב מנוח גדיא דע̈זא וסמידא ואסק על כאפא למריא ומשבח הוא למריא<sup class="footnote-marker">24</sup><i class="footnote">ומנוח ואנתתה חזין הוו‎ -9l2</i>
-(כ) <sup class="footnote-marker">25</sup><i class="footnote">כד סלקת שלהביתא דנורא‎ -9l2</i><sup class="footnote-marker">26</sup><i class="footnote">מן כאפא‎ -9l2,11c1</i><sup class="footnote-marker">27</sup><i class="footnote">לשמיא‎ -9l2</i> וסלק מלאכה דמריא בשלהביתא דמדבחא<sup class="footnote-marker">28</sup><i class="footnote">ומנוח ואנתתה חזין הוו כד סלקת שלהביתא דנורא מן כאפא לשמיא. וסלק מלאכה דמריא בשלהביתא דמדבחא. +9l2</i> ומנוח ואנתתה חזו ונפלו על א̈פיהון על ארעא וסגדו
-(כא) ולא אוסף תוב מלאכה דמריא למתחזיו למנוח ולאנתתה והידין<sup class="footnote-marker">29</sup><i class="footnote">הידין‎ 9l2</i> אידעו<sup class="footnote-marker">30</sup><i class="footnote">ידע‎ 6h7, 7g1, 8a1, 9a1, 9c1, 9l2,10c1,10c3 &amp;</i> מנוח ואנתתה דמלאכה הו דמריא
+(יח) ואמר לה מלאכה דמריא למנא שאל<sup>23</sup> אנת על שמי דהו משבח
+(יט) ונסב מנוח גדיא דע̈זא וסמידא ואסק על כאפא למריא ומשבח הוא למריא<sup>24</sup>
+(כ) <sup>25</sup><sup>26</sup><sup>27</sup> וסלק מלאכה דמריא בשלהביתא דמדבחא<sup>28</sup> ומנוח ואנתתה חזו ונפלו על א̈פיהון על ארעא וסגדו
+(כא) ולא אוסף תוב מלאכה דמריא למתחזיו למנוח ולאנתתה והידין<sup>29</sup> אידעו<sup>30</sup> מנוח ואנתתה דמלאכה הו דמריא
 (כב) ואמר מנוח לאנתתה ממת מיתין חנן מטל דלאלהא חזין
-(כג) ואמרת לה אנתתה אלו צבא הוא אלהא דנמיתן לא מקבל הוא מנן עלתא וסמידא<sup class="footnote-marker">31</sup><i class="footnote">סמידא ועלתא‎11c1*</i> ולא מחוא הוא לן הלין כולהין בהנא זבנא ולא משמע הוא לן הלין
+(כג) ואמרת לה אנתתה אלו צבא הוא אלהא דנמיתן לא מקבל הוא מנן עלתא וסמידא<sup>31</sup> ולא מחוא הוא לן הלין כולהין בהנא זבנא ולא משמע הוא לן הלין
 (כד) וילדת אנתתא ברא וקרת שמה שמשון ורבא טליא וברכה מריא
 (כה) ושרית רוחה דמריא למהלכותה במשריתא דדן בית צדעא ובית אשתואיל
 <h2>פרק יד</h2>
 (א) ונחת שמשון לתמנת וחזא אנתתא בתמנת מן ב̈נת פלשת̈יא
 (ב) וסלק וחוי לאבוהי ולאמה ואמר להון אנתתא חזית בתמנת מן בנ̈ת פלש̈תיא השא סבוה לי אנתתא
-(ג) ואמרו לה אבוהי ואמה לית הרכא בבית אבוך ובכלה עמך אנתתא דאזל אנת למסב<sup class="footnote-marker">1</sup><i class="footnote">לך‎ +9a1fam</i> אנתתא מן<sup class="footnote-marker">2</sup><i class="footnote">בנ̈ת‎ -12a1fam &amp;</i> פלש̈תיא עור̈לא ואמר שמשון<sup class="footnote-marker">3</sup><i class="footnote">לאבוהי‎ -11c1*</i> להי סבו<sup class="footnote-marker">4</sup><i class="footnote">סב‎ 6h7</i> לי מטל דהי שפרת בעי̈ני
-(ד) ואבוהי ואמה לא ידעין הוו דמן מריא הי דנתתבע<sup class="footnote-marker">5</sup><i class="footnote">דנתבע‎ 6h7, 8a1c, 9c1, 10c1,10c3,11c1,12a1fam &amp;</i> עירתא מן פלש̈תיא ובזבנא הו פלש̈תיא שליטין הוו על איסריל
+(ג) ואמרו לה אבוהי ואמה לית הרכא בבית אבוך ובכלה עמך אנתתא דאזל אנת למסב<sup>1</sup> אנתתא מן<sup>2</sup> פלש̈תיא עור̈לא ואמר שמשון<sup>3</sup> להי סבו<sup>4</sup> לי מטל דהי שפרת בעי̈ני
+(ד) ואבוהי ואמה לא ידעין הוו דמן מריא הי דנתתבע<sup>5</sup> עירתא מן פלש̈תיא ובזבנא הו פלש̈תיא שליטין הוו על איסריל
 (ה) ונחת שמשון ואבוהי ואמה לתמנת ומטיו עדמא לכר̈מא דתמנת והא גוריא דאריא נהם לקובלה
-(ו) ואצלחת עלוהי רוחה דמריא<sup class="footnote-marker">6</sup><i class="footnote">רוחה דמריא עלוהי‎11c1</i> ופשחה איך דמפשחין לגדיא<sup class="footnote-marker">7</sup><i class="footnote">דפשחין לג̈דיא‎ 7a1</i> ולא אית הוא מדם<sup class="footnote-marker">8</sup><i class="footnote">ומדם לא אית הוא‎ 9l6</i> באידה ולא חוי<sup class="footnote-marker">9</sup><i class="footnote">הוא‎ -6h7, 8a1 &amp;</i> לאבוהי ולאמה מדם דעבד
-(ז) ונחתו ומללו<sup class="footnote-marker">10</sup><i class="footnote">ונחתו מללו‎ 6ph11</i> עם אנתתא ושפרת בעינ̈והי דשמשון
+(ו) ואצלחת עלוהי רוחה דמריא<sup>6</sup> ופשחה איך דמפשחין לגדיא<sup>7</sup> ולא אית הוא מדם<sup>8</sup> באידה ולא חוי<sup>9</sup> לאבוהי ולאמה מדם דעבד
+(ז) ונחתו ומללו<sup>10</sup> עם אנתתא ושפרת בעינ̈והי דשמשון
 (ח) והפך מן בתר יומ̈תא למסבה̇ וסטא למחזא תגרומתא דאריא והא שלחא דדבור̈יתא בגושמה דאריא הו
 (ט) ורדא דבשא על א̈ידוהי ומהלך ואזל לות אבוהי ולות אמה ויהב להון ואכלו ולא חוי אנון דמן גושמה דאריא רדא דבשא
 (י) ונחת אבוהי לות אנתתא ועבד תמן שמשון משתותא שבעא יומ̈ין מטל דהכנא עבדין הוו גדו̈דא משתותא
-(יא) וכד חזאוהי אתו תלתין גבר̈ין<sup class="footnote-marker">11</sup><i class="footnote">גבר̈א‎12a1fam &amp;</i> והוו לה שוש̈בינא
-(יב) ואמר<sup class="footnote-marker">12</sup><i class="footnote">אמר‎ 9l6,11c1* &amp;</i> להון שמשון אחד אנא לכון אוחדתא אן תפשרונה̇<sup class="footnote-marker">13</sup><i class="footnote">תפרשונה‎ 7a1</i> לי שבעא יומ̈י משתותא<sup class="footnote-marker">14</sup><i class="footnote">י̈ומין דמשתותא‎ 6h7, 9l6 &amp;</i> ותדעונה̇ אתל לכון תלתין אפקר̈סין ותלתין זו̈גין דלבוש̈א
-(יג) ואלא אשכחתון דתפשרונה̇<sup class="footnote-marker">15</sup><i class="footnote">דתפרשונה‎ 7a1</i> לי יהבין אנתון לי תלתין אפקר̈סין ותלתין זו̈גין דלבוש̈א אמר̈ין לה אחוד<sup class="footnote-marker">16</sup><i class="footnote">אמר‎ 9l6</i> אוחדתך ונשמעיה
-(יד) אמר להון מן אכלא נפק אוכלא ומן מרירא נפק חליא ולא אשכחו למפשרה̇<sup class="footnote-marker">17</sup><i class="footnote">למפרשה‎ 7a1</i> אוחדתא<sup class="footnote-marker">18</sup><i class="footnote">לאוחדתא‎ 6ph11, 8a1, 9l6</i> תלתא יומ̈ין
-(טו) וביומא רביעיא אמרין לאנתתה דשמשון שדליוהי לבעלכי דנודען<sup class="footnote-marker">19</sup><i class="footnote">דנודעכי‎ 9a1fam</i> אוחדתה דלא נוקדכי לכי ולבית אבוכי בנורא ונארת יורתנה
+(יא) וכד חזאוהי אתו תלתין גבר̈ין<sup>11</sup> והוו לה שוש̈בינא
+(יב) ואמר<sup>12</sup> להון שמשון אחד אנא לכון אוחדתא אן תפשרונה̇<sup>13</sup> לי שבעא יומ̈י משתותא<sup>14</sup> ותדעונה̇ אתל לכון תלתין אפקר̈סין ותלתין זו̈גין דלבוש̈א
+(יג) ואלא אשכחתון דתפשרונה̇<sup>15</sup> לי יהבין אנתון לי תלתין אפקר̈סין ותלתין זו̈גין דלבוש̈א אמר̈ין לה אחוד<sup>16</sup> אוחדתך ונשמעיה
+(יד) אמר להון מן אכלא נפק אוכלא ומן מרירא נפק חליא ולא אשכחו למפשרה̇<sup>17</sup> אוחדתא<sup>18</sup> תלתא יומ̈ין
+(טו) וביומא רביעיא אמרין לאנתתה דשמשון שדליוהי לבעלכי דנודען<sup>19</sup> אוחדתה דלא נוקדכי לכי ולבית אבוכי בנורא ונארת יורתנה
 (טז) ובכת אנתתה דשמשון ואמרא לה שריראית סניתני ולא רחמתני דאוחדתא דאחדת לבנ̈י עמי לי לא אמרתה̇ ואמר לה̇ לאבי ולאמי לא אמרת לכי אמר
-(יז) והות בכיא<sup class="footnote-marker">20</sup><i class="footnote">בעיא‎12a1fam</i><sup class="footnote-marker">21</sup><i class="footnote">הנון‎ -7g1</i> שבעא יומ̈ין דמשתותא וליומא דשבעא אמר לה̇ מטל דאעיקת לה וגלתה̇ אוחדתא לב̈ני עמה̇
-(יח) ואמר̈ין<sup class="footnote-marker">22</sup><i class="footnote">אמר̈ין‎ 9a1fam</i> אנש̈י קריתא ביומא דשבעא עדלא נעול תוקנא מנו דחלא מן דבשא או מנא הו דתקיף מן אריא אמר<sup class="footnote-marker">23</sup><i class="footnote">ואמר‎ 7g1 &amp;</i> להון שמשון אלו לא שדלתון עגלתי לא פשרתון אוחדתי<sup class="footnote-marker">24</sup><i class="footnote">אוח̈דתי‎ 7a1</i>
-(יט) ואצלחת עלוהי רוחה דמריא<sup class="footnote-marker">25</sup><i class="footnote">דאלהא‎12a1fam &amp;</i> ונחת לאשקלון ואחד מנהון תלתין גבר̈ין וקטל אנון ונסב לב̈ושיהון ויהב להנון דפשרו אוחדתה ואתחמת רוגזה וסלק לבית<sup class="footnote-marker">26</sup><i class="footnote">לות‎12a1fam &amp;</i> אבוהי
+(יז) והות בכיא<sup>20</sup><sup>21</sup> שבעא יומ̈ין דמשתותא וליומא דשבעא אמר לה̇ מטל דאעיקת לה וגלתה̇ אוחדתא לב̈ני עמה̇
+(יח) ואמר̈ין<sup>22</sup> אנש̈י קריתא ביומא דשבעא עדלא נעול תוקנא מנו דחלא מן דבשא או מנא הו דתקיף מן אריא אמר<sup>23</sup> להון שמשון אלו לא שדלתון עגלתי לא פשרתון אוחדתי<sup>24</sup>
+(יט) ואצלחת עלוהי רוחה דמריא<sup>25</sup> ונחת לאשקלון ואחד מנהון תלתין גבר̈ין וקטל אנון ונסב לב̈ושיהון ויהב להנון דפשרו אוחדתה ואתחמת רוגזה וסלק לבית<sup>26</sup> אבוהי
 (כ) והות אנתתה דשמשון דרחם הוא לה̇ לשושבינה
 <h2>פרק טו</h2>
-(א) והוא<sup class="footnote-marker">1</sup><i class="footnote">מן‎ -9a1fam</i> בתר יומ̈תא בזבנא דחצדא דח̈טא אתדכרה̇ שמשון לאנתתה בגדיא דע̈זא ואמר אזל לות אנתתי לקיטונא ולא שבקה אבוה למעל
-(ב) ואמר<sup class="footnote-marker">2</sup><i class="footnote">לה‎ +6h7, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">3</sup><i class="footnote">אבוה‎ -6h7</i> סבר הוית דמסנא סניתה̇ ויהבתה̇ לשושבינך הא חתה̇ זעורתא דטבא מנה̇ תהוא לך חלפיה
+(א) והוא<sup>1</sup> בתר יומ̈תא בזבנא דחצדא דח̈טא אתדכרה̇ שמשון לאנתתה בגדיא דע̈זא ואמר אזל לות אנתתי לקיטונא ולא שבקה אבוה למעל
+(ב) ואמר<sup>2</sup><sup>3</sup> סבר הוית דמסנא סניתה̇ ויהבתה̇ לשושבינך הא חתה̇ זעורתא דטבא מנה̇ תהוא לך חלפיה
 (ג) ואמר להון שמשון זכי אנא מן פלשת̈יא מטל דעבד אנא עמכון בישתא
-(ד) ואזל שמשון ואחד תלתמאא תע̈לין ונסב למ̈פאדא ואסר בדונבי̈תהון תר̈ין תר̈ין תע̈לין אכחדא ואסר חד חד למפאדא בית<sup class="footnote-marker">4</sup><i class="footnote">בינת‎11c1</i> תר̈ין תע̈לין בינת תר̈תין דונב̈יתהון
+(ד) ואזל שמשון ואחד תלתמאא תע̈לין ונסב למ̈פאדא ואסר בדונבי̈תהון תר̈ין תר̈ין תע̈לין אכחדא ואסר חד חד למפאדא בית<sup>4</sup> תר̈ין תע̈לין בינת תר̈תין דונב̈יתהון
 (ה) ואוחד נורא בלמפא̈דא ושבק בקי̈מתא דפלש̈תיא ואוקד מן גדיש̈א ועדמא לקימ̈תא ועדמא לכר̈מא ועדמא לזי̈תא
 (ו) ואמר̈ין פלשת̈יא מנו עבד הכנא אמר̈ין שמשון חתנה דתמנם על דנסב אנתתה ויהבה̇ לשושבינה וסלקו פלש̈תיא ואוקדוה לה̇ ולבית אבוה בנורא
-(ז) ואמר להון שמשון אפן<sup class="footnote-marker">5</sup><i class="footnote">ואפן‎ 6h7, 7a1</i> תעבדון הכנא מתנקם אנא מנכון<sup class="footnote-marker">6</sup><i class="footnote">בכון‎ 6h7</i> והידין שלא אנא
-(ח) ומחא אנון במחותא<sup class="footnote-marker">7</sup><i class="footnote">מחותא‎11c1</i> מן שק̈יהון ועדמא לח̈ציהון מחותא רבתא ואזל ואיתב בסחף דבשקיפא<sup class="footnote-marker">8</sup><i class="footnote">בשקיפא‎ 7g1</i> דעטמין
-(ט) וסלקו<sup class="footnote-marker">9</sup><i class="footnote">גבר̈א‎ +9l6</i> פלש̈תיא ושרו ביהודא
-(י) ואמר̈ין גבר̈א דיהודא למנא סלקתון אמר̈ין<sup class="footnote-marker">10</sup><i class="footnote">ואמר̈ין‎ 7g1</i> דנאסור לשמשון סלקן ונעבד לה איך דעבד לן
-(יא) ונחתו תלתא א̈לפין גבר̈ין<sup class="footnote-marker">11</sup><i class="footnote">גבר̈א‎ 9l6</i> מן יהודא לסחף דבשקיפא דעטמין ואמרין לשמשון לא ידע אנת דשליטין בן פלש̈תיא מטל מנא עבדת לן<sup class="footnote-marker">12</sup><i class="footnote">בן‎ 9l6</i> הכנא אמר להון איך מא דעבדו הכנא עבדת בהון<sup class="footnote-marker">13</sup><i class="footnote">להון‎ 8a1, 9l6 &amp;</i>
-(יב) אמרין לה למאסרך נחתן ולמשלמותך<sup class="footnote-marker">14</sup><i class="footnote">באידא‎ -9l6</i><sup class="footnote-marker">15</sup><i class="footnote">לפלש̈תיא‎ 9a1fam</i><sup class="footnote-marker">16</sup><i class="footnote">דפלש̈תיא‎ -9a1fam, 9l6</i> אמר להון אימו לי דלא תהרונני אנתון
-(יג) אמרין לה לא אלא מאסר אסרינן לך ומשלמינן<sup class="footnote-marker">17</sup><i class="footnote">לך‎ -12a1fam &amp;</i> בא̈ידיהון ומקטל לא קטלינן לך ואסרוהי בתר̈תין שיש̈לתא ח̈דתתא ואסקוהי מן שקיפא
-(יד) הו ומטי<sup class="footnote-marker">18</sup><i class="footnote">ומטיו‎ 7a1</i> עדמא לליח ופלש̈תיא קמו למקטלה ואצלחת עלוהי רוחה דמריא וה̈וי שיש̈לתא דעל דר̈עוהי<sup class="footnote-marker">19</sup><i class="footnote">א̈ידוהי‎ 9c1,10c1,11c1,12a1fam &amp;</i> איך כתנא דספת בה נורא ואשתריו אסור̈א מן א̈ידוהי
+(ז) ואמר להון שמשון אפן<sup>5</sup> תעבדון הכנא מתנקם אנא מנכון<sup>6</sup> והידין שלא אנא
+(ח) ומחא אנון במחותא<sup>7</sup> מן שק̈יהון ועדמא לח̈ציהון מחותא רבתא ואזל ואיתב בסחף דבשקיפא<sup>8</sup> דעטמין
+(ט) וסלקו<sup>9</sup> פלש̈תיא ושרו ביהודא
+(י) ואמר̈ין גבר̈א דיהודא למנא סלקתון אמר̈ין<sup>10</sup> דנאסור לשמשון סלקן ונעבד לה איך דעבד לן
+(יא) ונחתו תלתא א̈לפין גבר̈ין<sup>11</sup> מן יהודא לסחף דבשקיפא דעטמין ואמרין לשמשון לא ידע אנת דשליטין בן פלש̈תיא מטל מנא עבדת לן<sup>12</sup> הכנא אמר להון איך מא דעבדו הכנא עבדת בהון<sup>13</sup>
+(יב) אמרין לה למאסרך נחתן ולמשלמותך<sup>14</sup><sup>15</sup><sup>16</sup> אמר להון אימו לי דלא תהרונני אנתון
+(יג) אמרין לה לא אלא מאסר אסרינן לך ומשלמינן<sup>17</sup> בא̈ידיהון ומקטל לא קטלינן לך ואסרוהי בתר̈תין שיש̈לתא ח̈דתתא ואסקוהי מן שקיפא
+(יד) הו ומטי<sup>18</sup> עדמא לליח ופלש̈תיא קמו למקטלה ואצלחת עלוהי רוחה דמריא וה̈וי שיש̈לתא דעל דר̈עוהי<sup>19</sup> איך כתנא דספת בה נורא ואשתריו אסור̈א מן א̈ידוהי
 (טו) ואשכח פכא דחמרא טרונא ואושט אידה ונסבה וקטל בה אלף גבר̈ין
-(טז) ואמר שמשון בפכא דחמרא כשי̈תא<sup class="footnote-marker">20</sup><i class="footnote">כשיתא‎11c1 &amp;</i> כשית מנהון בפכא דחמרא קטלת אלף גבר̈ין
+(טז) ואמר שמשון בפכא דחמרא כשי̈תא<sup>20</sup> כשית מנהון בפכא דחמרא קטלת אלף גבר̈ין
 (יז) וכד שלם לממללו שדיהי פכא מן אידה וקרא שמה דאתרא הו דמא דפכא
-(יח) וצהי טב וקרא למריא ואמר אנת יהבת באידה דעבדך נצחנא הנא רבא והשא<sup class="footnote-marker">21</sup><i class="footnote">והא‎ 9a1fam</i> אמות לצהיא ואפל באידא דעור̈לא הלין
-(יט) ובזע מריא אלהא לוגמא<sup class="footnote-marker">22</sup><i class="footnote">לועא‎ 7a1, 7g1</i> דפכא דחמרא ונפקו מנה מ̈יא<sup class="footnote-marker">23</sup><i class="footnote">מ̈יא מנה‎ 7g1</i> ואשתי ואתפנית רוחה מטל הנא קרא שמה דאתרא הו עין קרנא דפכא דחמרא עדמא ליומנא
-(כ) ודן<sup class="footnote-marker">24</sup><i class="footnote">והו‎ 6h7, 6ph11, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">25</sup><i class="footnote">דן‎ +6h7, 6ph11, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> לאיסריל בי̈ומתא<sup class="footnote-marker">26</sup><i class="footnote">בזבנא‎ 12a1fam &amp;</i> דפלש̈תיא עסר̈ין ש̈נין
+(יח) וצהי טב וקרא למריא ואמר אנת יהבת באידה דעבדך נצחנא הנא רבא והשא<sup>21</sup> אמות לצהיא ואפל באידא דעור̈לא הלין
+(יט) ובזע מריא אלהא לוגמא<sup>22</sup> דפכא דחמרא ונפקו מנה מ̈יא<sup>23</sup> ואשתי ואתפנית רוחה מטל הנא קרא שמה דאתרא הו עין קרנא דפכא דחמרא עדמא ליומנא
+(כ) ודן<sup>24</sup><sup>25</sup> לאיסריל בי̈ומתא<sup>26</sup> דפלש̈תיא עסר̈ין ש̈נין
 <h2>פרק טז</h2>
 (א) ואזל שמשון לעזת וחזא תמן אנתתא זניתא ועל לותה̇
-(ב) לעזת ואתאמר דאתא שמשון להרכא ואתכמנו עלוהי כלה לליא בתרעא דקריתא והוו מלחשין<sup class="footnote-marker">1</sup><i class="footnote">עלוהי‎ +7a1</i> כלה לליא<sup class="footnote-marker">2</sup><i class="footnote">דלליא‎12a1fam</i> ואמרו מא דנהר צפרא נקטליוהי
+(ב) לעזת ואתאמר דאתא שמשון להרכא ואתכמנו עלוהי כלה לליא בתרעא דקריתא והוו מלחשין<sup>1</sup> כלה לליא<sup>2</sup> ואמרו מא דנהר צפרא נקטליוהי
 (ג) ודמך שמשון עדמא לפלגה דלליא וקם בפלגה דלליא ואחד בתר̈ין פר̈וסתדא דתרעא דקריתא ושקלה עדמא למו̈כלוהי וסם על כתפה ואסק אנון לטורא דקדם חברון
 (ד) ובתרכן רחם אנתתא בנחל סרוק ושמה̇ דלילא
-(ה) וסלקו לותה̇ טר̈ונא דפלש̈תיא ואמר̈ין לה̇ שדליוהי וחזי במנא רב חילה<sup class="footnote-marker">3</sup><i class="footnote">ובמנא מתאסר‎ +11c1</i> ובמנא<sup class="footnote-marker">4</sup><i class="footnote">ואיכנא‎11c1</i> נתמצא חילא דנאסריוהי למצערותה וחנן נתל לכי כול גבר אלף ותלתמאא דכספא
+(ה) וסלקו לותה̇ טר̈ונא דפלש̈תיא ואמר̈ין לה̇ שדליוהי וחזי במנא רב חילה<sup>3</sup> ובמנא<sup>4</sup> נתמצא חילא דנאסריוהי למצערותה וחנן נתל לכי כול גבר אלף ותלתמאא דכספא
 (ו) ואמרת דלילא לשמשון חוני במנא רב חילך ובמנא מתאסר אנת ואן מתבצר אנת
-(ז) ואמר לה̇ שמשון אן נאסרונני<sup class="footnote-marker">5</sup><i class="footnote">מתאסר‎12a1 &amp;</i><sup class="footnote-marker">6</sup><i class="footnote">אנא‎ +12a1 &amp;</i> בשבעא יתר̈א ר̈טיבא דלא שרבו משתפל אנא והוא אנא איך חד אנש
+(ז) ואמר לה̇ שמשון אן נאסרונני<sup>5</sup><sup>6</sup> בשבעא יתר̈א ר̈טיבא דלא שרבו משתפל אנא והוא אנא איך חד אנש
 (ח) ואסקו לה̇ טר̈ונא דפלש̈תיא שבעא יתר̈א ר̈טיבא דלא שרבו ואסרתה בהון
 (ט) וכמאנא ית̇ב לה̇ בתונא ואמרא לה פלש̈תיא אתו עליך שמשון ופסק אנון ליתר̈א איך דמתפסק חוטא דכתנא מא דמריחא בה נורא ולא אתתזיע חילה
 (י) ואמרת דלילא לשמשון הא דגלת בי ואמרת לי ד̈גלתא חוני במנא תתאסר
 (יא) ואמר לה̇ אן מאסר נאסרונני בשיש̈לתא ח̈דתתא דלא אתעבד בהין עבדא אשתפל ואהוא איך חד אנש
-(יב) ונסבת דלילא שיש̈לתא ח̈דתתא ואסרתה בהין ואמרא לה פלשת̈יא אתו עליך שמשון וכמאנא ית̇ב לה̇ בתונא ופסק א̈נין מן דר̈עוהי איך חוטא<sup class="footnote-marker">7</sup><i class="footnote">חו̈טא‎ 9a1fam &amp;</i>
-(יג) ואמרת דלילא לשמשון הא דגלת בי ואמרת לי כדב̈תא חוני במנא תתאסר ואמר לה̇ אנהו דמשתיתי<sup class="footnote-marker">8</sup><i class="footnote">דמשתית‎ 7a1</i> שבע עדק̈והי דרישי במשתיתא
+(יב) ונסבת דלילא שיש̈לתא ח̈דתתא ואסרתה בהין ואמרא לה פלשת̈יא אתו עליך שמשון וכמאנא ית̇ב לה̇ בתונא ופסק א̈נין מן דר̈עוהי איך חוטא<sup>7</sup>
+(יג) ואמרת דלילא לשמשון הא דגלת בי ואמרת לי כדב̈תא חוני במנא תתאסר ואמר לה̇ אנהו דמשתיתי<sup>8</sup> שבע עדק̈והי דרישי במשתיתא
 (יד) ואשתית בנולא ואמרת פלש̈תיא אתו עליך שמשון ואתתעיר מן שנתה ושקלה לנולא דגר̈דייא ולמשתיתא
 (טו) ואמרא לה איכנא אמרת לי דרחמתכי ולבך לא הוא לותי דהא תלת זבנ̈ין דגלת בי ולא חויתני במנא רב חילך
 (טז) וכד אעיקת לה במ̈ליה כלהון יומ̈תא ואלצתה אתתעיקת נפשה עדמא למותא
-(יז) וגלא לה̇ כלה לבה ואמר לה̇ מדכיא לא סלק על רישי מטול דנזירא אנא דאלהא מן כרסה̇ דאמי אנהו דגרעת פרק<sup class="footnote-marker">9</sup><i class="footnote">לה‎ -6h7 &amp;</i> מני חילי<sup class="footnote-marker">10</sup><i class="footnote">חילי מני‎11c1*</i> ומשתפל אנא והוא אנא איך כלנש
-(יח) וכד חזת דלילא דגלא לה̇ כלה לבה שדרת קרת לטר̈ונא דפלש̈תיא ואמרא להון סקו מכיל<sup class="footnote-marker">11</sup><i class="footnote">מטל‎ -6h7 &amp;</i> דגלא לי כלה לבה וסלקו לותה̇<sup class="footnote-marker">12</sup><i class="footnote">כלהון‎ +6h7</i> טר̈ונא דפלש̈תיא ואסקו כספא עמהון
+(יז) וגלא לה̇ כלה לבה ואמר לה̇ מדכיא לא סלק על רישי מטול דנזירא אנא דאלהא מן כרסה̇ דאמי אנהו דגרעת פרק<sup>9</sup> מני חילי<sup>10</sup> ומשתפל אנא והוא אנא איך כלנש
+(יח) וכד חזת דלילא דגלא לה̇ כלה לבה שדרת קרת לטר̈ונא דפלש̈תיא ואמרא להון סקו מכיל<sup>11</sup> דגלא לי כלה לבה וסלקו לותה̇<sup>12</sup> טר̈ונא דפלש̈תיא ואסקו כספא עמהון
 (יט) ואדמכתה על בור̈כיה וקרת לגרעא וגרעת שבע עדק̈א דרישה ושרית למשפלותה ופרק לה חילה מנה
-(כ) ואמרא<sup class="footnote-marker">13</sup><i class="footnote">לה‎ -7g1, 9a1fam &amp;</i> פלש̈תיא אתו עליך שמשון ואתתעיר מן שנתה ואמר אפוק איך דבכלזבן ואשתנד בהון והו לא אידע דמריא פרק<sup class="footnote-marker">14</sup><i class="footnote">לה‎ -11c1* &amp;</i> מנה
-(כא) ואחדוהי פלש̈תיא ועורו עי̈נוהי ואסרוהי בשי̈שלתא ואחתוהי<sup class="footnote-marker">15</sup><i class="footnote">ואובלוהי‎ 7a1</i> לעזת והוא טחן בית אסיר̈א
+(כ) ואמרא<sup>13</sup> פלש̈תיא אתו עליך שמשון ואתתעיר מן שנתה ואמר אפוק איך דבכלזבן ואשתנד בהון והו לא אידע דמריא פרק<sup>14</sup> מנה
+(כא) ואחדוהי פלש̈תיא ועורו עי̈נוהי ואסרוהי בשי̈שלתא ואחתוהי<sup>15</sup> לעזת והוא טחן בית אסיר̈א
 (כב) ושרי סערא דרישה למאעא כד אתגרע
-(כג) וטר̈ונא דפלש̈תיא אתכנשו למדבח דבחא רבא לדגון אלההון בחדותא ואמרין אשלם אלהן באידן<sup class="footnote-marker">16</sup><i class="footnote">בא̈ידן‎11c1</i><sup class="footnote-marker">17</sup><i class="footnote">בא̈ידין‎ 6h7, 8a1</i> לשמשון בעלדבבן
-(כד) וכד חזאוהי שבחו לאלההון מטל<sup class="footnote-marker">18</sup><i class="footnote">דאמר̈ין‎ -12a1fam &amp;</i> דאשלם<sup class="footnote-marker">19</sup><i class="footnote">אשלם‎ 6h7, 11c1</i> אלהן באידן<sup class="footnote-marker">20</sup><i class="footnote">בא̈ידין‎ 7g1,11c1</i> לבעלדבבן<sup class="footnote-marker">21</sup><i class="footnote">בעלדבבן‎ 7a1 &amp;</i> ולמחרב<sup class="footnote-marker">22</sup><i class="footnote">ולדחרב‎11c1</i> אר̈עתן ולדאסגי ק̈טילין
-(כה) וכד שפר לבהון<sup class="footnote-marker">23</sup><i class="footnote">בחמרא‎ +9a1fam</i> אמרין קרו לשמשון מרקד קדמין וקרו לשמשון מן בית אסיר̈א ומרקד הוא קדמיהון ואקימוהי בינת<sup class="footnote-marker">24</sup><i class="footnote">בית‎ 8a1*, 9a1fam</i> עמ̈ודא
+(כג) וטר̈ונא דפלש̈תיא אתכנשו למדבח דבחא רבא לדגון אלההון בחדותא ואמרין אשלם אלהן באידן<sup>16</sup><sup>17</sup> לשמשון בעלדבבן
+(כד) וכד חזאוהי שבחו לאלההון מטל<sup>18</sup> דאשלם<sup>19</sup> אלהן באידן<sup>20</sup> לבעלדבבן<sup>21</sup> ולמחרב<sup>22</sup> אר̈עתן ולדאסגי ק̈טילין
+(כה) וכד שפר לבהון<sup>23</sup> אמרין קרו לשמשון מרקד קדמין וקרו לשמשון מן בית אסיר̈א ומרקד הוא קדמיהון ואקימוהי בינת<sup>24</sup> עמ̈ודא
 (כו) ואמר שמשון לטליא דאחיד באידה שבוקיני ואמישיני עמ̈ודא דביתא סמיך עליהון ואסתמך עליהון
-(כז) וביתא מלא הוא גבר̈א ונש̈א<sup class="footnote-marker">25</sup><i class="footnote">נש̈א וגבר̈א‎11c1*</i> ותמן<sup class="footnote-marker">26</sup><i class="footnote">הוו‎ -6h7</i> כלהון טר̈ונא דפלש̈תיא ועל אגרא<sup class="footnote-marker">27</sup><i class="footnote">אג̈רא‎ 6h7</i> אית הוו<sup class="footnote-marker">28</sup><i class="footnote">הוא‎ 6h7</i> איך תלתא א̈לפין גבר̈א ונש̈א וחזין<sup class="footnote-marker">29</sup><i class="footnote">הוו‎ -10c1</i> כד מרקד שמשון
-(כח) וקרא שמשון למריא ואמר בבעו מריא אלהא אתדכריני וחיליני בלחוד הדא זבנתא<sup class="footnote-marker">30</sup><i class="footnote">אלהא‎ -9a1fam</i> דאתנקם<sup class="footnote-marker">31</sup><i class="footnote">אתנקם‎ 9a1fam</i> נקמתא דתר̈תין עינ̈י מן פלש̈תיא
-(כט) ואחד שמשון תר̈ין עמ̈ודא<sup class="footnote-marker">32</sup><i class="footnote">מצ̈עיא‎ -12a1fam &amp;</i> דביתא<sup class="footnote-marker">33</sup><i class="footnote">דביתא מצעיא‎ 7a1</i> סמיך עליהון ואסתמך עליהון חד בימינה וחד בסמלה
+(כז) וביתא מלא הוא גבר̈א ונש̈א<sup>25</sup> ותמן<sup>26</sup> כלהון טר̈ונא דפלש̈תיא ועל אגרא<sup>27</sup> אית הוו<sup>28</sup> איך תלתא א̈לפין גבר̈א ונש̈א וחזין<sup>29</sup> כד מרקד שמשון
+(כח) וקרא שמשון למריא ואמר בבעו מריא אלהא אתדכריני וחיליני בלחוד הדא זבנתא<sup>30</sup> דאתנקם<sup>31</sup> נקמתא דתר̈תין עינ̈י מן פלש̈תיא
+(כט) ואחד שמשון תר̈ין עמ̈ודא<sup>32</sup> דביתא<sup>33</sup> סמיך עליהון ואסתמך עליהון חד בימינה וחד בסמלה
 (ל) ואמר שמשון תמות נפשי עם פלש̈תיא ונגד בחילה ונפל ביתא על טר̈ונא ועל כלה עמא דבה והוו מ̈יתא דמיתו במותה דשמשון ס̈גיאין מן דמיתו בח̈יוהי
-(לא) ונחתו כלהון א̈חוהי וכלה בית אבוהי וסלקו<sup class="footnote-marker">34</sup><i class="footnote">ואסקו‎ 9a1fam</i> וקברוהי<sup class="footnote-marker">35</sup><i class="footnote">קברוהי‎ 9a1fam &amp;</i> בית צדעא ובית אשתואיל בקברה דמנוח אבוהי והו דן לאיסריל עסר̈ין ש̈נין
+(לא) ונחתו כלהון א̈חוהי וכלה בית אבוהי וסלקו<sup>34</sup> וקברוהי<sup>35</sup> בית צדעא ובית אשתואיל בקברה דמנוח אבוהי והו דן לאיסריל עסר̈ין ש̈נין
 <h2>פרק יז</h2>
 (א) והוא גברא חד מן טורא דאפרים ושמה מיכא
-(ב) ואמר לאמה אלף ומאא דכספא דאתנסב<sup class="footnote-marker">1</sup><i class="footnote">דאתנ̈סבי‎ 9a1fam</i><sup class="footnote-marker">2</sup><i class="footnote">דאתנסבו‎ 8a1, 12a1fam &amp;</i> לכי ואנתי אימיתי ואף אמרתי<sup class="footnote-marker">3</sup><i class="footnote">אמרתי ואף אימית‎ 7a1</i> בא̈דני הו כספא אנא נסבתה ואמרת אמה בריך ברי למריא
+(ב) ואמר לאמה אלף ומאא דכספא דאתנסב<sup>1</sup><sup>2</sup> לכי ואנתי אימיתי ואף אמרתי<sup>3</sup> בא̈דני הו כספא אנא נסבתה ואמרת אמה בריך ברי למריא
 (ג) ופני אלף ומאא דכספא לאמה ואמרת אמה מקדשו קדשת כספא למריא מן א̈ידי ברי דאעבד צלמא גליפא ונסיכא והשא פניהי לי
 (ד) ופני כספא לאמה ונסבת אמה מאתין דכספא ויהבת לקיניא ועבד צלמא גליפא ונסיכא והוא בבית מיכא
-(ה) וגברא מיכא אית הוא לה בית אלהא<sup class="footnote-marker">4</sup><i class="footnote">אל̈הא‎12a1fam &amp;</i> ועבד פדתא ופריסא ושמלי אידא<sup class="footnote-marker">5</sup><i class="footnote">א̈ידיא‎ 9a1fam</i> דחד מן בנ̈והי והוא לה כומרא
+(ה) וגברא מיכא אית הוא לה בית אלהא<sup>4</sup> ועבד פדתא ופריסא ושמלי אידא<sup>5</sup> דחד מן בנ̈והי והוא לה כומרא
 (ו) בי̈ומתא הנון לית הוא מלכא בית איסריל וכל אנש מדם דשפיר בעינ̈והי עבד הוא
 (ז) והוא עלימא חד מן בית לחם דיהודא ושמה לוי ועמר הוא תמן
-(ח) ואזל גברא מן קריתא<sup class="footnote-marker">6</sup><i class="footnote">קריתה‎ 6h7</i> מן בית לחם דיהודא למעמר איכא דמשכח ומטא לטורא דאפרים עדמא לבית מיכא למסער אורחה
-(ט) ואמר לה מיכא אימכא<sup class="footnote-marker">7</sup><i class="footnote">אתא‎ -7g1</i> אנת אמר לה לויא אנא מן בית לחם דיהודא ואזל אנא למעמר איכא דמשכח אנא
-(י) אמר לה מיכא תב לותי והוי לי<sup class="footnote-marker">8</sup><i class="footnote">איך‎ -6h7</i> אבא וכומרא ואנא אתל לך עסרא דכספא לי̈ומתא ומא̈ניך ותורסיך ואזל לוי
+(ח) ואזל גברא מן קריתא<sup>6</sup> מן בית לחם דיהודא למעמר איכא דמשכח ומטא לטורא דאפרים עדמא לבית מיכא למסער אורחה
+(ט) ואמר לה מיכא אימכא<sup>7</sup> אנת אמר לה לויא אנא מן בית לחם דיהודא ואזל אנא למעמר איכא דמשכח אנא
+(י) אמר לה מיכא תב לותי והוי לי<sup>8</sup> אבא וכומרא ואנא אתל לך עסרא דכספא לי̈ומתא ומא̈ניך ותורסיך ואזל לוי
 (יא) ואתטפיס למתב עם גברא והוא לה עלימא איך חד מן בנ̈והי
 (יב) ושמלי מיכא אידה דלויא והוא לה כומרא והוא לה בבית מיכא
 (יג) ואמר מיכא השא ידעת דמטאב לי מריא דהוא לי לויא כומרא
 <h2>פרק יח</h2>
 (א) בי̈ומתא הנון לית הוא מלכא בית איסריל ובי̈ומתא הנון שבטא דדן בעא הוא לה פלגותא למתב מטול דלא אתפלגת הות עדמא ליומא הו ירתותא בינת שב̈טא דאיסריל
-(ב) ושדרו בנ̈י דן מן שר̈בתהון<sup class="footnote-marker">1</sup><i class="footnote">שרבתהון‎ 6h7, 7g1, 8a1, 9c1,10c1,12a1fam &amp;</i> חמשא גבר̈ין מן צדעא ומן אשתואיל למגש ארעא ולמבדקה̇ ואמר̈ין להון זלו בודקוה<sup class="footnote-marker">2</sup><i class="footnote">בדקוה‎11c1*</i> לארעא ואתו לטורא דאפרים<sup class="footnote-marker">3</sup><i class="footnote">עדמא‎ -12a1fam &amp;</i> לבית מיכא<sup class="footnote-marker">4</sup><i class="footnote">ובתו תמן‎ -6h7</i>
-(ג) הנון בית מיכא ואשתודעו לקלה<sup class="footnote-marker">5</sup><i class="footnote">קלה‎ 9a1fam</i> דעלימא לוי וסטו<sup class="footnote-marker">6</sup><i class="footnote">לותה‎ -7a1, 9a1fam &amp;</i><sup class="footnote-marker">7</sup><i class="footnote">לתמן‎ -6h7, 6ph11, 7g1, 8a1</i> ואמרו לה מנא אתית להרכא<sup class="footnote-marker">8</sup><i class="footnote">לכא‎ 7a1</i> ומנא עבד אנת הרכא
-(ד) אמר<sup class="footnote-marker">9</sup><i class="footnote">ואמר‎ 6h7, 8a1</i> להון הכנא והכנא עבד לי מיכא ואגרני והוית לה כומרא
+(ב) ושדרו בנ̈י דן מן שר̈בתהון<sup>1</sup> חמשא גבר̈ין מן צדעא ומן אשתואיל למגש ארעא ולמבדקה̇ ואמר̈ין להון זלו בודקוה<sup>2</sup> לארעא ואתו לטורא דאפרים<sup>3</sup> לבית מיכא<sup>4</sup>
+(ג) הנון בית מיכא ואשתודעו לקלה<sup>5</sup> דעלימא לוי וסטו<sup>6</sup><sup>7</sup> ואמרו לה מנא אתית להרכא<sup>8</sup> ומנא עבד אנת הרכא
+(ד) אמר<sup>9</sup> להון הכנא והכנא עבד לי מיכא ואגרני והוית לה כומרא
 (ה) אמרין לה שאל לן באלהא ונדע אן מכשרא אורחא דאזלינן עליה
-(ו) אמר להון כומרא זלו בשלמא ומריא נתקן אורחכון דתאזלון<sup class="footnote-marker">10</sup><i class="footnote">דאזלין‎11c1</i><sup class="footnote-marker">11</sup><i class="footnote">אנתון‎ +11c1</i> עליה
-(ז) ואזלו חמשא גבר̈ין לליש וחזו לעמא<sup class="footnote-marker">12</sup><i class="footnote">עמא‎ 6h7</i><sup class="footnote-marker">13</sup><i class="footnote">דיתב בגוה̇‎ -6h7</i> דיתבין בשליא איך נמוסא דצי̈דניא שלין ובהילין ולית דמהר בארעא אף<sup class="footnote-marker">14</sup><i class="footnote">ואף‎ 6ph11, 7a1 &amp;</i> לא דאלץ ומעיק ורחיקין אנון מן צי̈דניא ומלתא לית<sup class="footnote-marker">15</sup><i class="footnote">הוא‎ +6h7, 8a1*, 9a1fam &amp;</i> להון עם ברנש
+(ו) אמר להון כומרא זלו בשלמא ומריא נתקן אורחכון דתאזלון<sup>10</sup><sup>11</sup> עליה
+(ז) ואזלו חמשא גבר̈ין לליש וחזו לעמא<sup>12</sup><sup>13</sup> דיתבין בשליא איך נמוסא דצי̈דניא שלין ובהילין ולית דמהר בארעא אף<sup>14</sup> לא דאלץ ומעיק ורחיקין אנון מן צי̈דניא ומלתא לית<sup>15</sup> להון עם ברנש
 (ח) ואתו לות אחי̈הון לצדעא ולאשתואיל ואמר̈ין להון א̈חיהון אימכא אתיתון
-(ט) ואמרין<sup class="footnote-marker">16</sup><i class="footnote">אמרין‎ 7a1 &amp;</i><sup class="footnote-marker">17</sup><i class="footnote">להון‎ +7a1</i> מן ליש קומו השא נסק עליהון מטול דחזינה̇ לארעא וטבא<sup class="footnote-marker">18</sup><i class="footnote">דטבא‎11c1,12a1fam &amp;</i> הי טב ואנתון לא תשתקון<sup class="footnote-marker">19</sup><i class="footnote">תשתתקון‎ 9a1fam</i> אפלא<sup class="footnote-marker">20</sup><i class="footnote">ואפלא‎ 6h7, 6ph11, 8a1</i> תתחבנון<sup class="footnote-marker">21</sup><i class="footnote">תתחבננון‎ 7a1, 7g1 &amp;</i><sup class="footnote-marker">22</sup><i class="footnote">למאזל‎ -9c1</i><sup class="footnote-marker">23</sup><i class="footnote">ולמעל‎ -9a1fam &amp;</i><sup class="footnote-marker">24</sup><i class="footnote">למעל‎ 8a1c, 9c1,10c1, 11c1,12a1fam &amp;</i> ולמארת<sup class="footnote-marker">25</sup><i class="footnote">למארת‎ 7g1, 8a1, 9a1fam, 9c1,10c1,11c1, 12a1fam &amp;</i> ארעא
-(י) במ̈עלניהון עאלין אנתון על עמא כהינא וארעא ארוחתא<sup class="footnote-marker">26</sup><i class="footnote">ארויחתא‎ 7a1 &amp;</i><sup class="footnote-marker">27</sup><i class="footnote">הי‎ +9a1fam</i> דא̈ידיא<sup class="footnote-marker">28</sup><i class="footnote">קדמיכון‎ -7g1, 8a1c, 9a1fam, 9c1,10c1,11c1, 12a1fam &amp;</i> מטול דאשלמה̇ אלהא בא̈ידיכון דלא<sup class="footnote-marker">29</sup><i class="footnote">ולא‎ 7a1 &amp;</i> תחסרון מדם בארעא<sup class="footnote-marker">30</sup><i class="footnote">הי‎ +7a1</i>
+(ט) ואמרין<sup>16</sup><sup>17</sup> מן ליש קומו השא נסק עליהון מטול דחזינה̇ לארעא וטבא<sup>18</sup> הי טב ואנתון לא תשתקון<sup>19</sup> אפלא<sup>20</sup> תתחבנון<sup>21</sup><sup>22</sup><sup>23</sup><sup>24</sup> ולמארת<sup>25</sup> ארעא
+(י) במ̈עלניהון עאלין אנתון על עמא כהינא וארעא ארוחתא<sup>26</sup><sup>27</sup> דא̈ידיא<sup>28</sup> מטול דאשלמה̇ אלהא בא̈ידיכון דלא<sup>29</sup> תחסרון מדם בארעא<sup>30</sup>
 (יא) ושקלו מן תמן שרבתא דדן מן צדעא ומן אשתואיל שתמאא גבר̈ין דמזינ̈ין במא̈ני קרבא
 (יב) וסלקו ושרו בקורית נערין דיהודא מטול הנא קראוהי לאתרא הו משריתא דדן עדמא ליומנא הא בסתר קורית נערין
 (יג) ועברו מן תמן לטורא דאפרים ואזלו עדמא לבית מיכא
-(יד) וענו חמשא גבר̈ין דאזלו למגש ארעא דליש ואמרו לאחי̈הון ידעין אנתון דאית בר̈מתא<sup class="footnote-marker">31</sup><i class="footnote">ברמתא‎ 7a1</i> הלין פדתא ופריסא וצלמא גליפא ונסיכא והשא דעו מנא עבדין אנתון
+(יד) וענו חמשא גבר̈ין דאזלו למגש ארעא דליש ואמרו לאחי̈הון ידעין אנתון דאית בר̈מתא<sup>31</sup> הלין פדתא ופריסא וצלמא גליפא ונסיכא והשא דעו מנא עבדין אנתון
 (טו) וסטו ועלו לבית עלימא לוי לבית מיכא ושאלו בשלמה
 (טז) ושתמאא גבר̈ין דמזינ̈ין במא̈ני קרבא קימין במעלנא דתרעא מן בנ̈י דן
-(יז) וסלקו חמשא גבר̈ין דאזלו למגש ארעא ועלו לתמן ונסבו צלמא ופדתא ופריסא וחשלתא וכומרא כד קאם במעלנא דתרעא ושתמאא גבר̈ין<sup class="footnote-marker">32</sup><i class="footnote">הנון‎ -11c1</i> דמזינין במא̈ני קרבא
+(יז) וסלקו חמשא גבר̈ין דאזלו למגש ארעא ועלו לתמן ונסבו צלמא ופדתא ופריסא וחשלתא וכומרא כד קאם במעלנא דתרעא ושתמאא גבר̈ין<sup>32</sup> דמזינין במא̈ני קרבא
 (יח) עלו לבית מיכא ונסבו צלמא ופדתא ופריסא וחשלתא אמר להון כומרא מנא עבדין אנתון
-(יט) אמרין לה שתוק סים<sup class="footnote-marker">33</sup><i class="footnote">וסים‎ 6h7, 8a1</i> אידך על פומך ותא עמן והוי לן אבא וכומרא אינא טב לך דתהוא כומרא לבית<sup class="footnote-marker">34</sup><i class="footnote">לגברא‎11c1*,12a1*</i><sup class="footnote-marker">35</sup><i class="footnote">גברא‎ -11c1*,12a1*</i> חד או דתהוא כומרא לטוהמא ולשרבתא דאיסריל<sup class="footnote-marker">36</sup><i class="footnote">דבית‎ 12a1fam &amp;</i><sup class="footnote-marker">37</sup><i class="footnote">איסריל‎ +12a1fam &amp;</i>
+(יט) אמרין לה שתוק סים<sup>33</sup> אידך על פומך ותא עמן והוי לן אבא וכומרא אינא טב לך דתהוא כומרא לבית<sup>34</sup><sup>35</sup> חד או דתהוא כומרא לטוהמא ולשרבתא דאיסריל<sup>36</sup><sup>37</sup>
 (כ) ושפר לבה דכומרא ונסב צלמא ופדתא ופריסא ואזל עם עמא
-(כא) ואתפניו ועברו ואזלו ונק̈ותא וקנינא ובעירא<sup class="footnote-marker">38</sup><i class="footnote">ובעירא וקנינא‎ 7a1</i> קדמיהון
+(כא) ואתפניו ועברו ואזלו ונק̈ותא וקנינא ובעירא<sup>38</sup> קדמיהון
 (כב) הנון ארחקו מן בית מיכא וגברא דאית בביתא על גנב בית מיכא קעא ורדף בתר ב̈ני דן
 (כג) וקרא לבנ̈י דן ואתפניו ואמרו למיכא מא לך דקעא אנת
-(כד) אמר להון אלהא דעבדת נסבתון ואף<sup class="footnote-marker">39</sup><i class="footnote">אף‎ 7a1 &amp;</i> לכומרא דברתון ואזלתון ומנא אית לי תוב דאמרין אנתון<sup class="footnote-marker">40</sup><i class="footnote">לי‎ -12a1fam &amp;</i> מא לך
-(כה) ואמרו לה בנ̈י דן לא תשמע קלך לותן דלמא נפגעון בך אנשא מר̈ירי נפשא ותובד נפשך ונפשא דבני̈ך<sup class="footnote-marker">41</sup><i class="footnote">עמך‎ +9a1fam</i>
-(כו) ואזלו בנ̈י דן לאורחהון וכד חזא מיכא דעשינין<sup class="footnote-marker">42</sup><i class="footnote">אנון‎ -12a1fam &amp;</i> מנה אתפני ואתא לביתה
-(כז) והנון נסבו למדם<sup class="footnote-marker">43</sup><i class="footnote">מדם‎ 6h7</i> דעבד מיכא ודברו לכומרא דאית הוא לה ועלו לליש על<sup class="footnote-marker">44</sup><i class="footnote">לות‎12a1*</i> עמא כהינא ושליא ומחו אנון בפומא דחרבא ולקריתא אוקדו בנורא
-(כח) ולית מ̇ן דמפצא מטל דרחיקא הות מן צידן ומלתא לית הוא<sup class="footnote-marker">45</sup><i class="footnote">הות‎ 7g1</i> להון עם בר אנש והי בעומקא הות דבית רחוב ובנאוה לקריתא ואיתבו בה̇
-(כט) וקרו שמה̇ דקריתא דן על שם<sup class="footnote-marker">46</sup><i class="footnote">שמא‎ 9a1fam &amp;</i> דן<sup class="footnote-marker">47</sup><i class="footnote">דאבוהון‎ 9a1fam</i><sup class="footnote-marker">48</sup><i class="footnote">אבוהון‎ -9a1fam</i> דאתילד לאיסריל ברם<sup class="footnote-marker">49</sup><i class="footnote">ולוז‎ 7g1, 9a1fam</i><sup class="footnote-marker">50</sup><i class="footnote">לוז‎ -7g1, 9a1fam</i> שמה̇ הוא<sup class="footnote-marker">51</sup><i class="footnote">הוא שמה̇‎12a1 &amp;</i> לקריתא מן קדים
-(ל) ואקימו<sup class="footnote-marker">52</sup><i class="footnote">להון‎ -9a1fam</i> בנ̈י דן צלמא ויונתן<sup class="footnote-marker">53</sup><i class="footnote">ויותם‎ 7a1</i> בר גרשון בר מנשא הו ובנ̈והי הוו כומר̈א לשבטא דדן עדמא ליומא דאשתבית ארעא
-(לא) וסמוהי להון צלמא<sup class="footnote-marker">54</sup><i class="footnote">לצלמא‎ 6h7 &amp;</i> דמיכא דעבדו<sup class="footnote-marker">55</sup><i class="footnote">דעבד מיכא‎ 6h7</i> כלהון יומ̈תא דהוא ביתה<sup class="footnote-marker">56</sup><i class="footnote">בביתה‎ 6h7, 9a1fam &amp;</i> דאלהא<sup class="footnote-marker">57</sup><i class="footnote">דמריא‎ 9a1fam &amp;</i> בשילו
+(כד) אמר להון אלהא דעבדת נסבתון ואף<sup>39</sup> לכומרא דברתון ואזלתון ומנא אית לי תוב דאמרין אנתון<sup>40</sup> מא לך
+(כה) ואמרו לה בנ̈י דן לא תשמע קלך לותן דלמא נפגעון בך אנשא מר̈ירי נפשא ותובד נפשך ונפשא דבני̈ך<sup>41</sup>
+(כו) ואזלו בנ̈י דן לאורחהון וכד חזא מיכא דעשינין<sup>42</sup> מנה אתפני ואתא לביתה
+(כז) והנון נסבו למדם<sup>43</sup> דעבד מיכא ודברו לכומרא דאית הוא לה ועלו לליש על<sup>44</sup> עמא כהינא ושליא ומחו אנון בפומא דחרבא ולקריתא אוקדו בנורא
+(כח) ולית מ̇ן דמפצא מטל דרחיקא הות מן צידן ומלתא לית הוא<sup>45</sup> להון עם בר אנש והי בעומקא הות דבית רחוב ובנאוה לקריתא ואיתבו בה̇
+(כט) וקרו שמה̇ דקריתא דן על שם<sup>46</sup> דן<sup>47</sup><sup>48</sup> דאתילד לאיסריל ברם<sup>49</sup><sup>50</sup> שמה̇ הוא<sup>51</sup> לקריתא מן קדים
+(ל) ואקימו<sup>52</sup> בנ̈י דן צלמא ויונתן<sup>53</sup> בר גרשון בר מנשא הו ובנ̈והי הוו כומר̈א לשבטא דדן עדמא ליומא דאשתבית ארעא
+(לא) וסמוהי להון צלמא<sup>54</sup> דמיכא דעבדו<sup>55</sup> כלהון יומ̈תא דהוא ביתה<sup>56</sup> דאלהא<sup>57</sup> בשילו
 <h2>פרק יט</h2>
-(א) והוא בי̈ומתא הנון ומלכא לית הוא בית איסריל והוא גברא לוי עמ̇ר<sup class="footnote-marker">1</sup><i class="footnote">הוא‎ +6h7, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> בשפולא דטורא ונסב לה אנתתא דרוכתא מן בית לחם דיהודא
-(ב) וזנית עלוהי דרוכתה וקמת ואזלת מן לותה לבית אבוה לבית לחם דיהודא<sup class="footnote-marker">2</sup><i class="footnote">אבוה לבית לחם דיהודא לבית‎11c1*</i> והות תמן יומ̈תא יר̈חא ארבעא
-(ג) וקם בעלה̇ ואזל בתרה̇ דנמלא בלבה̇ וניתיה ועלימה ותר̈ין חמר̈ין עמה ואעלתה לבית<sup class="footnote-marker">3</sup><i class="footnote">לות‎11c1</i> אבוה וחזיהי אבוה דעלימתא וחדי לקובלה
-(ד) ואחדה חמוהי אבוה דעלימתא ואיתב לותה תלתא יומ̈ין ולעסו ואשתיו ובתו<sup class="footnote-marker">4</sup><i class="footnote">ובת‎ 6ph11</i> תמן
-(ה) וביומא דארבעא קדם<sup class="footnote-marker">5</sup><i class="footnote">קדמו‎12a1fam &amp;</i> בצפרא למאזל ואמר אבוה דעלימתא לחתנה סמוך לבך בקציא דלחמא והידין תקום ותאזל<sup class="footnote-marker">6</sup><i class="footnote">תאזל‎ 6h7, 9a1fam, 12a1fam &amp;</i>
+(א) והוא בי̈ומתא הנון ומלכא לית הוא בית איסריל והוא גברא לוי עמ̇ר<sup>1</sup> בשפולא דטורא ונסב לה אנתתא דרוכתא מן בית לחם דיהודא
+(ב) וזנית עלוהי דרוכתה וקמת ואזלת מן לותה לבית אבוה לבית לחם דיהודא<sup>2</sup> והות תמן יומ̈תא יר̈חא ארבעא
+(ג) וקם בעלה̇ ואזל בתרה̇ דנמלא בלבה̇ וניתיה ועלימה ותר̈ין חמר̈ין עמה ואעלתה לבית<sup>3</sup> אבוה וחזיהי אבוה דעלימתא וחדי לקובלה
+(ד) ואחדה חמוהי אבוה דעלימתא ואיתב לותה תלתא יומ̈ין ולעסו ואשתיו ובתו<sup>4</sup> תמן
+(ה) וביומא דארבעא קדם<sup>5</sup> בצפרא למאזל ואמר אבוה דעלימתא לחתנה סמוך לבך בקציא דלחמא והידין תקום ותאזל<sup>6</sup>
 (ו) ואיתבו ולעסו תר̈יהון איך חדא ואשתיו ואמר אבוה דעלימתא לחתנה אן צבא אנת בות ונטאב לך
 (ז) וקם גברא למאזל ואלצה חמוהי ובת לה תמן
-(ח) וקדם בצפרא ביומא<sup class="footnote-marker">7</sup><i class="footnote">ליומא‎ 7a1</i> דחמשא למאזל ואמר לה אבוה דעלימתא סמוך לבך ואתכרך עד צלא יומא ולעסו תר̈יהון ואשתיו
-(ט) וקם גברא למאזל הו ודרוכתה ועלימה ואמר לה חמוהי אבוה דעלימתא הא פנא לה יומא בות<sup class="footnote-marker">8</sup><i class="footnote">בותו‎ 9a1fam</i> הרכא ונטאב לך וקדמו<sup class="footnote-marker">9</sup><i class="footnote">וקדם‎ 8a1*</i> מחר וזלו למשכנכון
-(י) ולא צבא גברא למבת וקם ואזל<sup class="footnote-marker">10</sup><i class="footnote">אזל‎ 8a1*,12a1fam &amp;</i> ומטי<sup class="footnote-marker">11</sup><i class="footnote">עדמא‎ +7a1</i> לוקבל יבוס דהי הי אורשלם ועמה תר̈ין חמר̈ין כד טעינ̈ין ודרוכתה עמה
-(יא) הנון על<sup class="footnote-marker">12</sup><i class="footnote">מטיו‎ 7a1</i> גנב יבוס ויומא רכן טב ואמר עלימא למרה תא נסטא לקריתא<sup class="footnote-marker">13</sup><i class="footnote">הדא‎ -12a1 &amp;</i> יבוס ונבות בה̇
-(יב) ואמר<sup class="footnote-marker">14</sup><i class="footnote">אמר‎ 6ph11, 8a1, 9a1fam, 9c1,10c1,11c1,12a1fam &amp;</i> לה מרה לא נסטא לקריתא<sup class="footnote-marker">15</sup><i class="footnote">הדא‎ +7a1</i> נוכריתא דלא הות מן דבית<sup class="footnote-marker">16</sup><i class="footnote">בית‎11c1 &amp;</i> איסריל אלא נעבר עדמא לגבע
-(יג) ואמר לה מרה תא נתקרב לחד מן אתר̈ותא ונבות בגבע<sup class="footnote-marker">17</sup><i class="footnote">בגוה‎ 9a1fam</i> או ברמתא
+(ח) וקדם בצפרא ביומא<sup>7</sup> דחמשא למאזל ואמר לה אבוה דעלימתא סמוך לבך ואתכרך עד צלא יומא ולעסו תר̈יהון ואשתיו
+(ט) וקם גברא למאזל הו ודרוכתה ועלימה ואמר לה חמוהי אבוה דעלימתא הא פנא לה יומא בות<sup>8</sup> הרכא ונטאב לך וקדמו<sup>9</sup> מחר וזלו למשכנכון
+(י) ולא צבא גברא למבת וקם ואזל<sup>10</sup> ומטי<sup>11</sup> לוקבל יבוס דהי הי אורשלם ועמה תר̈ין חמר̈ין כד טעינ̈ין ודרוכתה עמה
+(יא) הנון על<sup>12</sup> גנב יבוס ויומא רכן טב ואמר עלימא למרה תא נסטא לקריתא<sup>13</sup> יבוס ונבות בה̇
+(יב) ואמר<sup>14</sup> לה מרה לא נסטא לקריתא<sup>15</sup> נוכריתא דלא הות מן דבית<sup>16</sup> איסריל אלא נעבר עדמא לגבע
+(יג) ואמר לה מרה תא נתקרב לחד מן אתר̈ותא ונבות בגבע<sup>17</sup> או ברמתא
 (יד) ועברו ואזלו וערבת להון שמשא על גנב גבע דבנימין
 (טו) וסטו לתמן למבת ועלו לגבע ואיתבו בשוקא דקריתא ולית אנש דמעל להון לביתא למבת
-(טז) והא גברא סבא אתא מן עבדה מן חקלא ברמשא וגברא מן טורא הוא דאפרים ועמ̇ר הוא בגבע דבנימין ואנש̈והי<sup class="footnote-marker">18</sup><i class="footnote">אנש̈והי‎11c1</i> דאתרא בנ̈י בנימין בישין הוו עב̈דיהון טב
-(יז) וארים עינ̈והי גברא סבא וחזא ארחא בשוקא דקריתא ואמר<sup class="footnote-marker">19</sup><i class="footnote">אמר‎ 6h7</i> לה גברא סבא לאיכא אזל אנת ומן אימכא<sup class="footnote-marker">20</sup><i class="footnote">אתא‎ -8a1*</i> אנת
+(טז) והא גברא סבא אתא מן עבדה מן חקלא ברמשא וגברא מן טורא הוא דאפרים ועמ̇ר הוא בגבע דבנימין ואנש̈והי<sup>18</sup> דאתרא בנ̈י בנימין בישין הוו עב̈דיהון טב
+(יז) וארים עינ̈והי גברא סבא וחזא ארחא בשוקא דקריתא ואמר<sup>19</sup> לה גברא סבא לאיכא אזל אנת ומן אימכא<sup>20</sup> אנת
 (יח) אמר לה מעבר עברינן מן בית לחם דיהודא עדמא לש̈פולי טורא ומן תמן אנא ואזלת עדמא לבית לחם דיהודא ולביתה דמריא אזל אנא ולית אנש דמעל לן לביתא
-(יט) אף תבנא אף כסתא אית לחמר̈ן ואף<sup class="footnote-marker">21</sup><i class="footnote">אף‎ 7a1, 9a1fam &amp;</i> לחמא וחמרא<sup class="footnote-marker">22</sup><i class="footnote">אף‎ 7a1</i><sup class="footnote-marker">23</sup><i class="footnote">חמרא‎ +7a1</i> אית לי ולאמתך ולעלימא עבדך ומדם לא חסיר לן
-(כ) אמר לה גברא סבא שלם לך כול מדם דחסיר עליך<sup class="footnote-marker">24</sup><i class="footnote">לך‎12a1fam &amp;</i> אנא אתל בלחוד בשוקא לא תבות
-(כא) ואעלה לביתה וארמי לחמרה ואשיגו<sup class="footnote-marker">25</sup><i class="footnote">ואשיג‎ 7g1, 8a1, 9a1fam,11c1, 12a1fam &amp;</i> ר̈גליהון ולעסו ואשתיו
-(כב) והנון שפר<sup class="footnote-marker">26</sup><i class="footnote">שפיר‎11c1</i> לבהון והא אנש̈י קריתא גבר̈א עו̈לא אתכרכוהי לביתא ועל תרעא מתכתשין ואמרין לגברא סבא מרה דביתא אפק לן לגברא<sup class="footnote-marker">27</sup><i class="footnote">גברא‎ 7a1 &amp;</i> דעל לביתך ונדעיוהי
+(יט) אף תבנא אף כסתא אית לחמר̈ן ואף<sup>21</sup> לחמא וחמרא<sup>22</sup><sup>23</sup> אית לי ולאמתך ולעלימא עבדך ומדם לא חסיר לן
+(כ) אמר לה גברא סבא שלם לך כול מדם דחסיר עליך<sup>24</sup> אנא אתל בלחוד בשוקא לא תבות
+(כא) ואעלה לביתה וארמי לחמרה ואשיגו<sup>25</sup> ר̈גליהון ולעסו ואשתיו
+(כב) והנון שפר<sup>26</sup> לבהון והא אנש̈י קריתא גבר̈א עו̈לא אתכרכוהי לביתא ועל תרעא מתכתשין ואמרין לגברא סבא מרה דביתא אפק לן לגברא<sup>27</sup> דעל לביתך ונדעיוהי
 (כג) ונפק לותהון גברא סבא מרה דביתא ואמר להון לא א̈חי לא תבאשון הכנא מטל דעל גברא הנא לביתי לא תעבדון צערא הנא
-(כד) הא ברתי בתולתא ודרוכתה אפק אני̈ן<sup class="footnote-marker">28</sup><i class="footnote">לכון‎ +6h7, 6ph11, 7g1, 8a1, 9c1, 10c1,11c1,12a1fam &amp;</i> וצערו א̈נין ועבדו<sup class="footnote-marker">29</sup><i class="footnote">להין‎ +6h7, 6ph11, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> מדם דשפיר בעינ̈יכון ולגברא הנא לא תעבדון צערא הנא
-(כה) ולא צבו גבר̈א הנון<sup class="footnote-marker">30</sup><i class="footnote">הלין‎ 7g1 &amp;</i> למשמעה ואחד גברא דרוכתה ואפקה̇ להון לבר וחכמוה ואשתנדו בה̇ כלה לליא עדמא לצפרא ושבקוה כד סלק צפרא
-(כו) ואתת<sup class="footnote-marker">31</sup><i class="footnote">אנתתא‎ -7a1</i> לעדן צפרא ונפלת בתרעא דגברא איכא דמרה̇ תמן עדמא דנגהת
-(כז) וקם מרה̇ בצפרא ופתח<sup class="footnote-marker">32</sup><i class="footnote">דנפתח‎12a1fam</i> תרעא דביתא ונפק דנאזל לאורחה וחזא דרוכתה רמיא על תרעא דביתא<sup class="footnote-marker">33</sup><i class="footnote">ומיתא‎ 9a1fam</i> ואידה̇ על תרעא
-(כח) ואמר<sup class="footnote-marker">34</sup><i class="footnote">אמר‎ 6h7, 6ph11, 9a1fam, 9c1,10c1,11c1,12a1fam &amp;</i> לה̇ קום נאזל ולא עניא לה ושקלה̇ על חמרה וקם גברא ואזל לאתרה
-(כט) ועל לביתה ונסב סכינא ופשחה̇ לדרוכתה לתר̈תעסרא מ̈נון ושדא<sup class="footnote-marker">35</sup><i class="footnote">ושדה‎ 6h7, 9c1,10c1,12a1fam &amp;</i> בכלהון תח̈ומא דאיסריל
-(ל) וכל מ̇ן דחזה̇ אמר לא הות ולא אתחזית איך הדא מן יומא דסלקו בנ̈י איסריל מן ארעא<sup class="footnote-marker">36</sup><i class="footnote">מצרין‎11c1* &amp;</i><sup class="footnote-marker">37</sup><i class="footnote">דמצרין‎ -11c1* &amp;</i> ועדמא ליומנא ואתרעיו עליה ואתמלכו ומללו
+(כד) הא ברתי בתולתא ודרוכתה אפק אני̈ן<sup>28</sup> וצערו א̈נין ועבדו<sup>29</sup> מדם דשפיר בעינ̈יכון ולגברא הנא לא תעבדון צערא הנא
+(כה) ולא צבו גבר̈א הנון<sup>30</sup> למשמעה ואחד גברא דרוכתה ואפקה̇ להון לבר וחכמוה ואשתנדו בה̇ כלה לליא עדמא לצפרא ושבקוה כד סלק צפרא
+(כו) ואתת<sup>31</sup> לעדן צפרא ונפלת בתרעא דגברא איכא דמרה̇ תמן עדמא דנגהת
+(כז) וקם מרה̇ בצפרא ופתח<sup>32</sup> תרעא דביתא ונפק דנאזל לאורחה וחזא דרוכתה רמיא על תרעא דביתא<sup>33</sup> ואידה̇ על תרעא
+(כח) ואמר<sup>34</sup> לה̇ קום נאזל ולא עניא לה ושקלה̇ על חמרה וקם גברא ואזל לאתרה
+(כט) ועל לביתה ונסב סכינא ופשחה̇ לדרוכתה לתר̈תעסרא מ̈נון ושדא<sup>35</sup> בכלהון תח̈ומא דאיסריל
+(ל) וכל מ̇ן דחזה̇ אמר לא הות ולא אתחזית איך הדא מן יומא דסלקו בנ̈י איסריל מן ארעא<sup>36</sup><sup>37</sup> ועדמא ליומנא ואתרעיו עליה ואתמלכו ומללו
 <h2>פרק כ</h2>
 (א) ונפקו כלהון בנ̈י איסריל ואתכנשו כנושתא כלהון איך חד גבר מן דן ועדמא לברשבע לארעא דגלעד קדם מריא במצפיא
-(ב) וקם שר̈בתא<sup class="footnote-marker">1</sup><i class="footnote">שרבתא‎ 9a1fam</i> דכלה עמא כלהון ש̈בטא דאיסראיל בכנושתא עמה דאלהא ארבעמאא א̈לפין ר̈גליין<sup class="footnote-marker">2</sup><i class="footnote">גבר̈ין‎ 7a1</i> ש̈מטי סיפא
+(ב) וקם שר̈בתא<sup>1</sup> דכלה עמא כלהון ש̈בטא דאיסראיל בכנושתא עמה דאלהא ארבעמאא א̈לפין ר̈גליין<sup>2</sup> ש̈מטי סיפא
 (ג) ושמעו בנ̈י בנימין דסלקו בנ̈י איסריל למצפיא ואמרו בנ̈י איסריל אמרו לן איכנא הות בישתא הדא
 (ד) ענא לוי בעלה̇ דאנתתא דאתקטלת ואמר להון לגבע דבנימין עלת אנא ודרוכתי למבת
 (ה) וקמו עלי מר̈יה דגבע ואתכרכוהי עלי ביתא בלליא לי בעו למקטל ולדרוכתי צערו ומיתת
-(ו) ואחדתה̇ לדרוכתי ופשחתה̇ ושדיתה̇ בכלהין ח̈קלתא דיר̈תותא<sup class="footnote-marker">3</sup><i class="footnote">דירתותא‎ 9a1fam &amp;</i><sup class="footnote-marker">4</sup><i class="footnote">ויר̈תותא‎ 7a1</i> דאיסריל על דעבדו חטיתא ועולא באיסריל
+(ו) ואחדתה̇ לדרוכתי ופשחתה̇ ושדיתה̇ בכלהין ח̈קלתא דיר̈תותא<sup>3</sup><sup>4</sup> דאיסריל על דעבדו חטיתא ועולא באיסריל
 (ז) הא כלכון בנ̈י איסריל הבו פתגמא ומלכא על הדא
 (ח) וקמו כלה עמא איך גברא חד ואמרין לא אנש נאזל למשכנה ולא נסטא אנש לביתה
-(ט) השא הכנא נעבד<sup class="footnote-marker">5</sup><i class="footnote">לה̇‎ -7g1</i> לגבע נרמא עליה פצ̈א
-(י) נדבר עסרא גבר̈ין למאא<sup class="footnote-marker">6</sup><i class="footnote">לכלהון שב̈טא דאיסריל‎ -7a1</i> ומאא לאלף ואלף לרבו דנסבון זו̈דא לעמא דעברין<sup class="footnote-marker">7</sup><i class="footnote">דנאזלון‎ -7a1</i> על<sup class="footnote-marker">8</sup><i class="footnote">לגבע‎ 9a1fam</i><sup class="footnote-marker">9</sup><i class="footnote">גבע‎ -9a1fam</i> דבנימין איך כלה עולא דעבדו באיסריל
+(ט) השא הכנא נעבד<sup>5</sup> לגבע נרמא עליה פצ̈א
+(י) נדבר עסרא גבר̈ין למאא<sup>6</sup> ומאא לאלף ואלף לרבו דנסבון זו̈דא לעמא דעברין<sup>7</sup> על<sup>8</sup><sup>9</sup> דבנימין איך כלה עולא דעבדו באיסריל
 (יא) ואתכנשו כלהון אנשא דאיסריל על קריתא איך גברא חד כד שוין
-(יב) ושדרו כלהון שב̈טא דאיסריל<sup class="footnote-marker">10</sup><i class="footnote">דבנ̈י‎ 6h7, 6ph11, 8a1, 9a1fam, 9c1,10c1, 11c1,12a1fam &amp;</i><sup class="footnote-marker">11</sup><i class="footnote">איסריל‎ +6h7, 6ph11, 8a1, 9a1fam, 9c1,10c1,11c1, 12a1fam &amp;</i> גבר̈א לות כלהון דבית בנימין למאמר מנא הי בישתא הדא דהותכון<sup class="footnote-marker">12</sup><i class="footnote">דהות‎ 6ph11, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">13</sup><i class="footnote">בכון‎ +6ph11</i><sup class="footnote-marker">14</sup><i class="footnote">לכון‎ +8a1c, 9c1,10c1,11c1,12a1fam &amp;</i>
+(יב) ושדרו כלהון שב̈טא דאיסריל<sup>10</sup><sup>11</sup> גבר̈א לות כלהון דבית בנימין למאמר מנא הי בישתא הדא דהותכון<sup>12</sup><sup>13</sup><sup>14</sup>
 (יג) השא הבו גבר̈א בנ̈י עולא דאית בגבע נקטל אנון ונפרק בישתא מן איסריל ולא צבו בנ̈י בנימין דנשמעון בקלא דאחי̈הון בנ̈י איסריל
-(יד) ואתכנשו כלהון בנ̈י בנימין מן קור̈יהון<sup class="footnote-marker">15</sup><i class="footnote">קור̈ייהון‎ 7a1</i> לגבע למפק ולמתכתשו עם<sup class="footnote-marker">16</sup><i class="footnote">בנ̈י‎ -12a1fam &amp;</i> איסריל
-(טו) ואתמניו ב̈ני בנימין ביומא הו מן קור̈יא עסר̈ין ואשתא א̈לפין גבר̈ין<sup class="footnote-marker">17</sup><i class="footnote">גבר̈א‎ 6h7, 7g1, 9a1fam &amp;</i> שמ̈טי סיפא<sup class="footnote-marker">18</sup><i class="footnote">סי̈פא‎ 7a1</i> סטר מן ית̈בי גבע דאתמניו<sup class="footnote-marker">19</sup><i class="footnote">ואתמניו‎ 9a1fam</i> שבעמאא גבר̈ין
+(יד) ואתכנשו כלהון בנ̈י בנימין מן קור̈יהון<sup>15</sup> לגבע למפק ולמתכתשו עם<sup>16</sup> איסריל
+(טו) ואתמניו ב̈ני בנימין ביומא הו מן קור̈יא עסר̈ין ואשתא א̈לפין גבר̈ין<sup>17</sup> שמ̈טי סיפא<sup>18</sup> סטר מן ית̈בי גבע דאתמניו<sup>19</sup> שבעמאא גבר̈ין
 (טז) דפשי̈גן א̈ידיהון דימינא כל דשדא בקלעא לעלעלא ולא מפיש
-(יז) וגבר̈א דאיסראיל אתמניו סטר מן<sup class="footnote-marker">20</sup><i class="footnote">בנ̈י‎ -11c1 &amp;</i> בנימין ארבעמאא א̈לפין גבר̈א<sup class="footnote-marker">21</sup><i class="footnote">גבר̈ין‎ 6ph11, 7a1 &amp;</i> שמ̈טי סיפא<sup class="footnote-marker">22</sup><i class="footnote">סי̈פא‎ 7a1 &amp;</i> כלהון גבר̈א עב̈די קרבא
+(יז) וגבר̈א דאיסראיל אתמניו סטר מן<sup>20</sup> בנימין ארבעמאא א̈לפין גבר̈א<sup>21</sup> שמ̈טי סיפא<sup>22</sup> כלהון גבר̈א עב̈די קרבא
 (יח) וקמו וסלקו לבית איל ושאלו באלהא ואמר̈ין בנ̈י איסריל מנו נסק לן ברישא למתכתשו עם בני̈ בנימין ואמר מריא יהודא בקדמיתא
-(יט) וקמו<sup class="footnote-marker">23</sup><i class="footnote">וקדמו‎ 6h7</i> בנ̈י איסריל בצפרא ושרו<sup class="footnote-marker">24</sup><i class="footnote">על גבע ונפקו בנ̈י בנימין‎ +6h7, 6ph11, 8a1* &amp;</i> על<sup class="footnote-marker">25</sup><i class="footnote">מן‎ 6h7, 6ph11, 8a1* &amp;</i><sup class="footnote-marker">26</sup><i class="footnote">גבע למתכתשו עם ב̈ני יסריל‎ +6h7, 6ph11, 8a1* &amp;</i> גבע<sup class="footnote-marker">27</sup><i class="footnote">וסדרו‎ 6h7, 6ph11, 8a1* &amp;</i><sup class="footnote-marker">28</sup><i class="footnote">בנ̈י יסריל קרבא עמהון על גבע‎ +6h7, 6ph11, 8a1* &amp;</i>
-(כא) ונפקו בני̈ בנימין מן גבע ואסתדרו לוקבל איסריל וארמיו מן<sup class="footnote-marker">29</sup><i class="footnote">ב̈ני‎ +9c1*, 11c1</i><sup class="footnote-marker">30</sup><i class="footnote">דבית‎ +9a1fam</i> איסריל ביומא הו<sup class="footnote-marker">31</sup><i class="footnote">בהו יומא‎ 6h7</i> דאקרבו<sup class="footnote-marker">32</sup><i class="footnote">עמהון‎ -12a1fam &amp;</i> עסר̈ין ותר̈ין א̈לפין גבר̈ין על ארעא
+(יט) וקמו<sup>23</sup> בנ̈י איסריל בצפרא ושרו<sup>24</sup> על<sup>25</sup><sup>26</sup> גבע<sup>27</sup><sup>28</sup>
+(כא) ונפקו בני̈ בנימין מן גבע ואסתדרו לוקבל איסריל וארמיו מן<sup>29</sup><sup>30</sup> איסריל ביומא הו<sup>31</sup> דאקרבו<sup>32</sup> עסר̈ין ותר̈ין א̈לפין גבר̈ין על ארעא
 (כב) ואתחילו תוב בנ̈י איסריל ואוספו למסדר קרבא בדוכתא דסדרו ביומא קדמיא
 (כג) וסלקו בני̈ איסריל ובכו קדם מריא עדמא לרמשא ושאלו במריא ואמר̈ין נוסף תוב למקרבו קרבא עם בני̈ בנימין אחון ואמר מריא סקו עלוהי
-(כד) ואקרבו<sup class="footnote-marker">33</sup><i class="footnote">בנ̈י‎ -9a1*</i> איסריל עם בנ̈י בנימין ליומא אחרנא
-(כה) ונפקו בנ̈י בנימין לוקבלהון מן<sup class="footnote-marker">34</sup><i class="footnote">על‎ 7a1</i> גבע ביומא דתר̈ין וארמיו תוב בנ̈י בנימין מן איסריל תמנתעסר̈<sup class="footnote-marker">35</sup><i class="footnote">תמנעסר‎ 9a1fam</i> אלפין<sup class="footnote-marker">36</sup><i class="footnote">גבר̈ין‎ -6h7</i> על ארעא כלהון הלין שמ̈טי סיפא
-(כו) וסלקו כלהון בנ̈י<sup class="footnote-marker">37</sup><i class="footnote">דבית‎ 7a1</i> איסריל וכלה עמא ואתו לבית איל ובכו ואיתבו תמן קדם מריא וצמו ביומא הו עדמא לרמשא ואסקו ע̈לותא וש̈למא<sup class="footnote-marker">38</sup><i class="footnote">ויק̈דא‎11c1</i><sup class="footnote-marker">39</sup><i class="footnote">שלמ̈א‎ +11c1</i> קדם מריא
+(כד) ואקרבו<sup>33</sup> איסריל עם בנ̈י בנימין ליומא אחרנא
+(כה) ונפקו בנ̈י בנימין לוקבלהון מן<sup>34</sup> גבע ביומא דתר̈ין וארמיו תוב בנ̈י בנימין מן איסריל תמנתעסר̈<sup>35</sup> אלפין<sup>36</sup> על ארעא כלהון הלין שמ̈טי סיפא
+(כו) וסלקו כלהון בנ̈י<sup>37</sup> איסריל וכלה עמא ואתו לבית איל ובכו ואיתבו תמן קדם מריא וצמו ביומא הו עדמא לרמשא ואסקו ע̈לותא וש̈למא<sup>38</sup><sup>39</sup> קדם מריא
 (כז) ושאלו בנ̈י איסריל במריא ותמן הות קבותה דמריא בי̈ומתא הנון
-(כח) ופינחס<sup class="footnote-marker">40</sup><i class="footnote">ופינחיס‎ 7a1</i> בר אליעזר בר אהרון<sup class="footnote-marker">41</sup><i class="footnote">כהנא‎ -9a1fam</i> קאם הוא קדמוהי ביו̈מתא הנון ואמר̈ין נוסף תוב למפק לקרבא על בנ̈י בנימין אחון או נשלא ואמר מריא סקו מטל דמחר<sup class="footnote-marker">42</sup><i class="footnote">דלמחר‎ 6h7, 8a1*, 9a1fam</i> משלם אנא לה בא̈ידיכון
-(כט) ואכמנו בני̈ איסריל כמאנא<sup class="footnote-marker">43</sup><i class="footnote">כמ̈אנא‎ 6h7</i> על גבע וחדרוה
+(כח) ופינחס<sup>40</sup> בר אליעזר בר אהרון<sup>41</sup> קאם הוא קדמוהי ביו̈מתא הנון ואמר̈ין נוסף תוב למפק לקרבא על בנ̈י בנימין אחון או נשלא ואמר מריא סקו מטל דמחר<sup>42</sup> משלם אנא לה בא̈ידיכון
+(כט) ואכמנו בני̈ איסריל כמאנא<sup>43</sup> על גבע וחדרוה
 (ל) וסלקו בנ̈י איסריל על בנ̈י בנימין ביומא תליתיא ואסתדרו על גבע איך דבכלזבן
-(לא) ונפקו בנ̈י בנימין לאורעה דעמא ואתנפצו מן קריתא ושריו דנרמון מן עמא ק̈טילא איך דבכלזבן בשבילא<sup class="footnote-marker">44</sup><i class="footnote">בשקילא‎ 7a1</i> חד דס̇לק לגבע וחד<sup class="footnote-marker">45</sup><i class="footnote">וחדר‎ 7a1</i> לבית איל בחקלא איך תלתין גבר̈ין<sup class="footnote-marker">46</sup><i class="footnote">גבר̈א‎ 7g1</i><sup class="footnote-marker">47</sup><i class="footnote">מן איסריל‎ -9a1fam</i>
+(לא) ונפקו בנ̈י בנימין לאורעה דעמא ואתנפצו מן קריתא ושריו דנרמון מן עמא ק̈טילא איך דבכלזבן בשבילא<sup>44</sup> חד דס̇לק לגבע וחד<sup>45</sup> לבית איל בחקלא איך תלתין גבר̈ין<sup>46</sup><sup>47</sup>
 (לב) ואמרו בנ̈י בנימין מתתברין אנון מן קדמין איך דבקדמיתא ובנ̈י איסריל אמרו נערוק ונפק אנון מן קריתא לשבילא
-(לג) וכלהון בנ̈י איסריל קמו מן דוכי̈תהון ואסתדרו בבעל תמר וכמאנא<sup class="footnote-marker">48</sup><i class="footnote">וכמ̈אנא‎ 6h7</i> דאיסראיל מדיק הוא מן דוכתה מן מערתא דבגבע<sup class="footnote-marker">49</sup><i class="footnote">דגבע‎ 7a1</i>
-(לד) ואתו מן לוקבל גבע עסרא א̈לפין גבר̈ין<sup class="footnote-marker">50</sup><i class="footnote">גבר̈א‎ 6h7, 9c1,12a1fam &amp;</i> גבי̈א מן כלה איסריל וקרבא עשן והנון לא אידעו דמטת עליהון בישתא
-(לה) ותברה מריא לבנימין קדם איסריל וארמיו דבית איסריל מן דבית בנימין ביומא הו עסר̈ין וחמשא א̈לפין ומאא גבר̈ין כלהון<sup class="footnote-marker">51</sup><i class="footnote">הלין‎ -7a1</i> שמ̈טי סיפא
-(לו) וחזו בנ̈י בנימין דאתתברו ויהבו בני̈ איסריל אתרא לגבר̈א דבנימין מטל דאתתכלו על כמאנא דאתכמנו<sup class="footnote-marker">52</sup><i class="footnote">דכמנו‎ 7a1</i> על גבע
-(לז) וכמאנא רכיכאית נפל על גבע והלך כמאנא ומחא לכלה̇<sup class="footnote-marker">53</sup><i class="footnote">ומחה לקריתא‎ 7a1</i><sup class="footnote-marker">54</sup><i class="footnote">קריתא‎ -7a1</i> בפומא דחרבא
-(לח) וועדא הוא לגבר̈א דאיסריל על כמאנא למסקו אנון איך מסק<sup class="footnote-marker">55</sup><i class="footnote">מסקתא‎ 7a1</i><sup class="footnote-marker">56</sup><i class="footnote">תננא‎ -7a1</i> מן קריתא
-(לט) והפכו גבר̈א דאיסריל מן קרבא ובנימין שרי דנרמא ק̈טילא מן איסריל<sup class="footnote-marker">57</sup><i class="footnote">איך‎ +7a1</i> תלתין גבר̈ין מטל דאמר̈ין מתתברו מתתברין מן קדמין איך דבקר̈בא קדמ̈יא
-(מ) ותננא שרי דנסק מן קריתא איך עמודא ואתפניו בני̈ בנימין לבסתרהון<sup class="footnote-marker">58</sup><i class="footnote">וחזו‎ +9c1</i> והא סלק יחבורה̇ דקריתא לשמיא
-(מא) וגבר̈א דאיסריל הפכו עליהון ודחלו גבר̈א דבנימין מטל דחזו דקרבת<sup class="footnote-marker">59</sup><i class="footnote">דקמת‎ 7a1</i> עליהון בישתא
-(מב) וערקו<sup class="footnote-marker">60</sup><i class="footnote">מן‎ -7g1</i> קדם בנ̈י איסריל לאורחא דמדברא וקרבא אדרך אנון ודבקדמיתא עבד אנון במצעתא
+(לג) וכלהון בנ̈י איסריל קמו מן דוכי̈תהון ואסתדרו בבעל תמר וכמאנא<sup>48</sup> דאיסראיל מדיק הוא מן דוכתה מן מערתא דבגבע<sup>49</sup>
+(לד) ואתו מן לוקבל גבע עסרא א̈לפין גבר̈ין<sup>50</sup> גבי̈א מן כלה איסריל וקרבא עשן והנון לא אידעו דמטת עליהון בישתא
+(לה) ותברה מריא לבנימין קדם איסריל וארמיו דבית איסריל מן דבית בנימין ביומא הו עסר̈ין וחמשא א̈לפין ומאא גבר̈ין כלהון<sup>51</sup> שמ̈טי סיפא
+(לו) וחזו בנ̈י בנימין דאתתברו ויהבו בני̈ איסריל אתרא לגבר̈א דבנימין מטל דאתתכלו על כמאנא דאתכמנו<sup>52</sup> על גבע
+(לז) וכמאנא רכיכאית נפל על גבע והלך כמאנא ומחא לכלה̇<sup>53</sup><sup>54</sup> בפומא דחרבא
+(לח) וועדא הוא לגבר̈א דאיסריל על כמאנא למסקו אנון איך מסק<sup>55</sup><sup>56</sup> מן קריתא
+(לט) והפכו גבר̈א דאיסריל מן קרבא ובנימין שרי דנרמא ק̈טילא מן איסריל<sup>57</sup> תלתין גבר̈ין מטל דאמר̈ין מתתברו מתתברין מן קדמין איך דבקר̈בא קדמ̈יא
+(מ) ותננא שרי דנסק מן קריתא איך עמודא ואתפניו בני̈ בנימין לבסתרהון<sup>58</sup> והא סלק יחבורה̇ דקריתא לשמיא
+(מא) וגבר̈א דאיסריל הפכו עליהון ודחלו גבר̈א דבנימין מטל דחזו דקרבת<sup>59</sup> עליהון בישתא
+(מב) וערקו<sup>60</sup> קדם בנ̈י איסריל לאורחא דמדברא וקרבא אדרך אנון ודבקדמיתא עבד אנון במצעתא
 (מג) ורדפוהי לבנימין וטרדוהי ובניחא חרבוהי עדמא לוקבל גבע מן מדנח̈י שמשא
-(מד) ונפלו מן<sup class="footnote-marker">61</sup><i class="footnote">בנ̈י‎ -7a1 &amp;</i> בנימין תמנתעסר̈<sup class="footnote-marker">62</sup><i class="footnote">תמנתעסרא‎12a1fam</i> א̈לפין גבר̈ין כלהון הלין גבר̈א קר̈בתנא
-(מה) ואתפניו וערקו למדברא לשקיפא<sup class="footnote-marker">63</sup><i class="footnote">דשקיפא‎ 7a1</i> דרמון ונפלו בשבילא חמשא א̈לפין גבר̈ין שמ̈טי סיפא ורדפו בתרהון עדמא לגבעון וחרבו מנהון תר̈ין א̈לפין גבר̈ין
-(מו) וכל<sup class="footnote-marker">64</sup><i class="footnote">כל‎ 6h7</i> דנפלו מן<sup class="footnote-marker">65</sup><i class="footnote">בנ̈י‎ -6h7,10c1,11c1,12a1fam &amp;</i> בנימין עסר̈ין וחמשא א̈לפין<sup class="footnote-marker">66</sup><i class="footnote">גבר̈ין‎ -7a1</i> שמ̈טי סיפא ביומא הו כלהון גבר̈א חי̈לתנא<sup class="footnote-marker">67</sup><i class="footnote">קר̈בתנא‎ 6h7,10c1,11c1,12a1 &amp;</i>
+(מד) ונפלו מן<sup>61</sup> בנימין תמנתעסר̈<sup>62</sup> א̈לפין גבר̈ין כלהון הלין גבר̈א קר̈בתנא
+(מה) ואתפניו וערקו למדברא לשקיפא<sup>63</sup> דרמון ונפלו בשבילא חמשא א̈לפין גבר̈ין שמ̈טי סיפא ורדפו בתרהון עדמא לגבעון וחרבו מנהון תר̈ין א̈לפין גבר̈ין
+(מו) וכל<sup>64</sup> דנפלו מן<sup>65</sup> בנימין עסר̈ין וחמשא א̈לפין<sup>66</sup> שמ̈טי סיפא ביומא הו כלהון גבר̈א חי̈לתנא<sup>67</sup>
 (מז) ואתפניו וערקו למדברא לשקיפא דרמון שתמאא גבר̈ין ואיתבו בשקיפא דרמון אר̈בעא יר̈חין
-(מח) ובנ̈י איסריל הפכו על<sup class="footnote-marker">68</sup><i class="footnote">ב̈ני‎ -11c1</i> בנימין ומחו אנון בפומא דחרבא וגמרו אנון מן קור̈יא מן בנ̈י אנשא ועדמא לבעירא ועדמא לכל דאשתכח ואף<sup class="footnote-marker">69</sup><i class="footnote">אף‎ 7a1</i> כלהין קור̈יא דאשתכח אוקדו אני̈ן בנורא
+(מח) ובנ̈י איסריל הפכו על<sup>68</sup> בנימין ומחו אנון בפומא דחרבא וגמרו אנון מן קור̈יא מן בנ̈י אנשא ועדמא לבעירא ועדמא לכל דאשתכח ואף<sup>69</sup> כלהין קור̈יא דאשתכח אוקדו אני̈ן בנורא
 <h2>פרק כא</h2>
 (א) וגבר̈א דאיסריל אימו במצפיא ואמרו דגברא מנן לא נתל ברתה לבני̈ בנימין לאנתתא
-(ב) ואתו עדמא<sup class="footnote-marker">1</sup><i class="footnote">עמא‎ 7g1 &amp;</i> לבית איל ואיתבו תמן עדמא לרמשא קדם אלהא וארימו קלהון ובכו בכתא רבתא
-(ג) ואמרו למנא מריא אלהא דאיסריל הות הדא בית איסריל דנטעא<sup class="footnote-marker">2</sup><i class="footnote">דנתטעא‎10c1</i> יומנא מן איסריל חד שבטא
+(ב) ואתו עדמא<sup>1</sup> לבית איל ואיתבו תמן עדמא לרמשא קדם אלהא וארימו קלהון ובכו בכתא רבתא
+(ג) ואמרו למנא מריא אלהא דאיסריל הות הדא בית איסריל דנטעא<sup>2</sup> יומנא מן איסריל חד שבטא
 (ד) ומן בתר יומא קדמו עמא ובנו תמן מדבחא ואסקו ע̈לותא וש̈למא
-(ה) ואמרו<sup class="footnote-marker">3</sup><i class="footnote">בני̈ איסריל‎ -6h7</i> מנו דלא סלק בכנשא מן כלהון שב̈טא דאיסריל קדם מריא מטל דמ̈ומתא רבתא הות דמ̇ן דלא סלק קדם מריא למצפיא ממת נמות
-(ו) ואתתויו<sup class="footnote-marker">4</sup><i class="footnote">ואתויו‎ 7a1</i> בנ̈י איסריל על בנ̈י בנימין אחוהון<sup class="footnote-marker">5</sup><i class="footnote">אח̈יהון‎ 12a1fam &amp;</i> ואמרין יומנא ענד שבטא חד מן איסריל
-(ז) ואמרו מנא נעבד להנון<sup class="footnote-marker">6</sup><i class="footnote">להון‎ 7a1 &amp;</i> דאשתבקו<sup class="footnote-marker">7</sup><i class="footnote">להון‎ +7a1</i> דלא נש̈א דחנן<sup class="footnote-marker">8</sup><i class="footnote">וחנן‎12a1 &amp;</i> אימין<sup class="footnote-marker">9</sup><i class="footnote">אימינן‎ 7a1</i> במריא דלא נתל להון נש̈א
-(ח) ואמרין מן חד מן שב̈טא דאיסראיל דלא סלקו קדם מריא למצפיא<sup class="footnote-marker">10</sup><i class="footnote">במצפיא‎ 10c1</i> ולא אתו גבר̈א למשריתא מן ית̈בי יביש דגלעד
+(ה) ואמרו<sup>3</sup> מנו דלא סלק בכנשא מן כלהון שב̈טא דאיסריל קדם מריא מטל דמ̈ומתא רבתא הות דמ̇ן דלא סלק קדם מריא למצפיא ממת נמות
+(ו) ואתתויו<sup>4</sup> בנ̈י איסריל על בנ̈י בנימין אחוהון<sup>5</sup> ואמרין יומנא ענד שבטא חד מן איסריל
+(ז) ואמרו מנא נעבד להנון<sup>6</sup> דאשתבקו<sup>7</sup> דלא נש̈א דחנן<sup>8</sup> אימין<sup>9</sup> במריא דלא נתל להון נש̈א
+(ח) ואמרין מן חד מן שב̈טא דאיסראיל דלא סלקו קדם מריא למצפיא<sup>10</sup> ולא אתו גבר̈א למשריתא מן ית̈בי יביש דגלעד
 (ט) ואתמניו תמן עמא ולא אשתכח אנש תמן מן יתב̈י יביש דגלעד
-(י) ושדרו לתמן עמא תר̈עסר א̈לפין גבר̈ין מן בנ̈י חילא ופקדו אנון ואמרו<sup class="footnote-marker">11</sup><i class="footnote">ואמר‎ 7a1</i> להון זלו חרובו לית̈בי יביש דגלעד בפומא דחרבא ונש̈א ו̈טליא
-(יא) הכנא עבדו לכל גברא<sup class="footnote-marker">12</sup><i class="footnote">גב̈רא‎11c1 &amp;</i> ולכל אנתתא דחכמה̇ גברא חרובו
+(י) ושדרו לתמן עמא תר̈עסר א̈לפין גבר̈ין מן בנ̈י חילא ופקדו אנון ואמרו<sup>11</sup> להון זלו חרובו לית̈בי יביש דגלעד בפומא דחרבא ונש̈א ו̈טליא
+(יא) הכנא עבדו לכל גברא<sup>12</sup> ולכל אנתתא דחכמה̇ גברא חרובו
 (יב) ואשכחו מן יתב̈י יביש דגלעד ארבעמאא עלימ̈תא בתו̈לתא דלא חכמו אני̈ן גבר̈א ואיתיו א̈נין למשריתא לשילו דבארעא דכנען
-(יג) ושדרו כלה<sup class="footnote-marker">13</sup><i class="footnote">לכלה‎ 7g1</i> עמא ואמרו לבנימין דבשקיפא דרמון וקרו לה שלמא
-(יד) ואתא<sup class="footnote-marker">14</sup><i class="footnote">ואתו‎ 6h7 &amp;</i><sup class="footnote-marker">15</sup><i class="footnote">בנ̈י‎ +6h7 &amp;</i> בנימין בזבנא הו ויהבו להון נש̈א דאחיו מן נש̈א דיביש דגלעד ולא מלי להון
-(טו) ועמא אתתויו<sup class="footnote-marker">16</sup><i class="footnote">אתאבלו‎ 6h7</i> על בנימין מטל דעבד מריא תורעתא בש̈בטא דאיסריל
+(יג) ושדרו כלה<sup>13</sup> עמא ואמרו לבנימין דבשקיפא דרמון וקרו לה שלמא
+(יד) ואתא<sup>14</sup><sup>15</sup> בנימין בזבנא הו ויהבו להון נש̈א דאחיו מן נש̈א דיביש דגלעד ולא מלי להון
+(טו) ועמא אתתויו<sup>16</sup> על בנימין מטל דעבד מריא תורעתא בש̈בטא דאיסריל
 (טז) ואמרו סב̈א דעמא מנא נעבד לאילין דאשתבקו דלא נש̈א הלין דאשתחרו מטל דסף להין נ̈שא דבנימין
-(יז) ואמרו דנשתבק שרכנא דבנימין<sup class="footnote-marker">17</sup><i class="footnote">לבנימין‎ 6h7</i> ולא נטעא<sup class="footnote-marker">18</sup><i class="footnote">נתטעא‎10c1 &amp;</i> שבטא מן איסריל
+(יז) ואמרו דנשתבק שרכנא דבנימין<sup>17</sup> ולא נטעא<sup>18</sup> שבטא מן איסריל
 (יח) חנן גיר לא משכחינן דנתל להון נש̈א מן בנ̈תן מטל דאימו בני̈ איסריל ואמרו ליט הו מ̇ן דנתל אנתתא לבנימין
-(יט) ואמרו הא חגא דמריא הוא בשילו מן עדן לעדן מן גרביא דבית איל<sup class="footnote-marker">19</sup><i class="footnote">מן מד̈נחי שמשא מן שבילא דסלק מן בית איל‎ -7a1</i> לשכים מן תימנא דלבונא
-(כ) ופקדו לבנ̈י בנימין ואמרו להון זלו כמנו<sup class="footnote-marker">20</sup><i class="footnote">וכמנו‎11c1</i> בכר̈מא
-(כא) ומא דחזיתון דנפק<sup class="footnote-marker">21</sup><i class="footnote">דנפקן‎ 6h7</i><sup class="footnote-marker">22</sup><i class="footnote">מן‎ -11c1</i> בנ̈ת שילו למקש ב̈פלגא פוקו מן כר̈מא וחטופו לכון גבר אנתתה מן בנ̈ת שילו וזלו לארעא דבנימין
-(כב) ואן אתו אבהי̈הין<sup class="footnote-marker">23</sup><i class="footnote">אבה̈יהון‎ 7a1</i> או א̈חיהין למדן קדמין אמרינן להון רחמו עליהון מטל דלא דברו גבר אנתתה בקרבא לא הוא אנתון יהבתון א̈נין להון דתחטון
+(יט) ואמרו הא חגא דמריא הוא בשילו מן עדן לעדן מן גרביא דבית איל<sup>19</sup> לשכים מן תימנא דלבונא
+(כ) ופקדו לבנ̈י בנימין ואמרו להון זלו כמנו<sup>20</sup> בכר̈מא
+(כא) ומא דחזיתון דנפק<sup>21</sup><sup>22</sup> בנ̈ת שילו למקש ב̈פלגא פוקו מן כר̈מא וחטופו לכון גבר אנתתה מן בנ̈ת שילו וזלו לארעא דבנימין
+(כב) ואן אתו אבהי̈הין<sup>23</sup> או א̈חיהין למדן קדמין אמרינן להון רחמו עליהון מטל דלא דברו גבר אנתתה בקרבא לא הוא אנתון יהבתון א̈נין להון דתחטון
 (כג) ועבדו הכנא בנ̈י בנימין ונסבו להון נש̈א לכלהון מן נק̈שת פ̈לגא דחטפו והפכו ואתו לירתותהון ובנו קור̈יא ואיתבו בהין
 (כד) ואזלו מן תמן בנ̈י איסריל בזבנא הו אנש לשבטה ולשרבתה ונפקו מן תמן אנש לירתותה
 (כה) ובי̈ומתא הנון לית הוא מלכא בית איסריל וכל אנש איך דשפיר בעי̈נוהי הו הו עב̇ד הוא

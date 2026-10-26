@@ -1,237 +1,237 @@
 <h1>פשיטתא - קהלת</h1>
 
-מהדורת ליידן של הפשיטתא (The Old Testament in Syriac according to the Peshiṭta Version), מתוך Peshitta Online של הוצאת בריל
+מהדורת ליידן של הפשיטתא, מתוך הוצאת בריל
 <h2>פרק א</h2>
 (א) פת̈גמוהי דקוהלת בר דויד מלכא דאורשלם
 (ב) הבל ה̈בלין אמר קוהלת הבל ה̈בלין כל מדם הבלא
-(ג) מנא יותרנא לברנשא בכל עמלא דהו עמל תחית שמשא<sup class="footnote-marker">1</sup><i class="footnote">שמיא‎ 7a1</i>
-(ד) דר<sup class="footnote-marker">2</sup><i class="footnote">דרא‎12a1fam &amp;</i> אזל ודר<sup class="footnote-marker">3</sup><i class="footnote">ודרא‎12a1fam &amp;</i> אתא וארעא לעלם קימא
+(ג) מנא יותרנא לברנשא בכל עמלא דהו עמל תחית שמשא<sup>1</sup>
+(ד) דר<sup>2</sup> אזל ודר<sup>3</sup> אתא וארעא לעלם קימא
 (ה) דנח שמשא וערב שמשא ולאתר דדנח הו תאב דמן תמן תוב נדנח
-(ו) אזל לתימנא ומתכרך לגרביא מתכרכו מתכרך ואזל רוחא ולחדר̈תה<sup class="footnote-marker">4</sup><i class="footnote">ולחרתה‎ 12a1mg &amp;</i> תאב רוחא
+(ו) אזל לתימנא ומתכרך לגרביא מתכרכו מתכרך ואזל רוחא ולחדר̈תה<sup>4</sup> תאב רוחא
 (ז) כל נח̈לא רמין בימא וימא לא מתמלא לאתר דאזלין נח̈לא לתמן הנון תיבין למאזל
-(ח) כלהון פת̈גמא לאין לא<sup class="footnote-marker">5</sup><i class="footnote">ולא‎ 7a1 &amp;</i> נסבע גברא לממללו ולא סבעא עינא למחזא ולא מליא אדנא למשמע
+(ח) כלהון פת̈גמא לאין לא<sup>5</sup> נסבע גברא לממללו ולא סבעא עינא למחזא ולא מליא אדנא למשמע
 (ט) מא דהוא הו הוא ומא דאתעבד הו מתעבד ולית מדם חדת תחית שמשא
 (י) כל דנמלל ונאמר חזי הנא חדת הו כבר הוא מן עלמין דמן לקודמין
-(יא) לית דוכרן<sup class="footnote-marker">6</sup><i class="footnote">דוכרנא‎12a1fam &amp;</i> לקדמ̈יא ואפלא לאחר̈יא דהוין לית להון דוכרן<sup class="footnote-marker">7</sup><i class="footnote">דוכרנא‎12a1fam &amp;</i> עם אילין דהוין לאחריתא
+(יא) לית דוכרן<sup>6</sup> לקדמ̈יא ואפלא לאחר̈יא דהוין לית להון דוכרן<sup>7</sup> עם אילין דהוין לאחריתא
 (יב) אנא קוהלת הוית מלכא על איסריל באורשלם
-(יג) יהבת<sup class="footnote-marker">8</sup><i class="footnote">ויהבת‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> לבי למבעא ולמתבינו בחכמתא על כל דאתעבד תחית שמשא<sup class="footnote-marker">9</sup><i class="footnote">שמיא‎ 7a1 &amp;</i> ענינא בישא יהב מריא לבנ̈י אנשא דנתענון בה
-(יד) חזית כל עבדא<sup class="footnote-marker">10</sup><i class="footnote">עבד‎12a1fam</i> דאתעבד תחית שמשא והא כל מדם הבלא וטורפא דרוחא
-(טו) מדודא לא משכח למתקן וחסירא לא משכח למתמליו<sup class="footnote-marker">11</sup><i class="footnote">למתמניו‎ 8a1, 9c1,10c1 &amp;</i>
-(טז) מללת אנא עם לבי למאמר אנא הא<sup class="footnote-marker">12</sup><i class="footnote">הא אנא‎12a1fam</i> ירבת ואוספת חכמתא על כל דהוו קדמי באורשלם ולבי חזא סוגאא דחכמתא ודאידעתא<sup class="footnote-marker">13</sup><i class="footnote">ואידעתא‎ 8a1, 10c1,12a1fam &amp;</i>
-(יז) ויהבת לבי למדע חכמתא ואידעתא ומת̈לא וסכולתנותא וידעת דאף הנא טורפא<sup class="footnote-marker">14</sup><i class="footnote">הבלא‎ 7a1</i><sup class="footnote-marker">15</sup><i class="footnote">הו‎ -7g2, 8a1*</i><sup class="footnote-marker">16</sup><i class="footnote">וטורפא‎ 7a1</i> דרוחא
-(יח) מטל דבסגיאות<sup class="footnote-marker">17</sup><i class="footnote">דבסוגאת‎ 7g2, 8a1, 9c1,10c1,11c1 &amp;</i> חכמתא סגיאות<sup class="footnote-marker">18</sup><i class="footnote">סוגאת‎ 7g2, 8a1, 9c1,10c1,11c1,12a1 &amp;</i> רוגזא ודמוסף למדע מוסף כאבא
+(יג) יהבת<sup>8</sup> לבי למבעא ולמתבינו בחכמתא על כל דאתעבד תחית שמשא<sup>9</sup> ענינא בישא יהב מריא לבנ̈י אנשא דנתענון בה
+(יד) חזית כל עבדא<sup>10</sup> דאתעבד תחית שמשא והא כל מדם הבלא וטורפא דרוחא
+(טו) מדודא לא משכח למתקן וחסירא לא משכח למתמליו<sup>11</sup>
+(טז) מללת אנא עם לבי למאמר אנא הא<sup>12</sup> ירבת ואוספת חכמתא על כל דהוו קדמי באורשלם ולבי חזא סוגאא דחכמתא ודאידעתא<sup>13</sup>
+(יז) ויהבת לבי למדע חכמתא ואידעתא ומת̈לא וסכולתנותא וידעת דאף הנא טורפא<sup>14</sup><sup>15</sup><sup>16</sup> דרוחא
+(יח) מטל דבסגיאות<sup>17</sup> חכמתא סגיאות<sup>18</sup> רוגזא ודמוסף למדע מוסף כאבא
 <h2>פרק ב</h2>
-(א) ואמרת<sup class="footnote-marker">1</sup><i class="footnote">אמרת‎ 7g2, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> אנא ללבי תא אבקיך בחדותא וחזי טבתא והא אף<sup class="footnote-marker">2</sup><i class="footnote">ואף‎ 9c1,10c1,12a1fam &amp;</i> הנא הבלא
-(ב) לגוחכא אמרת מנא הנין ולחדותא מנו<sup class="footnote-marker">3</sup><i class="footnote">מנא‎12a1fam &amp;</i> עבדתי<sup class="footnote-marker">4</sup><i class="footnote">והפכת אנא דאשיש ית‎ +7a1, 7g2 &amp;</i><sup class="footnote-marker">5</sup><i class="footnote">לבי‎ +7g2 &amp;</i><sup class="footnote-marker">6</sup><i class="footnote">לבי.‎ +7a1</i>
-(ג) רנית בלבי למבסמו בחמרא בסרי<sup class="footnote-marker">7</sup><i class="footnote">והפכת אנא דאשיש ית לבי‎ +12a1fam &amp;</i> ולבי רנא בחכמתא ואחיד בסכולתנותא עדמא דאחזא אינא טב לבנ̈י אנשא דנעבדון תחית שמשא מנין יומ̈י חי̈יהון
-(ד) אסגית<sup class="footnote-marker">8</sup><i class="footnote">לי‎ +8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> ע̇ב̈די<sup class="footnote-marker">9</sup><i class="footnote">ע̇ב̈דא‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> בנית לי בת̈א נצבת לי כר̈מא
+(א) ואמרת<sup>1</sup> אנא ללבי תא אבקיך בחדותא וחזי טבתא והא אף<sup>2</sup> הנא הבלא
+(ב) לגוחכא אמרת מנא הנין ולחדותא מנו<sup>3</sup> עבדתי<sup>4</sup><sup>5</sup><sup>6</sup>
+(ג) רנית בלבי למבסמו בחמרא בסרי<sup>7</sup> ולבי רנא בחכמתא ואחיד בסכולתנותא עדמא דאחזא אינא טב לבנ̈י אנשא דנעבדון תחית שמשא מנין יומ̈י חי̈יהון
+(ד) אסגית<sup>8</sup> ע̇ב̈די<sup>9</sup> בנית לי בת̈א נצבת לי כר̈מא
 (ה) עבדת לי גנ̈א ופר̈דיסא ונצבת בהון אי̈לנין דכול פאר̈ין
-(ו) עבדת לי יממ̈תא דמ̈יא למשקיו מנהין עבא דמפרע אי̈לנא<sup class="footnote-marker">10</sup><i class="footnote">ואי̈לנא‎ 7g2, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i>
-(ז) קנית<sup class="footnote-marker">11</sup><i class="footnote">לי‎ -7g2*, 8a1*</i> עב̣̈דא ואמה̈תא ובנ̈י ביתא הוו לי סוגאא ואף<sup class="footnote-marker">12</sup><i class="footnote">אף‎ 8a1</i> קנינא דתור̈א ודענא<sup class="footnote-marker">13</sup><i class="footnote">דענא ודתור̈א‎ 7g2</i> סגי הוא לי מן כל דהוו קדמי באורשלם
+(ו) עבדת לי יממ̈תא דמ̈יא למשקיו מנהין עבא דמפרע אי̈לנא<sup>10</sup>
+(ז) קנית<sup>11</sup> עב̣̈דא ואמה̈תא ובנ̈י ביתא הוו לי סוגאא ואף<sup>12</sup> קנינא דתור̈א ודענא<sup>13</sup> סגי הוא לי מן כל דהוו קדמי באורשלם
 (ח) כנשת לי אף כספא ודהבא וקנינא דמ̈לכא ודמדינ̈תא עבדת לי משבח̈נא ומש̈בחניתא ובסימותא בבנ̈י אנשא עבדת לי ש̈קותא וש̈קיתא
-(ט) וירבת ואוספת יתיר מן כל דהוו קדמי באורשלם ואף חכמתי<sup class="footnote-marker">14</sup><i class="footnote">קמת‎ -12a1 &amp;</i> לי<sup class="footnote-marker">15</sup><i class="footnote">לה̇‎ 8a1, 9c1,10c1,11c1 &amp;</i>
-(י) וכל דשאל עינ̈י לא כלית מנהין ולא כלית לבי<sup class="footnote-marker">16</sup><i class="footnote">ולבי לא כלית‎ 7g2</i> מן כל חדוא מטל דלבי חדי בכול עמ̈לי והדא הות מנתי מן כלה עמלי
+(ט) וירבת ואוספת יתיר מן כל דהוו קדמי באורשלם ואף חכמתי<sup>14</sup> לי<sup>15</sup>
+(י) וכל דשאל עינ̈י לא כלית מנהין ולא כלית לבי<sup>16</sup> מן כל חדוא מטל דלבי חדי בכול עמ̈לי והדא הות מנתי מן כלה עמלי
 (יא) וחרת אנא בכל ע̇בדא דעבד א̈ידי ובכל עמלא דעמלת למעבד והא כל מדם הבלא וטורפא דרוחא ולית יותרן תחית שמשא
-(יב) וחרת אנא למחזא חכמתא ומתעברנותא<sup class="footnote-marker">17</sup><i class="footnote">ולמתעברנותא‎ 8a1, 9c1,10c1,11c1, 12a1fam &amp;</i> וסכלותא<sup class="footnote-marker">18</sup><i class="footnote">וסכולתנותא‎ 7a1</i> מטל דמנו גברא דנעול בתר מלכא בדינא כן עם מ̇ן דעבדה
+(יב) וחרת אנא למחזא חכמתא ומתעברנותא<sup>17</sup> וסכלותא<sup>18</sup> מטל דמנו גברא דנעול בתר מלכא בדינא כן עם מ̇ן דעבדה
 (יג) וחזית דאית יותרן בחכמתא יתיר מן סכלותא איך דיתיר נוהרא מן חשוכא
 (יד) חכימא עי̈נוהי ברישה וסכלא בחשוכא אזל וידעת אנא דגדשא חד גדש לכלהון
-(טו) ואמרת אנא בלבי אן איך גדשא דסכלא אף לי נגדש ולמנא<sup class="footnote-marker">19</sup><i class="footnote">ועל‎ 7g2</i><sup class="footnote-marker">20</sup><i class="footnote">מנא‎ +7g2</i> אתחכמת אנא יתיראית ומללת<sup class="footnote-marker">21</sup><i class="footnote">אנא‎ +7a1</i> בלבי דאף הנא הבלא<sup class="footnote-marker">22</sup><i class="footnote">הו‎ -7g2, 8a1*</i>
-(טז) מטל דסכלא מן יתיר ממלל מטל דלית דוכרנא<sup class="footnote-marker">23</sup><i class="footnote">דוכרן‎ 7g2</i> לחכימא עם סכלא לעלם איך יומ̈תא דמן<sup class="footnote-marker">24</sup><i class="footnote">דכבר הא יומ̈תא‎ 7g2</i><sup class="footnote-marker">25</sup><i class="footnote">כדו‎ -7g2</i> אתין וכל מתטעא ואיכנא נמות חכימא עם סכלא
+(טו) ואמרת אנא בלבי אן איך גדשא דסכלא אף לי נגדש ולמנא<sup>19</sup><sup>20</sup> אתחכמת אנא יתיראית ומללת<sup>21</sup> בלבי דאף הנא הבלא<sup>22</sup>
+(טז) מטל דסכלא מן יתיר ממלל מטל דלית דוכרנא<sup>23</sup> לחכימא עם סכלא לעלם איך יומ̈תא דמן<sup>24</sup><sup>25</sup> אתין וכל מתטעא ואיכנא נמות חכימא עם סכלא
 (יז) וסנית אנא לח̈יא מטל דביש עלי עבדא דאתעבד תחית שמשא מטל דכל מדם הבלא וטורפא דרוחא
-(יח) וסנית אנא כל עמלי<sup class="footnote-marker">26</sup><i class="footnote">עמ̈לי‎12a1fam &amp;</i> דאנא עמלת תחית שמשא מטל דשבק אנא לה לגברא דהוא<sup class="footnote-marker">27</sup><i class="footnote">מן‎ -9c1,10c1,11c1,12a1fam &amp;</i> בתרי
-(יט) ומ̇ן נדע<sup class="footnote-marker">28</sup><i class="footnote">ידע‎ 7g2,12a1fam &amp;</i> אן חכים נהוא<sup class="footnote-marker">29</sup><i class="footnote">נהוא חכים‎ 7g2,12a1fam</i> ואן<sup class="footnote-marker">30</sup><i class="footnote">או‎ 7g2</i> סכל ונשתלט בכל עמ̈לי<sup class="footnote-marker">31</sup><i class="footnote">עמלי‎ 7g2, 8a1, 9c1,10c1,11c1 &amp;</i><sup class="footnote-marker">32</sup><i class="footnote">דאנא‎ +8a1c</i> דעמלת<sup class="footnote-marker">33</sup><i class="footnote">דאנא‎ 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">34</sup><i class="footnote">עמלת‎ +9c1,10c1,11c1,12a1fam &amp;</i> ודאתחכמת<sup class="footnote-marker">35</sup><i class="footnote">ואתחכמת‎ 7g2, 8a1*,11c1, 12a1fam &amp;</i> תחית שמשא ואף<sup class="footnote-marker">36</sup><i class="footnote">אף‎ 7g2</i> הנא הבלא
-(כ) והפכת אנא למפסו<sup class="footnote-marker">37</sup><i class="footnote">דאשיש‎ 8a1c, 9c1,10c1,11c1 &amp;</i><sup class="footnote-marker">38</sup><i class="footnote">ית‎ +9c1,10c1, 11c1 &amp;</i> לבי על כול עמלא דעמלת תחית שמשא
+(יח) וסנית אנא כל עמלי<sup>26</sup> דאנא עמלת תחית שמשא מטל דשבק אנא לה לגברא דהוא<sup>27</sup> בתרי
+(יט) ומ̇ן נדע<sup>28</sup> אן חכים נהוא<sup>29</sup> ואן<sup>30</sup> סכל ונשתלט בכל עמ̈לי<sup>31</sup><sup>32</sup> דעמלת<sup>33</sup><sup>34</sup> ודאתחכמת<sup>35</sup> תחית שמשא ואף<sup>36</sup> הנא הבלא
+(כ) והפכת אנא למפסו<sup>37</sup><sup>38</sup> לבי על כול עמלא דעמלת תחית שמשא
 (כא) מטל דאית גברא דעמלה בחכמתא ובידעתא ובכשירותא ולאנשא דלא עמל בה̇ יהב לה̇ מנתה ואף הנא הבלא ובישתא רבתא
 (כב) דמנא הוא לברנשא בכל עמלה ובצבינא דלבה דהו עמל תחית שמשא
 (כג) מטל דכל יומ̈והי כאבא ורוגזא ענינה ואף בלליא לא שכב לבה ואף הנא הבלא
-(כד) לית דטב לגברא אלא דנאכול ודנשתא ודנחוא טבתא לנפשה בעמלה אף<sup class="footnote-marker">39</sup><i class="footnote">ואף‎ 9c1, 10c1,11c1,12a1fam &amp;</i> הדא חזית דמן אידא הי דמריא
+(כד) לית דטב לגברא אלא דנאכול ודנשתא ודנחוא טבתא לנפשה בעמלה אף<sup>39</sup> הדא חזית דמן אידא הי דמריא
 (כה) מטל דמנו נאכול ומנו נשתא לבר מנה
-(כו) מטל דלגברא דטב קדמוהי יהב חכמתא וידעתא וחדותא ולח̈טיא יהב ענינא למוספו ולמכנשו ולמתל לדטב קדם מריא ואף<sup class="footnote-marker">40</sup><i class="footnote">אף‎ 7g2</i> הנא הבלא וטורפא דרוחא
+(כו) מטל דלגברא דטב קדמוהי יהב חכמתא וידעתא וחדותא ולח̈טיא יהב ענינא למוספו ולמכנשו ולמתל לדטב קדם מריא ואף<sup>40</sup> הנא הבלא וטורפא דרוחא
 <h2>פרק ג</h2>
 (א) לכל מדם זבנא וזבנא לכל צבו תחית שמשא
 (ב) זבנא למאלד וזבנא לממת זבנא למצב וזבנא למעקר נציבא
 (ג) זבנא למקטל וזבנא למחיו זבנא למסתר וזבנא למבנא
 (ד) זבנא למבכא וזבנא למגחך זבנא למ̣רקדו וזבנא למ̇רקדו
-(ה) זבנא למרמיו כא̈פא וזבנא למכנשו כא̈פא זבנא למעפק וזבנא למתרחקו<sup class="footnote-marker">1</sup><i class="footnote">למרחקו‎12a1fam &amp;</i> מן עפוקיא
+(ה) זבנא למרמיו כא̈פא וזבנא למכנשו כא̈פא זבנא למעפק וזבנא למתרחקו<sup>1</sup> מן עפוקיא
 (ו) זבנא למובדו וזבנא למבעא זבנא למקטר וזבנא למשרא
 (ז) זבנא למצרא וזבנא למחט זבנא למשתק וזבנא לממללו
 (ח) זבנא למרחם וזבנא למסנא זבנא דקרבא וזבנא דשלמא
-(ט) מנא<sup class="footnote-marker">2</sup><i class="footnote">ומנא‎12a1fam</i> יותרן<sup class="footnote-marker">3</sup><i class="footnote">לבר אנשא‎ -9c1,10c1,11c1,12a1fam &amp;</i> בעבדא דהו עמל<sup class="footnote-marker">4</sup><i class="footnote">תחית שמשא‎ -9c1,10c1,11c1,12a1fam &amp;</i>
+(ט) מנא<sup>2</sup> יותרן<sup>3</sup> בעבדא דהו עמל<sup>4</sup>
 (י) חזית ענינא דיהב מריא לבנ̈י אנשא למתעניו בה
-(יא) כול<sup class="footnote-marker">5</sup><i class="footnote">וכול‎ 7g2 &amp;</i> דעבד דשפיר<sup class="footnote-marker">6</sup><i class="footnote">שפיר‎ 7g2 &amp;</i> בזבנה ואף<sup class="footnote-marker">7</sup><i class="footnote">אף‎ 7g2</i> עמלא<sup class="footnote-marker">8</sup><i class="footnote">וית עלמא‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> יהב בלבהון<sup class="footnote-marker">9</sup><i class="footnote">איך‎ -7g2</i> דלא נשכח אנשא עבדא<sup class="footnote-marker">10</sup><i class="footnote">עב̈דא‎ 7g2</i> דעבד מריא מן רשיתא ועדמא<sup class="footnote-marker">11</sup><i class="footnote">עדמא‎ 9c1, 10c1,11c1 &amp;</i> לאחריתא<sup class="footnote-marker">12</sup><i class="footnote">לאחרתא‎ 7a1</i>
+(יא) כול<sup>5</sup> דעבד דשפיר<sup>6</sup> בזבנה ואף<sup>7</sup> עמלא<sup>8</sup> יהב בלבהון<sup>9</sup> דלא נשכח אנשא עבדא<sup>10</sup> דעבד מריא מן רשיתא ועדמא<sup>11</sup> לאחריתא<sup>12</sup>
 (יב) וידעת דלית דטב בהון אלא למחדא ולמעבד דטב בחי̈יהון
-(יג) ואף כל אנש דנאכול ונשתא ונחזא טבתא בכל עמלה<sup class="footnote-marker">13</sup><i class="footnote">הדא‎ -7g2, 8a1*, 9c1, 10c1,11c1,12a1fam &amp;</i> מוהבתא הי דמריא
-(יד) ידעת<sup class="footnote-marker">14</sup><i class="footnote">וידעת‎ 8a1 &amp;</i> דכל<sup class="footnote-marker">15</sup><i class="footnote">כל‎11c1 &amp;</i> דעבד מריא הו נהוא לעלם עלוהי לית למוספו ומנה לית למבצר<sup class="footnote-marker">16</sup><i class="footnote">למבצרו‎12a1 &amp;</i> ומריא עבד דנדחלון מנה<sup class="footnote-marker">17</sup><i class="footnote">לה‎ 7g2</i>
-(טו) מא<sup class="footnote-marker">18</sup><i class="footnote">ומא‎12a1fam</i> דהוא מן כדו איתוהי וכל מא דנהוא מן סגי הוא ואלהא נבעא לרדיפא דמתרדף
+(יג) ואף כל אנש דנאכול ונשתא ונחזא טבתא בכל עמלה<sup>13</sup> מוהבתא הי דמריא
+(יד) ידעת<sup>14</sup> דכל<sup>15</sup> דעבד מריא הו נהוא לעלם עלוהי לית למוספו ומנה לית למבצר<sup>16</sup> ומריא עבד דנדחלון מנה<sup>17</sup>
+(טו) מא<sup>18</sup> דהוא מן כדו איתוהי וכל מא דנהוא מן סגי הוא ואלהא נבעא לרדיפא דמתרדף
 (טז) ותוב חזית תחית שמשא אתר דדינא תמן רושעא ואתר דזדקא תמן עולא
-(יז) ואמרת אנא בלבי ית זדיקא<sup class="footnote-marker">19</sup><i class="footnote">זד̈יקא‎ 7g2, 8a1, 9c1,10c1,11c1 &amp;</i> וית רשיעא<sup class="footnote-marker">20</sup><i class="footnote">רש̈יעא‎ 7g2, 8a1, 9c1,10c1,11c1 &amp;</i> אלהא דאן מטל דזבנא לכל צבו ולכל עבד תמן
-(יח) אמרת אנא בלבי על ממללא דבנ̈י אנשא דברא אנון אלהא ולמחויו<sup class="footnote-marker">21</sup><i class="footnote">למחויו‎ 11c1</i> דהנון איך בעירא אנון
-(יט) להון מטא גדשא דבנ̈י אנשא וגדשא דבעירא גדשא חד גדש לכלהון איך מותה דהנא<sup class="footnote-marker">22</sup><i class="footnote">הכנא מאת‎ -7g2</i><sup class="footnote-marker">23</sup><i class="footnote">אף‎ -8a1, 9c1,10c1,11c1,12a1fam &amp;</i> הנא וחדא רוחא לכלהון ומיתרותה דברנשא מן בעירא<sup class="footnote-marker">24</sup><i class="footnote">דבעירא‎11c1</i> לית מטל דכל מדם הבלא
+(יז) ואמרת אנא בלבי ית זדיקא<sup>19</sup> וית רשיעא<sup>20</sup> אלהא דאן מטל דזבנא לכל צבו ולכל עבד תמן
+(יח) אמרת אנא בלבי על ממללא דבנ̈י אנשא דברא אנון אלהא ולמחויו<sup>21</sup> דהנון איך בעירא אנון
+(יט) להון מטא גדשא דבנ̈י אנשא וגדשא דבעירא גדשא חד גדש לכלהון איך מותה דהנא<sup>22</sup><sup>23</sup> הנא וחדא רוחא לכלהון ומיתרותה דברנשא מן בעירא<sup>24</sup> לית מטל דכל מדם הבלא
 (כ) כל אזל לאתרא חד כל הוא מן עפרא וכל הפך לעפרא
-(כא) ומנו<sup class="footnote-marker">25</sup><i class="footnote">ומן‎ 7g2</i> ידע אן רוח בנ̈י אנשא סלקא לעל ורוח בעירא נחתא<sup class="footnote-marker">26</sup><i class="footnote">הי‎ -7g2 &amp;</i> לתחת לארעא<sup class="footnote-marker">27</sup><i class="footnote">בארעא‎ 7g2</i>
-(כב) וחזית דלית דטב בהון אלא דנחדא אנש<sup class="footnote-marker">28</sup><i class="footnote">אנשא‎ 7a1</i> בעב̈דוהי מטל דהי הי מנתה מטל דמנו ניתיוהי למחזא בכל דנהוא מן בתרה
+(כא) ומנו<sup>25</sup> ידע אן רוח בנ̈י אנשא סלקא לעל ורוח בעירא נחתא<sup>26</sup> לתחת לארעא<sup>27</sup>
+(כב) וחזית דלית דטב בהון אלא דנחדא אנש<sup>28</sup> בעב̈דוהי מטל דהי הי מנתה מטל דמנו ניתיוהי למחזא בכל דנהוא מן בתרה
 <h2>פרק ד</h2>
-(א) והפכת אנא וחזית ית כל טלו̈מיא דמתעבדין תחית שמשא הא דמ̈עא דטלימ̈א ולית להון מביאנא מן אידא דטלומ̈יהון חילא ולית להון מעדרנא<sup class="footnote-marker">1</sup><i class="footnote">מפצינא‎ 7g2 &amp;</i>
-(ב) ושבחת אנא למ̈יתא דכבר<sup class="footnote-marker">2</sup><i class="footnote">דמן‎ 7g2</i><sup class="footnote-marker">3</sup><i class="footnote">כדו‎ +7g2</i> מיתו מן<sup class="footnote-marker">4</sup><i class="footnote">ומן‎12a1fam</i> חי̈א דהנון חי̈ין עדמא להשא
-(ג) טב דין מן תר̈יהון<sup class="footnote-marker">5</sup><i class="footnote">הלין‎ -7g2</i> מ̇ן דעדכיל לא הוא מטל<sup class="footnote-marker">6</sup><i class="footnote">ולא‎ 7g2</i><sup class="footnote-marker">7</sup><i class="footnote">דלא‎ -7g2</i> חזא עבדא בישא דאתעבד תחית שמשא
-(ד) וחזית אנא כל עמ̈לא וכל כשר̈א דעבדא<sup class="footnote-marker">8</sup><i class="footnote">יר̈ותא דע̈בדא‎ 7a1</i> מטל דטננה דגברא מן חברה ואף הנא הבלא<sup class="footnote-marker">9</sup><i class="footnote">הו‎ -7g2, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> וטורפא דרוחא
+(א) והפכת אנא וחזית ית כל טלו̈מיא דמתעבדין תחית שמשא הא דמ̈עא דטלימ̈א ולית להון מביאנא מן אידא דטלומ̈יהון חילא ולית להון מעדרנא<sup>1</sup>
+(ב) ושבחת אנא למ̈יתא דכבר<sup>2</sup><sup>3</sup> מיתו מן<sup>4</sup> חי̈א דהנון חי̈ין עדמא להשא
+(ג) טב דין מן תר̈יהון<sup>5</sup> מ̇ן דעדכיל לא הוא מטל<sup>6</sup><sup>7</sup> חזא עבדא בישא דאתעבד תחית שמשא
+(ד) וחזית אנא כל עמ̈לא וכל כשר̈א דעבדא<sup>8</sup> מטל דטננה דגברא מן חברה ואף הנא הבלא<sup>9</sup> וטורפא דרוחא
 (ה) סכלא מעפק א̈ידוהי ואכל בסרה
 (ו) טב מלא שועלא ניחא מן מלא ח̈ופנא עמלא וטורפא דרוחא
 (ז) והפכת אנא וחזית הבלא תחית שמשא
-(ח) אית חד ולית תר̈ין ואף<sup class="footnote-marker">10</sup><i class="footnote">וברא‎ 7g2, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">11</sup><i class="footnote">ברא‎ -7g2, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> ואחא לית לה ולית סוף לכל עמלה ואף עינה לא סבעא עותרא ולמן אנא עמל ומחסר נפשי מן טבתא ואף הנא הבלא<sup class="footnote-marker">12</sup><i class="footnote">הו‎ -7g2,11c1* &amp;</i> וענינא בישא
+(ח) אית חד ולית תר̈ין ואף<sup>10</sup><sup>11</sup> ואחא לית לה ולית סוף לכל עמלה ואף עינה לא סבעא עותרא ולמן אנא עמל ומחסר נפשי מן טבתא ואף הנא הבלא<sup>12</sup> וענינא בישא
 (ט) טבי̈ן תר̈ין מן חד דאית להון אגרא טבא בעמלהון
-(י) דאן נפל<sup class="footnote-marker">13</sup><i class="footnote">נפלון.‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> חד מקים<sup class="footnote-marker">14</sup><i class="footnote">לה‎ -7g2, 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> חברה וי<sup class="footnote-marker">15</sup><i class="footnote">דוי‎ 8a1c, 9c1,10c1, 11c1,12a1fam &amp;</i> לה<sup class="footnote-marker">16</sup><i class="footnote">דין‎ +7g2 &amp;</i> לחד דאן נפל לית מ̇ן דנקימיוהי
-(יא) ואן נשכבון תר̈ין נשחנון וחד איכנא<sup class="footnote-marker">17</sup><i class="footnote">איכן‎12a1fam</i> נשחן
-(יב) ואן נעשן חד תר̈יהון<sup class="footnote-marker">18</sup><i class="footnote">תר̈ין‎ 7g2</i> נקומון לקובלה וחוטא דתלתא לא עגל מתפסק
-(יג) טב טליא דמסכין וחכים מן מלכא סבא דסכל דלא<sup class="footnote-marker">19</sup><i class="footnote">ולא‎12a1fam</i> ידע למזדהרו<sup class="footnote-marker">20</sup><i class="footnote">תוב‎ -7g2</i>
+(י) דאן נפל<sup>13</sup> חד מקים<sup>14</sup> חברה וי<sup>15</sup> לה<sup>16</sup> לחד דאן נפל לית מ̇ן דנקימיוהי
+(יא) ואן נשכבון תר̈ין נשחנון וחד איכנא<sup>17</sup> נשחן
+(יב) ואן נעשן חד תר̈יהון<sup>18</sup> נקומון לקובלה וחוטא דתלתא לא עגל מתפסק
+(יג) טב טליא דמסכין וחכים מן מלכא סבא דסכל דלא<sup>19</sup> ידע למזדהרו<sup>20</sup>
 (יד) מטל דמן בית אסיר̈א נפק לממלכו מטל דאף במלכותה אתילד מסכין
-(טו) וחזית<sup class="footnote-marker">21</sup><i class="footnote">חזית‎ 8a1, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">22</sup><i class="footnote">אנא‎ +7g2, 8a1, 9c1, 10c1,11c1,12a1fam &amp;</i> כול חי̈א דמהלכין תחית שמשא עם עלימא תנינא דנקום חלפוהי
+(טו) וחזית<sup>21</sup><sup>22</sup> כול חי̈א דמהלכין תחית שמשא עם עלימא תנינא דנקום חלפוהי
 (טז) ולית סוף לכל עמא לכלהון דהוו קדמוהי ואף אחר̈יא לא נחדון בה מטל דאף הנא הבלא וטורפא דרוחא
-(יז) טר<sup class="footnote-marker">23</sup><i class="footnote">דטר‎ 8a1</i> רגלך מא דאזל אנת לבית אלהא וקרוב למשמע טב מן מוה̈בתא דדבח̈א דסכ̈לא<sup class="footnote-marker">24</sup><i class="footnote">דסכ̈לא דב̈חא‎ 8a1, 9c1,10c1,11c1 &amp;</i> מטל דלא ידעין למעבד דטב
+(יז) טר<sup>23</sup> רגלך מא דאזל אנת לבית אלהא וקרוב למשמע טב מן מוה̈בתא דדבח̈א דסכ̈לא<sup>24</sup> מטל דלא ידעין למעבד דטב
 <h2>פרק ה</h2>
 (א) לא תסתרהב בפומך ולבך לא נסתרהב למפקו מלתא קדם אלהא מטל דאלהא בשמיא ואנת בארעא מטל הנא נהוון פתגמ̈יך זעור̈ין
-(ב) מטל דאתא חלמא בסוגאת<sup class="footnote-marker">1</sup><i class="footnote">בסגיאות‎12a1fam</i> ענינא וקלה דסכלא בסוגאת<sup class="footnote-marker">2</sup><i class="footnote">בסגיאות‎12a1fam</i> פת̈גמא
-(ג) אמתי דנדר אנת<sup class="footnote-marker">3</sup><i class="footnote">דין‎ +10c1 &amp;</i> נדרא לאלהא לא תשתוחר למשלמותה מטל דלית צבינא בס̈כלא<sup class="footnote-marker">4</sup><i class="footnote">בסכלא‎12a1fam</i> אנת<sup class="footnote-marker">5</sup><i class="footnote">דין‎ +8a1c, 9c1,10c1,11c1, 12a1fam &amp;</i> מדם דנדר אנת פרוע
-(ד) טב<sup class="footnote-marker">6</sup><i class="footnote">הו‎ +8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> דלא תדור מן דתדור ולא תשלם
+(ב) מטל דאתא חלמא בסוגאת<sup>1</sup> ענינא וקלה דסכלא בסוגאת<sup>2</sup> פת̈גמא
+(ג) אמתי דנדר אנת<sup>3</sup> נדרא לאלהא לא תשתוחר למשלמותה מטל דלית צבינא בס̈כלא<sup>4</sup> אנת<sup>5</sup> מדם דנדר אנת פרוע
+(ד) טב<sup>6</sup> דלא תדור מן דתדור ולא תשלם
 (ה) לא תתל פומך למחטיו בסרך ולא תאמר קדם אלהא דטועיי הי דלמא נרגז אלהא על קלך ונחבל עבדא דא̈ידיך
-(ו) מטל דבסוגאת<sup class="footnote-marker">7</sup><i class="footnote">דבסגיאות‎12a1fam</i> ח̈למא והב̈לא ופתגמ̈א ס̈גיאא<sup class="footnote-marker">8</sup><i class="footnote">דטועיי‎ +8a1, 9c1,10c1,11c1,12a1fam &amp;</i> אנת לאלהא דחל
-(ז) ואן עולבנא דמס̈כנא וחטופיא ודינא תחזא במדינתא לא תתמה בה̇ בצבותא מטל דרמא לעל מן רמא נטר ורמין עליהון<sup class="footnote-marker">9</sup><i class="footnote">עלוהי‎ 8a1, 9c1</i>
-(ח) ויותרנא<sup class="footnote-marker">10</sup><i class="footnote">ויורתנא‎ 8a1,11c1 &amp;</i><sup class="footnote-marker">11</sup><i class="footnote">יור̈תנא‎12a1 &amp;</i><sup class="footnote-marker">12</sup><i class="footnote">יותרנא‎ 7g2, 9c1, 10c1 &amp;</i> דארעא בכל הו מלכא לחקלא מפלח<sup class="footnote-marker">13</sup><i class="footnote">פלח‎12a1 &amp;</i>
+(ו) מטל דבסוגאת<sup>7</sup> ח̈למא והב̈לא ופתגמ̈א ס̈גיאא<sup>8</sup> אנת לאלהא דחל
+(ז) ואן עולבנא דמס̈כנא וחטופיא ודינא תחזא במדינתא לא תתמה בה̇ בצבותא מטל דרמא לעל מן רמא נטר ורמין עליהון<sup>9</sup>
+(ח) ויותרנא<sup>10</sup><sup>11</sup><sup>12</sup> דארעא בכל הו מלכא לחקלא מפלח<sup>13</sup>
 (ט) דרחם כספא לא נסבע כספא ודרחם ממונא לא נקדיוהי ואף הנא הבלא
-(י) בסוגאא דטבתא סגיו א̈כוליה̇ ומנא יותרנא<sup class="footnote-marker">14</sup><i class="footnote">והות כשירא‎ 7g2, 8a1c, 9c1, 10c1,11c1,12a1fam &amp;</i> לקניה̇<sup class="footnote-marker">15</sup><i class="footnote">לקני̈יה̇‎ 7g2, 8a1, 9c1,10c1,11c1, 12a1fam &amp;</i> אלא אן חזתא דעי̈נוהי<sup class="footnote-marker">16</sup><i class="footnote">מטל דמן רישי חזית‎ 7g2, 8a1c, 9c1, 10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">17</sup><i class="footnote">בעי̈ני‎ +7g2, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i>
+(י) בסוגאא דטבתא סגיו א̈כוליה̇ ומנא יותרנא<sup>14</sup> לקניה̇<sup>15</sup> אלא אן חזתא דעי̈נוהי<sup>16</sup><sup>17</sup>
 (יא) חליא שנתא לפלחא אן זעור ואן סגי אכל וסבעא לעתירא לא שבק לה למדמך
-(יב) אית כורהנא דבישתא<sup class="footnote-marker">18</sup><i class="footnote">אית גיר בישתא‎ 7g2</i> דחזית תחית שמשא עותרא דמתנטר למרה לבישתה<sup class="footnote-marker">19</sup><i class="footnote">לבישתא‎ 7g2 &amp;</i>
-(יג) ואבד עותרא ה̇ו בענינא בישא דאולד ברא ולא<sup class="footnote-marker">20</sup><i class="footnote">ולית‎ 7g2</i><sup class="footnote-marker">21</sup><i class="footnote">אית‎ -7g2</i> באידה מדם<sup class="footnote-marker">22</sup><i class="footnote">מדם באידה‎12a1fam</i>
-(יד) איכנא דנפק מן כרסא<sup class="footnote-marker">23</sup><i class="footnote">כרסה̇‎ 8a1c, 9c1,10c1,11c1 &amp;</i> דאמה ערטל נהפוך למאזל איך דאתא ומדם לא נסב בעמלה דנאזל באידה
-(טו) ואף<sup class="footnote-marker">24</sup><i class="footnote">אף‎ 7g2</i> הנא<sup class="footnote-marker">25</sup><i class="footnote">הבלא הו‎ +7g2</i> כורהנא<sup class="footnote-marker">26</sup><i class="footnote">וכורהנא‎ 7g2</i> בישא איכנא גיר דאתא הכנא אזל ומנא יותרנא<sup class="footnote-marker">27</sup><i class="footnote">יות̈רנא‎ 9c1 &amp;</i><sup class="footnote-marker">28</sup><i class="footnote">יותרן‎ 7g2</i> בכל דעמל לרוחא
-(טז) ואף כל יומ̈והי בחשוכא אכל וברוגזא סגיאא<sup class="footnote-marker">29</sup><i class="footnote">ובחמתא‎ -7g2</i><sup class="footnote-marker">30</sup><i class="footnote">ובאבלא‎ -7g2, 8a1*</i> ובכורהנא<sup class="footnote-marker">31</sup><i class="footnote">ובחמתא‎ -7g2, 8a1, 9c1,10c1,11c1 &amp;</i>
-(יז) הנא מדם דחזית אנא קוהלת טב הו ושפיר למאכל ולמשתא ולמחזא טבתא בכל עמלה<sup class="footnote-marker">32</sup><i class="footnote">עמלא‎ 7g2 &amp;</i> דעמל<sup class="footnote-marker">33</sup><i class="footnote">דהו‎ 7g2, 9c1 &amp;</i><sup class="footnote-marker">34</sup><i class="footnote">עמל‎ +7g2, 9c1 &amp;</i> תחית שמשא מ̈נין יומ̈תא דח̈יוהי<sup class="footnote-marker">35</sup><i class="footnote">יומי חיוהי‎ 7g2</i> דיהב לה מריא מטל דהויו מנתה
-(יח) ואף כל אנש דיהב לה מריא עותרא ונכס̈א ואשלטה למאכל מנה<sup class="footnote-marker">36</sup><i class="footnote">מנהון‎ 7g2, 8a1, 9c1,10c1,11c1 &amp;</i> ולמסב מנתה ולמחדא בעמלה<sup class="footnote-marker">37</sup><i class="footnote">אף‎ -7g2, 8a1*, 9c1, 10c1,11c1 &amp;</i><sup class="footnote-marker">38</sup><i class="footnote">ואף‎ 8a1c &amp;</i> הדא מוהבתא הי דאלהא
+(יב) אית כורהנא דבישתא<sup>18</sup> דחזית תחית שמשא עותרא דמתנטר למרה לבישתה<sup>19</sup>
+(יג) ואבד עותרא ה̇ו בענינא בישא דאולד ברא ולא<sup>20</sup><sup>21</sup> באידה מדם<sup>22</sup>
+(יד) איכנא דנפק מן כרסא<sup>23</sup> דאמה ערטל נהפוך למאזל איך דאתא ומדם לא נסב בעמלה דנאזל באידה
+(טו) ואף<sup>24</sup> הנא<sup>25</sup> כורהנא<sup>26</sup> בישא איכנא גיר דאתא הכנא אזל ומנא יותרנא<sup>27</sup><sup>28</sup> בכל דעמל לרוחא
+(טז) ואף כל יומ̈והי בחשוכא אכל וברוגזא סגיאא<sup>29</sup><sup>30</sup> ובכורהנא<sup>31</sup>
+(יז) הנא מדם דחזית אנא קוהלת טב הו ושפיר למאכל ולמשתא ולמחזא טבתא בכל עמלה<sup>32</sup> דעמל<sup>33</sup><sup>34</sup> תחית שמשא מ̈נין יומ̈תא דח̈יוהי<sup>35</sup> דיהב לה מריא מטל דהויו מנתה
+(יח) ואף כל אנש דיהב לה מריא עותרא ונכס̈א ואשלטה למאכל מנה<sup>36</sup> ולמסב מנתה ולמחדא בעמלה<sup>37</sup><sup>38</sup> הדא מוהבתא הי דאלהא
 (יט) מטל דלו סגי נעהד יומ̈תא דחי̈והי מטל דאלהא מענא לה בחדותא דלבה
 <h2>פרק ו</h2>
 (א) אית בישתא דחזית תחית שמשא וסגיאא הי על בנ̈י אנשא
-(ב) גברא דנתל לה אלהא עותרא ונכס̈א ואיקרא ולא חסיר לנפשה מדם מן כל מא דראג ולא אשלטה אלהא למאכל מנה אלא גבר נוכרי נאכליוהי מן בתרה הנא הבלא וכריותא<sup class="footnote-marker">1</sup><i class="footnote">וכריהותא‎ 8a1, 9c1,11c1 &amp;</i> הי
-(ג) אן<sup class="footnote-marker">2</sup><i class="footnote">ואן‎ 7a1</i> נולד גברא מאא וש̈נין ס̈גיאן נחא ונסגון יומ̈תא דש̈נוהי ונפשה לא תסבע מן טב̈תא ואף קבורתא לא תהוא לה אמרת דטב הו מנה יחטא
+(ב) גברא דנתל לה אלהא עותרא ונכס̈א ואיקרא ולא חסיר לנפשה מדם מן כל מא דראג ולא אשלטה אלהא למאכל מנה אלא גבר נוכרי נאכליוהי מן בתרה הנא הבלא וכריותא<sup>1</sup> הי
+(ג) אן<sup>2</sup> נולד גברא מאא וש̈נין ס̈גיאן נחא ונסגון יומ̈תא דש̈נוהי ונפשה לא תסבע מן טב̈תא ואף קבורתא לא תהוא לה אמרת דטב הו מנה יחטא
 (ד) מטל דבהבלא אתא ובחשוכא נאזל ובחשוכא שמה נתכסא
-(ה) אף<sup class="footnote-marker">3</sup><i class="footnote">ושמשא‎ 8a1c, 9c1,10c1,11c1 &amp;</i><sup class="footnote-marker">4</sup><i class="footnote">שמשא‎ -8a1c, 9c1,10c1,11c1 &amp;</i> לא חזא ולא ידע ניח להנא טב מן דלהנא
-(ו) ואלו חיא אלף ש̈נין דתר̈תין זב̈נין וטבתא לא חזא דלמא לא הוא לחד אתרא אזל כולא<sup class="footnote-marker">5</sup><i class="footnote">כול‎ 8a1</i>
+(ה) אף<sup>3</sup><sup>4</sup> לא חזא ולא ידע ניח להנא טב מן דלהנא
+(ו) ואלו חיא אלף ש̈נין דתר̈תין זב̈נין וטבתא לא חזא דלמא לא הוא לחד אתרא אזל כולא<sup>5</sup>
 (ז) כל דעמל אנשא בפומה ונפשה לא מליא
 (ח) מטל דאית יותרנא לחכימא מן דלסכלא למנא דמסכנא ידע למאזל לח̈יא
-(ט) טב חזוא דעי̈נא מן הלכתא דנפשא ואף הדא<sup class="footnote-marker">6</sup><i class="footnote">הנא‎ 8a1, 9c1,10c1,11c1 &amp;</i> הבלא וטורפא דנפשא<sup class="footnote-marker">7</sup><i class="footnote">דרוחא‎ 8a1 &amp;</i>
-(י) מדם דהוא מן<sup class="footnote-marker">8</sup><i class="footnote">מנדריש‎12a1fam &amp;</i><sup class="footnote-marker">9</sup><i class="footnote">קדים‎ -12a1fam &amp;</i> אתקרי שמה ואתידע דהו ברנשא ולא<sup class="footnote-marker">10</sup><i class="footnote">דלא‎12a1fam</i> משכח למדן עם מ̇ן דתקיף מנה
-(יא) מטל דאית פתגמ̈א ס̈גיאא דמסגין הבלא מנא יותרנא<sup class="footnote-marker">11</sup><i class="footnote">אית‎ +8a1, 9c1,10c1, 11c1 &amp;</i> לברנשא
-(יב) מטל דמנו ידע מנא טב לברנשא בח̈יוהי מ̈נין יומ̈י ח̈יי<sup class="footnote-marker">12</sup><i class="footnote">חי̈והי‎12a1fam &amp;</i> הבלה ועבר אנון איך טללא מנו נחוא לברנשא מנא נהוא מן בתרה תחית שמשא
+(ט) טב חזוא דעי̈נא מן הלכתא דנפשא ואף הדא<sup>6</sup> הבלא וטורפא דנפשא<sup>7</sup>
+(י) מדם דהוא מן<sup>8</sup><sup>9</sup> אתקרי שמה ואתידע דהו ברנשא ולא<sup>10</sup> משכח למדן עם מ̇ן דתקיף מנה
+(יא) מטל דאית פתגמ̈א ס̈גיאא דמסגין הבלא מנא יותרנא<sup>11</sup> לברנשא
+(יב) מטל דמנו ידע מנא טב לברנשא בח̈יוהי מ̈נין יומ̈י ח̈יי<sup>12</sup> הבלה ועבר אנון איך טללא מנו נחוא לברנשא מנא נהוא מן בתרה תחית שמשא
 <h2>פרק ז</h2>
-(א) טב שמא<sup class="footnote-marker">1</sup><i class="footnote">טבא‎ +12a1fam &amp;</i> מן משחא טבא ויומא דמותא טב מן יומא דאילידותא
+(א) טב שמא<sup>1</sup> מן משחא טבא ויומא דמותא טב מן יומא דאילידותא
 (ב) טב למאזל לבית ב̈כא מן דלמאזל לבית משתותא מטל דהדא הי חרתא דכלהון בנ̈י אנשא ודחי יהב טבתא ללבה
 (ג) טב רוגזא מן גוחכא מטל דבבישות א̈פא נטאב לבא
-(ד) לבא דח̈כימא בבית<sup class="footnote-marker">2</sup><i class="footnote">בית‎12a1 &amp;</i> אבלא ולבא דסכ̈לא בית<sup class="footnote-marker">3</sup><i class="footnote">בבית‎ 7a1, 9l1</i> חדותא
+(ד) לבא דח̈כימא בבית<sup>2</sup> אבלא ולבא דסכ̈לא בית<sup>3</sup> חדותא
 (ה) טב למשמע כאתא דח̈כימא מן גברא דשמע זמרא דס̈כלא
-(ו) מטול<sup class="footnote-marker">4</sup><i class="footnote">איך‎ 8a1c,10c1 &amp;</i><sup class="footnote-marker">5</sup><i class="footnote">ואיך‎11c1 &amp;</i><sup class="footnote-marker">6</sup><i class="footnote">דאיך‎ -8a1c,10c1,11c1 &amp;</i> קלא דכו̈בא תחית קדסא הכנא גוחכהון דס̈כלא ואף הנא הבלא
-(ז) מטול דעשוקיא מובד לחכימא<sup class="footnote-marker">7</sup><i class="footnote">לחכ̈ימא‎11c1,12a1fam &amp;</i> ומובדא ללבא<sup class="footnote-marker">8</sup><i class="footnote">ומובד לבא‎ 8a1c, 9c1,10c1,11c1 &amp;</i> מוהבתא<sup class="footnote-marker">9</sup><i class="footnote">דיהק̈ביה̇‎10c1,11c1 &amp;</i><sup class="footnote-marker">10</sup><i class="footnote">דיהובה‎ 8a1c, 9c1 &amp;</i>
-(ח) טבא הי אחריתה דפתגמא מן קדמיתה וטבא<sup class="footnote-marker">11</sup><i class="footnote">הי‎ -8a1, 9c1,10c1,11c1, 12a1fam &amp;</i> נגירות רוחא מן רמות רוחא
-(ט) לא תסתרהב ברוחך למרגז מטל דרוגזא בעובא דס̈כלא<sup class="footnote-marker">12</sup><i class="footnote">דרוגזהון דס̈כלא בעובהון‎ 8a1, 9c1,10c1,11c1 &amp;</i> נתתניח
+(ו) מטול<sup>4</sup><sup>5</sup><sup>6</sup> קלא דכו̈בא תחית קדסא הכנא גוחכהון דס̈כלא ואף הנא הבלא
+(ז) מטול דעשוקיא מובד לחכימא<sup>7</sup> ומובדא ללבא<sup>8</sup> מוהבתא<sup>9</sup><sup>10</sup>
+(ח) טבא הי אחריתה דפתגמא מן קדמיתה וטבא<sup>11</sup> נגירות רוחא מן רמות רוחא
+(ט) לא תסתרהב ברוחך למרגז מטל דרוגזא בעובא דס̈כלא<sup>12</sup> נתתניח
 (י) לא תאמר מנא הוא דיומ̈תא קדמ̈יא טב̈ין הוו מן הלין מטל דלא הוא בחכמתא שאל אנת על הלין
 (יא) טבא הי חכמתא מן מא̈ני זינא ויתיר לח̈זיי שמשא
 (יב) מטל דטללא דחכמתא איך טללא דכספא ויתירותא דאידעתא דחכמתא תחא מרה̇
 (יג) חזי ע̇בדא דאלהא מטל דמ̇ן הו משכח למתקנו למ̇ן דמדוד הו
-(יד) ביומא דטבתא הוי בטב וביומא דבישתא חזי<sup class="footnote-marker">13</sup><i class="footnote">נפשך‎ -8a1c, 9c1,10c1,11c1 &amp;</i> אף הנא לוקבל הנא עבד אלהא על ממללא דלא נשכח<sup class="footnote-marker">14</sup><i class="footnote">משכח‎12a1 &amp;</i> ברנשא מדם בתרה
-(טו) כל מדם חזית בי̈ומי הבלי אית זדיקא דאבד בזדיקותה ואית רשיעא דאגר בביש̈תה<sup class="footnote-marker">15</sup><i class="footnote">בבישותה‎ 8a1c, 9c1,10c1,11c1 &amp;</i>
+(יד) ביומא דטבתא הוי בטב וביומא דבישתא חזי<sup>13</sup> אף הנא לוקבל הנא עבד אלהא על ממללא דלא נשכח<sup>14</sup> ברנשא מדם בתרה
+(טו) כל מדם חזית בי̈ומי הבלי אית זדיקא דאבד בזדיקותה ואית רשיעא דאגר בביש̈תה<sup>15</sup>
 (טז) לא תהוא זדיק סגי ולא תתחכם יתיר דלא תתמה
 (יז) לא תרשע סגי דלא תסתנא סגי לא תהוא סכל דלמא תמות דלא בזבנך
 (יח) טב דתאחוד בהנא ואף מן הנא לא תרפא אידך מטל דמ̇ן דדחל לאלהא נקף לכלהין
-(יט) חכמתא מעשנא לח̈כימא<sup class="footnote-marker">16</sup><i class="footnote">לחכימא‎ 8a1, 9c1,10c1,11c1 &amp;</i> טב מן עסר̈א ש̈ליטנין דאית במדינתא
+(יט) חכמתא מעשנא לח̈כימא<sup>16</sup> טב מן עסר̈א ש̈ליטנין דאית במדינתא
 (כ) מטל דלית אנש דזדיק בארעא דנעבד דטב ולא נחטא
-(כא) ואף לכול פתגמ̈ין<sup class="footnote-marker">17</sup><i class="footnote">פת̈גמא‎ 8a1, 9c1,10c1,11c1 &amp;</i> דנמללון ר̈שיעא לא תתל לבך לא<sup class="footnote-marker">18</sup><i class="footnote">ולא‎11c1 &amp;</i> תשמע לעבדך דמצחא לך
-(כב) מטל דזבנין ס̈גיאן ידע לבך דאף אנת צחית לאחר̈נין<sup class="footnote-marker">19</sup><i class="footnote">לאחרין‎12a1fam &amp;</i>
-(כג) כלהין הלין נסית בחכמתא אמרת דאתחכם והי רחיקא<sup class="footnote-marker">20</sup><i class="footnote">הי‎ -8a1, 9c1,10c1, 11c1,12a1fam &amp;</i> מני
-(כד) יתיר מן<sup class="footnote-marker">21</sup><i class="footnote">כל‎ -8a1, 9c1,10c1,11c1,12a1fam &amp;</i> דהוא רוחקא ועומקא דע̈ומקא מ̇ן<sup class="footnote-marker">22</sup><i class="footnote">מנו‎12a1fam</i> נשכחיוהי
+(כא) ואף לכול פתגמ̈ין<sup>17</sup> דנמללון ר̈שיעא לא תתל לבך לא<sup>18</sup> תשמע לעבדך דמצחא לך
+(כב) מטל דזבנין ס̈גיאן ידע לבך דאף אנת צחית לאחר̈נין<sup>19</sup>
+(כג) כלהין הלין נסית בחכמתא אמרת דאתחכם והי רחיקא<sup>20</sup> מני
+(כד) יתיר מן<sup>21</sup> דהוא רוחקא ועומקא דע̈ומקא מ̇ן<sup>22</sup> נשכחיוהי
 (כה) אתכרכת אנא ולבי למדע ולמסער ולמבעא חכמתא וחושבנא ולמדע רשיעותה דסכלא וסכלותא ומתעברנותא
 (כו) ואשכחת דמריר מן מותא אנתתא דהי איתיה̇ פחא ומצידתא לבה̇ אסרת א̈ידיה̇ מן דטב מ̇ן דטב קדם אלהא משתוזב מנה̇ ומ̇ן דחטא מתתחד בה̇
-(כז) חזי הנא דאשכחת אמר<sup class="footnote-marker">23</sup><i class="footnote">למאמר‎ 8a1c, 9c1,10c1,11c1 &amp;</i> קוהלת חדא לחדא למשכחו מחש̈בתא
+(כז) חזי הנא דאשכחת אמר<sup>23</sup> קוהלת חדא לחדא למשכחו מחש̈בתא
 (כח) ותוב בעת נפשי ולא אשכחת אנשא חד מן אלפא אשכחת ואנתתא בכלהין לא אשכחת
 (כט) ברם חזי הנא דאשכחת דעבד אלהא לאנשא תר̈יצא והנון בעו מחש̈בתא ס̈גיאתא
 <h2>פרק ח</h2>
-(א) מנו איך חכימא<sup class="footnote-marker">1</sup><i class="footnote">מן ידע לחכימא‎ 8a1c, 9c1,10c1,11c1 &amp;</i> ומ̇ן ידע פשרה̇ דמלתא חכמתה דגברא תנהר א̈פוהי ודח̈ציפן א̈פוהי נסתנא
-(ב) פומה דמלכא טר ועל<sup class="footnote-marker">2</sup><i class="footnote">מלת‎ -12a1 &amp;</i> מומ̈תא דאלהא
+(א) מנו איך חכימא<sup>1</sup> ומ̇ן ידע פשרה̇ דמלתא חכמתה דגברא תנהר א̈פוהי ודח̈ציפן א̈פוהי נסתנא
+(ב) פומה דמלכא טר ועל<sup>2</sup> מומ̈תא דאלהא
 (ג) לא תסתרהב מן קדמוהי זל ולא תקום בפתגם ביש מטל דכל דנצבא נעבד
-(ד) איכנא דממלל<sup class="footnote-marker">3</sup><i class="footnote">דנמלל‎12a1fam &amp;</i> מלכא שליט ומנו נאמר<sup class="footnote-marker">4</sup><i class="footnote">דנאמר‎ 9c1,10c1, 11c1 &amp;</i> לה מנא עבד אנת
+(ד) איכנא דממלל<sup>3</sup> מלכא שליט ומנו נאמר<sup>4</sup> לה מנא עבד אנת
 (ה) דנטר פוקדנא לא ידע מלתא בישתא וזבנא ודינא ידע לבה דחכימא
 (ו) מטל דלכל צבו אית זבנא ודינא מטל דבישתה דברנשא סגיאא עלוהי
-(ז) מטל דלית דידע למא דהוא ומנא נהוא<sup class="footnote-marker">5</sup><i class="footnote">לה‎ +12a1fam &amp;</i> מן בתרה מנו מחוא לה
+(ז) מטל דלית דידע למא דהוא ומנא נהוא<sup>5</sup> מן בתרה מנו מחוא לה
 (ח) לית אנש דשליט ברוחא למכלא רוחא ולית שולטנא ביומא דמותא ולית פולטא ביומא דקרבא ולא משוזב רושעא למר̈והי
 (ט) וית כל הנא חזית ויהבת לבי למדע כל עבד דמתעבד תחית שמשא וזבנא דאשתלט בר אנשא בברנשא למבאשו לה
 (י) והידין חזית ר̈שיעא דקביר̈ין ואתין ומן אתרא דקודשא אזלו ואתטעיו במדינתא דהכנא עבדו ואף הנא הבלא
-(יא) מטל דלא מתעבדא תבעתא מן ע̇ב̈די ביש̈תא בעגל<sup class="footnote-marker">6</sup><i class="footnote">לסוכיא‎ +12a1fam &amp;</i> מטל הנא<sup class="footnote-marker">7</sup><i class="footnote">דאתמלי‎12a1fam</i><sup class="footnote-marker">8</sup><i class="footnote">אתמלי‎ -12a1fam</i> לבא דבנ̈ינשא בהון למעבד דביש
-(יב) מ̇ן דחטא עבד ביש̈תא מאא ומגר לה וידע אנא דנהוא טב לדח̈לוהי דמריא דנדחלון<sup class="footnote-marker">9</sup><i class="footnote">ונדחלון‎12a1fam</i> מן קדמוהי
+(יא) מטל דלא מתעבדא תבעתא מן ע̇ב̈די ביש̈תא בעגל<sup>6</sup> מטל הנא<sup>7</sup><sup>8</sup> לבא דבנ̈ינשא בהון למעבד דביש
+(יב) מ̇ן דחטא עבד ביש̈תא מאא ומגר לה וידע אנא דנהוא טב לדח̈לוהי דמריא דנדחלון<sup>9</sup> מן קדמוהי
 (יג) וטבתא לא תהוא לרשיעא ולא נגר יומ̈תא איך טללא מטול דלא איתוהי דחל מן קדם אלהא
-(יד) אית הבלא דאתעבד<sup class="footnote-marker">10</sup><i class="footnote">דעביד‎ 8a1*,10c1,11c1 &amp;</i> על ארעא מטל דאית זדיק̈א דמטא לותהון איך ע̇בדא<sup class="footnote-marker">11</sup><i class="footnote">ע̇̈בדא‎12a1fam</i> דר̈שיעא ואית ר̈שיעא דמטא לותהון איך ע̇בדא<sup class="footnote-marker">12</sup><i class="footnote">ע̇̈בדא‎12a1fam</i> דזד̈יקא ואמרת דאף הנא הבלא
-(טו) ושבחת אנא ית חדותא דלית דטב<sup class="footnote-marker">13</sup><i class="footnote">טב‎12a1fam &amp;</i> לברנשא תחית שמשא אלא למאכל ולמשתא ולמחדא והו לוא לה בעמלה<sup class="footnote-marker">14</sup><i class="footnote">כל‎ -12a1fam &amp;</i> יו̈מי חי̈והי דיהב לה אלהא תחית שמשא
+(יד) אית הבלא דאתעבד<sup>10</sup> על ארעא מטל דאית זדיק̈א דמטא לותהון איך ע̇בדא<sup>11</sup> דר̈שיעא ואית ר̈שיעא דמטא לותהון איך ע̇בדא<sup>12</sup> דזד̈יקא ואמרת דאף הנא הבלא
+(טו) ושבחת אנא ית חדותא דלית דטב<sup>13</sup> לברנשא תחית שמשא אלא למאכל ולמשתא ולמחדא והו לוא לה בעמלה<sup>14</sup> יו̈מי חי̈והי דיהב לה אלהא תחית שמשא
 (טז) מטל הנא יהבת לבי למדע חכמתא ולמחזא ענינא דאתעבד על ארעא מטל דבאיממא ובלליא שנתא בעי̈נוהי לא חזא
-(יז) וחזית אנא כל ע̇בדא דאלהא מטל דלא נתמצא ברנשא ית ע̇בדא דאתעבד<sup class="footnote-marker">15</sup><i class="footnote">דאתעבדו‎ 7a1</i><sup class="footnote-marker">16</sup><i class="footnote">דעביד‎ 9c1,10c1,11c1 &amp;</i> תחית שמשא כל דעמל ברנשא דנבעא<sup class="footnote-marker">17</sup><i class="footnote">דבעא‎ 7a1</i> לא נשכח וכל דנאמר חכימא למדע לא נתמצא למשכחו
+(יז) וחזית אנא כל ע̇בדא דאלהא מטל דלא נתמצא ברנשא ית ע̇בדא דאתעבד<sup>15</sup><sup>16</sup> תחית שמשא כל דעמל ברנשא דנבעא<sup>17</sup> לא נשכח וכל דנאמר חכימא למדע לא נתמצא למשכחו
 <h2>פרק ט</h2>
-(א) מטל דית כל<sup class="footnote-marker">1</sup><i class="footnote">כלהין‎12a1fam</i> הלין יהבת בלבי ולבי חזא ית כל הנא דזדיק̈א וח̈כימא וע̇ב̈דיהון<sup class="footnote-marker">2</sup><i class="footnote">בע̇ב̈דיהון‎12a1fam</i> באידא דאלהא אף רחמתא אף סנאתא לא ידע ברנשא כל דקדמוהי הבלא
-(ב) כל<sup class="footnote-marker">3</sup><i class="footnote">בכל‎ +8a1, 9c1,10c1,11c1 &amp;</i> איך<sup class="footnote-marker">4</sup><i class="footnote">הלין‎ +8a1c, 9c1,10c1,11c1 &amp;</i> דלכל גדשא חד לזדי̈קא ולר̈שיעא לט̈בא ולביש̈א לדכ̈יא<sup class="footnote-marker">5</sup><i class="footnote">ולדכ̈יא‎ 8a1, 9c1,10c1,11c1 &amp;</i> ולטמ̈אא לדמדבח ולדלא מדבח איך טבא אף חטיא איך ימיא<sup class="footnote-marker">6</sup><i class="footnote">אף‎ +7g2c, 9c1,10c1,11c1,12a1fam &amp;</i> ה̇ו דמן מ̈ומתא דחל
-(ג) הדא בישא<sup class="footnote-marker">7</sup><i class="footnote">בישתא‎ 7g2</i> בכל מא דאתעבד תחית שמשא מטל דגדשא חד לכלהון ואף לבא דברנשא אתמלי בישתא ופהיותא בישתא בלבהון ובחי̈יהון<sup class="footnote-marker">8</sup><i class="footnote">בחי̈יהון‎ 8a1c, 9c1,10c1,11c1 &amp;</i> וחרתהון לות מי̈תא
+(א) מטל דית כל<sup>1</sup> הלין יהבת בלבי ולבי חזא ית כל הנא דזדיק̈א וח̈כימא וע̇ב̈דיהון<sup>2</sup> באידא דאלהא אף רחמתא אף סנאתא לא ידע ברנשא כל דקדמוהי הבלא
+(ב) כל<sup>3</sup> איך<sup>4</sup> דלכל גדשא חד לזדי̈קא ולר̈שיעא לט̈בא ולביש̈א לדכ̈יא<sup>5</sup> ולטמ̈אא לדמדבח ולדלא מדבח איך טבא אף חטיא איך ימיא<sup>6</sup> ה̇ו דמן מ̈ומתא דחל
+(ג) הדא בישא<sup>7</sup> בכל מא דאתעבד תחית שמשא מטל דגדשא חד לכלהון ואף לבא דברנשא אתמלי בישתא ופהיותא בישתא בלבהון ובחי̈יהון<sup>8</sup> וחרתהון לות מי̈תא
 (ד) כל דנשתותף לכל ח̈יא אית תוכלנא מטל דכלבא דחי טב הו מן אריא דמיית
 (ה) מטל דח̈יא ידעין דמי̇תין ומי̈תא לא ידעין מדם ולית להון תוב אגרא מטל דאתטעי דוכרנהון
-(ו) אף רחמתהון אף סנאתהון ואף<sup class="footnote-marker">9</sup><i class="footnote">אף‎ 7g2, 9c1 &amp;</i> קנאתהון מן כדו אבדת ומנתא לית להון תוב לעלם בכל מא דאתעבד<sup class="footnote-marker">10</sup><i class="footnote">דמתעבד‎ 9c1,11c1 &amp;</i> תחית שמשא
+(ו) אף רחמתהון אף סנאתהון ואף<sup>9</sup> קנאתהון מן כדו אבדת ומנתא לית להון תוב לעלם בכל מא דאתעבד<sup>10</sup> תחית שמשא
 (ז) תא אכול בחדותא לחמך ואשתי בלבא טבא חמרך מטול דאצטבי אלהא בעב̈דיך
 (ח) בכל עדן נח̈תיך נהוון חור̈ין ומשחא מן רישך לא נחסר
-(ט) וחזי ח̈יא עם אנתתא<sup class="footnote-marker">11</sup><i class="footnote">אנתתך‎ 9l6</i> דרחמת כל יומ̈י חי̈י הבלך<sup class="footnote-marker">12</sup><i class="footnote">הבלה̇‎ 9l6</i> מטל דהי הי מנתך בח̈יא<sup class="footnote-marker">13</sup><i class="footnote">בחי̈יך‎ 8a1c, 9c1,10c1,11c1 &amp;</i> ובעמלך דאנת עמל תחית שמשא
-(י) כל דתשכח אידך למעבד בחילך עבד מטל דלית עבדא ומחשבתא<sup class="footnote-marker">14</sup><i class="footnote">ואידעתא‎ -12a1fam</i> וחכמתא בשיול דאנת אזל אנת לתמן
-(יא) הפכת<sup class="footnote-marker">15</sup><i class="footnote">והפכת‎ 8a1, 9l6,11c1 &amp;</i> וחזית תחית שמשא דלא לק̈לילא רהטא ולא לגנבר̈א קרבא ולא לח̈כימא לחמא ולא לס̈כולתנא עותרא ולא לידו̈עתנא שובחא מטול דזבנא ופגעא<sup class="footnote-marker">16</sup><i class="footnote">וגדשא‎ 9l6</i> גדש לכלהון<sup class="footnote-marker">17</sup><i class="footnote">להון‎ 9l6</i>
-(יב) מטל דלא ידע ברנשא זבנה איך נו̈נא דמתתחדין<sup class="footnote-marker">18</sup><i class="footnote">דמתתצידין‎12a1fam &amp;</i> במצידתא בישתא ואיך צפר̈א דמתת̈חדן בפחא הכנא מתתחדין בנ̈י אנשא בזבנא בישא דנפל עליהון מן שלי
-(יג) אף<sup class="footnote-marker">19</sup><i class="footnote">ואף‎ 8a1, 9c1,10c1,11c1,12a1fam &amp;</i> הדא חזית חכמתא תחית שמשא ורבא הי לותי
+(ט) וחזי ח̈יא עם אנתתא<sup>11</sup> דרחמת כל יומ̈י חי̈י הבלך<sup>12</sup> מטל דהי הי מנתך בח̈יא<sup>13</sup> ובעמלך דאנת עמל תחית שמשא
+(י) כל דתשכח אידך למעבד בחילך עבד מטל דלית עבדא ומחשבתא<sup>14</sup> וחכמתא בשיול דאנת אזל אנת לתמן
+(יא) הפכת<sup>15</sup> וחזית תחית שמשא דלא לק̈לילא רהטא ולא לגנבר̈א קרבא ולא לח̈כימא לחמא ולא לס̈כולתנא עותרא ולא לידו̈עתנא שובחא מטול דזבנא ופגעא<sup>16</sup> גדש לכלהון<sup>17</sup>
+(יב) מטל דלא ידע ברנשא זבנה איך נו̈נא דמתתחדין<sup>18</sup> במצידתא בישתא ואיך צפר̈א דמתת̈חדן בפחא הכנא מתתחדין בנ̈י אנשא בזבנא בישא דנפל עליהון מן שלי
+(יג) אף<sup>19</sup> הדא חזית חכמתא תחית שמשא ורבא הי לותי
 (יד) מדינתא זעורתא ובנ̈י אנשא דבה̇ זעור̈ין ואתא עליה̇ מלכא רבא וחדרה̇ ובנא עליה̇ ק̈לקומא
-(טו) ואשתכח בה̇ גברא מסכנא חכימא ושוזב ה̇ו מסכנא מדינתא בחכימותה<sup class="footnote-marker">20</sup><i class="footnote">בחכמתה‎ 12a1fam &amp;</i> ואנש לא עהד לגברא ה̇ו מסכנא
-(טז) ואמרת אנא<sup class="footnote-marker">21</sup><i class="footnote">בלבי‎ +9l6</i> דטבא<sup class="footnote-marker">22</sup><i class="footnote">טבא‎ 8a1c, 9c1,10c1,11c1 &amp;</i> הי חכמתא מן גנברותא וחכמתה דמסכנא שיטא<sup class="footnote-marker">23</sup><i class="footnote">מסליא‎ 8a1c, 9c1, 9l6,10c1,11c1 &amp;</i> הי ופת̈גמוהי לא משתמעין
-(יז) מ̈לי<sup class="footnote-marker">24</sup><i class="footnote">ומ̈לי‎12a1fam</i> ח̈כימא בניחא משת̈מען<sup class="footnote-marker">25</sup><i class="footnote">טב‎ +9l6</i> מן זעקתא דשליטא בס̈כלא<sup class="footnote-marker">26</sup><i class="footnote">סכלא‎ 8a1, 9c1, 9l6,10c1,11c1 &amp;</i>
+(טו) ואשתכח בה̇ גברא מסכנא חכימא ושוזב ה̇ו מסכנא מדינתא בחכימותה<sup>20</sup> ואנש לא עהד לגברא ה̇ו מסכנא
+(טז) ואמרת אנא<sup>21</sup> דטבא<sup>22</sup> הי חכמתא מן גנברותא וחכמתה דמסכנא שיטא<sup>23</sup> הי ופת̈גמוהי לא משתמעין
+(יז) מ̈לי<sup>24</sup> ח̈כימא בניחא משת̈מען<sup>25</sup> מן זעקתא דשליטא בס̈כלא<sup>26</sup>
 (יח) טבא הי חכמתא מן מא̈ני קרבא וחטיתא חדא מובדא טבת̈א ס̈גיאתא
 <h2>פרק י</h2>
-(א) <sup class="footnote-marker">1</sup><i class="footnote">איך‎ +8a1, 9c1,10c1,11c1 &amp;</i> דב̈בא דמיתין מסרין מאנא דמשחא בסימא<sup class="footnote-marker">2</sup><i class="footnote">דבסימא‎ 8a1c, 9c1,10c1,11c1 &amp;</i> יקירא<sup class="footnote-marker">3</sup><i class="footnote">הי‎ +9c1 &amp;</i> מן חכמתא ומן<sup class="footnote-marker">4</sup><i class="footnote">מן‎ 8a1*</i> סוגאת<sup class="footnote-marker">5</sup><i class="footnote">סגיאות‎12a1 &amp;</i> תשבוחתא סכלותא קליל<sup class="footnote-marker">6</sup><i class="footnote">רבתא‎ 8a1, 9c1,10c1,11c1,12a1mg &amp;</i>
-(ב) לבה דחכימא לימינה<sup class="footnote-marker">7</sup><i class="footnote">בימינה‎ 8a1c, 9c1,10c1,11c1,12a1 &amp;</i> ולבה דסכלא לסמלה<sup class="footnote-marker">8</sup><i class="footnote">בסמלה‎ 8a1c, 9c1,10c1,11c1,12a1 &amp;</i>
+(א) <sup>1</sup> דב̈בא דמיתין מסרין מאנא דמשחא בסימא<sup>2</sup> יקירא<sup>3</sup> מן חכמתא ומן<sup>4</sup> סוגאת<sup>5</sup> תשבוחתא סכלותא קליל<sup>6</sup>
+(ב) לבה דחכימא לימינה<sup>7</sup> ולבה דסכלא לסמלה<sup>8</sup>
 (ג) ואף סכלא מא דאזל באורחא לבה חסיר וכל דמתחשב סכלותא הי
-(ד) אן רוחא דשליטא תסק עליך אתרך לא תשבוק מטול דמרפיותא עבדא<sup class="footnote-marker">9</sup><i class="footnote">דאסיותא שבקא‎ 8a1c, 9c1,10c1,11c1,12a1fam</i> ח̈טהא ס̈גיאא
+(ד) אן רוחא דשליטא תסק עליך אתרך לא תשבוק מטול דמרפיותא עבדא<sup>9</sup> ח̈טהא ס̈גיאא
 (ה) אית בישתא דחזית תחית שמשא איך טועיי דנפקת קדם שליטא
-(ו) דיתב סכלא ברומא עשינא<sup class="footnote-marker">10</sup><i class="footnote">בר̈ומא עש̈ינא‎ 8a1, 9c1,10c1,11c1 &amp;</i> ועתיר̈א במוככא נתבון
+(ו) דיתב סכלא ברומא עשינא<sup>10</sup> ועתיר̈א במוככא נתבון
 (ז) חזית עב̈דא על ר̈כשא וש̈ליטנא דמהלכין איך עב̈דא על ארעא
 (ח) דחפר גומצא בה נפל ודתרע סיגא נכתיוהי חויא
-(ט) דמשנא כא̈פא נתכאב<sup class="footnote-marker">11</sup><i class="footnote">נתתכב‎12a1txt &amp;</i> בהין ודמצלח קיס̈א לאא בהון<sup class="footnote-marker">12</sup><i class="footnote">תרבה נהוא‎ 8a1c, 9c1,10c1,11c1 &amp;</i>
+(ט) דמשנא כא̈פא נתכאב<sup>11</sup> בהין ודמצלח קיס̈א לאא בהון<sup>12</sup>
 (י) אן קהא פרזלא והו א̈פא דלח וק̈טילא מסגא ויותרנא לכשיר̈א חכמתא
-(יא) ואן<sup class="footnote-marker">13</sup><i class="footnote">אן‎12a1fam &amp;</i> נכת חויא דלא לוחשתא לית יותרן<sup class="footnote-marker">14</sup><i class="footnote">יותרנא‎12a1 &amp;</i> בלחושא
+(יא) ואן<sup>13</sup> נכת חויא דלא לוחשתא לית יותרן<sup>14</sup> בלחושא
 (יב) מ̈לי פומה דחכימא תשבוחתא וס̈פותה דסכלא מטב̈ען לה
 (יג) ריש מ̈לי פומה סכלותא וחרתא דפומה פורסיא בישא
-(יד) <sup class="footnote-marker">15</sup><i class="footnote">וסכלא מסגא מ̈לין‎ -12a1 &amp;</i> לא ידע ברנשא מא דהוא ומא דנהוא מן בתרה מנו מחוא לה
-(טו) עמלהון דס̈כלא מלאא להון מטל<sup class="footnote-marker">16</sup><i class="footnote">מא‎12a1fam</i> דלא ידעו למאזל למדינתא
+(יד) <sup>15</sup> לא ידע ברנשא מא דהוא ומא דנהוא מן בתרה מנו מחוא לה
+(טו) עמלהון דס̈כלא מלאא להון מטל<sup>16</sup> דלא ידעו למאזל למדינתא
 (טז) וי לכי מדינתא דמלככי טלא ור̈ורבניכי בצפרא אכלין
 (יז) טוביכי מדינתא דמלככי בר חאר̈ין ור̈ורבניכי בעדנהון אכלין בכשירותא ולא במשתיא
 (יח) בשפלותא נתמכך תטלילא ובשפלות א̈ידיא נדלף ביתא
-(יט) לחדותא<sup class="footnote-marker">17</sup><i class="footnote">עבידין‎ -12a1fam</i> לחמא וחמרא ומשחא דנחדון לח̈יא וכספא ממכך ומטעא להון בכל
-(כ) ואף<sup class="footnote-marker">18</sup><i class="footnote">אף‎ 8a1, 9c1,10c1,11c1 &amp;</i> במדעך למלכא לא תצחא ובקיטון משכבך לא תצחא לעתירא מטול דעופא דשמיא נובל קלך ומרא עופא נחוא פת̈גמיך
+(יט) לחדותא<sup>17</sup> לחמא וחמרא ומשחא דנחדון לח̈יא וכספא ממכך ומטעא להון בכל
+(כ) ואף<sup>18</sup> במדעך למלכא לא תצחא ובקיטון משכבך לא תצחא לעתירא מטול דעופא דשמיא נובל קלך ומרא עופא נחוא פת̈גמיך
 <h2>פרק יא</h2>
-(א) שדר לחמך<sup class="footnote-marker">1</sup><i class="footnote">דלחמך‎ 8a1</i> על א̈פי מ̈יא מטל דלסוגאת<sup class="footnote-marker">2</sup><i class="footnote">דלסגיאות‎12a1fam &amp;</i> יומ̈תא תשכחיוהי
+(א) שדר לחמך<sup>1</sup> על א̈פי מ̈יא מטל דלסוגאת<sup>2</sup> יומ̈תא תשכחיוהי
 (ב) הב מנתא לשבעא אף לתמניא מטל דלא תדע מנא בישתא תהוא על ארעא
 (ג) אן נמ̈לין עננ̈י מטרא על ארעא נא̈שדן ואן נפל קיסא בתימנא או באתרא דגרביא אתר דנפל קיסא תמן נהוא
 (ד) דנטר לרוחא לא זרע ודחאר לענ̈נא לא חצד
-(ה) מטל דלא ידע אנת מנא הי<sup class="footnote-marker">3</sup><i class="footnote">תהוא‎ 8a1c, 9c1,10c1,11c1 &amp;</i> אורחא דרוחא איך זנא<sup class="footnote-marker">4</sup><i class="footnote">גיר‎ +12a1fam</i> דבטנתא דבטנא הכנא לא תדע עב̈דוהי דמריא כל דנעבד
+(ה) מטל דלא ידע אנת מנא הי<sup>3</sup> אורחא דרוחא איך זנא<sup>4</sup> דבטנתא דבטנא הכנא לא תדע עב̈דוהי דמריא כל דנעבד
 (ו) כל בצפרא זרוע זרעך וברמשא לא תשבוק אידך מטל דלא ידע אנת אינא נכשר או הנא או הנא ואן תר̈יהון איך חד טב̈ין
-(ז) חלא נוהרא וטב לעינ̈א למחזא<sup class="footnote-marker">5</sup><i class="footnote">ויתיר‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i><sup class="footnote-marker">6</sup><i class="footnote">לחזי̈י‎ +8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> שמשא
-(ח) מטל דאן ש̈נין ס̈גיאן נחא בר אנשא בכלהין<sup class="footnote-marker">7</sup><i class="footnote">ובכלהין‎ 7g2*</i> נחדא<sup class="footnote-marker">8</sup><i class="footnote">ונחדא‎ 7g2</i> ונתדכר יומ̈י חשוכא מטל דס̈גיאא<sup class="footnote-marker">9</sup><i class="footnote">דסגי̈אין‎ 8a1c,10c1,11c1, 12a1fam &amp;</i> נהוון כל דאתא הבלא
+(ז) חלא נוהרא וטב לעינ̈א למחזא<sup>5</sup><sup>6</sup> שמשא
+(ח) מטל דאן ש̈נין ס̈גיאן נחא בר אנשא בכלהין<sup>7</sup> נחדא<sup>8</sup> ונתדכר יומ̈י חשוכא מטל דס̈גיאא<sup>9</sup> נהוון כל דאתא הבלא
 (ט) בי̈ומי עלימותך חדי עלימא ונטאב לך והלך באור̈חתא דלבך ובחזוא דעינ̈יך ודע דבהלין כלהין מעל לך מריא בדינא
-(י) אעבר רוגזא מן לבך ואפרק בישתא מן בסרך מטל<sup class="footnote-marker">10</sup><i class="footnote">דעלימותא‎ +7g2*, 8a1*</i> דטליותא ולא אידעתא הבלא
+(י) אעבר רוגזא מן לבך ואפרק בישתא מן בסרך מטל<sup>10</sup> דטליותא ולא אידעתא הבלא
 <h2>פרק יב</h2>
-(א) ועהד לבריך בי̈ומי עלימותך עדלא נאתון יו̈מי בישתא<sup class="footnote-marker">1</sup><i class="footnote">בי̈שתא‎ 8a1, 9c1, 9l3,10c1,11c1,12a1fam &amp;</i> ונקר̈בן ש̈ניא דתאמר דלית<sup class="footnote-marker">2</sup><i class="footnote">לי‎ -7g2, 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> בהין צביני
-(ב) עדלא<sup class="footnote-marker">3</sup><i class="footnote">ועדלא‎11c1</i> נחשך שמשא ונוהרא דסהרא וכוכ̈בא<sup class="footnote-marker">4</sup><i class="footnote">ודכו̈כבא‎ 8a1c, 9c1,10c1,11c1,12a1fam &amp;</i> ונתה̈פכן ענ̈נא בתר מטרא
+(א) ועהד לבריך בי̈ומי עלימותך עדלא נאתון יו̈מי בישתא<sup>1</sup> ונקר̈בן ש̈ניא דתאמר דלית<sup>2</sup> בהין צביני
+(ב) עדלא<sup>3</sup> נחשך שמשא ונוהרא דסהרא וכוכ̈בא<sup>4</sup> ונתה̈פכן ענ̈נא בתר מטרא
 (ג) ביומא דנתזיעון נטור̈י ביתא ונתדודון מר̈י חילא ונתב̈טלן טח̈נתא מטל דזער ונח̈שכן ח̈זיתא ב̈כוא
-(ד) ונתתחדון תר̈עא בש̈וקא<sup class="footnote-marker">5</sup><i class="footnote">דש̈וקא‎ 7a1</i> בשפלותא דקלא דטח̈נתא ונקום לקלא דצפרא<sup class="footnote-marker">6</sup><i class="footnote">דצ̈פרא‎ 9c1, 9l1,10c1,11c1 &amp;</i> ונתמ̈ככן כל בנ̈ת שובחא
-(ה) ואף מן רומא נדחל ונתזיע באור̈חתה ונבע עלוהי שהרא<sup class="footnote-marker">7</sup><i class="footnote">איך קמצא‎ +7a1, 8a1*, 9l1, 9l3 &amp;</i><sup class="footnote-marker">8</sup><i class="footnote">ונפרע‎ -7a1, 9l1, 9l3</i><sup class="footnote-marker">9</sup><i class="footnote">ונפרע‎ 7g2c &amp;</i><sup class="footnote-marker">10</sup><i class="footnote">שרדא‎ -7a1, 9l1, 9l3</i><sup class="footnote-marker">11</sup><i class="footnote">שרדא‎ 7g2c &amp;</i><sup class="footnote-marker">12</sup><i class="footnote">ונסגא‎ -7a1, 9l1, 9l3</i><sup class="footnote-marker">13</sup><i class="footnote">ותבטן‎ 7g2c &amp;</i><sup class="footnote-marker">14</sup><i class="footnote">קמצא‎ -7a1, 9l1, 9l3</i><sup class="footnote-marker">15</sup><i class="footnote">שושנתא‎ 7g2c &amp;</i><sup class="footnote-marker">16</sup><i class="footnote">ותתבדר קפר‎ -7a1, 7g2c, 9l1, 9l3 &amp;</i> ותבטל<sup class="footnote-marker">17</sup><i class="footnote">ותתבטל‎ 7g2</i> בישנותא<sup class="footnote-marker">18</sup><i class="footnote">בישתא‎ 7a1, 7g2, 8a1*, 9l1, 9l3 &amp;</i> מטל דאזל ברנשא לבית עמלה<sup class="footnote-marker">19</sup><i class="footnote">עלמה‎ 7g2</i> ואתכרכו<sup class="footnote-marker">20</sup><i class="footnote">אתכרכו‎ 8a1* &amp;</i><sup class="footnote-marker">21</sup><i class="footnote">ואתכרך‎ 7a1</i> בשו̈קא מר̈קדנא<sup class="footnote-marker">22</sup><i class="footnote">עדלא נפרע שרדא. ותשוח שושנתא ותתבדר קפר.‎ +7a1 &amp;</i>
+(ד) ונתתחדון תר̈עא בש̈וקא<sup>5</sup> בשפלותא דקלא דטח̈נתא ונקום לקלא דצפרא<sup>6</sup> ונתמ̈ככן כל בנ̈ת שובחא
+(ה) ואף מן רומא נדחל ונתזיע באור̈חתה ונבע עלוהי שהרא<sup>7</sup><sup>8</sup><sup>9</sup><sup>10</sup><sup>11</sup><sup>12</sup><sup>13</sup><sup>14</sup><sup>15</sup><sup>16</sup> ותבטל<sup>17</sup> בישנותא<sup>18</sup> מטל דאזל ברנשא לבית עמלה<sup>19</sup> ואתכרכו<sup>20</sup><sup>21</sup> בשו̈קא מר̈קדנא<sup>22</sup>
 (ו) עדלא נתפסק חבל כספא ונשתחק חזור דהבא ותתבר קולתא על מבועא ותרהט גיגלא על ברא
 (ז) ונהפוך עפרא לארעא איך דהוא ורוחא תהפוך לות מריא דיהבה̇
-(ח) הבל ה̈בלין אמר קוהלת הבל ה̈בלין כל<sup class="footnote-marker">23</sup><i class="footnote">וכל‎ 9c1</i> מדם הבלא
-(ט) ויתיר<sup class="footnote-marker">24</sup><i class="footnote">יתיר‎11c1</i> דהוא קוהלת חכימא דמלף הוא אידעתא לעמא וצת ובדק ואתקן מ̈תלא ס̈גיאא
-(י) סגי בעא קוהלת למשכחו פת̈גמא דצבינא וכתב<sup class="footnote-marker">25</sup><i class="footnote">וכתבי‎ 9c1</i> שררא<sup class="footnote-marker">26</sup><i class="footnote">בשררא‎ 7g2</i><sup class="footnote-marker">27</sup><i class="footnote">בקושתא‎ 9c1,10c1,11c1,12a1fam &amp;</i> פת̈גמי קושתא
+(ח) הבל ה̈בלין אמר קוהלת הבל ה̈בלין כל<sup>23</sup> מדם הבלא
+(ט) ויתיר<sup>24</sup> דהוא קוהלת חכימא דמלף הוא אידעתא לעמא וצת ובדק ואתקן מ̈תלא ס̈גיאא
+(י) סגי בעא קוהלת למשכחו פת̈גמא דצבינא וכתב<sup>25</sup> שררא<sup>26</sup><sup>27</sup> פת̈גמי קושתא
 (יא) מ̈לי ח̈כימא איך זק̈ותא ואיך ס̈כא דקב̈יען מר̈י אס̈כפתא אתיהבו מן רעיא חד
 (יב) ויתיראית מנהון ברי אזדהר למכתב ספר̈א ס̈גיאא לית סוף וממללא סגיאא לאותא הי דבסרא
-(יג) אחריתה דפתגמא בסכה כל שמע<sup class="footnote-marker">28</sup><i class="footnote">דשמע‎12a1fam</i> ומן קדם מריא דחל ופוק̈דנוהי טר מטל דהנא הו דמן אומנא חד אתיהב כל<sup class="footnote-marker">29</sup><i class="footnote">לכל‎12a1fam &amp;</i> אנש
-(יד) מטל דלכל<sup class="footnote-marker">30</sup><i class="footnote">דכל‎ 8a1c, 9c1,10c1,11c1 &amp;</i> עב̈דא מריא מעל בדינא על כל דכסא וגלא אן דטב<sup class="footnote-marker">31</sup><i class="footnote">טב‎ 8a1c,10c1 &amp;</i> ואן דביש<sup class="footnote-marker">32</sup><i class="footnote">ביש‎ 8a1,11c1,12a1fam &amp;</i>
+(יג) אחריתה דפתגמא בסכה כל שמע<sup>28</sup> ומן קדם מריא דחל ופוק̈דנוהי טר מטל דהנא הו דמן אומנא חד אתיהב כל<sup>29</sup> אנש
+(יד) מטל דלכל<sup>30</sup> עב̈דא מריא מעל בדינא על כל דכסא וגלא אן דטב<sup>31</sup> ואן דביש<sup>32</sup>
