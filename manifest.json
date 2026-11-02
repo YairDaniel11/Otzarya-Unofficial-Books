@@ -20,6 +20,16 @@
     "hash": "437dc34657b31bab37a4011a61360570"
   },
   {
+    "name": "דרשות ודרושים",
+    "path": "דרשות ודרושים",
+    "zip": "folder_0707.zip",
+    "label": "דרשות ודרושים",
+    "parent": "",
+    "size": "621 KB",
+    "depth": 0,
+    "hash": "437dc34657b31bab37a4011a61360570"
+  },
+  {
     "name": "הלכה",
     "path": "הלכה",
     "zip": "folder_0001.zip",
@@ -57,7 +67,7 @@
     "parent": "",
     "size": "8.1 MB",
     "depth": 0,
-    "hash": "53e0a1f66421f03df58b314be2a954b0"
+    "hash": "a553ab274e70beb1ac5752e01330783a"
   },
   {
     "name": "משנה",
@@ -95,9 +105,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "16.2 MB",
+    "size": "16.0 MB",
     "depth": 0,
-    "hash": "1b520face5a23e32c86d0c402ada8676"
+    "hash": "72dfc1d4e0076e332192f2d5b9774676"
   },
   {
     "name": "קבלה",
@@ -117,7 +127,7 @@
     "parent": "",
     "size": "7.6 MB",
     "depth": 0,
-    "hash": "fee676f4cf69560939c0df22827ee9d0"
+    "hash": "6420f91cc2f502e73b2bd931551fac26"
   },
   {
     "name": "שו״ת",
@@ -397,7 +407,7 @@
     "parent": "מחשבת ישראל",
     "size": "2.3 MB",
     "depth": 1,
-    "hash": "d744f7263dacb944f6a8b25d6e3bf71c"
+    "hash": "88b99cabccd7c6875fe86f45d0b4badc"
   },
   {
     "name": "מחברי זמננו",
@@ -515,9 +525,9 @@
     "zip": "folder_0548.zip",
     "label": "אחרונים",
     "parent": "ספרי מוסר",
-    "size": "3.4 MB",
+    "size": "3.2 MB",
     "depth": 1,
-    "hash": "9dc8fb03233a4baae764255b217d75aa"
+    "hash": "ec63743182a6360560dc34fdfef4a012"
   },
   {
     "name": "מחברי זמננו",
@@ -830,6 +840,16 @@
     "hash": "79e3a7d67d1c76e841b00b7794546178"
   },
   {
+    "name": "דרשות ודרושים",
+    "path": "תנ״ך/דרשות ודרושים",
+    "zip": "folder_0709.zip",
+    "label": "דרשות ודרושים",
+    "parent": "תנ״ך",
+    "size": "2.0 MB",
+    "depth": 1,
+    "hash": "79e3a7d67d1c76e841b00b7794546178"
+  },
+  {
     "name": "כתובים",
     "path": "תנ״ך/כתובים",
     "zip": "folder_0252.zip",
@@ -1100,6 +1120,16 @@
     "hash": "00a6808a124b34ee161ac7fdf91227ba"
   },
   {
+    "name": "אנציקלופדיה תלמודית",
+    "path": "ספרות עזר/אנציקלופדיות/אנציקלופדיה תלמודית",
+    "zip": "folder_0711.zip",
+    "label": "אנציקלופדיה תלמודית",
+    "parent": "ספרות עזר/אנציקלופדיות",
+    "size": "20.7 MB",
+    "depth": 2,
+    "hash": "00a6808a124b34ee161ac7fdf91227ba"
+  },
+  {
     "name": "פיוט ותפילה",
     "path": "ספרות עזר/שירה ופיוט/פיוט ותפילה",
     "zip": "folder_0571.zip",
@@ -1125,9 +1155,9 @@
     "zip": "folder_0701.zip",
     "label": "חזו״א קובץ אגרות א- ג",
     "parent": "ספרי מוסר/אחרונים",
-    "size": "401 KB",
+    "size": "203 KB",
     "depth": 2,
-    "hash": "fdb26f87256e2d608df637c9ba4368bc"
+    "hash": "4c96fa3af90362073856a73599f9fe45"
   },
   {
     "name": "ספרי בעל עקידת יצחק",
