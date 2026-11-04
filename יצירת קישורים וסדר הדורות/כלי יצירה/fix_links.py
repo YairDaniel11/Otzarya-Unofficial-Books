@@ -29,6 +29,7 @@ NEW_DIR = os.path.join(LINKS, 'קישורים', '13')
 REPORT = os.path.join(A.HERE, 'fix_links_report.csv')
 SHIFTS = range(-2, 4)
 MANUAL = {'ברכת שמואל על בבא מציעא'}  # נוצרו ב-links_new_books.py
+MANUAL |= {'תמצית הסוגיות - ' + m for m in ['ברכות', 'עירובין', 'פסחים', 'סוכה', 'יבמות', 'כתובות', 'גיטין', 'בבא מציעא', 'בבא בתרא', 'שבועות', 'זבחים', 'חולין', 'בכורות', 'תמורה', 'נדה']}  # נוצרו ב-links_tamtzit.py
 
 
 def candidates():
