@@ -6,6 +6,7 @@
   - כותרת פרק (<h2> שאינה דף) מאפסת את הדף הנוכחי, כך שפסקאות לפני כותרת הדף הראשונה של הפרק לא מקושרות.
   - כותרת טווח דפים ("ד. - ד:") לא מקושרת לדף כלשהו: השורות שאחריה אינן מקושרות עד כותרת דף בודדת.
   - דף שאינו קיים ב-tocEntry של המסכת ב-seforim.db לא מקושר (מדווח).
+ספרי סדר טהרות (משניות) מקושרים לפי פרק: כותרת h2 שהיא מספר פרק ("א", "י"א") קובעת את "פרק X" במסכת "משנה <מסכת>".
 הפלט נכתב ל-קישורים/17/links.csv (UTF-8 עם BOM, CRLF) והכלי אידמפוטנטי: מסיר קודם שורות קיימות של אותם ספרי מקור.
 
 הרצה:
@@ -27,7 +28,13 @@ SEF = config.SEF_URI
 # מסכת (שם ב-seforim.db) -> שם ספר המקור
 MASECHTOT = ['ברכות', 'עירובין', 'פסחים', 'סוכה', 'יבמות', 'כתובות', 'גיטין', 'בבא מציעא', 'בבא בתרא',
              'שבועות', 'זבחים', 'חולין', 'בכורות', 'תמורה', 'נדה']
-JOBS = [{'source': 'תמצית הסוגיות - ' + m, 'target': m, 'type': 'פירוש'} for m in MASECHTOT]
+JOBS = [{'source': 'תמצית הסוגיות - ' + m, 'target': m, 'type': 'פירוש', 'mode': 'daf'} for m in MASECHTOT]
+# ספרי סדר טהרות: מסכת -> שם משנה ב-seforim.db (קישור ברמת פרק)
+MISHNAH = {'אהלות': 'משנה אהלות', 'נגעים': 'משנה נגעים', 'פרה': 'משנה פרה', 'טהרות': 'משנה טהרות',
+           'מקוואות': 'משנה מקואות', 'מכשירין': 'משנה מכשירין', 'זבין': 'משנה זבים',
+           'טבול יום': 'משנה טבול יום', 'ידיים': 'משנה ידים', 'עוקצין': 'משנה עוקצים'}
+JOBS += [{'source': 'תמצית הסוגיות - ' + m, 'target': t, 'type': 'פירוש', 'mode': 'perek'} for m, t in MISHNAH.items()]
+PEREK_HEAD = re.compile(r"^[א-ת\"״'׳]{1,4}$")
 
 HEADER = ['מקור', 'ספר_מקור', 'מקור_אישי', 'ספר_יעד', 'מיקום_יעד', 'סוג', 'יעד_אישי', 'קטגוריית_מקור']
 HEAD = re.compile(r'^<h([1-6])[^>]*>(.*?)</h[1-6]>\s*$')
@@ -49,6 +56,16 @@ def target_dafs(sc, title):
         m = re.match(r'דף ([א-ת"״\']+)([.:])', t.strip())
         if m:
             s.add(clean_num(m.group(1)) + m.group(2))
+    return s
+
+
+def target_chapters(sc, title):
+    r = sc.execute('select id from book where title=?', (title,)).fetchone()
+    if not r:
+        return None
+    s = set()
+    for (t,) in sc.execute('select t.text from tocEntry e join tocText t on t.id=e.textId where e.bookId=? and e.level=1', (r[0],)):
+        s.add(t.strip())
     return s
 
 
@@ -75,6 +92,19 @@ def gen(job, dafs, report):
         if hm:
             lvl = int(hm.group(1))
             text = TAGS.sub('', hm.group(2)).strip()
+            if job['mode'] == 'perek':
+                if lvl == 2:
+                    if PEREK_HEAD.match(text):
+                        ref = 'פרק ' + clean_num(text)
+                        if ref in dafs:
+                            cur = ref
+                        else:
+                            cur = None
+                            stat['פרק שאינו ביעד'] += 1
+                            report.append((job['source'], i, ref, 'פרק לא קיים ביעד', text))
+                    else:
+                        cur = None
+                continue
             if lvl >= 2:
                 m = HEAD_DAF.match(text)
                 if m:
@@ -119,7 +149,7 @@ def main():
     sc = sqlite3.connect(SEF, uri=True)
     report, new_rows, sources = [], [], set()
     for job in JOBS:
-        dafs = target_dafs(sc, job['target'])
+        dafs = target_chapters(sc, job['target']) if job['mode'] == 'perek' else target_dafs(sc, job['target'])
         if not dafs:
             print('אין יעד ב-seforim.db:', job['target'])
             continue
