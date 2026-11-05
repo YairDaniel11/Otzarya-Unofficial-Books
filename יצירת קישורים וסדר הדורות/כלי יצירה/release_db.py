@@ -362,6 +362,76 @@ def verify(manifest_path, public_key, parts_dir=None, prev_dbs=(), zstd=None, db
     return m
 
 
+# ---------- צעדי עדכון (שרשרת): דלתא מגרסה N-1 ל-N, ברילס נפרד שלא נמחק ----------
+STEPS_NAME = "steps-manifest.json"
+STEP_MAX_RATIO = 0.5   # צעד ששוקל יותר מחצי ממשקל ההורדה של המסד המלא לא עולה
+
+
+def _steps_parse(data):
+    try:
+        m = json.loads(data.decode("utf-8"))
+    except ValueError:
+        raise ReleaseError("מניפסט הצעדים אינו JSON תקין")
+    if not isinstance(m, dict) or m.get("format") != 1 or not isinstance(m.get("steps"), list):
+        raise ReleaseError("מניפסט הצעדים לא תקין")
+    return m
+
+
+def pack_step(db, prev_db, out, url_prefix, full_download_size, existing=None,
+              part_size=PART_SIZE, zstd=None, warn=print):
+    """בונה קובץ עדכון מ-prev_db (גרסה N-1) ל-db (גרסה N) וממזג למניפסט הצעדים הקיים.
+    מחזיר True אם הצעד נוסף. צעד כבד מחצי ממשקל המסד המלא נזרק (השרשרת נשברת שם)."""
+    db, prev_db, out = Path(db), Path(prev_db), Path(out)
+    prefix = check_url_prefix(url_prefix)
+    meta, pmeta = read_meta(db), read_meta(prev_db)
+    lib_id = meta.get("library_id")
+    if not lib_id or pmeta.get("library_id") != lib_id:
+        raise ReleaseError("library_id לא תואם בין שתי הגרסאות")
+    to_v, from_v = read_version(meta, str(db)), read_version(pmeta, str(prev_db))
+    if from_v >= to_v:
+        raise ReleaseError(f"הגרסה הקודמת ({from_v}) חייבת להיות קטנה מהנוכחית ({to_v})")
+    if prev_db.stat().st_size >= MAX_BASE:
+        warn("הבסיס גדול מ-2GiB; אין צעד")
+        return False
+    exe = find_zstd(zstd)
+    if not exe:
+        raise ReleaseError("צעד עדכון דורש zstd בנתיב")
+    out.mkdir(parents=True, exist_ok=True)
+    steps = []
+    if existing and Path(existing).exists():
+        steps = _steps_parse(Path(existing).read_bytes())["steps"]
+    steps = [x for x in steps if x.get("to_db_version") != to_v]
+    base = f"{re.sub(r'[^A-Za-z0-9._-]+', '-', lib_id)}-{to_v}.db"
+    patch = out / f"{base}.from-{from_v}.patch.zst"
+    run_zstd(exe, [f"--patch-from={prev_db}", "--long=31", "--ultra", "-19", db, "-o", patch])
+    size = patch.stat().st_size
+    added = False
+    if size > full_download_size * STEP_MAX_RATIO:
+        warn(f"הצעד {from_v}->{to_v} ({size}) כבד מ-{int(STEP_MAX_RATIO * 100)}% מהמסד המלא ({full_download_size}); לא יעלה")
+        patch.unlink()
+    else:
+        paths = split(patch, patch, part_size)
+        if len(paths) > 1:
+            patch.unlink()
+        steps.append({"from_db_version": from_v, "to_db_version": to_v,
+                      "from_sha256": sha256_file(prev_db), "compression": "zstd-patch",
+                      "size": db.stat().st_size, "sha256": sha256_file(db),
+                      "parts": parts_of(paths, prefix)})
+        added = True
+    steps.sort(key=lambda x: x["to_db_version"])
+    m = {"format": 1, "library_id": lib_id, "db_version": to_v, "steps": steps}
+    (out / STEPS_NAME).write_bytes((json.dumps(m, indent=2, ensure_ascii=False) + "\n").encode("utf-8"))
+    return added
+
+
+def sign_any(path, key_path):
+    data = Path(path).read_bytes()
+    sig = _signing_key(Path(key_path).read_text()).sign(data).signature
+    out = Path(str(path) + ".sig")
+    out.write_text(base64.b64encode(sig).decode() + "\n")
+    return out
+
+
 # ---------- שורת פקודה ----------
 def _notes(v):
     if not v:
@@ -385,6 +455,10 @@ def main(argv=None):
         a.add_argument("--part-size", type=int, default=PART_SIZE)
         a.add_argument("--compression", choices=["zstd", "none"], default="zstd")
         a.add_argument("--key", required=name == "release")
+    a = sub.add_parser("pack-step"); a.add_argument("--db", required=True); a.add_argument("--prev-db", required=True)
+    a.add_argument("--out", required=True); a.add_argument("--url-prefix", required=True)
+    a.add_argument("--full-download-size", type=int, required=True); a.add_argument("--existing"); a.add_argument("--zstd")
+    a.add_argument("--key", required=True)
     a = sub.add_parser("sign"); a.add_argument("manifest"); a.add_argument("--key", required=True)
     a = sub.add_parser("verify"); a.add_argument("manifest"); a.add_argument("--db"); a.add_argument("--public-key")
     a.add_argument("--parts"); a.add_argument("--prev-dbs", nargs="*", default=[]); a.add_argument("--zstd")
@@ -404,6 +478,11 @@ def main(argv=None):
                 sign(mp, args.key)
                 verify(mp, public_key_of(args.key), args.out, args.prev_dbs, args.zstd, args.db)
                 print("נחתם ואומת")
+        elif args.cmd == "pack-step":
+            added = pack_step(args.db, args.prev_db, args.out, args.url_prefix, args.full_download_size,
+                              args.existing, zstd=args.zstd, warn=lambda s: print(s, file=sys.stderr))
+            sign_any(Path(args.out) / STEPS_NAME, args.key)
+            print("צעד נוסף" if added else "צעד לא נוסף")
         elif args.cmd == "sign":
             print("חתימה:", sign(args.manifest, args.key))
         elif args.cmd == "verify":

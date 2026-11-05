@@ -498,6 +498,34 @@ jobs:
           gh release edit db --notes-file "$WORK/notes-db.md" --latest=false --prerelease=false
           echo "publish-manifest $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
 
+      # צעד עדכון בודד (גרסה קודמת -> הנוכחית) ברילס נפרד 'db-steps' שלא נמחק, כך שמשתמש שנמצא כמה
+      # גרסאות מאחור מוריד כמה צעדים קטנים במקום את המסד כולו. צעד כבד מחצי ממשקל ההורדה המלאה לא עולה.
+      # כשל כאן לא מפיל את הפרסום: המסד והמניפסט הראשי כבר פורסמו.
+      - name: Publish update step (db-steps)
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          [ -f "$WORK/prev1.db" ] || { echo "אין גרסה קודמת: אין צעד"; exit 0; }
+          STEPS="$WORK/steps"; mkdir -p "$STEPS-old" "$STEPS"
+          if gh release view db-steps >/dev/null 2>&1; then
+            gh release download db-steps -p steps-manifest.json -D "$STEPS-old" --clobber || true
+          fi
+          EXISTING=()
+          [ -f "$STEPS-old/steps-manifest.json" ] && EXISTING=(--existing "$STEPS-old/steps-manifest.json")
+          FULLSIZE=$(python3 -c 'import json,sys; print(sum(p["size"] for p in json.load(open(sys.argv[1], encoding="utf-8"))["full"]["parts"]))' "$WORK/out/manifest.json")
+          python -X utf8 "$TOOLS_DIR/release_db.py" pack-step --db "$WORK/new.db" --prev-db "$WORK/prev1.db"             --out "$STEPS" --url-prefix "$DOWNLOAD_BASE/db-steps" --full-download-size "$FULLSIZE"             --key "$KEY_FILE" "${EXISTING[@]}"
+          if ! gh release view db-steps >/dev/null 2>&1; then
+            printf 'קבצי עדכון בין גרסאות עוקבות של המסד (גרסה N-1 ל-N). לא נמחקים.
+' > "$WORK/notes-steps.md"
+            gh release create db-steps --target "$GITHUB_SHA" --title "צעדי עדכון DB"               --notes-file "$WORK/notes-steps.md" --latest=false
+          fi
+          # קודם קבצי הצעדים, ורק אחריהם המניפסט שמצביע עליהם
+          for f in "$STEPS"/*.zst*; do
+            [ -e "$f" ] || continue
+            gh release upload db-steps "$f" --clobber
+          done
+          gh release upload db-steps "$STEPS/steps-manifest.json" "$STEPS/steps-manifest.json.sig" --clobber
+
       - name: Smoke test published manifest
         run: |
           set -euo pipefail
