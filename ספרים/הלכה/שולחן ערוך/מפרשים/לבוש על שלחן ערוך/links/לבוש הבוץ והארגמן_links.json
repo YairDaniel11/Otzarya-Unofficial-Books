@@ -1,0 +1,4634 @@
+[
+  {
+    "line_index_1": 28,
+    "line_index_2": 15,
+    "ref_2": "Shulchan Arukh, Even HaEzer 1:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  א, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 20,
+    "ref_2": "Shulchan Arukh, Even HaEzer 2:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ב, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 23,
+    "ref_2": "Shulchan Arukh, Even HaEzer 2:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ב, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 24,
+    "ref_2": "Shulchan Arukh, Even HaEzer 2:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ב, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 52,
+    "line_index_2": 27,
+    "ref_2": "Shulchan Arukh, Even HaEzer 2:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ב, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 58,
+    "line_index_2": 31,
+    "ref_2": "Shulchan Arukh, Even HaEzer 3:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 32,
+    "ref_2": "Shulchan Arukh, Even HaEzer 3:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ג, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 68,
+    "line_index_2": 35,
+    "ref_2": "Shulchan Arukh, Even HaEzer 3:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ג, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 70,
+    "line_index_2": 36,
+    "ref_2": "Shulchan Arukh, Even HaEzer 3:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ג, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 41,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 88,
+    "line_index_2": 45,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 104,
+    "line_index_2": 53,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 55,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 110,
+    "line_index_2": 56,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 57,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 114,
+    "line_index_2": 58,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 122,
+    "line_index_2": 62,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:22",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 124,
+    "line_index_2": 63,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 128,
+    "line_index_2": 65,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:25",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 66,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:26",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 67,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:27",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 69,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:29",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, כט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 138,
+    "line_index_2": 70,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:30",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, ל",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 144,
+    "line_index_2": 73,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:33",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, לג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 77,
+    "ref_2": "Shulchan Arukh, Even HaEzer 4:37",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ד, לז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 154,
+    "line_index_2": 79,
+    "ref_2": "Shulchan Arukh, Even HaEzer 5:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 156,
+    "line_index_2": 79,
+    "ref_2": "Shulchan Arukh, Even HaEzer 5:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 185,
+    "line_index_2": 94,
+    "ref_2": "Shulchan Arukh, Even HaEzer 6:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 98,
+    "ref_2": "Shulchan Arukh, Even HaEzer 6:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ו, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 219,
+    "line_index_2": 110,
+    "ref_2": "Shulchan Arukh, Even HaEzer 6:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ו, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 241,
+    "line_index_2": 121,
+    "ref_2": "Shulchan Arukh, Even HaEzer 7:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ז, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 255,
+    "line_index_2": 128,
+    "ref_2": "Shulchan Arukh, Even HaEzer 7:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ז, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 132,
+    "ref_2": "Shulchan Arukh, Even HaEzer 7:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ז, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 135,
+    "ref_2": "Shulchan Arukh, Even HaEzer 7:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ז, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 137,
+    "ref_2": "Shulchan Arukh, Even HaEzer 8:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 281,
+    "line_index_2": 143,
+    "ref_2": "Shulchan Arukh, Even HaEzer 9:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 283,
+    "line_index_2": 143,
+    "ref_2": "Shulchan Arukh, Even HaEzer 9:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 291,
+    "line_index_2": 147,
+    "ref_2": "Shulchan Arukh, Even HaEzer 10:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  י, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 295,
+    "line_index_2": 149,
+    "ref_2": "Shulchan Arukh, Even HaEzer 10:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  י, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 297,
+    "line_index_2": 150,
+    "ref_2": "Shulchan Arukh, Even HaEzer 10:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  י, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 303,
+    "line_index_2": 154,
+    "ref_2": "Shulchan Arukh, Even HaEzer 11:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 305,
+    "line_index_2": 154,
+    "ref_2": "Shulchan Arukh, Even HaEzer 11:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 309,
+    "line_index_2": 156,
+    "ref_2": "Shulchan Arukh, Even HaEzer 11:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יא, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 319,
+    "line_index_2": 161,
+    "ref_2": "Shulchan Arukh, Even HaEzer 11:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יא, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 163,
+    "ref_2": "Shulchan Arukh, Even HaEzer 12:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 325,
+    "line_index_2": 164,
+    "ref_2": "Shulchan Arukh, Even HaEzer 12:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יב, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 331,
+    "line_index_2": 168,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 335,
+    "line_index_2": 169,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 341,
+    "line_index_2": 172,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 343,
+    "line_index_2": 173,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 349,
+    "line_index_2": 176,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 355,
+    "line_index_2": 179,
+    "ref_2": "Shulchan Arukh, Even HaEzer 13:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יג, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 365,
+    "line_index_2": 185,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 377,
+    "line_index_2": 190,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 385,
+    "line_index_2": 194,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 387,
+    "line_index_2": 195,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 196,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 397,
+    "line_index_2": 200,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 403,
+    "line_index_2": 203,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 407,
+    "line_index_2": 205,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:21",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, כא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 411,
+    "line_index_2": 207,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 413,
+    "line_index_2": 208,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:24",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, כד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 417,
+    "line_index_2": 210,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:26",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, כו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 423,
+    "line_index_2": 213,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:29",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, כט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 427,
+    "line_index_2": 215,
+    "ref_2": "Shulchan Arukh, Even HaEzer 15:31",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טו, לא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 437,
+    "line_index_2": 220,
+    "ref_2": "Shulchan Arukh, Even HaEzer 16:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 441,
+    "line_index_2": 222,
+    "ref_2": "Shulchan Arukh, Even HaEzer 16:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  טז, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 443,
+    "line_index_2": 224,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 445,
+    "line_index_2": 224,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 447,
+    "line_index_2": 225,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 457,
+    "line_index_2": 230,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 463,
+    "line_index_2": 233,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 467,
+    "line_index_2": 235,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 236,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 479,
+    "line_index_2": 241,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 481,
+    "line_index_2": 242,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 483,
+    "line_index_2": 243,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 489,
+    "line_index_2": 246,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 491,
+    "line_index_2": 247,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:24",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, כד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 497,
+    "line_index_2": 250,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:27",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, כז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 501,
+    "line_index_2": 252,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:29",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, כט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 503,
+    "line_index_2": 253,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:30",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, ל",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 505,
+    "line_index_2": 254,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:31",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, לא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 513,
+    "line_index_2": 258,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:35",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, לה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 525,
+    "line_index_2": 264,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:41",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, מא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 549,
+    "line_index_2": 276,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:53",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, נג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 559,
+    "line_index_2": 281,
+    "ref_2": "Shulchan Arukh, Even HaEzer 17:58",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יז, נח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 565,
+    "line_index_2": 285,
+    "ref_2": "Shulchan Arukh, Even HaEzer 19:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 569,
+    "line_index_2": 286,
+    "ref_2": "Shulchan Arukh, Even HaEzer 19:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  יט, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 571,
+    "line_index_2": 288,
+    "ref_2": "Shulchan Arukh, Even HaEzer 20:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 291,
+    "ref_2": "Shulchan Arukh, Even HaEzer 21:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 581,
+    "line_index_2": 292,
+    "ref_2": "Shulchan Arukh, Even HaEzer 21:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כא, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 589,
+    "line_index_2": 296,
+    "ref_2": "Shulchan Arukh, Even HaEzer 21:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כא, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 591,
+    "line_index_2": 297,
+    "ref_2": "Shulchan Arukh, Even HaEzer 21:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כא, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 597,
+    "line_index_2": 300,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 601,
+    "line_index_2": 302,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 603,
+    "line_index_2": 303,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 605,
+    "line_index_2": 304,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 609,
+    "line_index_2": 306,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 611,
+    "line_index_2": 307,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 308,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 623,
+    "line_index_2": 313,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 625,
+    "line_index_2": 314,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 629,
+    "line_index_2": 316,
+    "ref_2": "Shulchan Arukh, Even HaEzer 22:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כב, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 635,
+    "line_index_2": 320,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 641,
+    "line_index_2": 322,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 643,
+    "line_index_2": 323,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 645,
+    "line_index_2": 324,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 647,
+    "line_index_2": 325,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 649,
+    "line_index_2": 326,
+    "ref_2": "Shulchan Arukh, Even HaEzer 23:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כג, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 653,
+    "line_index_2": 328,
+    "ref_2": "Shulchan Arukh, Even HaEzer 24:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 665,
+    "line_index_2": 334,
+    "ref_2": "Shulchan Arukh, Even HaEzer 25:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כה, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 671,
+    "line_index_2": 337,
+    "ref_2": "Shulchan Arukh, Even HaEzer 25:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כה, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 673,
+    "line_index_2": 338,
+    "ref_2": "Shulchan Arukh, Even HaEzer 25:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כה, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 678,
+    "line_index_2": 341,
+    "ref_2": "Shulchan Arukh, Even HaEzer 26:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 688,
+    "line_index_2": 346,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 690,
+    "line_index_2": 346,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 698,
+    "line_index_2": 350,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 700,
+    "line_index_2": 351,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 702,
+    "line_index_2": 352,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 704,
+    "line_index_2": 353,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 708,
+    "line_index_2": 355,
+    "ref_2": "Shulchan Arukh, Even HaEzer 27:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כז, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 714,
+    "line_index_2": 358,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 716,
+    "line_index_2": 359,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 718,
+    "line_index_2": 360,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 722,
+    "line_index_2": 362,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 736,
+    "line_index_2": 369,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 744,
+    "line_index_2": 373,
+    "ref_2": "Shulchan Arukh, Even HaEzer 28:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כח, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 762,
+    "line_index_2": 382,
+    "ref_2": "Shulchan Arukh, Even HaEzer 29:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כט, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 766,
+    "line_index_2": 384,
+    "ref_2": "Shulchan Arukh, Even HaEzer 29:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כט, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 778,
+    "line_index_2": 390,
+    "ref_2": "Shulchan Arukh, Even HaEzer 29:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  כט, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 780,
+    "line_index_2": 392,
+    "ref_2": "Shulchan Arukh, Even HaEzer 30:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ל, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 784,
+    "line_index_2": 393,
+    "ref_2": "Shulchan Arukh, Even HaEzer 30:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ל, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 790,
+    "line_index_2": 396,
+    "ref_2": "Shulchan Arukh, Even HaEzer 30:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ל, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 804,
+    "line_index_2": 404,
+    "ref_2": "Shulchan Arukh, Even HaEzer 31:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 812,
+    "line_index_2": 407,
+    "ref_2": "Shulchan Arukh, Even HaEzer 31:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לא, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 814,
+    "line_index_2": 408,
+    "ref_2": "Shulchan Arukh, Even HaEzer 31:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לא, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 824,
+    "line_index_2": 414,
+    "ref_2": "Shulchan Arukh, Even HaEzer 32:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 834,
+    "line_index_2": 419,
+    "ref_2": "Shulchan Arukh, Even HaEzer 33:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 840,
+    "line_index_2": 422,
+    "ref_2": "Shulchan Arukh, Even HaEzer 34:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 858,
+    "line_index_2": 430,
+    "ref_2": "Shulchan Arukh, Even HaEzer 35:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לה, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 860,
+    "line_index_2": 431,
+    "ref_2": "Shulchan Arukh, Even HaEzer 35:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לה, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 864,
+    "line_index_2": 433,
+    "ref_2": "Shulchan Arukh, Even HaEzer 35:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לה, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 882,
+    "line_index_2": 443,
+    "ref_2": "Shulchan Arukh, Even HaEzer 36:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 890,
+    "line_index_2": 446,
+    "ref_2": "Shulchan Arukh, Even HaEzer 36:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לו, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 894,
+    "line_index_2": 448,
+    "ref_2": "Shulchan Arukh, Even HaEzer 36:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לו, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 898,
+    "line_index_2": 450,
+    "ref_2": "Shulchan Arukh, Even HaEzer 36:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לו, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 912,
+    "line_index_2": 457,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 914,
+    "line_index_2": 458,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 922,
+    "line_index_2": 462,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 926,
+    "line_index_2": 464,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 930,
+    "line_index_2": 466,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 932,
+    "line_index_2": 467,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 934,
+    "line_index_2": 468,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 936,
+    "line_index_2": 469,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 938,
+    "line_index_2": 470,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 940,
+    "line_index_2": 471,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 944,
+    "line_index_2": 473,
+    "ref_2": "Shulchan Arukh, Even HaEzer 37:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לז, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 966,
+    "line_index_2": 484,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 974,
+    "line_index_2": 488,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 976,
+    "line_index_2": 489,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 982,
+    "line_index_2": 492,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 990,
+    "line_index_2": 496,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1000,
+    "line_index_2": 501,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1006,
+    "line_index_2": 504,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:21",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, כא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1008,
+    "line_index_2": 505,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:22",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, כב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1010,
+    "line_index_2": 506,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1018,
+    "line_index_2": 510,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:27",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, כז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1034,
+    "line_index_2": 518,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:35",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, לה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1036,
+    "line_index_2": 519,
+    "ref_2": "Shulchan Arukh, Even HaEzer 38:36",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לח, לו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1052,
+    "line_index_2": 527,
+    "ref_2": "Shulchan Arukh, Even HaEzer 39:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לט, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1054,
+    "line_index_2": 528,
+    "ref_2": "Shulchan Arukh, Even HaEzer 39:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  לט, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1060,
+    "line_index_2": 532,
+    "ref_2": "Shulchan Arukh, Even HaEzer 40:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1068,
+    "line_index_2": 535,
+    "ref_2": "Shulchan Arukh, Even HaEzer 40:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1074,
+    "line_index_2": 538,
+    "ref_2": "Shulchan Arukh, Even HaEzer 40:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מ, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1076,
+    "line_index_2": 539,
+    "ref_2": "Shulchan Arukh, Even HaEzer 40:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מ, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1078,
+    "line_index_2": 541,
+    "ref_2": "Shulchan Arukh, Even HaEzer 41:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1080,
+    "line_index_2": 541,
+    "ref_2": "Shulchan Arukh, Even HaEzer 41:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1088,
+    "line_index_2": 546,
+    "ref_2": "Shulchan Arukh, Even HaEzer 42:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1098,
+    "line_index_2": 550,
+    "ref_2": "Shulchan Arukh, Even HaEzer 42:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מב, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1100,
+    "line_index_2": 552,
+    "ref_2": "Shulchan Arukh, Even HaEzer 43:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1106,
+    "line_index_2": 555,
+    "ref_2": "Shulchan Arukh, Even HaEzer 44:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1110,
+    "line_index_2": 556,
+    "ref_2": "Shulchan Arukh, Even HaEzer 44:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מד, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1114,
+    "line_index_2": 558,
+    "ref_2": "Shulchan Arukh, Even HaEzer 44:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מד, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1126,
+    "line_index_2": 564,
+    "ref_2": "Shulchan Arukh, Even HaEzer 44:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מד, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1128,
+    "line_index_2": 565,
+    "ref_2": "Shulchan Arukh, Even HaEzer 44:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מד, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1132,
+    "line_index_2": 568,
+    "ref_2": "Shulchan Arukh, Even HaEzer 45:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1136,
+    "line_index_2": 569,
+    "ref_2": "Shulchan Arukh, Even HaEzer 45:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מה, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1140,
+    "line_index_2": 572,
+    "ref_2": "Shulchan Arukh, Even HaEzer 46:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1142,
+    "line_index_2": 572,
+    "ref_2": "Shulchan Arukh, Even HaEzer 46:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1158,
+    "line_index_2": 581,
+    "ref_2": "Shulchan Arukh, Even HaEzer 47:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1166,
+    "line_index_2": 584,
+    "ref_2": "Shulchan Arukh, Even HaEzer 47:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1168,
+    "line_index_2": 586,
+    "ref_2": "Shulchan Arukh, Even HaEzer 48:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1184,
+    "line_index_2": 594,
+    "ref_2": "Shulchan Arukh, Even HaEzer 49:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1188,
+    "line_index_2": 595,
+    "ref_2": "Shulchan Arukh, Even HaEzer 49:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מט, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1190,
+    "line_index_2": 596,
+    "ref_2": "Shulchan Arukh, Even HaEzer 49:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  מט, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1200,
+    "line_index_2": 601,
+    "ref_2": "Shulchan Arukh, Even HaEzer 50:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  נ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1202,
+    "line_index_2": 602,
+    "ref_2": "Shulchan Arukh, Even HaEzer 50:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  נ, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1208,
+    "line_index_2": 606,
+    "ref_2": "Shulchan Arukh, Even HaEzer 51:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  נא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1212,
+    "line_index_2": 608,
+    "ref_2": "Shulchan Arukh, Even HaEzer 52:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  נב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1398,
+    "line_index_2": 687,
+    "ref_2": "Shulchan Arukh, Even HaEzer 67:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1400,
+    "line_index_2": 688,
+    "ref_2": "Shulchan Arukh, Even HaEzer 67:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סז, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1410,
+    "line_index_2": 693,
+    "ref_2": "Shulchan Arukh, Even HaEzer 67:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סז, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1416,
+    "line_index_2": 696,
+    "ref_2": "Shulchan Arukh, Even HaEzer 67:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סז, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1420,
+    "line_index_2": 699,
+    "ref_2": "Shulchan Arukh, Even HaEzer 68:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1424,
+    "line_index_2": 700,
+    "ref_2": "Shulchan Arukh, Even HaEzer 68:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1442,
+    "line_index_2": 710,
+    "ref_2": "Shulchan Arukh, Even HaEzer 69:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  סט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1460,
+    "line_index_2": 718,
+    "ref_2": "Shulchan Arukh, Even HaEzer 70:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ע, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1470,
+    "line_index_2": 723,
+    "ref_2": "Shulchan Arukh, Even HaEzer 70:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ע, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1482,
+    "line_index_2": 729,
+    "ref_2": "Shulchan Arukh, Even HaEzer 70:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ע, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1484,
+    "line_index_2": 731,
+    "ref_2": "Shulchan Arukh, Even HaEzer 71:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1488,
+    "line_index_2": 732,
+    "ref_2": "Shulchan Arukh, Even HaEzer 71:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עא, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1492,
+    "line_index_2": 734,
+    "ref_2": "Shulchan Arukh, Even HaEzer 71:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עא, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1496,
+    "line_index_2": 736,
+    "ref_2": "Shulchan Arukh, Even HaEzer 72:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1498,
+    "line_index_2": 738,
+    "ref_2": "Shulchan Arukh, Even HaEzer 73:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1508,
+    "line_index_2": 742,
+    "ref_2": "Shulchan Arukh, Even HaEzer 73:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עג, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1520,
+    "line_index_2": 748,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1526,
+    "line_index_2": 751,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1528,
+    "line_index_2": 752,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1536,
+    "line_index_2": 756,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1538,
+    "line_index_2": 757,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1540,
+    "line_index_2": 758,
+    "ref_2": "Shulchan Arukh, Even HaEzer 74:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עד, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1544,
+    "line_index_2": 761,
+    "ref_2": "Shulchan Arukh, Even HaEzer 75:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1556,
+    "line_index_2": 767,
+    "ref_2": "Shulchan Arukh, Even HaEzer 76:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1574,
+    "line_index_2": 775,
+    "ref_2": "Shulchan Arukh, Even HaEzer 76:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עו, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1578,
+    "line_index_2": 777,
+    "ref_2": "Shulchan Arukh, Even HaEzer 76:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עו, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1584,
+    "line_index_2": 781,
+    "ref_2": "Shulchan Arukh, Even HaEzer 77:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1590,
+    "line_index_2": 783,
+    "ref_2": "Shulchan Arukh, Even HaEzer 77:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עז, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1594,
+    "line_index_2": 785,
+    "ref_2": "Shulchan Arukh, Even HaEzer 77:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עז, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1596,
+    "line_index_2": 787,
+    "ref_2": "Shulchan Arukh, Even HaEzer 78:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1598,
+    "line_index_2": 787,
+    "ref_2": "Shulchan Arukh, Even HaEzer 78:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1602,
+    "line_index_2": 789,
+    "ref_2": "Shulchan Arukh, Even HaEzer 78:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עח, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1606,
+    "line_index_2": 791,
+    "ref_2": "Shulchan Arukh, Even HaEzer 78:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עח, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1614,
+    "line_index_2": 796,
+    "ref_2": "Shulchan Arukh, Even HaEzer 79:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1616,
+    "line_index_2": 796,
+    "ref_2": "Shulchan Arukh, Even HaEzer 79:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  עט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1622,
+    "line_index_2": 800,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1624,
+    "line_index_2": 800,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1626,
+    "line_index_2": 801,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1628,
+    "line_index_2": 802,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1630,
+    "line_index_2": 803,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1636,
+    "line_index_2": 806,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1638,
+    "line_index_2": 807,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1642,
+    "line_index_2": 809,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1644,
+    "line_index_2": 810,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1646,
+    "line_index_2": 811,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1648,
+    "line_index_2": 812,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1650,
+    "line_index_2": 813,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1652,
+    "line_index_2": 814,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1654,
+    "line_index_2": 815,
+    "ref_2": "Shulchan Arukh, Even HaEzer 80:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פ, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1660,
+    "line_index_2": 819,
+    "ref_2": "Shulchan Arukh, Even HaEzer 81:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1666,
+    "line_index_2": 822,
+    "ref_2": "Shulchan Arukh, Even HaEzer 82:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1668,
+    "line_index_2": 822,
+    "ref_2": "Shulchan Arukh, Even HaEzer 82:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1674,
+    "line_index_2": 825,
+    "ref_2": "Shulchan Arukh, Even HaEzer 82:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פב, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1680,
+    "line_index_2": 828,
+    "ref_2": "Shulchan Arukh, Even HaEzer 82:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פב, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1682,
+    "line_index_2": 829,
+    "ref_2": "Shulchan Arukh, Even HaEzer 82:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פב, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1684,
+    "line_index_2": 831,
+    "ref_2": "Shulchan Arukh, Even HaEzer 83:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1688,
+    "line_index_2": 832,
+    "ref_2": "Shulchan Arukh, Even HaEzer 83:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פג, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1690,
+    "line_index_2": 834,
+    "ref_2": "Shulchan Arukh, Even HaEzer 84:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1694,
+    "line_index_2": 836,
+    "ref_2": "Shulchan Arukh, Even HaEzer 85:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1700,
+    "line_index_2": 838,
+    "ref_2": "Shulchan Arukh, Even HaEzer 85:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פה, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1712,
+    "line_index_2": 844,
+    "ref_2": "Shulchan Arukh, Even HaEzer 85:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פה, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1728,
+    "line_index_2": 852,
+    "ref_2": "Shulchan Arukh, Even HaEzer 85:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פה, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1730,
+    "line_index_2": 853,
+    "ref_2": "Shulchan Arukh, Even HaEzer 85:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פה, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1734,
+    "line_index_2": 856,
+    "ref_2": "Shulchan Arukh, Even HaEzer 86:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1740,
+    "line_index_2": 859,
+    "ref_2": "Shulchan Arukh, Even HaEzer 87:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1746,
+    "line_index_2": 862,
+    "ref_2": "Shulchan Arukh, Even HaEzer 88:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1750,
+    "line_index_2": 863,
+    "ref_2": "Shulchan Arukh, Even HaEzer 88:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1762,
+    "line_index_2": 869,
+    "ref_2": "Shulchan Arukh, Even HaEzer 88:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פח, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1772,
+    "line_index_2": 875,
+    "ref_2": "Shulchan Arukh, Even HaEzer 89:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1774,
+    "line_index_2": 875,
+    "ref_2": "Shulchan Arukh, Even HaEzer 89:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1778,
+    "line_index_2": 877,
+    "ref_2": "Shulchan Arukh, Even HaEzer 89:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  פט, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1782,
+    "line_index_2": 880,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1786,
+    "line_index_2": 881,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1788,
+    "line_index_2": 882,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1790,
+    "line_index_2": 883,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1794,
+    "line_index_2": 885,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1798,
+    "line_index_2": 887,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1804,
+    "line_index_2": 890,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1814,
+    "line_index_2": 895,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1822,
+    "line_index_2": 899,
+    "ref_2": "Shulchan Arukh, Even HaEzer 90:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צ, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1824,
+    "line_index_2": 901,
+    "ref_2": "Shulchan Arukh, Even HaEzer 91:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1826,
+    "line_index_2": 901,
+    "ref_2": "Shulchan Arukh, Even HaEzer 91:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1832,
+    "line_index_2": 904,
+    "ref_2": "Shulchan Arukh, Even HaEzer 91:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צא, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1836,
+    "line_index_2": 907,
+    "ref_2": "Shulchan Arukh, Even HaEzer 92:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1844,
+    "line_index_2": 910,
+    "ref_2": "Shulchan Arukh, Even HaEzer 92:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צב, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1846,
+    "line_index_2": 911,
+    "ref_2": "Shulchan Arukh, Even HaEzer 92:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צב, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1848,
+    "line_index_2": 912,
+    "ref_2": "Shulchan Arukh, Even HaEzer 92:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צב, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1868,
+    "line_index_2": 922,
+    "ref_2": "Shulchan Arukh, Even HaEzer 93:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צג, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1870,
+    "line_index_2": 923,
+    "ref_2": "Shulchan Arukh, Even HaEzer 93:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צג, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1872,
+    "line_index_2": 924,
+    "ref_2": "Shulchan Arukh, Even HaEzer 93:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צג, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1884,
+    "line_index_2": 930,
+    "ref_2": "Shulchan Arukh, Even HaEzer 93:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צג, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1918,
+    "line_index_2": 947,
+    "ref_2": "Shulchan Arukh, Even HaEzer 93:32",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צג, לב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1920,
+    "line_index_2": 949,
+    "ref_2": "Shulchan Arukh, Even HaEzer 94:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1936,
+    "line_index_2": 957,
+    "ref_2": "Shulchan Arukh, Even HaEzer 95:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1948,
+    "line_index_2": 962,
+    "ref_2": "Shulchan Arukh, Even HaEzer 95:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צה, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1950,
+    "line_index_2": 963,
+    "ref_2": "Shulchan Arukh, Even HaEzer 95:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צה, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1952,
+    "line_index_2": 965,
+    "ref_2": "Shulchan Arukh, Even HaEzer 96:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1962,
+    "line_index_2": 969,
+    "ref_2": "Shulchan Arukh, Even HaEzer 96:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צו, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1972,
+    "line_index_2": 974,
+    "ref_2": "Shulchan Arukh, Even HaEzer 96:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צו, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 1982,
+    "line_index_2": 979,
+    "ref_2": "Shulchan Arukh, Even HaEzer 96:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צו, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2005,
+    "line_index_2": 990,
+    "ref_2": "Shulchan Arukh, Even HaEzer 98:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2007,
+    "line_index_2": 990,
+    "ref_2": "Shulchan Arukh, Even HaEzer 98:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2017,
+    "line_index_2": 995,
+    "ref_2": "Shulchan Arukh, Even HaEzer 98:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2021,
+    "line_index_2": 998,
+    "ref_2": "Shulchan Arukh, Even HaEzer 99:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2023,
+    "line_index_2": 998,
+    "ref_2": "Shulchan Arukh, Even HaEzer 99:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  צט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2025,
+    "line_index_2": 1001,
+    "ref_2": "Shulchan Arukh, Even HaEzer 100:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ק, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2029,
+    "line_index_2": 1002,
+    "ref_2": "Shulchan Arukh, Even HaEzer 100:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ק, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2043,
+    "line_index_2": 1009,
+    "ref_2": "Shulchan Arukh, Even HaEzer 100:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ק, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2049,
+    "line_index_2": 1012,
+    "ref_2": "Shulchan Arukh, Even HaEzer 100:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  ק, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2059,
+    "line_index_2": 1018,
+    "ref_2": "Shulchan Arukh, Even HaEzer 101:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2061,
+    "line_index_2": 1018,
+    "ref_2": "Shulchan Arukh, Even HaEzer 101:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2069,
+    "line_index_2": 1023,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2071,
+    "line_index_2": 1023,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2073,
+    "line_index_2": 1024,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2081,
+    "line_index_2": 1028,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2083,
+    "line_index_2": 1029,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2085,
+    "line_index_2": 1030,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2087,
+    "line_index_2": 1031,
+    "ref_2": "Shulchan Arukh, Even HaEzer 102:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קב, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2089,
+    "line_index_2": 1033,
+    "ref_2": "Shulchan Arukh, Even HaEzer 103:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2091,
+    "line_index_2": 1033,
+    "ref_2": "Shulchan Arukh, Even HaEzer 103:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2107,
+    "line_index_2": 1042,
+    "ref_2": "Shulchan Arukh, Even HaEzer 104:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2129,
+    "line_index_2": 1052,
+    "ref_2": "Shulchan Arukh, Even HaEzer 105:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קה, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2137,
+    "line_index_2": 1057,
+    "ref_2": "Shulchan Arukh, Even HaEzer 106:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2143,
+    "line_index_2": 1060,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2145,
+    "line_index_2": 1060,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2151,
+    "line_index_2": 1063,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2153,
+    "line_index_2": 1064,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2159,
+    "line_index_2": 1067,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2161,
+    "line_index_2": 1068,
+    "ref_2": "Shulchan Arukh, Even HaEzer 107:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קז, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2165,
+    "line_index_2": 1071,
+    "ref_2": "Shulchan Arukh, Even HaEzer 108:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2167,
+    "line_index_2": 1071,
+    "ref_2": "Shulchan Arukh, Even HaEzer 108:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2169,
+    "line_index_2": 1072,
+    "ref_2": "Shulchan Arukh, Even HaEzer 108:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2171,
+    "line_index_2": 1073,
+    "ref_2": "Shulchan Arukh, Even HaEzer 108:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קח, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2173,
+    "line_index_2": 1075,
+    "ref_2": "Shulchan Arukh, Even HaEzer 109:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2177,
+    "line_index_2": 1076,
+    "ref_2": "Shulchan Arukh, Even HaEzer 109:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קט, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2181,
+    "line_index_2": 1078,
+    "ref_2": "Shulchan Arukh, Even HaEzer 109:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קט, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2189,
+    "line_index_2": 1083,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2195,
+    "line_index_2": 1085,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2209,
+    "line_index_2": 1092,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2211,
+    "line_index_2": 1093,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2215,
+    "line_index_2": 1095,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2219,
+    "line_index_2": 1097,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2221,
+    "line_index_2": 1098,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2223,
+    "line_index_2": 1099,
+    "ref_2": "Shulchan Arukh, Even HaEzer 111:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיא, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2235,
+    "line_index_2": 1105,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2245,
+    "line_index_2": 1110,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2247,
+    "line_index_2": 1111,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2251,
+    "line_index_2": 1113,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2255,
+    "line_index_2": 1115,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2257,
+    "line_index_2": 1116,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2259,
+    "line_index_2": 1117,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2261,
+    "line_index_2": 1118,
+    "ref_2": "Shulchan Arukh, Even HaEzer 112:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיב, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2263,
+    "line_index_2": 1120,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2265,
+    "line_index_2": 1120,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2269,
+    "line_index_2": 1122,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2275,
+    "line_index_2": 1125,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2277,
+    "line_index_2": 1126,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2279,
+    "line_index_2": 1127,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2281,
+    "line_index_2": 1128,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2283,
+    "line_index_2": 1129,
+    "ref_2": "Shulchan Arukh, Even HaEzer 113:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיג, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2285,
+    "line_index_2": 1131,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2293,
+    "line_index_2": 1134,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2295,
+    "line_index_2": 1135,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2301,
+    "line_index_2": 1138,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2305,
+    "line_index_2": 1140,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2309,
+    "line_index_2": 1142,
+    "ref_2": "Shulchan Arukh, Even HaEzer 114:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיד, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2311,
+    "line_index_2": 1144,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2315,
+    "line_index_2": 1145,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2317,
+    "line_index_2": 1146,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2325,
+    "line_index_2": 1150,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2327,
+    "line_index_2": 1151,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2329,
+    "line_index_2": 1152,
+    "ref_2": "Shulchan Arukh, Even HaEzer 115:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטו, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2333,
+    "line_index_2": 1155,
+    "ref_2": "Shulchan Arukh, Even HaEzer 116:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קטז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2347,
+    "line_index_2": 1162,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2355,
+    "line_index_2": 1165,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2361,
+    "line_index_2": 1168,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2363,
+    "line_index_2": 1169,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2367,
+    "line_index_2": 1171,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2369,
+    "line_index_2": 1172,
+    "ref_2": "Shulchan Arukh, Even HaEzer 117:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיז, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2377,
+    "line_index_2": 1175,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2379,
+    "line_index_2": 1176,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2385,
+    "line_index_2": 1179,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2387,
+    "line_index_2": 1180,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2403,
+    "line_index_2": 1188,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2407,
+    "line_index_2": 1190,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2409,
+    "line_index_2": 1191,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2411,
+    "line_index_2": 1192,
+    "ref_2": "Shulchan Arukh, Even HaEzer 118:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיח, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2414,
+    "line_index_2": 1194,
+    "ref_2": "Shulchan Arukh, Even HaEzer 119:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2436,
+    "line_index_2": 1204,
+    "ref_2": "Shulchan Arukh, Even HaEzer 119:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קיט, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2438,
+    "line_index_2": 1206,
+    "ref_2": "Shulchan Arukh, Even HaEzer 120:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכ, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2442,
+    "line_index_2": 1207,
+    "ref_2": "Shulchan Arukh, Even HaEzer 120:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכ, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2446,
+    "line_index_2": 1209,
+    "ref_2": "Shulchan Arukh, Even HaEzer 120:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2462,
+    "line_index_2": 1218,
+    "ref_2": "Shulchan Arukh, Even HaEzer 121:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2466,
+    "line_index_2": 1219,
+    "ref_2": "Shulchan Arukh, Even HaEzer 121:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכא, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2480,
+    "line_index_2": 1227,
+    "ref_2": "Shulchan Arukh, Even HaEzer 122:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2486,
+    "line_index_2": 1230,
+    "ref_2": "Shulchan Arukh, Even HaEzer 123:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2498,
+    "line_index_2": 1236,
+    "ref_2": "Shulchan Arukh, Even HaEzer 124:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2518,
+    "line_index_2": 1246,
+    "ref_2": "Shulchan Arukh, Even HaEzer 125:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2528,
+    "line_index_2": 1250,
+    "ref_2": "Shulchan Arukh, Even HaEzer 125:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכה, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2552,
+    "line_index_2": 1262,
+    "ref_2": "Shulchan Arukh, Even HaEzer 125:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכה, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2566,
+    "line_index_2": 1270,
+    "ref_2": "Shulchan Arukh, Even HaEzer 126:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2671,
+    "line_index_2": 1321,
+    "ref_2": "Shulchan Arukh, Even HaEzer 127:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2679,
+    "line_index_2": 1324,
+    "ref_2": "Shulchan Arukh, Even HaEzer 127:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2697,
+    "line_index_2": 1335,
+    "ref_2": "Shulchan Arukh, Even HaEzer 128:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2727,
+    "line_index_2": 1349,
+    "ref_2": "Shulchan Arukh, Even HaEzer 129:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכט, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2749,
+    "line_index_2": 1360,
+    "ref_2": "Shulchan Arukh, Even HaEzer 129:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קכט, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2815,
+    "line_index_2": 1381,
+    "ref_2": "Shulchan Arukh, Even HaEzer 130:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קל, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2880,
+    "line_index_2": 1393,
+    "ref_2": "Shulchan Arukh, Even HaEzer 130:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קל, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2882,
+    "line_index_2": 1394,
+    "ref_2": "Shulchan Arukh, Even HaEzer 130:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קל, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2886,
+    "line_index_2": 1396,
+    "ref_2": "Shulchan Arukh, Even HaEzer 130:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קל, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2890,
+    "line_index_2": 1398,
+    "ref_2": "Shulchan Arukh, Even HaEzer 130:21",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קל, כא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2892,
+    "line_index_2": 1401,
+    "ref_2": "Shulchan Arukh, Even HaEzer 131:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2912,
+    "line_index_2": 1411,
+    "ref_2": "Shulchan Arukh, Even HaEzer 132:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2914,
+    "line_index_2": 1411,
+    "ref_2": "Shulchan Arukh, Even HaEzer 132:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2916,
+    "line_index_2": 1412,
+    "ref_2": "Shulchan Arukh, Even HaEzer 132:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלב, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2920,
+    "line_index_2": 1414,
+    "ref_2": "Shulchan Arukh, Even HaEzer 132:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלב, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2921,
+    "line_index_2": 1414,
+    "ref_2": "Shulchan Arukh, Even HaEzer 132:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלב, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2931,
+    "line_index_2": 1420,
+    "ref_2": "Shulchan Arukh, Even HaEzer 134:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2935,
+    "line_index_2": 1421,
+    "ref_2": "Shulchan Arukh, Even HaEzer 134:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלד, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2943,
+    "line_index_2": 1425,
+    "ref_2": "Shulchan Arukh, Even HaEzer 134:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלד, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2951,
+    "line_index_2": 1429,
+    "ref_2": "Shulchan Arukh, Even HaEzer 134:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלד, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2961,
+    "line_index_2": 1434,
+    "ref_2": "Shulchan Arukh, Even HaEzer 135:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלה, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2965,
+    "line_index_2": 1437,
+    "ref_2": "Shulchan Arukh, Even HaEzer 136:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2981,
+    "line_index_2": 1445,
+    "ref_2": "Shulchan Arukh, Even HaEzer 137:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2983,
+    "line_index_2": 1445,
+    "ref_2": "Shulchan Arukh, Even HaEzer 137:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 2997,
+    "line_index_2": 1452,
+    "ref_2": "Shulchan Arukh, Even HaEzer 138:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3017,
+    "line_index_2": 1462,
+    "ref_2": "Shulchan Arukh, Even HaEzer 139:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלט, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3019,
+    "line_index_2": 1463,
+    "ref_2": "Shulchan Arukh, Even HaEzer 139:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלט, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3025,
+    "line_index_2": 1466,
+    "ref_2": "Shulchan Arukh, Even HaEzer 139:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קלט, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3053,
+    "line_index_2": 1480,
+    "ref_2": "Shulchan Arukh, Even HaEzer 140:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמ, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3055,
+    "line_index_2": 1481,
+    "ref_2": "Shulchan Arukh, Even HaEzer 140:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמ, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3057,
+    "line_index_2": 1482,
+    "ref_2": "Shulchan Arukh, Even HaEzer 140:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמ, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3063,
+    "line_index_2": 1487,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3093,
+    "line_index_2": 1501,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3097,
+    "line_index_2": 1503,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3101,
+    "line_index_2": 1505,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3103,
+    "line_index_2": 1506,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3105,
+    "line_index_2": 1507,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:21",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, כא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3109,
+    "line_index_2": 1509,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:23",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, כג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3125,
+    "line_index_2": 1516,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:30",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, ל",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3127,
+    "line_index_2": 1517,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:31",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, לא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3129,
+    "line_index_2": 1518,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:32",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, לב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3137,
+    "line_index_2": 1522,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:36",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, לו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3147,
+    "line_index_2": 1527,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:41",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, מא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3151,
+    "line_index_2": 1529,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:43",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, מג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3155,
+    "line_index_2": 1531,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:45",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, מה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3157,
+    "line_index_2": 1532,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:46",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, מו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3161,
+    "line_index_2": 1534,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:48",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, מח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3165,
+    "line_index_2": 1536,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:50",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, נ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3167,
+    "line_index_2": 1537,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:51",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, נא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3169,
+    "line_index_2": 1538,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:52",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, נב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3175,
+    "line_index_2": 1541,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:55",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, נה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3201,
+    "line_index_2": 1554,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:68",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, סח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3203,
+    "line_index_2": 1555,
+    "ref_2": "Shulchan Arukh, Even HaEzer 141:69",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמא, סט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3221,
+    "line_index_2": 1564,
+    "ref_2": "Shulchan Arukh, Even HaEzer 142:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמב, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3225,
+    "line_index_2": 1566,
+    "ref_2": "Shulchan Arukh, Even HaEzer 142:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמב, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3233,
+    "line_index_2": 1570,
+    "ref_2": "Shulchan Arukh, Even HaEzer 142:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמב, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3237,
+    "line_index_2": 1572,
+    "ref_2": "Shulchan Arukh, Even HaEzer 142:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמב, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3241,
+    "line_index_2": 1574,
+    "ref_2": "Shulchan Arukh, Even HaEzer 142:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמב, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3245,
+    "line_index_2": 1577,
+    "ref_2": "Shulchan Arukh, Even HaEzer 143:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3285,
+    "line_index_2": 1596,
+    "ref_2": "Shulchan Arukh, Even HaEzer 143:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמג, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3293,
+    "line_index_2": 1601,
+    "ref_2": "Shulchan Arukh, Even HaEzer 144:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3337,
+    "line_index_2": 1620,
+    "ref_2": "Shulchan Arukh, Even HaEzer 146:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3343,
+    "line_index_2": 1622,
+    "ref_2": "Shulchan Arukh, Even HaEzer 146:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמו, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3345,
+    "line_index_2": 1623,
+    "ref_2": "Shulchan Arukh, Even HaEzer 146:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמו, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3349,
+    "line_index_2": 1626,
+    "ref_2": "Shulchan Arukh, Even HaEzer 147:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3357,
+    "line_index_2": 1630,
+    "ref_2": "Shulchan Arukh, Even HaEzer 148:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3363,
+    "line_index_2": 1633,
+    "ref_2": "Shulchan Arukh, Even HaEzer 149:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3369,
+    "line_index_2": 1635,
+    "ref_2": "Shulchan Arukh, Even HaEzer 149:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמט, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3371,
+    "line_index_2": 1636,
+    "ref_2": "Shulchan Arukh, Even HaEzer 149:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמט, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3373,
+    "line_index_2": 1637,
+    "ref_2": "Shulchan Arukh, Even HaEzer 149:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קמט, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3385,
+    "line_index_2": 1644,
+    "ref_2": "Shulchan Arukh, Even HaEzer 150:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנ, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3391,
+    "line_index_2": 1648,
+    "ref_2": "Shulchan Arukh, Even HaEzer 152:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3405,
+    "line_index_2": 1654,
+    "ref_2": "Shulchan Arukh, Even HaEzer 152:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנב, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3415,
+    "line_index_2": 1659,
+    "ref_2": "Shulchan Arukh, Even HaEzer 152:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנב, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3419,
+    "line_index_2": 1661,
+    "ref_2": "Shulchan Arukh, Even HaEzer 153:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3421,
+    "line_index_2": 1663,
+    "ref_2": "Shulchan Arukh, Even HaEzer 154:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3427,
+    "line_index_2": 1665,
+    "ref_2": "Shulchan Arukh, Even HaEzer 154:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנד, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3431,
+    "line_index_2": 1667,
+    "ref_2": "Shulchan Arukh, Even HaEzer 154:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנד, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3433,
+    "line_index_2": 1668,
+    "ref_2": "Shulchan Arukh, Even HaEzer 154:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנד, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3457,
+    "line_index_2": 1680,
+    "ref_2": "Shulchan Arukh, Even HaEzer 154:18",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנד, יח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3598,
+    "line_index_2": 1688,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3602,
+    "line_index_2": 1689,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3612,
+    "line_index_2": 1694,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3615,
+    "line_index_2": 1695,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3619,
+    "line_index_2": 1697,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3627,
+    "line_index_2": 1701,
+    "ref_2": "Shulchan Arukh, Even HaEzer 155:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנה, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3646,
+    "line_index_2": 1711,
+    "ref_2": "Shulchan Arukh, Even HaEzer 156:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3660,
+    "line_index_2": 1717,
+    "ref_2": "Shulchan Arukh, Even HaEzer 156:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנו, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3664,
+    "line_index_2": 1719,
+    "ref_2": "Shulchan Arukh, Even HaEzer 156:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנו, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3666,
+    "line_index_2": 1720,
+    "ref_2": "Shulchan Arukh, Even HaEzer 156:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנו, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3668,
+    "line_index_2": 1721,
+    "ref_2": "Shulchan Arukh, Even HaEzer 156:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנו, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3674,
+    "line_index_2": 1725,
+    "ref_2": "Shulchan Arukh, Even HaEzer 157:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3676,
+    "line_index_2": 1725,
+    "ref_2": "Shulchan Arukh, Even HaEzer 157:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3680,
+    "line_index_2": 1727,
+    "ref_2": "Shulchan Arukh, Even HaEzer 157:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנז, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3694,
+    "line_index_2": 1734,
+    "ref_2": "Shulchan Arukh, Even HaEzer 157:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנז, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3696,
+    "line_index_2": 1736,
+    "ref_2": "Shulchan Arukh, Even HaEzer 158:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3698,
+    "line_index_2": 1736,
+    "ref_2": "Shulchan Arukh, Even HaEzer 158:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3700,
+    "line_index_2": 1737,
+    "ref_2": "Shulchan Arukh, Even HaEzer 158:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנח, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3708,
+    "line_index_2": 1741,
+    "ref_2": "Shulchan Arukh, Even HaEzer 158:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3710,
+    "line_index_2": 1743,
+    "ref_2": "Shulchan Arukh, Even HaEzer 159:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3718,
+    "line_index_2": 1746,
+    "ref_2": "Shulchan Arukh, Even HaEzer 159:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קנט, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3726,
+    "line_index_2": 1751,
+    "ref_2": "Shulchan Arukh, Even HaEzer 160:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קס, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3732,
+    "line_index_2": 1753,
+    "ref_2": "Shulchan Arukh, Even HaEzer 160:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קס, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3736,
+    "line_index_2": 1755,
+    "ref_2": "Shulchan Arukh, Even HaEzer 160:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קס, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3738,
+    "line_index_2": 1756,
+    "ref_2": "Shulchan Arukh, Even HaEzer 160:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קס, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3754,
+    "line_index_2": 1764,
+    "ref_2": "Shulchan Arukh, Even HaEzer 161:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסא, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3756,
+    "line_index_2": 1765,
+    "ref_2": "Shulchan Arukh, Even HaEzer 161:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסא, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3764,
+    "line_index_2": 1770,
+    "ref_2": "Shulchan Arukh, Even HaEzer 162:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3776,
+    "line_index_2": 1776,
+    "ref_2": "Shulchan Arukh, Even HaEzer 163:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3778,
+    "line_index_2": 1776,
+    "ref_2": "Shulchan Arukh, Even HaEzer 163:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3792,
+    "line_index_2": 1783,
+    "ref_2": "Shulchan Arukh, Even HaEzer 163:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסג, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3794,
+    "line_index_2": 1785,
+    "ref_2": "Shulchan Arukh, Even HaEzer 164:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3796,
+    "line_index_2": 1785,
+    "ref_2": "Shulchan Arukh, Even HaEzer 164:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסד, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3804,
+    "line_index_2": 1789,
+    "ref_2": "Shulchan Arukh, Even HaEzer 164:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסד, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3816,
+    "line_index_2": 1795,
+    "ref_2": "Shulchan Arukh, Even HaEzer 165:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסה, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3820,
+    "line_index_2": 1797,
+    "ref_2": "Shulchan Arukh, Even HaEzer 165:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסה, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3822,
+    "line_index_2": 1798,
+    "ref_2": "Shulchan Arukh, Even HaEzer 165:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסה, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3838,
+    "line_index_2": 1806,
+    "ref_2": "Shulchan Arukh, Even HaEzer 166:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסו, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3844,
+    "line_index_2": 1810,
+    "ref_2": "Shulchan Arukh, Even HaEzer 167:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסז, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3852,
+    "line_index_2": 1813,
+    "ref_2": "Shulchan Arukh, Even HaEzer 167:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסז, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3854,
+    "line_index_2": 1814,
+    "ref_2": "Shulchan Arukh, Even HaEzer 167:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסז, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3858,
+    "line_index_2": 1817,
+    "ref_2": "Shulchan Arukh, Even HaEzer 168:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3879,
+    "line_index_2": 1827,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3903,
+    "line_index_2": 1838,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3945,
+    "line_index_2": 1859,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:33",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, לג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3951,
+    "line_index_2": 1862,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:36",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, לו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3957,
+    "line_index_2": 1865,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:39",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, לט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3959,
+    "line_index_2": 1866,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:40",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, מ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3961,
+    "line_index_2": 1867,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:41",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, מא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3969,
+    "line_index_2": 1871,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:45",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, מה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3977,
+    "line_index_2": 1875,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:49",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, מט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3983,
+    "line_index_2": 1878,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:52",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, נב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 3988,
+    "line_index_2": 1827,
+    "ref_2": "Shulchan Arukh, Even HaEzer 169:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קסט, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4267,
+    "line_index_2": 1884,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4275,
+    "line_index_2": 1887,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4279,
+    "line_index_2": 1889,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4281,
+    "line_index_2": 1890,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4285,
+    "line_index_2": 1892,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4287,
+    "line_index_2": 1893,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4293,
+    "line_index_2": 1896,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4295,
+    "line_index_2": 1897,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4297,
+    "line_index_2": 1898,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:15",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, טו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4305,
+    "line_index_2": 1902,
+    "ref_2": "Shulchan Arukh, Even HaEzer 170:19",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קע, יט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4311,
+    "line_index_2": 1905,
+    "ref_2": "Shulchan Arukh, Even HaEzer 171:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעא, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4313,
+    "line_index_2": 1906,
+    "ref_2": "Shulchan Arukh, Even HaEzer 171:2",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעא, ב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4331,
+    "line_index_2": 1916,
+    "ref_2": "Shulchan Arukh, Even HaEzer 172:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעב, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4363,
+    "line_index_2": 1931,
+    "ref_2": "Shulchan Arukh, Even HaEzer 172:16",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעב, טז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4365,
+    "line_index_2": 1933,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4373,
+    "line_index_2": 1936,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4379,
+    "line_index_2": 1939,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4381,
+    "line_index_2": 1940,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4385,
+    "line_index_2": 1942,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4387,
+    "line_index_2": 1943,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4389,
+    "line_index_2": 1944,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4391,
+    "line_index_2": 1945,
+    "ref_2": "Shulchan Arukh, Even HaEzer 173:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעג, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4413,
+    "line_index_2": 1956,
+    "ref_2": "Shulchan Arukh, Even HaEzer 174:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעד, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4415,
+    "line_index_2": 1957,
+    "ref_2": "Shulchan Arukh, Even HaEzer 174:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעד, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4417,
+    "line_index_2": 1959,
+    "ref_2": "Shulchan Arukh, Even HaEzer 175:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעה, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4427,
+    "line_index_2": 1963,
+    "ref_2": "Shulchan Arukh, Even HaEzer 175:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעה, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4435,
+    "line_index_2": 1967,
+    "ref_2": "Shulchan Arukh, Even HaEzer 175:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעה, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4437,
+    "line_index_2": 1968,
+    "ref_2": "Shulchan Arukh, Even HaEzer 175:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעה, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4439,
+    "line_index_2": 1969,
+    "ref_2": "Shulchan Arukh, Even HaEzer 175:11",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעה, יא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4447,
+    "line_index_2": 1974,
+    "ref_2": "Shulchan Arukh, Even HaEzer 176:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעו, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4455,
+    "line_index_2": 1977,
+    "ref_2": "Shulchan Arukh, Even HaEzer 176:4",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעו, ד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4463,
+    "line_index_2": 1981,
+    "ref_2": "Shulchan Arukh, Even HaEzer 176:8",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעו, ח",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4479,
+    "line_index_2": 1989,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:1",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, א",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4485,
+    "line_index_2": 1991,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:3",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, ג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4489,
+    "line_index_2": 1993,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:5",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, ה",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4491,
+    "line_index_2": 1994,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:6",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, ו",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4493,
+    "line_index_2": 1995,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:7",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, ז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4497,
+    "line_index_2": 1997,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:9",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, ט",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4499,
+    "line_index_2": 1998,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:10",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, י",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4503,
+    "line_index_2": 2000,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:12",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, יב",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4505,
+    "line_index_2": 2001,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:13",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, יג",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4507,
+    "line_index_2": 2002,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:14",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, יד",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4513,
+    "line_index_2": 2005,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:17",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, יז",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4519,
+    "line_index_2": 2008,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:20",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, כ",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  },
+  {
+    "line_index_1": 4521,
+    "line_index_2": 2009,
+    "ref_2": "Shulchan Arukh, Even HaEzer 178:21",
+    "heRef_2": "שולחן ערוך, אבן העזר,  קעח, כא",
+    "path_2": "שולחן ערוך, אבן העזר.txt",
+    "Conection Type": "source"
+  }
+]
