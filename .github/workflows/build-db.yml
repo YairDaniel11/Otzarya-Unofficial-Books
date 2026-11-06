@@ -515,8 +515,7 @@ jobs:
           FULLSIZE=$(python3 -c 'import json,sys; print(sum(p["size"] for p in json.load(open(sys.argv[1], encoding="utf-8"))["full"]["parts"]))' "$WORK/out/manifest.json")
           python -X utf8 "$TOOLS_DIR/release_db.py" pack-step --db "$WORK/new.db" --prev-db "$WORK/prev1.db"             --out "$STEPS" --url-prefix "$DOWNLOAD_BASE/db-steps" --full-download-size "$FULLSIZE"             --key "$KEY_FILE" "${EXISTING[@]}"
           if ! gh release view db-steps >/dev/null 2>&1; then
-            printf 'קבצי עדכון בין גרסאות עוקבות של המסד (גרסה N-1 ל-N). לא נמחקים.
-' > "$WORK/notes-steps.md"
+            printf 'קבצי עדכון בין גרסאות עוקבות של המסד (גרסה N-1 ל-N). לא נמחקים.\n' > "$WORK/notes-steps.md"
             gh release create db-steps --target "$GITHUB_SHA" --title "צעדי עדכון DB"               --notes-file "$WORK/notes-steps.md" --latest=false
           fi
           # קודם קבצי הצעדים, ורק אחריהם המניפסט שמצביע עליהם
