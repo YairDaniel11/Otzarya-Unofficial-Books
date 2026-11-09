@@ -17,7 +17,7 @@
     "parent": "",
     "size": "67.9 MB",
     "depth": 0,
-    "hash": "a40c0006af9231169c436c5e94735221"
+    "hash": "a003760b9358abfebc0abc30b33a85af"
   },
   {
     "name": "חסידות",
@@ -75,9 +75,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "33.6 MB",
+    "size": "55.3 MB",
     "depth": 0,
-    "hash": "62193f3d38739a6ffc13bf253e296e48"
+    "hash": "5e74e2a7c9d3aac17071eca5f2eedb8b"
   },
   {
     "name": "ספרי מוסר",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "7.7 MB",
     "depth": 0,
-    "hash": "e68fa0fcceb07a47cef4e53ea057b036"
+    "hash": "c156eb45d841e4144a7a13c661a5ece1"
   },
   {
     "name": "שו״ת",
@@ -115,9 +115,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "61.5 MB",
+    "size": "61.1 MB",
     "depth": 0,
-    "hash": "bec7a9c1d46ccc50e0478496a8c62e35"
+    "hash": "987d3b0c6304b12acb1054fbede28ae0"
   },
   {
     "name": "תלמוד בבלי",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "910.7 MB",
+    "size": "910.6 MB",
     "depth": 0,
-    "hash": "649a7c8809ca54e486f80ec2df69e802"
+    "hash": "dbce58081127033a736d485d18ccd0d5"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -237,7 +237,7 @@
     "parent": "הלכה",
     "size": "19.3 MB",
     "depth": 1,
-    "hash": "1b3ccd4da65f50fef06bee2a2e1769a2"
+    "hash": "fcdcdd5fbc5de479e7f8b43c90395af7"
   },
   {
     "name": "איזביצה",
@@ -455,9 +455,9 @@
     "zip": "folder_0547.zip",
     "label": "אנציקלופדיות",
     "parent": "ספרות עזר",
-    "size": "24.4 MB",
+    "size": "46.1 MB",
     "depth": 1,
-    "hash": "76024c14cceb26e1b91bf57ec957b17e"
+    "hash": "cf1276711c180aa76aa9e213dc205ad1"
   },
   {
     "name": "ביבליוגרפיה",
@@ -737,7 +737,7 @@
     "parent": "שו״ת",
     "size": "30.3 MB",
     "depth": 1,
-    "hash": "d70cfad09d2877deca128cbd4c2b11c5"
+    "hash": "a50fbeb24e517d05c7bdd663cf44dae0"
   },
   {
     "name": "ראשונים",
@@ -745,9 +745,9 @@
     "zip": "folder_0140.zip",
     "label": "ראשונים",
     "parent": "שו״ת",
-    "size": "9.2 MB",
+    "size": "8.8 MB",
     "depth": 1,
-    "hash": "b3acb03101c6ebaa019d45804a8f2a06"
+    "hash": "d72b0d22b50190a2244c920e148386d7"
   },
   {
     "name": "אחרונים",
@@ -755,9 +755,9 @@
     "zip": "folder_0075.zip",
     "label": "אחרונים",
     "parent": "תלמוד בבלי",
-    "size": "49.2 MB",
+    "size": "49.1 MB",
     "depth": 1,
-    "hash": "793ffd3c765d9a517f5bf448a4d633ad"
+    "hash": "5c26c33a5fbba89df5958910a620a3c1"
   },
   {
     "name": "כללי הש״ס",
@@ -1057,7 +1057,7 @@
     "parent": "הלכה/שולחן ערוך",
     "size": "19.3 MB",
     "depth": 2,
-    "hash": "16467563baaef25749a52be2b3c70c78"
+    "hash": "df0e5b0f85ba284718177eb60ff2f808"
   },
   {
     "name": "כתבי רבי שמחה בונים מפשיסחא",
@@ -1185,9 +1185,9 @@
     "zip": "folder_0711.zip",
     "label": "אנציקלופדיה תלמודית",
     "parent": "ספרות עזר/אנציקלופדיות",
-    "size": "20.7 MB",
+    "size": "42.4 MB",
     "depth": 2,
-    "hash": "797913c29dfe614e0f6188ccf54eea4d"
+    "hash": "021ea215749b24b3726e552178fc9239"
   },
   {
     "name": "סגולות ורפואות",
@@ -2915,9 +2915,19 @@
     "zip": "folder_0623.zip",
     "label": "links",
     "parent": "הלכה/שולחן ערוך/מפרשים",
-    "size": "299 KB",
+    "size": "232 KB",
     "depth": 3,
-    "hash": "e0a15de2ba2a4b3746dc2dfda9b842a5"
+    "hash": "9b5d7fa02564d371ada84c7591189a16"
+  },
+  {
+    "name": "לבוש על שלחן ערוך",
+    "path": "הלכה/שולחן ערוך/מפרשים/לבוש על שלחן ערוך",
+    "zip": "folder_0754.zip",
+    "label": "לבוש על שלחן ערוך",
+    "parent": "הלכה/שולחן ערוך/מפרשים",
+    "size": "3.6 MB",
+    "depth": 3,
+    "hash": "bb4e2a52098da26d7ac0924156a7532f"
   },
   {
     "name": "נספחים",
@@ -2975,9 +2985,9 @@
     "zip": "folder_0715.zip",
     "label": "links",
     "parent": "ספרות עזר/אנציקלופדיות/אנציקלופדיה תלמודית",
-    "size": "890 KB",
+    "size": "3.0 MB",
     "depth": 3,
-    "hash": "89741f025dbfdba81d89e6bb7262805a"
+    "hash": "7519b8fdfec8eba7e46f1980d46a4920"
   },
   {
     "name": "הערות על אנציקלופדיה",
@@ -2985,9 +2995,9 @@
     "zip": "folder_0716.zip",
     "label": "הערות על אנציקלופדיה",
     "parent": "ספרות עזר/אנציקלופדיות/אנציקלופדיה תלמודית",
-    "size": "5.2 MB",
+    "size": "22.2 MB",
     "depth": 3,
-    "hash": "d2ade4f073e25d03df0357a9c51e85ad"
+    "hash": "f452540d88f993a30b598584f179e2b4"
   },
   {
     "name": "סדר נשים",
@@ -3898,6 +3908,16 @@
     "size": "41 KB",
     "depth": 4,
     "hash": "334db1af199ee3df625fd0788c4f813b"
+  },
+  {
+    "name": "links",
+    "path": "הלכה/שולחן ערוך/מפרשים/לבוש על שלחן ערוך/links",
+    "zip": "folder_0755.zip",
+    "label": "links",
+    "parent": "הלכה/שולחן ערוך/מפרשים/לבוש על שלחן ערוך",
+    "size": "68 KB",
+    "depth": 4,
+    "hash": "2b72ad627493e1a8c8c15098f6ad5fa2"
   },
   {
     "name": "links",
