@@ -322,7 +322,7 @@ jobs:
             || gh release create latest --title "מאגר ספרים עדכני" --notes "initial" --latest
           gh release edit latest \
             --title "מאגר ספרים עדכני" \
-            --notes "$(printf '## עדכון אוטומטי\n\nתאריך: **%s**' "$CURRENT_TIME")" \
+            --notes "$(printf '<div dir="rtl">\n\n## עדכון אוטומטי\n\nתאריך: **%s**\n\n</div>' "$CURRENT_TIME")" \
             --latest
 
       - name: Upload Assets
