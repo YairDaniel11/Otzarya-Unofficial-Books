@@ -102,7 +102,7 @@ def is_lfs(L):
     return bool(L) and L[0].startswith('version https://git-lfs')
 
 
-def expected_for(rel, b, L):
+def expected_for(rel, b, L, collapse=True):
     """מחזיר (קטגוריה, {שורה: (יעד, מיקום)}) או (None, None) אם הספר לא אמור להיות מקושר."""
     # תנ"ך
     if rel[:1] == ('תנ״ך',) and len(rel) > 1 and rel[1] in ('ראשונים', 'תרגומים'):
@@ -194,13 +194,19 @@ def expected_for(rel, b, L):
         mas = ALIAS.get(mas, mas) if mas else None
         mas0 = mas
 
+        # ספרי "קובץ": קישור אחד לכל קטע רציף (אותה כותרת ואותו דף), ולא קישור לכל שורה.
+        # אחרת אותו ספר מופיע מאות פעמים בחלונית "מפרשים נוספים" של הדף.
+        one_per_run = collapse and b.startswith('קובץ')
+
         def run(ext):
             mas, ds = mas0, (dafset(mas0) if mas0 else None)
             cur, out = None, {}
+            fresh = True
             for i, l in enumerate(L, 1):
                 s = l.rstrip('\r').strip()
                 hm = HEAD.match(s)
                 if hm:
+                    fresh = True
                     t = strip(hm.group(2))
                     mm = re.match(r'^מסכת (.+?)$', t)
                     if hm.group(1) == '2' and mm:
@@ -220,7 +226,9 @@ def expected_for(rel, b, L):
                 if i == 1 or not s or s.startswith('<h1'):
                     continue
                 if ds and cur and cur in ds:
-                    out[i] = (mas, cur)
+                    if fresh or not one_per_run:
+                        out[i] = (mas, cur)
+                    fresh = False
             return ds, out
 
         ds, out = run(False)

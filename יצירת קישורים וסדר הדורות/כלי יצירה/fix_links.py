@@ -48,14 +48,14 @@ def candidates():
 _exp_cache = {}
 
 
-def expected(stem, rel, path):
-    key = path
+def expected(stem, rel, path, collapse=True):
+    key = (path, collapse)
     if key not in _exp_cache:
         L = A.read_lines(path)
         if A.is_lfs(L):
             _exp_cache[key] = None
         else:
-            cat, exp, _ = A.expected_for(rel, stem, L)
+            cat, exp, _ = A.expected_for(rel, stem, L, collapse)
             h = A.halacha_expected(stem, L)
             if h is not None:
                 exp = h
@@ -115,11 +115,16 @@ def main():
             n_old = sum(len(v) for v in old.values())
             for ci, (rel, path, exp) in enumerate(cl):
                 bj, bs = 0.0, 0
-                for s in SHIFTS:
-                    m = sum(1 for ln, ts in old.items() if exp.get(ln + s) in ts)
-                    j = m / (n_old + len(exp) - m) if (n_old + len(exp) - m) else 0
-                    if j > bj:
-                        bj, bs = j, s
+                # "קובץ": קבוצה ישנה (קישור לכל שורה) עדיין מתאימה לקובץ, לכן משווים גם מול הגרסה המלאה
+                variants = [exp]
+                if stem.startswith('קובץ'):
+                    variants.append(expected(stem, rel, path, collapse=False) or {})
+                for ex in variants:
+                    for s in SHIFTS:
+                        m = sum(1 for ln, ts in old.items() if ex.get(ln + s) in ts)
+                        j = m / (n_old + len(ex) - m) if (n_old + len(ex) - m) else 0
+                        if j > bj:
+                            bj, bs = j, s
                 pairs.append((bj, gi, ci, bs))
         pairs.sort(reverse=True)
         gdone, cdone, assign = set(), set(), {}
@@ -142,7 +147,7 @@ def main():
             new = [[str(ln), stem, rows[0][2], t_, ref, rows[0][5], rows[0][6], cat]
                    for ln, (t_, ref) in sorted(exp.items())]
             new_for[(stem, cat)] = new
-            status = 'תקין' if s == 0 and j == 1.0 else 'עודכן'
+            status = 'תקין' if s == 0 and j == 1.0 and n_old == len(new) else 'עודכן'
             stats[status] += 1
             report.append((stem, cat, status, n_old, len(new), s, f'{"/".join(rel)} (התאמה {j:.0%})'))
 
