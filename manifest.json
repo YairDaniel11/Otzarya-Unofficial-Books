@@ -65,9 +65,9 @@
     "zip": "folder_0057.zip",
     "label": "סדר התפילה",
     "parent": "",
-    "size": "4.2 MB",
+    "size": "4.3 MB",
     "depth": 0,
-    "hash": "9311c8d7082f0196ce995b854e58144e"
+    "hash": "2f083145edc496635cfbd703545181f8"
   },
   {
     "name": "ספרות עזר",
@@ -105,9 +105,9 @@
     "zip": "folder_0416.zip",
     "label": "קבצי קישורים וסדר הדורות",
     "parent": "",
-    "size": "7.7 MB",
+    "size": "2.4 MB",
     "depth": 0,
-    "hash": "c156eb45d841e4144a7a13c661a5ece1"
+    "hash": "988a91004ecef163023bd0c0740c79f2"
   },
   {
     "name": "שו״ת",
@@ -145,9 +145,9 @@
     "zip": "folder_0251.zip",
     "label": "תנ״ך",
     "parent": "",
-    "size": "53.4 MB",
+    "size": "53.5 MB",
     "depth": 0,
-    "hash": "f53ab48c48e36cb713d7b1478b054591"
+    "hash": "e52db74755b50be6f6f3e274cc8175e2"
   },
   {
     "name": "יוסף בן מתתיהו",
@@ -415,9 +415,9 @@
     "zip": "folder_0068.zip",
     "label": "הגדה",
     "parent": "סדר התפילה",
-    "size": "952 KB",
+    "size": "971 KB",
     "depth": 1,
-    "hash": "8ea1a9f62c00bc546afa002efcaca403"
+    "hash": "8d73260b9c98cd6deea0c73b92e0996a"
   },
   {
     "name": "חיבורים נוספים",
@@ -705,9 +705,9 @@
     "zip": "folder_0421.zip",
     "label": "קישורים - קבצי קובץ (גדולים)",
     "parent": "קבצי קישורים וסדר הדורות",
-    "size": "6.4 MB",
+    "size": "1.1 MB",
     "depth": 1,
-    "hash": "552d0ef460abeeae9389e04d3e410704"
+    "hash": "3ed7d913e9ca7d6c8d80f8f367a70482"
   },
   {
     "name": "אחרונים",
@@ -845,9 +845,9 @@
     "zip": "folder_0709.zip",
     "label": "דרשות ודרושים",
     "parent": "תנ״ך",
-    "size": "1.3 MB",
+    "size": "1.4 MB",
     "depth": 1,
-    "hash": "389036c4664727e8cac10c6f403352cb"
+    "hash": "1673c1ec9a2c9cfe3dcccfa570d58623"
   },
   {
     "name": "כתובים",
@@ -1265,9 +1265,9 @@
     "zip": "folder_0423.zip",
     "label": "01",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "368 KB",
+    "size": "64 KB",
     "depth": 2,
-    "hash": "63dcce52c9e6b79f91f8b137c9387c20"
+    "hash": "53ef3e5c17c6ffb6a8b23fdc157101a2"
   },
   {
     "name": "02",
@@ -1275,9 +1275,9 @@
     "zip": "folder_0424.zip",
     "label": "02",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "205 KB",
+    "size": "35 KB",
     "depth": 2,
-    "hash": "e961653a193251c8eb38dc50fc53ad13"
+    "hash": "73bbf7f64182af14d1a65bcb80a69669"
   },
   {
     "name": "03",
@@ -1285,9 +1285,9 @@
     "zip": "folder_0425.zip",
     "label": "03",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "164 KB",
+    "size": "26 KB",
     "depth": 2,
-    "hash": "3601a58f0fcf75e9f71fb3dbb656b5c1"
+    "hash": "f55da3c1d95a7d20da49f5cdafceaf71"
   },
   {
     "name": "04",
@@ -1295,9 +1295,9 @@
     "zip": "folder_0426.zip",
     "label": "04",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "139 KB",
+    "size": "20 KB",
     "depth": 2,
-    "hash": "cbb5ae6659373d04e2768d37b6b8da44"
+    "hash": "97a559a30859099d1c2584218f8ea637"
   },
   {
     "name": "05",
@@ -1305,9 +1305,9 @@
     "zip": "folder_0427.zip",
     "label": "05",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "406 KB",
+    "size": "62 KB",
     "depth": 2,
-    "hash": "ce49d5a566f7fbb8e644e859a1405708"
+    "hash": "e1bfdc5e2b69f3f0a737049f09f16302"
   },
   {
     "name": "06",
@@ -1315,9 +1315,9 @@
     "zip": "folder_0428.zip",
     "label": "06",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "230 KB",
+    "size": "36 KB",
     "depth": 2,
-    "hash": "fa3020b203be59d1e04fb7c0c7151d30"
+    "hash": "6889263caf5ce2ded30c00494cea1fe7"
   },
   {
     "name": "07",
@@ -1325,9 +1325,9 @@
     "zip": "folder_0429.zip",
     "label": "07",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "664 KB",
+    "size": "118 KB",
     "depth": 2,
-    "hash": "a1ade0bf79f304f56ec0d74a332fed35"
+    "hash": "04303b97f882f6086c5a46fba37ddaf9"
   },
   {
     "name": "08",
@@ -1335,9 +1335,9 @@
     "zip": "folder_0430.zip",
     "label": "08",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "291 KB",
+    "size": "45 KB",
     "depth": 2,
-    "hash": "141f24652d2535e09c936a95b4fdc6fd"
+    "hash": "3dc2df5d1727a898020d8e8e01e3c2be"
   },
   {
     "name": "09",
@@ -1345,9 +1345,9 @@
     "zip": "folder_0431.zip",
     "label": "09",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "429 KB",
+    "size": "70 KB",
     "depth": 2,
-    "hash": "986c17cf7e30685c3bc874fc0ab1657f"
+    "hash": "b3f5dfe74760419c3c63c6eb93921bdd"
   },
   {
     "name": "10",
@@ -1355,9 +1355,9 @@
     "zip": "folder_0432.zip",
     "label": "10",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "253 KB",
+    "size": "44 KB",
     "depth": 2,
-    "hash": "7a8d02e67ebdc917432347596fcf3900"
+    "hash": "51e9b37aba4e721f0b80550d6f1602ee"
   },
   {
     "name": "11",
@@ -1365,9 +1365,9 @@
     "zip": "folder_0433.zip",
     "label": "11",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "279 KB",
+    "size": "51 KB",
     "depth": 2,
-    "hash": "ef740a8fc0f05191cf874498d1bdc7f4"
+    "hash": "9d7d78a5186275d941bd57036e6b67c5"
   },
   {
     "name": "12",
@@ -1375,9 +1375,9 @@
     "zip": "folder_0434.zip",
     "label": "12",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "585 KB",
+    "size": "100 KB",
     "depth": 2,
-    "hash": "b210fe53138fe16f0373d7cc2e307d83"
+    "hash": "2b83c00f23b425accbacce0a63762efb"
   },
   {
     "name": "13",
@@ -1385,9 +1385,9 @@
     "zip": "folder_0435.zip",
     "label": "13",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "371 KB",
+    "size": "63 KB",
     "depth": 2,
-    "hash": "92b692a944c05b380c200bd628591606"
+    "hash": "3ee84e54746c8ffa9ec8cda183d829c8"
   },
   {
     "name": "14",
@@ -1395,9 +1395,9 @@
     "zip": "folder_0436.zip",
     "label": "14",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "114 KB",
+    "size": "20 KB",
     "depth": 2,
-    "hash": "f9a05b86659b3e2a21cc853936e6e8e9"
+    "hash": "c19eee6cd81064a9f76eee967c39be78"
   },
   {
     "name": "15",
@@ -1405,9 +1405,9 @@
     "zip": "folder_0437.zip",
     "label": "15",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "291 KB",
+    "size": "53 KB",
     "depth": 2,
-    "hash": "7dd2f9b18ef0d0990f2773bd0d8fdbe7"
+    "hash": "b21386a5d595a73150e774a8b45f3322"
   },
   {
     "name": "16",
@@ -1415,9 +1415,9 @@
     "zip": "folder_0438.zip",
     "label": "16",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "212 KB",
+    "size": "41 KB",
     "depth": 2,
-    "hash": "2a7fadcd4e5ccfdfcec4a9f8728b3366"
+    "hash": "84522f1679a485ec84419a2fe0a943cc"
   },
   {
     "name": "17",
@@ -1425,9 +1425,9 @@
     "zip": "folder_0439.zip",
     "label": "17",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "240 KB",
+    "size": "44 KB",
     "depth": 2,
-    "hash": "62b4ea32cb16dda2f9826349e25e05b3"
+    "hash": "1e81a8d8bb1c372ae9a8c085a34e4e5e"
   },
   {
     "name": "18",
@@ -1435,9 +1435,9 @@
     "zip": "folder_0440.zip",
     "label": "18",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "208 KB",
+    "size": "31 KB",
     "depth": 2,
-    "hash": "99c585499f6d89f40d877a73936eee1c"
+    "hash": "d7b7a906e9515585d0403ee595b4f809"
   },
   {
     "name": "19",
@@ -1445,9 +1445,9 @@
     "zip": "folder_0441.zip",
     "label": "19",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "161 KB",
+    "size": "23 KB",
     "depth": 2,
-    "hash": "9931da580cfe49a2fd03ce6fb95948bb"
+    "hash": "ceabcfafa734aa16954431371133005e"
   },
   {
     "name": "20",
@@ -1455,9 +1455,9 @@
     "zip": "folder_0442.zip",
     "label": "20",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "201 KB",
+    "size": "29 KB",
     "depth": 2,
-    "hash": "3255ea96b29c08ff5ad160ad3552afc4"
+    "hash": "41f02e5af5395b6c916d51d08fb2cbcd"
   },
   {
     "name": "21",
@@ -1465,9 +1465,9 @@
     "zip": "folder_0443.zip",
     "label": "21",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "150 KB",
+    "size": "32 KB",
     "depth": 2,
-    "hash": "326efe66483cec3e52e46b8b6c3564f8"
+    "hash": "6afccab3e733f56e4083dbf646e1b852"
   },
   {
     "name": "22",
@@ -1475,9 +1475,9 @@
     "zip": "folder_0444.zip",
     "label": "22",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "160 KB",
+    "size": "24 KB",
     "depth": 2,
-    "hash": "79c2205b86d19ed96f8f3054379c6827"
+    "hash": "8e2dcc01a39c02066a9b3b8d39dce9c4"
   },
   {
     "name": "23",
@@ -1485,9 +1485,9 @@
     "zip": "folder_0445.zip",
     "label": "23",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "183 KB",
+    "size": "26 KB",
     "depth": 2,
-    "hash": "f47ab0f7e89e4ca650f0d480ed1e1ceb"
+    "hash": "d9fc38a4fa84f3dcb9aa7fffae16f776"
   },
   {
     "name": "24",
@@ -1495,9 +1495,9 @@
     "zip": "folder_0446.zip",
     "label": "24",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "27 KB",
+    "size": "6 KB",
     "depth": 2,
-    "hash": "1998392c740090f3e30ceffb8c7a52a9"
+    "hash": "b413cb792a63c026b8a53a84f2ba8e74"
   },
   {
     "name": "25",
@@ -1505,9 +1505,9 @@
     "zip": "folder_0447.zip",
     "label": "25",
     "parent": "קבצי קישורים וסדר הדורות/קישורים - קבצי קובץ (גדולים)",
-    "size": "199 KB",
+    "size": "41 KB",
     "depth": 2,
-    "hash": "ac0baf1018d712bb07217205dc04f9d1"
+    "hash": "a7a0696217f6133db172c23cd104a57a"
   },
   {
     "name": "26",
