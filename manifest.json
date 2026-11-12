@@ -15,9 +15,9 @@
     "zip": "folder_0001.zip",
     "label": "הלכה",
     "parent": "",
-    "size": "67.9 MB",
+    "size": "65.9 MB",
     "depth": 0,
-    "hash": "a003760b9358abfebc0abc30b33a85af"
+    "hash": "9eff46ced1197d3809ea55e9199c9e80"
   },
   {
     "name": "חסידות",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "988a91004ecef163023bd0c0740c79f2"
+    "hash": "ace3614789680d2735673a6e43703fd2"
   },
   {
     "name": "שו״ת",
@@ -115,9 +115,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "61.1 MB",
+    "size": "57.8 MB",
     "depth": 0,
-    "hash": "987d3b0c6304b12acb1054fbede28ae0"
+    "hash": "573736863c3310f86befa5868fe7e5a9"
   },
   {
     "name": "תלמוד בבלי",
@@ -235,9 +235,9 @@
     "zip": "folder_0065.zip",
     "label": "שולחן ערוך",
     "parent": "הלכה",
-    "size": "19.3 MB",
+    "size": "17.3 MB",
     "depth": 1,
-    "hash": "fcdcdd5fbc5de479e7f8b43c90395af7"
+    "hash": "6950d1cc28d8d0a3afd5b7722b29cb54"
   },
   {
     "name": "איזביצה",
@@ -735,9 +735,9 @@
     "zip": "folder_0139.zip",
     "label": "מחברי זמננו",
     "parent": "שו״ת",
-    "size": "30.3 MB",
+    "size": "27.0 MB",
     "depth": 1,
-    "hash": "a50fbeb24e517d05c7bdd663cf44dae0"
+    "hash": "44372c6282294f908afa8dcf9e37144a"
   },
   {
     "name": "ראשונים",
@@ -1055,9 +1055,9 @@
     "zip": "folder_0083.zip",
     "label": "מפרשים",
     "parent": "הלכה/שולחן ערוך",
-    "size": "19.3 MB",
+    "size": "17.3 MB",
     "depth": 2,
-    "hash": "df0e5b0f85ba284718177eb60ff2f808"
+    "hash": "636491468eea36466d084aae783c21b9"
   },
   {
     "name": "כתבי רבי שמחה בונים מפשיסחא",
@@ -1788,16 +1788,6 @@
     "size": "1.6 MB",
     "depth": 2,
     "hash": "2c861ab38d48c15e8ad7bd46955fe761"
-  },
-  {
-    "name": "שבט הלוי",
-    "path": "שו״ת/מחברי זמננו/שבט הלוי",
-    "zip": "folder_0145.zip",
-    "label": "שבט הלוי",
-    "parent": "שו״ת/מחברי זמננו",
-    "size": "3.3 MB",
-    "depth": 2,
-    "hash": "6fc629478d38c307a928b33810978c4b"
   },
   {
     "name": "רשב״א",
@@ -2915,9 +2905,9 @@
     "zip": "folder_0623.zip",
     "label": "links",
     "parent": "הלכה/שולחן ערוך/מפרשים",
-    "size": "232 KB",
+    "size": "199 KB",
     "depth": 3,
-    "hash": "9b5d7fa02564d371ada84c7591189a16"
+    "hash": "f11fda37b79ac860493507ed5bdf6b27"
   },
   {
     "name": "לבוש על שלחן ערוך",
