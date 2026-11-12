@@ -75,9 +75,9 @@
     "zip": "folder_0128.zip",
     "label": "ספרות עזר",
     "parent": "",
-    "size": "55.3 MB",
+    "size": "58.2 MB",
     "depth": 0,
-    "hash": "5e74e2a7c9d3aac17071eca5f2eedb8b"
+    "hash": "b8677fe618c7a822968b639ddacfa9a9"
   },
   {
     "name": "ספרי מוסר",
@@ -455,9 +455,9 @@
     "zip": "folder_0547.zip",
     "label": "אנציקלופדיות",
     "parent": "ספרות עזר",
-    "size": "46.1 MB",
+    "size": "49.0 MB",
     "depth": 1,
-    "hash": "cf1276711c180aa76aa9e213dc205ad1"
+    "hash": "12b53b0caf0c8900706893422feabb02"
   },
   {
     "name": "ביבליוגרפיה",
@@ -1185,9 +1185,9 @@
     "zip": "folder_0711.zip",
     "label": "אנציקלופדיה תלמודית",
     "parent": "ספרות עזר/אנציקלופדיות",
-    "size": "42.4 MB",
+    "size": "45.4 MB",
     "depth": 2,
-    "hash": "021ea215749b24b3726e552178fc9239"
+    "hash": "bd6a75e810960e1db4b9e536a965c837"
   },
   {
     "name": "סגולות ורפואות",
@@ -2987,7 +2987,7 @@
     "parent": "ספרות עזר/אנציקלופדיות/אנציקלופדיה תלמודית",
     "size": "3.0 MB",
     "depth": 3,
-    "hash": "7519b8fdfec8eba7e46f1980d46a4920"
+    "hash": "ff1b6396a58758a9dd40c8b01eac7322"
   },
   {
     "name": "הערות על אנציקלופדיה",
