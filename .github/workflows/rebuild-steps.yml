@@ -1,0 +1,107 @@
+# שחזור צעדי עדכון (db-steps) שנמחקו: בונה צעד N-1 -> N לכל גרסה שמבוקשת, מתוך ה-releases db-v<N-1> ו-db-v<N>
+# שעדיין קיימים, וממזג אותו למניפסט הצעדים הקיים. אין בו שימוש רגיל: build-db.yml בונה צעד בכל גרסה חדשה.
+name: Rebuild DB steps
+
+on:
+  workflow_dispatch:
+    inputs:
+      to_versions:
+        description: 'גרסאות יעד (N) לבניית צעד N-1 -> N, מופרדות ברווח, למשל: 43'
+        required: true
+        default: '43'
+
+env:
+  LANG: C.UTF-8
+  PYTHONUTF8: '1'
+  TOOLS_DIR: 'יצירת קישורים וסדר הדורות/כלי יצירה'
+  DOWNLOAD_BASE: https://github.com/YairDaniel11/Otzarya-Unofficial-Books/releases/download
+  PUB: mLRPx/L43Th/nAVhJ2rDecHFQH/vfdv2xRjIz/IvEBY=
+
+permissions:
+  contents: write
+
+# באותה קבוצה של build-db.yml: אסור ששתי ריצות יעדכנו את מניפסט הצעדים במקביל
+concurrency:
+  group: build-db
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Tools
+        run: |
+          set -euo pipefail
+          pip install zstandard pynacl
+          command -v zstd >/dev/null || sudo apt-get install -y zstd
+          zstd --version
+
+      - name: Signing key
+        env:
+          DB_SIGNING_KEY: ${{ secrets.DB_SIGNING_KEY }}
+        run: |
+          set -euo pipefail
+          [ -n "${DB_SIGNING_KEY:-}" ] || { echo "::error::DB_SIGNING_KEY לא מוגדר"; exit 1; }
+          echo "::add-mask::$DB_SIGNING_KEY"
+          printf '%s\n' "$DB_SIGNING_KEY" > "$RUNNER_TEMP/db-signing.key"
+          echo "KEY_FILE=$RUNNER_TEMP/db-signing.key" >> "$GITHUB_ENV"
+
+      - name: Rebuild steps
+        env:
+          TO_VERSIONS: ${{ inputs.to_versions }}
+        run: |
+          set -euo pipefail
+          H=.github/scripts/db_release_helpers.py
+          R=(python -X utf8 "$TOOLS_DIR/release_db.py")
+          W="$RUNNER_TEMP/rs"; mkdir -p "$W/old"
+          if gh release view db-steps >/dev/null 2>&1; then
+            gh release download db-steps -p steps-manifest.json -D "$W/old" --clobber || true
+          else
+            printf 'קבצי עדכון בין גרסאות עוקבות של המסד (גרסה N-1 ל-N). לא נמחקים.\n' > "$W/notes.md"
+            gh release create db-steps --target "$GITHUB_SHA" --title "צעדי עדכון DB" --notes-file "$W/notes.md" --latest=false
+          fi
+          EXISTING="$W/old/steps-manifest.json"
+          fetch() {  # fetch <גרסה> -> $W/v<גרסה>.db
+            local v="$1"
+            mkdir -p "$W/m$v"
+            gh release download "db-v$v" -p manifest.json -p manifest.json.sig -D "$W/m$v" --clobber
+            "${R[@]}" verify "$W/m$v/manifest.json" --public-key "$PUB"
+            python -X utf8 "$H" fetch-full "$W/m$v/manifest.json" "$W/v$v.db" --workdir "$W/parts$v"
+            rm -rf "$W/parts$v"
+          }
+          for N in $(echo "$TO_VERSIONS" | tr ' ' '\n' | sort -n); do
+            P=$((N - 1))
+            echo "== צעד $P -> $N"
+            fetch "$P"; fetch "$N"
+            FULLSIZE=$(python3 -c 'import json,sys; print(sum(p["size"] for p in json.load(open(sys.argv[1], encoding="utf-8"))["full"]["parts"]))' "$W/m$N/manifest.json")
+            OUT="$W/out$N"; mkdir -p "$OUT"
+            ARGS=(); [ -f "$EXISTING" ] && ARGS=(--existing "$EXISTING")
+            "${R[@]}" pack-step --db "$W/v$N.db" --prev-db "$W/v$P.db" --out "$OUT" \
+              --url-prefix "$DOWNLOAD_BASE/db-steps" --full-download-size "$FULLSIZE" \
+              --key "$KEY_FILE" "${ARGS[@]}"
+            for f in "$OUT"/*.zst*; do
+              [ -e "$f" ] || continue
+              gh release upload db-steps "$f" --clobber
+            done
+            gh release upload db-steps "$OUT/steps-manifest.json" "$OUT/steps-manifest.json.sig" --clobber
+            EXISTING="$OUT/steps-manifest.json"
+            rm -f "$W/v$P.db"   # פינוי דיסק; v$N נשאר אם הוא הבסיס של הבא
+          done
+          python -X utf8 - "$EXISTING" <<'PY'
+          import sys, json
+          m = json.load(open(sys.argv[1], encoding="utf-8"))
+          print("steps:", [(s["from_db_version"], s["to_db_version"], sum(p["size"] for p in s["parts"])) for s in m["steps"]])
+          PY
+
+      - name: Cleanup key
+        if: always()
+        run: rm -f "$RUNNER_TEMP/db-signing.key"
