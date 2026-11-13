@@ -39,6 +39,10 @@ on:
         description: 'פוסט הפורום בשרשור עדכוני ה-DB: רק הדפסה ליומן ולארטיפקט, בלי לפרסם'
         type: boolean
         default: false
+      post_only:
+        description: 'פוסט הפורום בלבד: בלי בנייה, על גרסת ה-DB האחרונה שפורסמה (מומלץ יחד עם dry_run_post לבדיקה)'
+        type: boolean
+        default: false
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -62,7 +66,7 @@ concurrency:
 jobs:
   # ---- תכנון: גרסה הבאה, ההוצאה הרשמית, והאם בכלל צריך לבנות (בלי דיסק כבד) ----
   plan:
-    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books'
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books' && inputs.post_only != true
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -618,6 +622,42 @@ jobs:
         if: always()
         run: rm -f "$RUNNER_TEMP/db-signing.key"
 
+  # ---- פוסט הפורום בלבד (הרצה ידנית עם post_only): בלי בנייה, על ה-DB האחרון שפורסם ----
+  post-only:
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books' && inputs.post_only == true
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout (היסטוריה מלאה, בלי LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Post update to forum
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          POST_ONLY: 'true'
+          USER_NAME: ${{ secrets.USER_NAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          DB_TOPIC_ID: '3050'
+          DRY_RUN: ${{ inputs.dry_run_post }}
+          POST_PREVIEW_FILE: ${{ runner.temp }}/forum-post-preview.txt
+        run: |
+          python -m pip install -q requests
+          python -X utf8 .github/scripts/post_db_update.py
+      - name: Upload forum post preview
+        if: always() && inputs.dry_run_post == true
+        uses: actions/upload-artifact@v4
+        with:
+          name: forum-post-preview
+          path: ${{ runner.temp }}/forum-post-preview.txt
+          if-no-files-found: ignore
 # ----------------------------------------------------------------------------------------------
 # הגדרה חד-פעמית (פעולות ידניות של בעל המאגר, לא נעשות ב-Action):
 #  1. python release_db.py keygen --out db-signing.key  -> שמור את הקובץ מחוץ ל-git; הפלט מדפיס את המפתח הציבורי

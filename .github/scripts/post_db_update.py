@@ -62,7 +62,54 @@ def build_message(changes_text, version):
     return head + body
 
 
+def _gh(*args):
+    import subprocess
+    return subprocess.run(["gh", *args], capture_output=True, text=True, encoding="utf-8")
+
+
+def resolve_latest_release(workdir):
+    """מצב post_only: ה-DB האחרון שפורסם (db-v<N>). מחזיר (גרסה, sha, נתיב manifest קודם, שם נכס DB) או None."""
+    r = _gh("release", "list", "--limit", "200", "--json", "tagName", "-q", ".[].tagName")
+    versions = sorted(int(m.group(1)) for t in r.stdout.split()
+                      for m in [re.fullmatch(r"db-v(\d+)", t)] if m)
+    if not versions:
+        print("::error::לא נמצא release db-v<N>")
+        return None
+    cur = versions[-1]
+    cur_dir = os.path.join(workdir, "cur")
+    os.makedirs(cur_dir, exist_ok=True)
+    if _gh("release", "download", f"db-v{cur}", "-p", "manifest.json", "-D", cur_dir, "--clobber").returncode:
+        print(f"::error::אין manifest.json ב-db-v{cur}")
+        return None
+    after = ""
+    try:
+        with open(os.path.join(cur_dir, "manifest.json"), encoding="utf-8") as f:
+            found = SHA_RE.findall(json.load(f).get("release_notes") or "")
+        after = found[-1] if found else ""
+    except (OSError, ValueError):
+        pass
+    if not after:
+        print(f"::error::אין קומיט בהערות הגרסה של db-v{cur}")
+        return None
+    prev_manifest = ""
+    prev_dir = os.path.join(workdir, "prev")
+    os.makedirs(prev_dir, exist_ok=True)
+    if cur - 1 in versions and not _gh("release", "download", f"db-v{cur - 1}", "-p", "manifest.json",
+                                       "-D", prev_dir, "--clobber").returncode:
+        prev_manifest = os.path.join(prev_dir, "manifest.json")
+    assets = _gh("release", "view", f"db-v{cur}", "--json", "assets", "-q", ".assets[].name").stdout.split()
+    plain = next((a for a in assets if re.fullmatch(r"otzarya-unofficial-books-\d+\.db", a)), "")
+    return str(cur), after, prev_manifest, plain
+
+
 def main():
+    if (os.environ.get("POST_ONLY") or "").strip().lower() == "true":
+        import tempfile
+        res = resolve_latest_release(tempfile.mkdtemp())
+        if not res:
+            return 1
+        os.environ["VERSION"], os.environ["GITHUB_SHA"], os.environ["PREV_MANIFEST"], os.environ["PLAIN_NAME"] = res
+        print(f"מצב post_only: גרסה {res[0]}, קומיט {res[1][:7]}")
     version = (os.environ.get("VERSION") or "").strip()
     after = (os.environ.get("GITHUB_SHA") or "").strip()
     if not version or not after:
