@@ -594,6 +594,7 @@ jobs:
           set -euo pipefail
           PMAN=""; [ -f "$WORK/prev1/manifest.json" ] && PMAN="$WORK/prev1/manifest.json"
           export PREV_MANIFEST="$PMAN"
+          python -m pip install -q requests
           python -X utf8 .github/scripts/post_db_update.py
 
       - name: Upload forum post preview
