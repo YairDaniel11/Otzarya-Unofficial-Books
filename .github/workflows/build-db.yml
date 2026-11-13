@@ -35,6 +35,10 @@ on:
         description: 'בנייה גם אם הקלט לא השתנה מאז הגרסה האחרונה, ודריסת release db-v<N> קיים'
         type: boolean
         default: false
+      dry_run_post:
+        description: 'פוסט הפורום בשרשור עדכוני ה-DB: רק הדפסה ליומן ולארטיפקט, בלי לפרסם'
+        type: boolean
+        default: false
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -238,6 +242,7 @@ jobs:
         run: |
           set -euo pipefail
           python -X utf8 -m unittest discover -s .github/scripts -p "test_db_release_helpers.py" -v
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_post_db_update.py" -v
           (cd "$TOOLS_DIR" && python -X utf8 -m unittest test_release_db)
 
       # ---- מפתח חתימה ----
@@ -561,6 +566,30 @@ jobs:
           for t in $(python3 .github/scripts/db_release_helpers.py prune-tags --tags $TAGS --keep 3); do
             gh release delete "$t" --yes --cleanup-tag
           done
+
+      # פרסום שבועי בפורום (שרשור עדכוני ה-DB): רשימת השינויים מאז ה-DB הקודם, קישור להורדה והערה
+      # למי שכבר מותקן אצלו המסד. כישלון בפרסום לא מכשיל את הבנייה (ה-DB כבר פורסם).
+      - name: Post update to forum
+        continue-on-error: true
+        env:
+          USER_NAME: ${{ secrets.USER_NAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          DB_TOPIC_ID: '3050'
+          DRY_RUN: ${{ inputs.dry_run_post }}
+          POST_PREVIEW_FILE: ${{ runner.temp }}/forum-post-preview.txt
+        run: |
+          set -euo pipefail
+          PMAN=""; [ -f "$WORK/prev1/manifest.json" ] && PMAN="$WORK/prev1/manifest.json"
+          export PREV_MANIFEST="$PMAN"
+          python -X utf8 .github/scripts/post_db_update.py
+
+      - name: Upload forum post preview
+        if: always() && inputs.dry_run_post == true
+        uses: actions/upload-artifact@v4
+        with:
+          name: forum-post-preview
+          path: ${{ runner.temp }}/forum-post-preview.txt
+          if-no-files-found: ignore
 
       - name: Step summary
         if: always()
