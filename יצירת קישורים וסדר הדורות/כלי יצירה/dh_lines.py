@@ -1,7 +1,8 @@
 """התאמת דיבור מתחיל (ד"ה) בפירוש על הש"ס לשורת הגמרא המדויקת ב-seforim.db (לקריאה בלבד).
 
 מבנה seforim.db (נחקר): line(id,bookId,lineIndex,heRef) כש-heRef ברמת שורה: 'ברכות, ב., ד' = עמוד ב. שורה ד.
-טקסט השורה נמצא ב-line_content(id,content) כ-blob דחוס zstd עם מילון מהטבלה zstd_dict (מזהה המילון בכותרת המסגרת).
+טקסט השורה נמצא ב-line_content(id,content) כ-blob דחוס zstd עם מילון מהטבלה zstd_dict (מזהה המילון בכותרת המסגרת);
+כך בסכמות 6 ו-7 (נבדק מול סכמה 7, גרסה 38). במסד ישן בלי line_content הטקסט ב-line.content (טקסט רגיל).
 מתוך: gemara_page_lines -> שורות עמוד, normalize -> טקסט מנורמל.
 
 שימוש מהבונה:
@@ -165,6 +166,7 @@ class GemaraText:
         self.cache = {}
         self._dicts = None
         self._dec = {}
+        self._split = None
 
     def _decompress(self, blob):
         if not isinstance(blob, bytes):
@@ -198,8 +200,12 @@ class GemaraText:
             # base text: תלמוד בבלי > סדר X > מסכת (ולא תלמוד בבלי > ראשונים/אחרונים)
             if top and 'תלמוד בבלי' in top.split('/') and any(s.startswith('סדר ') for s in top.split('/')):
                 pages, order = {}, []
+                if self._split is None:  # סכמה 6/7: התוכן ב-line_content; מסד ישן יותר: line.content כטקסט
+                    self._split = self.db.execute(
+                        "SELECT 1 FROM sqlite_master WHERE type='table' AND name='line_content'").fetchone() is not None
                 q = ('SELECT l.lineIndex,l.heRef,lc.content FROM line l JOIN line_content lc ON lc.id=l.id '
-                     'WHERE l.bookId=? AND l.heRef IS NOT NULL ORDER BY l.lineIndex')
+                     if self._split else
+                     'SELECT l.lineIndex,l.heRef,l.content FROM line l ') +                     'WHERE l.bookId=? AND l.heRef IS NOT NULL ORDER BY l.lineIndex'
                 for li, he, blob in self.db.execute(q, (bid,)):
                     parts = he.rsplit(', ', 1)
                     if len(parts) != 2:

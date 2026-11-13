@@ -2,7 +2,7 @@
 """מעבד-אחרי: דוחס את טקסט השורות של מסד אישי שנבנה ע"י build_personal_db.py.
 
 קלט:  DB עם line.content (TEXT).
-פלט:  DB חדש בסכמה 6 של אוצריא (DbCapabilities.hasSplitLineContent):
+פלט:  DB חדש בפריסת line_content של אוצריא (DbCapabilities.hasSplitLineContent; נקרא גם בסכמה 7 של הרשמי, מסד מצורף אינו דורש db_schema_version):
         line_content(id, content BLOB)  - כל שורה מסגרת zstd עם מילון
         zstd_dict(id, dict BLOB)        - המילון (ה-id = dictID שבמסגרות)
         line בלי עמודת content

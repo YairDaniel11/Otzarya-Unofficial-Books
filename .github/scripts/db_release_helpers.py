@@ -2,7 +2,8 @@
 """כלי עזר ל-.github/workflows/build-db.yml (בניית מסד אוצריא האישי ופרסומו).
 
 ספריית תקן בלבד, כדי שיריץ בכל שלב ב-CI בלי התקנות. פקודות:
-  pick-official   releases.json            -> שורת פלט: תג<TAB>כתובת<TAB>גודל
+  pick-official   releases.json            -> שורת פלט: תג<TAB>כתובת<TAB>גודל<TAB>סוג (single/split)
+  assemble-official MANIFEST OUT           -> מרכיב ארכיון רשמי מפוצל (manifest + parts) לקובץ אחד ומאמת sha256
   next-version    [--prev N] [--start N]   -> מספר הגרסה הבאה
   select-prev     --tags ... --current N   -> תגי db-vK של הגרסאות הקודמות (לדלתאות)
   orphan-tags     --tags ... --pinned N    -> תגי db-vK יתומים (גרסה > pinned)
@@ -24,7 +25,11 @@ import time
 import urllib.request
 from pathlib import Path
 
-OFFICIAL_ASSET = "seforim-schema6.db.zst"
+# סכמה 7 של המסד הרשמי (Otzaria/SeforimLibrary). הוצאה מופיעה באחת משתי צורות:
+#   single: נכס יחיד seforim-schema7.db.zst
+#   split:  seforim-schema7.db.zst.manifest.json + seforim-schema7.db.zst.part-NNN (ארכיון שחורג ממגבלת הנכס של GitHub)
+OFFICIAL_ASSET = "seforim-schema7.db.zst"
+MANIFEST_SUFFIX = ".manifest.json"
 LFS_MAGIC = b"version https://git-lfs.github.com/spec/"
 DB_TAG_RE = re.compile(r"^db-v(\d+)$")
 OFFICIAL_TAG_RE = re.compile(r"^v\d+(-|$)")   # v31-20261004170255; לא vectors / pipeline-result
@@ -38,20 +43,82 @@ class HelperError(Exception):
 def pick_official(releases, asset=OFFICIAL_ASSET):
     """ההוצאה האחרונה (לפי published_at) שאינה טיוטה/prerelease, שתגה vN-... ושיש בה את ה-asset.
 
-    ב-SeforimLibrary יש גם הוצאות ישנות שבהן ה-DB נקרא seforim.db.zst (סכמה ישנה): נדלגות.
+    מחזיר (תג, כתובת, גודל, סוג). סוג 'single': הכתובת היא של הארכיון עצמו. סוג 'split': הכתובת היא של
+    <asset>.manifest.json, והגודל הוא סכום חלקי <asset>.part-NNN שבהוצאה (ההורדה: gh release download -p '<asset>.*').
+    כשבהוצאה יש את שתי הצורות מועדף הנכס היחיד. הוצאות ישנות יותר עם סכמה אחרת (למשל seforim-schema6.db.zst
+    או seforim.db.zst) נדלגות, כי השם שונה.
     """
+    part_re = re.compile(re.escape(asset) + r"\.part-\d+$")
     best = None
     for r in releases:
         if r.get("draft") or r.get("prerelease") or not OFFICIAL_TAG_RE.match(r.get("tag_name", "")):
             continue
-        for a in r.get("assets", []):
-            if a.get("name") == asset:
-                key = r.get("published_at") or r.get("created_at") or ""
-                if best is None or key > best[0]:
-                    best = (key, r["tag_name"], a["browser_download_url"], int(a.get("size", 0)))
+        assets = r.get("assets", [])
+        by_name = {a.get("name"): a for a in assets}
+        found = None
+        if asset in by_name:
+            a = by_name[asset]
+            found = (a["browser_download_url"], int(a.get("size", 0)), "single")
+        elif asset + MANIFEST_SUFFIX in by_name and any(part_re.match(n or "") for n in by_name):
+            a = by_name[asset + MANIFEST_SUFFIX]
+            total = sum(int(x.get("size", 0)) for x in assets if part_re.match(x.get("name") or ""))
+            found = (a["browser_download_url"], total, "split")
+        if found:
+            key = r.get("published_at") or r.get("created_at") or ""
+            if best is None or key > best[0]:
+                best = (key, r["tag_name"]) + found
     if not best:
-        raise HelperError(f"לא נמצאה הוצאה רשמית עם {asset}")
+        raise HelperError(f"לא נמצאה הוצאה רשמית עם {asset} (או {asset}{MANIFEST_SUFFIX} וחלקים)")
     return best[1:]
+
+
+def assemble_official(manifest_path, out, delete_parts=True):
+    """מרכיב ארכיון רשמי מפוצל: החלקים נמצאים ליד ה-manifest (לפי השמות שבו), מאומתים (size, sha256) ומשורשרים
+    לפי הסדר ל-out, ואז מאומת הארכיון המלא (size, sha256). חלק שנוסף נמחק מיד (חיסכון בדיסק) אלא אם delete_parts=False.
+    """
+    mp = Path(manifest_path)
+    m = json.loads(mp.read_text(encoding="utf-8"))
+    parts = m.get("parts")
+    if not isinstance(parts, list) or not parts:
+        raise HelperError("manifest רשמי בלי parts")
+    for key in ("size", "sha256"):
+        if key not in m:
+            raise HelperError(f"manifest רשמי בלי {key}")
+    if sum(int(p["size"]) for p in parts) != int(m["size"]):
+        raise HelperError("סכום גדלי החלקים אינו שווה ל-size של הארכיון")
+    out = Path(out)
+    tmp = out.with_name(out.name + ".partial")
+    full = hashlib.sha256()
+    done = []
+    try:
+        with open(tmp, "wb") as o:
+            for p in parts:
+                name = p["name"]
+                if os.path.basename(name) != name or name in ("", ".", ".."):
+                    raise HelperError(f"שם חלק לא תקין: {name!r}")
+                f = mp.parent / name
+                if not f.is_file():
+                    raise HelperError(f"חסר חלק: {name}")
+                if f.stat().st_size != int(p["size"]):
+                    raise HelperError(f"חלק {name}: גודל שונה מה-manifest")
+                h = hashlib.sha256()
+                with open(f, "rb") as s:
+                    for chunk in iter(lambda: s.read(1 << 20), b""):
+                        h.update(chunk)
+                        full.update(chunk)
+                        o.write(chunk)
+                if h.hexdigest() != p["sha256"]:
+                    raise HelperError(f"חלק {name}: sha256 שונה מה-manifest")
+                if delete_parts:
+                    f.unlink()
+                done.append(name)
+        if tmp.stat().st_size != int(m["size"]) or full.hexdigest() != m["sha256"]:
+            raise HelperError("הארכיון המורכב אינו תואם ל-size/sha256 שב-manifest")
+        os.replace(tmp, out)
+    except BaseException:
+        tmp.unlink(missing_ok=True)
+        raise
+    return out
 
 
 # ---------- גרסאות ----------
@@ -256,6 +323,8 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     sub = ap.add_subparsers(dest="cmd", required=True)
     a = sub.add_parser("pick-official"); a.add_argument("releases"); a.add_argument("--asset", default=OFFICIAL_ASSET)
+    a = sub.add_parser("assemble-official"); a.add_argument("manifest"); a.add_argument("out")
+    a.add_argument("--keep-parts", action="store_true")
     a = sub.add_parser("next-version"); a.add_argument("--prev"); a.add_argument("--start")
     a = sub.add_parser("select-prev"); a.add_argument("--tags", nargs="*", default=[])
     a.add_argument("--current", type=int, required=True); a.add_argument("--count", type=int, default=2)
@@ -275,6 +344,9 @@ def main(argv=None):
             if isinstance(data, dict):
                 data = [data]
             print("\t".join(map(str, pick_official(data, args.asset))))
+        elif args.cmd == "assemble-official":
+            assemble_official(args.manifest, args.out, delete_parts=not args.keep_parts)
+            print("נוצר:", args.out)
         elif args.cmd == "next-version":
             print(next_version(int(args.prev) if args.prev else None, args.start))
         elif args.cmd == "select-prev":

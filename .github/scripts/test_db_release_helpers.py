@@ -27,15 +27,113 @@ class PickOfficial(unittest.TestCase):
         rs = [rel("v28-1", ["seforim.db.zst"], "2026-09-11T00:00:00Z"),
               rel("v31-2", [H.OFFICIAL_ASSET, "x"], "2026-10-04T00:00:00Z"),
               rel("v30-9", [H.OFFICIAL_ASSET], "2026-10-01T00:00:00Z"),
+              rel("v29-old", ["seforim-schema6.db.zst"], "2026-12-30T00:00:00Z"),
               rel("vectors-5", [H.OFFICIAL_ASSET], "2026-12-01T00:00:00Z"),
               rel("v32-pre", [H.OFFICIAL_ASSET], "2026-11-01T00:00:00Z", prerelease=True),
               rel("v33-dr", [H.OFFICIAL_ASSET], "2026-11-02T00:00:00Z", draft=True)]
-        tag, url, size = H.pick_official(rs)
-        self.assertEqual((tag, url, size), ("v31-2", f"https://x/v31-2/{H.OFFICIAL_ASSET}", 5))
+        tag, url, size, kind = H.pick_official(rs)
+        self.assertEqual((tag, url, size, kind), ("v31-2", f"https://x/v31-2/{H.OFFICIAL_ASSET}", 5, "single"))
 
     def test_none(self):
         with self.assertRaises(H.HelperError):
-            H.pick_official([rel("v28-1", ["seforim.db.zst"])])
+            H.pick_official([rel("v28-1", ["seforim.db.zst"]), rel("v29-1", ["seforim-schema6.db.zst"])])
+
+    def test_split_release(self):
+        m = H.OFFICIAL_ASSET + H.MANIFEST_SUFFIX
+        rs = [rel("v37-1", [H.OFFICIAL_ASSET], "2026-11-05T00:00:00Z"),
+              rel("v38-1", [m, H.OFFICIAL_ASSET + ".part-000", H.OFFICIAL_ASSET + ".part-001", "seforim.db.buildstate.zst"],
+                  "2026-11-12T00:00:00Z")]
+        tag, url, size, kind = H.pick_official(rs)
+        self.assertEqual((tag, url, size, kind), ("v38-1", f"https://x/v38-1/{m}", 10, "split"))
+
+    def test_newest_wins_either_kind(self):
+        m = H.OFFICIAL_ASSET + H.MANIFEST_SUFFIX
+        split = rel("v38-1", [m, H.OFFICIAL_ASSET + ".part-000"], "2026-11-12T00:00:00Z")
+        single = rel("v39-1", [H.OFFICIAL_ASSET], "2026-11-20T00:00:00Z")
+        self.assertEqual(H.pick_official([split, single])[0], "v39-1")
+        self.assertEqual(H.pick_official([single, split])[3], "single")
+        single_old = rel("v37-1", [H.OFFICIAL_ASSET], "2026-11-05T00:00:00Z")
+        self.assertEqual(H.pick_official([single_old, split])[3], "split")
+
+    def test_manifest_without_parts_is_skipped(self):
+        m = H.OFFICIAL_ASSET + H.MANIFEST_SUFFIX
+        rs = [rel("v38-1", [m], "2026-11-12T00:00:00Z"), rel("v37-1", [H.OFFICIAL_ASSET], "2026-11-05T00:00:00Z")]
+        self.assertEqual(H.pick_official(rs)[0], "v37-1")
+
+    def test_prefers_single_in_same_release(self):
+        m = H.OFFICIAL_ASSET + H.MANIFEST_SUFFIX
+        r = rel("v38-1", [m, H.OFFICIAL_ASSET + ".part-000", H.OFFICIAL_ASSET])
+        self.assertEqual(H.pick_official([r])[3], "single")
+
+
+class AssembleOfficial(unittest.TestCase):
+    def setUp(self):
+        self.tmp = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, self.tmp, True)
+        self.data = os.urandom(3000)
+        self.chunks = [self.data[:1200], self.data[1200:2500], self.data[2500:]]
+        self.manifest = {
+            "schemaVersion": 1, "archive": H.OFFICIAL_ASSET, "size": len(self.data),
+            "sha256": hashlib.sha256(self.data).hexdigest(),
+            "parts": [{"name": f"{H.OFFICIAL_ASSET}.part-{i:03d}", "size": len(c),
+                       "sha256": hashlib.sha256(c).hexdigest()} for i, c in enumerate(self.chunks)]}
+
+    def write(self, manifest=None, chunks=None):
+        for p, c in zip(self.manifest["parts"], chunks or self.chunks):
+            (self.tmp / p["name"]).write_bytes(c)
+        mp = self.tmp / (H.OFFICIAL_ASSET + H.MANIFEST_SUFFIX)
+        mp.write_text(json.dumps(manifest or self.manifest), encoding="utf-8")
+        return mp
+
+    def test_assemble_ok_deletes_parts(self):
+        mp = self.write()
+        out = self.tmp / H.OFFICIAL_ASSET
+        H.assemble_official(mp, out)
+        self.assertEqual(out.read_bytes(), self.data)
+        self.assertEqual([p.name for p in self.tmp.iterdir() if ".part-" in p.name], [])
+
+    def test_keep_parts(self):
+        mp = self.write()
+        H.assemble_official(mp, self.tmp / H.OFFICIAL_ASSET, delete_parts=False)
+        self.assertEqual(len([p for p in self.tmp.iterdir() if p.name.endswith(tuple("012")) and ".part-" in p.name]), 3)
+
+    def test_bad_part_sha(self):
+        bad = list(self.chunks)
+        bad[1] = bad[1][:-1] + bytes([bad[1][-1] ^ 1])   # אותו גודל, תוכן שונה
+        mp = self.write(chunks=bad)
+        out = self.tmp / H.OFFICIAL_ASSET
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(mp, out)
+        self.assertFalse(out.exists())
+        self.assertFalse((self.tmp / (H.OFFICIAL_ASSET + ".partial")).exists())
+
+    def test_bad_part_size_and_missing(self):
+        mp = self.write()
+        (self.tmp / self.manifest["parts"][2]["name"]).write_bytes(b"x")
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(mp, self.tmp / H.OFFICIAL_ASSET)
+        (self.tmp / self.manifest["parts"][2]["name"]).unlink()
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(mp, self.tmp / H.OFFICIAL_ASSET)
+
+    def test_bad_total_sha(self):
+        m = json.loads(json.dumps(self.manifest))
+        m["sha256"] = "0" * 64
+        mp = self.write(manifest=m)
+        out = self.tmp / H.OFFICIAL_ASSET
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(mp, out)
+        self.assertFalse(out.exists())
+
+    def test_sizes_do_not_add_up_and_unsafe_name(self):
+        m = json.loads(json.dumps(self.manifest))
+        m["size"] += 1
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(self.write(manifest=m), self.tmp / H.OFFICIAL_ASSET)
+        m = json.loads(json.dumps(self.manifest))
+        m["parts"][0]["name"] = "../evil"
+        with self.assertRaises(H.HelperError):
+            H.assemble_official(self.write(manifest=m), self.tmp / H.OFFICIAL_ASSET)
 
 
 class Versions(unittest.TestCase):

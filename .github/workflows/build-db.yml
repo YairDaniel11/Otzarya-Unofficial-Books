@@ -46,7 +46,7 @@ env:
   PYTHONUTF8: '1'
   TOOLS_DIR: 'יצירת קישורים וסדר הדורות/כלי יצירה'
   OFFICIAL_REPO: Otzaria/SeforimLibrary
-  OFFICIAL_ASSET: seforim-schema6.db.zst
+  OFFICIAL_ASSET: seforim-schema7.db.zst   # סכמה 7; הוצאה: נכס יחיד, או manifest + parts (ראו pick-official)
   DOWNLOAD_BASE: https://github.com/YairDaniel11/Otzarya-Unofficial-Books/releases/download
   MANIFEST_URL: https://github.com/YairDaniel11/Otzarya-Unofficial-Books/releases/download/db/manifest.json
 
@@ -71,6 +71,7 @@ jobs:
       version: ${{ steps.plan.outputs.version }}
       prev_version: ${{ steps.plan.outputs.prev_version }}
       official_tag: ${{ steps.plan.outputs.official_tag }}
+      official_kind: ${{ steps.plan.outputs.official_kind }}
       fingerprint: ${{ steps.plan.outputs.fingerprint }}
       skip: ${{ steps.plan.outputs.skip }}
       orphans: ${{ steps.plan.outputs.orphans }}
@@ -100,9 +101,9 @@ jobs:
 
           # ההוצאה הרשמית האחרונה עם ה-asset הנכון (לא prerelease, לא vectors/pipeline)
           gh api "repos/$OFFICIAL_REPO/releases?per_page=100" > "$RUNNER_TEMP/official-releases.json"
-          IFS=$'\t' read -r OFFICIAL_TAG OFFICIAL_URL OFFICIAL_SIZE \
+          IFS=$'\t' read -r OFFICIAL_TAG OFFICIAL_URL OFFICIAL_SIZE OFFICIAL_KIND \
             < <(python3 "$H" pick-official "$RUNNER_TEMP/official-releases.json" --asset "$OFFICIAL_ASSET")
-          echo "ה-DB הרשמי: $OFFICIAL_TAG ($OFFICIAL_SIZE בתים)"
+          echo "ה-DB הרשמי: $OFFICIAL_TAG ($OFFICIAL_KIND, $OFFICIAL_SIZE בתים)"
 
           # ה-release הקודם שלנו
           PREV=""
@@ -127,6 +128,7 @@ jobs:
               echo "version="
               echo "prev_version="
               echo "official_tag=$OFFICIAL_TAG"
+              echo "official_kind=$OFFICIAL_KIND"
               echo "fingerprint="
               echo "skip=true"
               echo "orphans="
@@ -164,6 +166,7 @@ jobs:
             echo "version=$VERSION"
             echo "prev_version=$PREV"
             echo "official_tag=$OFFICIAL_TAG"
+            echo "official_kind=$OFFICIAL_KIND"
             echo "fingerprint=$FP"
             echo "skip=$SKIP"
             echo "orphans=${ORPHANS% }"
@@ -181,12 +184,13 @@ jobs:
       VERSION: ${{ needs.plan.outputs.version }}
       PREV_VERSION: ${{ needs.plan.outputs.prev_version }}
       OFFICIAL_TAG: ${{ needs.plan.outputs.official_tag }}
+      OFFICIAL_KIND: ${{ needs.plan.outputs.official_kind }}
       FINGERPRINT: ${{ needs.plan.outputs.fingerprint }}
       FORCE: ${{ inputs.force }}
       ORPHANS: ${{ needs.plan.outputs.orphans }}
     steps:
       # ---- דיסק ----
-      # ב-/ של ה-runner נשארים בדרך כלל כ-14GB פנויים (משתנה בין גרסאות תמונת ה-runner), והתהליך צריך כ-20GB בשיא (מקורות, DB רשמי 3.7GB, DB קודם/ים,
+      # ב-/ של ה-runner נשארים בדרך כלל כ-14GB פנויים (משתנה בין גרסאות תמונת ה-runner), והתהליך צריך כ-20GB בשיא (מקורות, DB רשמי 4.7GB (ובהורדה מפוצלת גם הארכיון 2.2GB), DB קודם/ים,
       # DB חדש לא דחוס 3GB ודחוס 1.1GB, חלקים ודלתאות). בוחרים לפנות מקום ב-/ (מוחקים כלים שלא
       # בשימוש: dotnet, android, ghc, CodeQL) ולא לעבוד ב-/mnt, כי ה-workspace והקאש נמצאים ב-/,
       # ו-/mnt קטן יחסית (בדרך כלל כ-14GB) ודורש הפניית נתיבים. בנוסף מנקים בין שלבים (ראה rm בהמשך).
@@ -273,12 +277,13 @@ jobs:
           echo "TMPDIR=$RUNNER_TEMP/tmp" >> "$GITHUB_ENV"
           mkdir -p "$RUNNER_TEMP/tmp" "$RUNNER_TEMP/work" "$RUNNER_TEMP/official"
 
-      # ---- ה-DB הרשמי: cache לפי תג ההוצאה (הקובץ הדחוס, 1.8GB; מתחת למכסת 10GB של הריפו) ----
+      # ---- ה-DB הרשמי (סכמה 7): cache לפי תג ההוצאה (הארכיון הדחוס המלא, ~2.2GB; מתחת למכסת 10GB של הריפו).
+      # ארכיון מפוצל (manifest + parts) מורכב לפני השמירה, כך שהקאש זהה בשתי הצורות ----
       - name: Restore official DB cache
         id: official-cache
         uses: actions/cache/restore@v4
         with:
-          path: ${{ runner.temp }}/official/seforim-schema6.db.zst
+          path: ${{ runner.temp }}/official/seforim-schema7.db.zst
           key: official-db-${{ needs.plan.outputs.official_tag }}
 
       - name: Download official DB (cache miss)
@@ -286,7 +291,15 @@ jobs:
         run: |
           set -euo pipefail
           t0=$SECONDS
-          gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -p "$OFFICIAL_ASSET" -D "$OFFICIAL_DIR" --clobber
+          if [ "$OFFICIAL_KIND" = "split" ]; then
+            # ארכיון מפוצל: manifest + parts. כל חלק מאומת מול sha256, והארכיון המורכב מול sha256 הכולל (החלקים נמחקים תוך כדי).
+            gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -p "$OFFICIAL_ASSET.manifest.json" -p "$OFFICIAL_ASSET.part-*" -D "$OFFICIAL_DIR" --clobber
+            ls -l "$OFFICIAL_DIR"
+            python3 .github/scripts/db_release_helpers.py assemble-official "$OFFICIAL_DIR/$OFFICIAL_ASSET.manifest.json" "$OFFICIAL_DIR/$OFFICIAL_ASSET"
+            rm -f "$OFFICIAL_DIR/$OFFICIAL_ASSET.manifest.json"
+          else
+            gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -p "$OFFICIAL_ASSET" -D "$OFFICIAL_DIR" --clobber
+          fi
           ls -l "$OFFICIAL_DIR"
           echo "download-official $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
 
@@ -294,7 +307,7 @@ jobs:
         if: steps.official-cache.outputs.cache-hit != 'true'
         uses: actions/cache/save@v4
         with:
-          path: ${{ runner.temp }}/official/seforim-schema6.db.zst
+          path: ${{ runner.temp }}/official/seforim-schema7.db.zst
           key: official-db-${{ needs.plan.outputs.official_tag }}
 
       - name: Decompress official DB
@@ -302,7 +315,7 @@ jobs:
           set -euo pipefail
           t0=$SECONDS
           zstd -q -d --long=31 -f "$OFFICIAL_DIR/$OFFICIAL_ASSET" -o "$OFFICIAL_DIR/seforim.db"
-          rm -f "$OFFICIAL_DIR/$OFFICIAL_ASSET"   # פינוי 1.8GB; הקאש כבר נשמר
+          rm -f "$OFFICIAL_DIR/$OFFICIAL_ASSET"   # פינוי ~2.2GB; הקאש כבר נשמר
           df -h / | tail -1
           echo "decompress-official $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
 
@@ -355,7 +368,7 @@ jobs:
             --db-version "$VERSION" \
             --display-name "מאגר ספרים לא רשמי" \
             "${ARGS[@]}"
-          rm -f "$OFFICIAL_DIR/seforim.db"      # פינוי 3.7GB: לא נדרש עוד
+          rm -f "$OFFICIAL_DIR/seforim.db"      # פינוי ~4.7GB (סכמה 7): לא נדרש עוד
           df -h / | tail -1
           echo "build $((SECONDS - t0))" >> "$RUNNER_TEMP/timings.txt"
 
