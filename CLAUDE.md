@@ -120,13 +120,13 @@ manifest.json, books_data.js, files_data.json, removed_files.json   קבצים �
 - **לא עורכים ידנית** את `manifest.json`, `books_data.js`, `files_data.json`, `removed_files.json`: הם נוצרים ע"י ה-CI.
 - קבצי PDF עוברים דרך git-lfs (`*.pdf filter=lfs` ב-`.gitattributes`), וכן קובצי "קובץ" מסוימים. ב-`ספרים/*.pdf` שבשורש התיקייה הכלל מבוטל.
 
-### מה קורה אחרי דחיפה (`Auto Zip and Release` רץ על כל דחיפה ל-`ספרים/**`; `Build Otzaria DB` רץ פעם בשבוע, במוצאי שבת)
+### מה קורה אחרי דחיפה (`Auto Zip and Release` רץ על כל דחיפה ל-`ספרים/**`; `Build Otzaria DB` רץ פעם בשבוע, בליל שישי)
 | workflow | מה הוא עושה | משך |
 |---|---|---|
 | `Auto Zip and Release` (`create-zip-release.yml`) | zip לכל תיקייה (`folder_NNNN.zip` בשם יציב, ללא `סדר.txt`), `manifest.json` עם hash, `removed_files.json` (מה שנמחק/הועבר, כדי שהתוסף ימחק אצל המשתמשים), release `latest`, ופרסום בפורום (`send_update.py`) | כ-6 דקות |
 | `Build Otzaria DB` (`build-db.yml`) | בונה את ה-DB האישי מול המסד הרשמי, דוחס (zstd), חותם את ה-manifest, מפרסם release `db-v<N>` (נשמרים 3 אחרונים) ואת `db` (manifest קבוע), כולל נכס `.db` לא דחוס (מדולג מעל 1.9GiB) | כשעה וחצי עד שעתיים |
 
-- `Build Otzaria DB` רץ לפי `schedule` (שבת 21:00 UTC, כלומר 23:00 בחורף ו-00:00 בקיץ בישראל) או בהרצה ידנית (`workflow_dispatch`), ולא על כל דחיפה, כדי שהמשתמשים יקבלו עדכון DB אחד בשבוע. אם הקלט לא השתנה מאז הגרסה האחרונה הוא מדלג. כדי לפרסם DB מיד: `gh workflow run build-db.yml -R YairDaniel11/Otzarya-Unofficial-Books`.
+- `Build Otzaria DB` רץ לפי `schedule` (חמישי 17:00 UTC, כלומר 19:00 בחורף ו-20:00 בקיץ בישראל; הבנייה אורכת כשעה, והעדכון זמין עד 20:00/21:00) או בהרצה ידנית (`workflow_dispatch`), ולא על כל דחיפה, כדי שהמשתמשים יקבלו עדכון DB אחד בשבוע. אם הקלט לא השתנה מאז הגרסה האחרונה הוא מדלג. כדי לפרסם DB מיד: `gh workflow run build-db.yml -R YairDaniel11/Otzarya-Unofficial-Books`.
 - שניהם עם `concurrency` ו-`cancel-in-progress: false`: ריצה חדשה ממתינה בתור (ממתינה אחת בלבד, ריצה ממתינה חדשה מחליפה קודמת), ואחרי שהקודמת מסתיימת היא מתכננת מחדש ובונה גרסה נוספת. אין בעיה לדחוף בזמן שבנייה רצה.
 - ה-DB נחתם במפתח הפרטי (`DB_SIGNING_KEY`, secret). שינוי בכלים `build_personal_db.py`, `compress_personal_db.py`, `release_db.py` או במילון zstd נכנס לבנייה השבועית הבאה.
 - `send_update.py` משתמש ב-secrets `USER_NAME` ו-`PASSWORD` ומפרסם בנושא 2518 בפורום `otzaria.org`.
