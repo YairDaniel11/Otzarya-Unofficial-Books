@@ -1,0 +1,63 @@
+name: Verify DB delta patches
+
+# בדיקה ידנית (ולא מפרסמת כלום): מוריד את ה-manifest של גרסת DB, ולכל טלאי שבו
+# (delta) מוריד את הגרסה הקודמת המלאה, מאמת שה-sha256 שלה זהה ל-from_sha256,
+# מחיל את הטלאי באותה צורה שאוצריא מחילה (zstd --patch-from) ובודק שה-sha256 של
+# התוצאה זהה לזה של הגרסה החדשה המלאה.
+# שימוש: gh workflow run verify-db-delta.yml -R YairDaniel11/Otzarya-Unofficial-Books [-f version=51]
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'גרסת DB לבדיקה (ריק = האחרונה שפורסמה)'
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      INPUT_VERSION: ${{ inputs.version }}
+    steps:
+      - name: Verify deltas
+        run: |
+          set -euo pipefail
+          V="$INPUT_VERSION"
+          if [ -z "$V" ]; then
+            V=$(gh release list -R "$GITHUB_REPOSITORY" --limit 100 --json tagName -q '.[].tagName' | grep -E '^db-v[0-9]+$' | sed 's/^db-v//' | sort -n | tail -1)
+          fi
+          echo "בודק גרסה $V"
+          mkdir -p m work
+          gh release download "db-v$V" -R "$GITHUB_REPOSITORY" -p manifest.json -D m --clobber
+          NEW_SHA=$(jq -r '.full.sha256' m/manifest.json)
+          NEW_SIZE=$(jq -r '.full.size' m/manifest.json)
+          echo "הגרסה החדשה המלאה: sha256=$NEW_SHA size=$NEW_SIZE"
+          zstd --version
+          FAIL=0
+          jq -r '.delta[] | "\(.from_db_version) \(.from_sha256) \(.parts[0].url) \(.parts[0].sha256) \(.parts[0].size)"' m/manifest.json > work/deltas.txt
+          cat work/deltas.txt | cut -c1-120
+          while read -r FROM FROM_SHA URL PSHA PSIZE; do
+            echo "=== טלאי מגרסה $FROM ($PSIZE בתים) ==="
+            rm -f work/base.db work/patch.zst work/out.db
+            gh release download "db-v$FROM" -R "$GITHUB_REPOSITORY" -p "otzarya-unofficial-books-$FROM.db" -O work/base.db --clobber
+            BASE_ACT=$(sha256sum work/base.db | cut -d' ' -f1)
+            if [ "$BASE_ACT" = "$FROM_SHA" ]; then echo "base sha256 תואם ל-from_sha256"; else echo "::error::base sha256 של גרסה $FROM ($BASE_ACT) שונה מ-from_sha256 ($FROM_SHA)"; FAIL=1; fi
+            curl -fsSL -o work/patch.zst "$URL"
+            PACT=$(sha256sum work/patch.zst | cut -d' ' -f1)
+            if [ "$PACT" = "$PSHA" ]; then echo "patch sha256 תואם"; else echo "::error::patch sha256 שונה"; FAIL=1; fi
+            if zstd -d --memory=2048MB --patch-from=work/base.db work/patch.zst -o work/out.db -f; then
+              OUT_SHA=$(sha256sum work/out.db | cut -d' ' -f1)
+              OUT_SIZE=$(stat -c %s work/out.db)
+              if [ "$OUT_SHA" = "$NEW_SHA" ] && [ "$OUT_SIZE" = "$NEW_SIZE" ]; then echo "תקין: התוצאה זהה לגרסה $V המלאה"; else echo "::error::התוצאה שונה: sha256=$OUT_SHA size=$OUT_SIZE"; FAIL=1; fi
+            else
+              echo "::error::החלת הטלאי נכשלה (zstd)"; FAIL=1
+            fi
+          done < work/deltas.txt
+          exit $FAIL
