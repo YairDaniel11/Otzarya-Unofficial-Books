@@ -1,0 +1,559 @@
+name: Build Otzaria Vectors
+
+# בונה את וקטורי "חיפוש לפי משמעות" של אוצריא לספרי המאגר, ומפרסם אותם כנכס ב-Releases, כדי שמשתמשים
+# לא יחשבו אותם אצלם (חישוב מקומי: עשרות שעות; ראו סעיף "מספרים" בהמשך).
+#
+# מה נבנה: מקטע אחד (.oxv, פורמט 3, קודק rot192-i8i4) של כל הפסקאות של ספרי המאגר שאינן כבר בסט הרשמי
+# של אוצריא (הוצאת הווקטורים האחרונה של Otzaria/SeforimLibrary, משפחת windows). הדה-דופליקציה היא
+# לפי מפתח הפסקה (SHA-256 של הטקסט), כמו בסקריפט של קרית חנה (otzaria_personal_vectors.py, פורום otzaria.org
+# נושא 3073), שנמצא באותה תיקייה כקובץ אחד וממנו נלקחת כל הלוגיקה. vectors_ci.py הוא מתאם דק (ראו בו).
+#
+# ארכיטקטורה (ריצה ארוכה מ-6 שעות, ולכן שרשרת ריצות):
+#   plan      מחליט אם צריך לבנות (טביעת אצבע של הקלט; מדלג אם לא השתנה), בוחר הוצאה רשמית, ומחלק את
+#             הספרים ל-N רסיסים (shards) לפי hash של הנתיב.
+#   embed     מטריצה של N ג'ובים במקביל. כל ג'וב: מפרס פריסת אוצריא מינימלית מהוצאה רשמית, משחזר את ה-cache
+#             שלו, מטמיע בתקציב זמן (עצירה מסודרת כשהתקציב נגמר), ומעלה את הווקטורים החדשים (קבצי part, ~205 בייט
+#             לווקטור) כנכס cache-<identity>-s<shard>-...tar ב-release 'vectors-cache'.
+#   next      אם נשאר עבודה: שולח לעצמו workflow_dispatch (round+1) עם אותו קומיט ואותה הוצאה רשמית, ומסיים.
+#             אם הכול הוטמע: ממשיך ל-assemble.
+#   assemble  מפרס את הפריסה, משחזר את כל ה-cache, מריץ את הסקריפט (כל הספרים, בלי הטמעה: הכול מה-cache) והוא
+#             כותב את המקטע; מאמת (CRC לבלוקים, כתיבה מחדש זהה בבייטים), דוחס, מפצל ל-<2GiB, מנפיק מניפסט,
+#             מפרסם release 'vectors-v<TS>' (נשמרים 3) ואת 'vectors' (מניפסט קבוע), ומנקה cache של זהות ישנה.
+#
+# ה-cache ב-release 'vectors-cache' (ולא ב-actions/cache): נשאר בין ריצות שבועיות בלי פינוי (actions/cache: מכסה
+# 10GB לריפו, פינוי אחרי 7 ימים בלי גישה, ו-~1.3GB x רסיסים x גרסאות), ותוכנו content-addressed (מפתח פסקה), כך
+# שבנייה שבועית מטמיעה רק פסקאות חדשות או ששונו.
+#
+# !!! הרצה אוטומטית (schedule) מושבתת בכוונה. לפני הפעלתה יש לקבל תשובה על רישיון המודל (MODEL_LICENSE:
+# "שימוש אישי בלבד", ללא הפצה ובלי שימוש בפרויקט שפתוח לציבור, אלא באישור כתוב מ-otzaria.1@gmail.com) ולוודא
+# שהרישיון/האישור מתיר בנייה והפצה של הווקטורים. ראו הערות בסוף הקובץ.
+#
+# מספרים (מדידה על i5-1145G7 4 ליבות/8 תהליכונים עם document.fp32.onnx, 600 פסקאות אמיתיות שאינן בסט הרשמי;
+# הטוב מבין 3 הרצות, בגלל ריצות מקבילות במחשב): 23.0 פסקאות לשנייה ב-8 תהליכונים, 21.3 ב-4, 16.1 ב-2.
+# runner של GitHub (ubuntu-latest, ריפו ציבורי): 4 vCPU (כ-2 ליבות פיזיות), 16GB RAM, 14GB SSD, 6 שעות לג'וב.
+# הערכת תכנון: ~16 פסקאות/שנייה לרסיס, כלומר ~280 אלף פסקאות בריצה של 4.9 שעות הטמעה לרסיס. 6.07 מיליון
+# פסקאות = ~105 שעות-רסיס. עם 12 רסיסים: ~9 שעות-רסיס לכל אחד = 2 סבבים, ~11-12 שעות שעון. ה-runner האמיתי
+# לא נמדד: הסבב הראשון מדפיס בסיכום (cache_vectors_after - before)/seconds, וההערכה מתעדכנת ממנו.
+
+on:
+  # schedule:                    # מושבת עד תשובה על רישיון המודל (ראו למעלה). הנחיה לאחר ההפעלה:
+  #   - cron: '0 22 * * 4'       # חמישי 22:00 UTC, אחרי בניית ה-DB (build-db רץ 16:00 UTC ונמשך כשעתיים)
+  workflow_dispatch:
+    inputs:
+      round:
+        description: 'מספר הסבב (בהרצה ידנית: 1). סבבים הבאים נשלחים אוטומטית'
+        type: string
+        default: '1'
+      shards:
+        description: 'מספר רסיסים במקביל (מגבלת הרצה במקביל לריפו ציבורי בחשבון חינמי: 20 ג׳ובים)'
+        type: string
+        default: '12'
+      max_rounds:
+        description: 'מספר סבבים מרבי (בטיחות; מעבר לכך הריצה נכשלת)'
+        type: string
+        default: '6'
+      budget_minutes:
+        description: 'סך הדקות מתחילת הג׳וב שבהן מסתיימת ההטמעה (המגבלה של GitHub: 360; נשאר זמן להעלאה)'
+        type: string
+        default: '325'
+      force:
+        description: 'בנייה גם אם הקלט לא השתנה מאז הגרסה האחרונה'
+        type: boolean
+        default: false
+      source_sha:
+        description: 'פנימי (סבבים 2 ואילך): קומיט הספרים של הבנייה'
+        type: string
+        default: ''
+      official_tag:
+        description: 'פנימי (סבבים 2 ואילך): תג ההוצאה הרשמית. ריק: האחרונה'
+        type: string
+        default: ''
+      parent_run:
+        description: 'פנימי: מזהה הריצה ששלחה את הסבב הזה'
+        type: string
+        default: ''
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  LANG: C.UTF-8
+  PYTHONUTF8: '1'
+  OFFICIAL_REPO: Otzaria/SeforimLibrary
+  MODEL_REPO: Otzaria/otzaria-semantic-search
+  MODEL_TAG: model-meivin-qa491-int8-v1
+  VCI: .github/scripts/vectors_ci.py
+  # גרסאות שנבדקו מקומית (Python 3.12): כך שהתוצאה לא תלויה בגרסה שתצא מחר
+  PIP_DEPS: numpy==2.5.2 onnxruntime==1.32.0 tokenizers==0.23.3 zstandard==0.25.0 pynacl
+  CACHE_TAG: vectors-cache
+  KEEP_RELEASES: '3'
+
+permissions:
+  contents: write     # releases
+  actions: write      # workflow_dispatch לסבב הבא
+
+# קבוצה לכל סבב: סבב n+1 (שנשלח בסוף סבב n) לא מבטל ולא מוחלף בריצה אחרת של אותו סבב
+concurrency:
+  group: build-vectors-r${{ inputs.round || '1' }}
+  cancel-in-progress: false
+
+jobs:
+  # ---- תכנון ----
+  plan:
+    if: github.repository == 'YairDaniel11/Otzarya-Unofficial-Books'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      actions: read
+    outputs:
+      skip: ${{ steps.plan.outputs.skip }}
+      fingerprint: ${{ steps.plan.outputs.fingerprint }}
+      official_tag: ${{ steps.plan.outputs.official_tag }}
+      source_sha: ${{ steps.plan.outputs.source_sha }}
+      shards: ${{ steps.plan.outputs.shards }}
+      nshards: ${{ steps.plan.outputs.nshards }}
+      round: ${{ steps.plan.outputs.round }}
+    steps:
+      - name: Checkout (בלי LFS, רק לחישוב טביעת אצבע)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.source_sha || github.sha }}
+          lfs: false
+          fetch-depth: 1
+
+      - name: Plan
+        id: plan
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ROUND: ${{ inputs.round || '1' }}
+          NSHARDS: ${{ inputs.shards || '12' }}
+          FORCE: ${{ inputs.force }}
+          IN_OFFICIAL_TAG: ${{ inputs.official_tag }}
+        run: |
+          set -euo pipefail
+          git config core.quotePath false
+
+          # סבב ראשון: לא מתחילים שרשרת חדשה כשיש אחת פעילה
+          if [ "$ROUND" = "1" ]; then
+            OTHERS=$(gh run list -w build-vectors.yml --limit 50 --json databaseId,status \
+              -q "[.[] | select(.databaseId != $GITHUB_RUN_ID and (.status==\"in_progress\" or .status==\"queued\" or .status==\"waiting\" or .status==\"pending\"))] | length")
+            if [ "$OTHERS" != "0" ]; then
+              echo "::notice::יש ריצה פעילה של build-vectors: מדלגים"
+              { echo "skip=true"; echo "fingerprint="; echo "official_tag="; echo "source_sha="; echo "shards=[0]"; echo "nshards=1"; echo "round=$ROUND"; } >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+
+          OFFICIAL_TAG="$IN_OFFICIAL_TAG"
+          if [ -z "$OFFICIAL_TAG" ]; then
+            gh api "repos/$OFFICIAL_REPO/releases?per_page=100" > "$RUNNER_TEMP/official-releases.json"
+            OFFICIAL_TAG=$(python3 "$VCI" pick-official "$RUNNER_TEMP/official-releases.json" | cut -f1)
+          fi
+          echo "ההוצאה הרשמית: $OFFICIAL_TAG"
+
+          SRC=$(git rev-parse HEAD)
+          FP=$( { git rev-parse "HEAD:ספרים"; echo "$OFFICIAL_TAG"; echo "$MODEL_TAG"; \
+                  sha256sum .github/scripts/otzaria_personal_vectors.py "$VCI" .github/workflows/build-vectors.yml; } \
+                | sha256sum | cut -d' ' -f1)
+
+          SKIP=false
+          if [ "$ROUND" = "1" ] && [ "$FORCE" != "true" ]; then
+            PREV_FP=""
+            if gh release view vectors >/dev/null 2>&1; then
+              PREV_FP=$(gh release view vectors --json body -q .body | grep -oE 'input-fingerprint: [0-9a-f]{64}' | cut -d' ' -f2 || true)
+            fi
+            if [ -n "$PREV_FP" ] && [ "$PREV_FP" = "$FP" ]; then
+              SKIP=true
+              echo "הקלט זהה לגרסה האחרונה: מדלגים (force=true לבנייה בכל זאת)"
+            fi
+          fi
+
+          # release ה-cache (נכסי tar של וקטורים; לא נמחק, ראו create-zip-release.yml)
+          if [ "$SKIP" = false ] && ! gh release view "$CACHE_TAG" >/dev/null 2>&1; then
+            printf '<div dir="rtl">\n\nמטמון הווקטורים של build-vectors (קבצי cache-*.tar). לא להוריד: פנימי. התוכן content-addressed (מפתח הפסקה), ולכן נשאר תקף בין גרסאות.\n\n</div>\n' > "$RUNNER_TEMP/notes-cache.md"
+            gh release create "$CACHE_TAG" --target "$SRC" --title "מטמון וקטורים (פנימי)" \
+              --notes-file "$RUNNER_TEMP/notes-cache.md" --prerelease --latest=false
+          fi
+
+          SHARDS=$(python3 -c 'import json,sys; print(json.dumps(list(range(int(sys.argv[1])))))' "$NSHARDS")
+          {
+            echo "skip=$SKIP"
+            echo "fingerprint=$FP"
+            echo "official_tag=$OFFICIAL_TAG"
+            echo "source_sha=$SRC"
+            echo "shards=$SHARDS"
+            echo "nshards=$NSHARDS"
+            echo "round=$ROUND"
+          } >> "$GITHUB_OUTPUT"
+          echo "סבב $ROUND, $NSHARDS רסיסים, קומיט ${SRC::7}, fingerprint $FP"
+
+  # ---- הטמעה: רסיס לכל ג'וב ----
+  embed:
+    needs: plan
+    if: needs.plan.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.shards) }}
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      SHARD: ${{ matrix.shard }}
+      NSHARDS: ${{ needs.plan.outputs.nshards }}
+      ROUND: ${{ needs.plan.outputs.round }}
+      OFFICIAL_TAG: ${{ needs.plan.outputs.official_tag }}
+      BUDGET_TOTAL: ${{ inputs.budget_minutes || '325' }}
+    steps:
+      - name: Job start
+        run: date +%s > "$RUNNER_TEMP/job-start"
+
+      - name: Free disk space
+        run: |
+          set -uo pipefail
+          df -h / | tail -1
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup \
+                      /opt/hostedtoolcache/CodeQL /usr/share/swift /usr/local/share/boost || true
+          sudo docker image prune --all --force >/dev/null 2>&1 || true
+          df -h / | tail -1
+
+      - name: Checkout (בלי LFS)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.plan.outputs.source_sha }}
+          lfs: false
+          fetch-depth: 1
+
+      # רק ה-TXT (כמו ב-build-db); קבצי PDF אינם נכנסים
+      - name: Pull LFS (TXT) and verify
+        run: |
+          set -euo pipefail
+          git config core.quotePath false
+          git lfs install --local
+          git lfs pull --include="ספרים/**/*.txt" || true
+          if ! python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"; then
+            git lfs pull
+            python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"
+          fi
+          rm -rf .git/lfs/objects
+          df -h / | tail -1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies and run unit tests
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install $PIP_DEPS
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_ci.py" -v
+          python -X utf8 "$VCI" books --repo . --shards "$NSHARDS"
+
+      # המודל: גרף המסמכים (document.fp32.onnx; query.int8.onnx הוא גרף השאילתות ואינו מתאים), אומת מול SHA256SUMS
+      # של ההוצאה. רישיון המודל: אישי בלבד (ראו הערה בראש הקובץ)
+      - name: Download model
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/model"
+          gh release download "$MODEL_TAG" -R "$MODEL_REPO" -D "$RUNNER_TEMP/model" --clobber \
+            -p document.fp32.onnx -p tokenizer.json -p model.json -p SHA256SUMS
+          (cd "$RUNNER_TEMP/model" && grep -E ' \*?(document\.fp32\.onnx|tokenizer\.json|model\.json)$' SHA256SUMS | tee /dev/stderr | wc -l | grep -qx 3 \
+            && grep -E ' \*?(document\.fp32\.onnx|tokenizer\.json|model\.json)$' SHA256SUMS | sha256sum -c -)
+          ls -l "$RUNNER_TEMP/model"
+
+      - name: Official vector set (minimal layout)
+        run: |
+          set -euo pipefail
+          D="$RUNNER_TEMP/official"; mkdir -p "$D"
+          gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -D "$D" --clobber -p '*-base.manifest.json' -p '*-base.oxv.zst'
+          MF=$(ls "$D"/*-base.manifest.json)
+          python -X utf8 "$VCI" prepare-layout --manifest "$MF" --zst "${MF%.manifest.json}.oxv.zst" \
+            --layout "$RUNNER_TEMP/layout" --delete-zst
+          ID8=$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1],encoding="utf-8-sig"))["identityDigest"][:8])' "$MF")
+          echo "ID8=$ID8" >> "$GITHUB_ENV"
+          df -h / | tail -1
+
+      - name: Restore shard cache
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/tars"
+          gh release download "$CACHE_TAG" -D "$RUNNER_TEMP/tars" --clobber -p "cache-${ID8}-s${SHARD}-*.tar" || echo "אין cache קודם לרסיס $SHARD"
+          ls -l "$RUNNER_TEMP/tars" | tail -n +2 || true
+
+      - name: Embed (בתקציב זמן)
+        run: |
+          set -euo pipefail
+          START=$(cat "$RUNNER_TEMP/job-start")
+          ELAPSED=$(( ($(date +%s) - START) / 60 ))
+          BUDGET=$(( BUDGET_TOTAL - ELAPSED ))
+          [ "$BUDGET" -ge 5 ] || BUDGET=5
+          echo "תקציב הטמעה: $BUDGET דקות (חלפו $ELAPSED)"
+          mkdir -p "$RUNNER_TEMP/out"
+          python -X utf8 "$VCI" embed --repo . --layout "$RUNNER_TEMP/layout" --model-dir "$RUNNER_TEMP/model" \
+            --cache-dir "$RUNNER_TEMP/cache" --restore-from "$RUNNER_TEMP/tars" \
+            --shards "$NSHARDS" --shard "$SHARD" --round "$ROUND" --budget-minutes "$BUDGET" \
+            --tag "s${SHARD}r${ROUND}a${GITHUB_RUN_ATTEMPT}-${GITHUB_RUN_ID}" \
+            --new-parts-tar "$RUNNER_TEMP/out/cache-${ID8}-s${SHARD}-r${ROUND}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.tar" \
+            --status "$RUNNER_TEMP/out/status-${SHARD}.json" --workers 2 | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # גם אחרי כשל או ביטול: מה שהוטמע נשמר (אם הצעד הקודם הספיק לכתוב tar)
+      - name: Upload new cache parts
+        if: always()
+        run: |
+          set -uo pipefail
+          for f in "$RUNNER_TEMP"/out/cache-*.tar; do
+            [ -e "$f" ] || { echo "אין parts חדשים להעלאה"; continue; }
+            n=0
+            until gh release upload "$CACHE_TAG" "$f" --clobber; do
+              n=$((n + 1)); [ "$n" -lt 4 ] || { echo "::error::העלאה נכשלה: $f"; exit 1; }
+              sleep 20
+            done
+          done
+
+      - name: Upload status
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: status-${{ matrix.shard }}
+          path: ${{ runner.temp }}/out/status-${{ matrix.shard }}.json
+          if-no-files-found: warn
+          retention-days: 3
+
+  # ---- החלטה: סבב נוסף או הרכבה ----
+  next:
+    needs: [plan, embed]
+    if: always() && needs.plan.outputs.skip == 'false'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      all_done: ${{ steps.decide.outputs.all_done }}
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ROUND: ${{ needs.plan.outputs.round }}
+      MAX_ROUNDS: ${{ inputs.max_rounds || '6' }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: status-*
+          path: statuses
+          merge-multiple: true
+        continue-on-error: true
+
+      - name: Decide
+        id: decide
+        env:
+          EMBED_RESULT: ${{ needs.embed.result }}
+          NSHARDS: ${{ needs.plan.outputs.nshards }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' > "$RUNNER_TEMP/decision.txt"
+          import glob, json, os
+          n = int(os.environ["NSHARDS"])
+          st = {}
+          for f in glob.glob("statuses/status-*.json"):
+              d = json.load(open(f, encoding="utf-8"))
+              st[d["shard"]] = d
+          missing = [i for i in range(n) if i not in st]
+          errors = [i for i, d in st.items() if d.get("error")]
+          pending = [i for i, d in st.items() if not d.get("done")]
+          total_before = sum(d.get("cache_vectors_before", 0) for d in st.values())
+          total_after = sum(d.get("cache_vectors_after", 0) for d in st.values())
+          secs = max([d.get("seconds", 0) for d in st.values()] or [0])
+          print(f"missing={missing}\nerrors={errors}\npending={pending}")
+          print(f"cache_vectors_before={total_before}\ncache_vectors_after={total_after}\nmax_seconds={secs}")
+          if secs:
+              print(f"rate_per_shard={(total_after - total_before) / secs / max(len(st), 1):.1f}")
+          PY
+          cat "$RUNNER_TEMP/decision.txt"
+          { echo '### סבב '"$ROUND"; echo '```'; cat "$RUNNER_TEMP/decision.txt"; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          grep -q '^missing=\[\]$' "$RUNNER_TEMP/decision.txt" || { echo "::error::חסר סטטוס של רסיס (הג'וב נכשל לפני שסיים: ראו יומן)"; exit 1; }
+          grep -q '^errors=\[\]$' "$RUNNER_TEMP/decision.txt" || { echo "::error::שגיאה ברסיס"; exit 1; }
+          if grep -q '^pending=\[\]$' "$RUNNER_TEMP/decision.txt"; then
+            echo "all_done=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "all_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Dispatch next round
+        if: steps.decide.outputs.all_done == 'false'
+        env:
+          NSHARDS: ${{ needs.plan.outputs.nshards }}
+          SRC: ${{ needs.plan.outputs.source_sha }}
+          OFFICIAL_TAG: ${{ needs.plan.outputs.official_tag }}
+          BUDGET: ${{ inputs.budget_minutes || '325' }}
+        run: |
+          set -euo pipefail
+          NEXT=$((ROUND + 1))
+          if [ "$NEXT" -gt "$MAX_ROUNDS" ]; then
+            echo "::error::הגענו למספר הסבבים המרבי ($MAX_ROUNDS) וההטמעה לא הסתיימה"
+            exit 1
+          fi
+          gh workflow run build-vectors.yml -R "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" \
+            -f round="$NEXT" -f shards="$NSHARDS" -f max_rounds="$MAX_ROUNDS" -f budget_minutes="$BUDGET" \
+            -f source_sha="$SRC" -f official_tag="$OFFICIAL_TAG" -f parent_run="$GITHUB_RUN_ID"
+          echo "נשלח סבב $NEXT" | tee -a "$GITHUB_STEP_SUMMARY"
+
+  # ---- הרכבה ופרסום ----
+  assemble:
+    needs: [plan, next]
+    if: needs.next.outputs.all_done == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      OFFICIAL_TAG: ${{ needs.plan.outputs.official_tag }}
+      FINGERPRINT: ${{ needs.plan.outputs.fingerprint }}
+      SRC: ${{ needs.plan.outputs.source_sha }}
+      NSHARDS: ${{ needs.plan.outputs.nshards }}
+    steps:
+      - name: Free disk space
+        run: |
+          set -uo pipefail
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup \
+                      /opt/hostedtoolcache/CodeQL /usr/share/swift /usr/local/share/boost || true
+          sudo docker image prune --all --force >/dev/null 2>&1 || true
+          df -h / | tail -1
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.plan.outputs.source_sha }}
+          lfs: false
+          fetch-depth: 1
+
+      - name: Pull LFS (TXT) and verify
+        run: |
+          set -euo pipefail
+          git config core.quotePath false
+          git lfs install --local
+          git lfs pull --include="ספרים/**/*.txt" || true
+          if ! python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"; then
+            git lfs pull
+            python3 .github/scripts/db_release_helpers.py check-lfs "ספרים"
+          fi
+          rm -rf .git/lfs/objects
+          echo "BOOKS_TREE=$(git rev-parse 'HEAD:ספרים')" >> "$GITHUB_ENV"
+          df -h / | tail -1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies and run unit tests
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install $PIP_DEPS
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_ci.py" -v
+
+      # בהרכבה אין הטמעה: מספיקים model.json ו-tokenizer.json (הסקריפט בודק את סכום הבדיקה של ה-tokenizer)
+      - name: Model identity files
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/model"
+          gh release download "$MODEL_TAG" -R "$MODEL_REPO" -D "$RUNNER_TEMP/model" --clobber -p tokenizer.json -p model.json -p SHA256SUMS
+          (cd "$RUNNER_TEMP/model" && grep -E ' \*?(tokenizer\.json|model\.json)$' SHA256SUMS | sha256sum -c -)
+
+      - name: Official vector set (minimal layout)
+        run: |
+          set -euo pipefail
+          D="$RUNNER_TEMP/official"; mkdir -p "$D"
+          gh release download "$OFFICIAL_TAG" -R "$OFFICIAL_REPO" -D "$D" --clobber -p '*-base.manifest.json' -p '*-base.oxv.zst'
+          MF=$(ls "$D"/*-base.manifest.json)
+          cp "$MF" "$RUNNER_TEMP/official-manifest.json"
+          python -X utf8 "$VCI" prepare-layout --manifest "$MF" --zst "${MF%.manifest.json}.oxv.zst" \
+            --layout "$RUNNER_TEMP/layout" --delete-zst
+          echo "ID8=$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1],encoding="utf-8-sig"))["identityDigest"][:8])' "$MF")" >> "$GITHUB_ENV"
+          df -h / | tail -1
+
+      - name: Restore all cache shards
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/tars"
+          gh release download "$CACHE_TAG" -D "$RUNNER_TEMP/tars" --clobber -p "cache-${ID8}-s*.tar"
+          du -sh "$RUNNER_TEMP/tars"
+          df -h / | tail -1
+
+      - name: Assemble segment
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/out"
+          python -X utf8 "$VCI" embed --repo . --layout "$RUNNER_TEMP/layout" --model-dir "$RUNNER_TEMP/model" \
+            --cache-dir "$RUNNER_TEMP/cache" --restore-from "$RUNNER_TEMP/tars" --assemble \
+            --shards 1 --status "$RUNNER_TEMP/out/assemble-status.json" --workers 3
+          rm -rf "$RUNNER_TEMP/tars" "$RUNNER_TEMP/cache"
+          df -h / | tail -1
+
+      - name: Validate segment
+        run: |
+          set -euo pipefail
+          SEG="$RUNNER_TEMP/layout/vectors/$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1],encoding="utf-8"))["segment"]["file"])' "$RUNNER_TEMP/out/assemble-status.json")"
+          echo "SEG=$SEG" >> "$GITHUB_ENV"
+          python -X utf8 "$VCI" validate "$SEG" --layout "$RUNNER_TEMP/layout" --self-test | tee -a "$GITHUB_STEP_SUMMARY"
+          # פינוי ~2GB: המקטע הרשמי לא נדרש עוד
+          rm -f "$RUNNER_TEMP/layout/vectors/segments/$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1],encoding="utf-8-sig"))["segmentId"])' "$RUNNER_TEMP/official-manifest.json").oxv"
+          df -h / | tail -1
+
+      - name: Pack
+        run: |
+          set -euo pipefail
+          python -X utf8 "$VCI" pack --segment "$SEG" --out "$RUNNER_TEMP/release" \
+            --official-manifest "$RUNNER_TEMP/official-manifest.json" --official-tag "$OFFICIAL_TAG" \
+            --repository "$GITHUB_REPOSITORY" --commit "$SRC" --books-tree "$BOOKS_TREE" --run-id "$GITHUB_RUN_ID"
+          ls -l "$RUNNER_TEMP/release"
+          df -h / | tail -1
+
+      # חתימה אופציונלית (אותו מפתח של ה-DB): רק אם הסוד קיים
+      - name: Sign manifest (optional)
+        env:
+          DB_SIGNING_KEY: ${{ secrets.DB_SIGNING_KEY }}
+        run: |
+          set -euo pipefail
+          [ -n "${DB_SIGNING_KEY:-}" ] || { echo "אין DB_SIGNING_KEY: המניפסט לא חתום (יש בו sha256 לכל קובץ)"; exit 0; }
+          echo "::add-mask::$DB_SIGNING_KEY"
+          umask 077
+          printf '%s\n' "$DB_SIGNING_KEY" > "$RUNNER_TEMP/sign.key"
+          python -X utf8 -c 'import sys; sys.path.insert(0, sys.argv[1]); import release_db; release_db.sign_any(sys.argv[2], sys.argv[3])' \
+            "יצירת קישורים וסדר הדורות/כלי יצירה" "$RUNNER_TEMP/release/vectors-manifest.json" "$RUNNER_TEMP/sign.key"
+          rm -f "$RUNNER_TEMP/sign.key"
+
+      - name: Publish
+        run: |
+          set -euo pipefail
+          TS=$(date -u +%Y%m%d%H%M)
+          TAG="vectors-v$TS"
+          M="$RUNNER_TEMP/release/vectors-manifest.json"
+          printf '<div dir="rtl">\n\nוקטורי חיפוש לפי משמעות לספרי המאגר, שאינם בסט הרשמי של אוצריא (הוצאה רשמית %s). **אינו רשמי ואין התקנה רשמית שלו באוצריא**; ראו הוראות ב-README.\n\nהווקטורים נבנו במודל של אוצריא (רישיון אישי בלבד).\n\ninput-fingerprint: %s\n\n</div>\n' \
+            "$OFFICIAL_TAG" "$FINGERPRINT" > "$RUNNER_TEMP/notes.md"
+          gh release create "$TAG" --target "$SRC" --title "וקטורי חיפוש סמנטי - $TS" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
+          for f in "$RUNNER_TEMP"/release/*; do
+            n=0
+            until gh release upload "$TAG" "$f" --clobber; do
+              n=$((n + 1)); [ "$n" -lt 3 ] || { echo "::error::העלאה נכשלה: $f"; exit 1; }
+              sleep 20
+            done
+          done
+          # המניפסט הקבוע, רק אחרי שכל החלקים עלו
+          if ! gh release view vectors >/dev/null 2>&1; then
+            gh release create vectors --target "$SRC" --title "מניפסט וקטורים" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
+          fi
+          gh release upload vectors "$M" --clobber
+          [ ! -f "$M.sig" ] || gh release upload vectors "$M.sig" --clobber
+          gh release edit vectors --notes-file "$RUNNER_TEMP/notes.md" --latest=false
+          # שמירת N אחרונים
+          gh release list --limit 200 --json tagName,createdAt             -q "[.[] | select(.tagName | test(\"^vectors-v[0-9]+$\"))] | sort_by(.createdAt) | reverse | .[${KEEP_RELEASES}:] | .[].tagName"             | while read -r old; do [ -z "$old" ] || gh release delete "$old" --yes --cleanup-tag; done
+          # cache של זהות ישנה (מודל/קודק אחר) אינו שימושי עוד
+          gh release view "$CACHE_TAG" --json assets -q '.assets[].name' | grep -v "^cache-${ID8}-" \
+            | while read -r a; do [ -z "$a" ] || gh release delete-asset "$CACHE_TAG" "$a" --yes; done || true
+          echo "פורסם: $TAG" | tee -a "$GITHUB_STEP_SUMMARY"
+
+# ----------------------------------------------------------------------------------------------------------------
+# הערות
+#  1. create-zip-release.yml מוחק בסוף כל release שאינו ברשימת ההחרגה שלו; יש להוסיף לשם vectors|vectors-cache|vectors-v<N>
+#     (הוכנס באותו שינוי). בלי זה כל דחיפה ל-ספרים/** תמחק את ה-cache והווקטורים.
+#  2. התקנה אצל משתמש (אין נתיב רשמי היום; issue 35 ב-Otzaria/otzaria-semantic-search מציע חבילת "supplement" רשמית):
+#       python .github/scripts/vectors_ci.py install --manifest vectors-manifest.json --files-dir <תיקיית ההורדה> \
+#              --vectors-dir "C:\ProgramData\otzaria\vectors" [--dry-run]
+#     אוצריא חייבת להיות סגורה. התוצאה זהה למה שהסקריפט של קרית חנה מפרסם: דור חדש ב-vectors, הקודם נשמר כ-PREVIOUS.
+#     המקטע נבנה מול הוצאת הספרייה המצוינת במניפסט (dedupAgainst); מי שהסט הרשמי שלו ישן יותר ידלג על פסקאות שנוספו.
+#  3. בדיקה מקומית זעירה (עם המודל): הפקודות embed/validate/pack/install רצות על פריסה מזויפת, ראו test_vectors_ci.py
+#     לחלק שאינו דורש מודל.
