@@ -30,8 +30,8 @@
     קישורים - קבצי קובץ (גדולים)/01 … 30/links.csv   קישורים של ספרי "קובץ" (גדולים)
   סדר.txt                        סדר הצגת הקטגוריות הראשיות (וכן בכל תיקייה אחרת, ראו סעיף 4)
 יצירת קישורים וסדר הדורות/       כלים ותיעוד (תיעוד יצירת קישורים וסדר הדורות.md, כלי יצירה/)
-.github/workflows/               build-db.yml, create-zip-release.yml
-.github/scripts/                 עזרי build ל-DB ובדיקות שלהם
+.github/workflows/               build-db.yml, create-zip-release.yml, build-vectors.yml
+.github/scripts/                 עזרי build ל-DB ובדיקות שלהם, ועוד otzaria_personal_vectors.py + vectors_ci.py לוקטורי החיפוש
 .claude/skills/                  סקילים (סעיף 9)
 send_update.py                   מפרסם בפורום את מה שהשתנה (נקרא מה-workflow)
 manifest.json, books_data.js, files_data.json, removed_files.json   קבצים שנוצרים אוטומטית (סעיף 8)
@@ -130,6 +130,7 @@ manifest.json, books_data.js, files_data.json, removed_files.json   קבצים �
 - שניהם עם `concurrency` ו-`cancel-in-progress: false`: ריצה חדשה ממתינה בתור (ממתינה אחת בלבד, ריצה ממתינה חדשה מחליפה קודמת), ואחרי שהקודמת מסתיימת היא מתכננת מחדש ובונה גרסה נוספת. אין בעיה לדחוף בזמן שבנייה רצה.
 - ה-DB נחתם במפתח הפרטי (`DB_SIGNING_KEY`, secret). שינוי בכלים `build_personal_db.py`, `compress_personal_db.py`, `release_db.py` או במילון zstd נכנס לבנייה השבועית הבאה.
 - **המסד הרשמי (סכמה 7, `db_schema_version=7`)**: `build-db.yml` בוחר את ההוצאה הרשמית האחרונה (לפי `published_at`, תג `vN-…`, לא prerelease) שיש בה `seforim-schema7.db.zst` כנכס יחיד (עד v37), או כארכיון מפוצל (מ-v38): `seforim-schema7.db.zst.manifest.json` + `.part-000/001…`. `db_release_helpers.py pick-official` מחזיר תג, כתובת, גודל וסוג (`single`/`split`); `assemble-official` מאמת sha256 לכל חלק ומרכיב לפי הסדר ל-`seforim-schema7.db.zst` (ומאמת sha256 של הארכיון המלא), ורק אז הוא נשמר בקאש ומפוענח (`zstd -d --long=31`; חלון ה-zstd בפועל 8MiB, כך שהדגל בטוח אך לא נדרש). סכמה 7 לא משנה את המסד האישי: אוצריא מצרפת מסד מצורף בלי לדרוש `db_schema_version`, וקוראת גם `line` + `line_content` דחוס (`hasSplitLineContent`, כפי ש-`compress_personal_db.py` מייצר). קריאת טקסט הגמרא ב-`dh_lines.py` היא מ-`line_content` + `zstd_dict` של הרשמי (מסגרת zstd עם מילון), ועובדת על סכמה 7 כמות שהיא.
+- **וקטורי חיפוש לפי משמעות (`build-vectors.yml`, הרצה ידנית בלבד; ה-schedule כבוי)**: מחשב באוצריא-מודל `Meivin-Embed-QA491-native256` וקטורים לקטעי הספרים שאינם בסט הרשמי, ומפרסם סגמנט `.oxv` (store format 3) ב-releases `vectors-v<N>` (נשמרים 3), `vectors` (manifest קבוע) ו-`vectors-cache` (מטמון ההטמעות, ~1.25GB). רץ בשרשרת סבבים (6 רסיסים במקביל, תקציב ~325 דקות לג'וב, ריצה חדשה נשלחת אוטומטית עד שהכול הוטמע). הסקריפט `otzaria_personal_vectors.py` הוא של קרית חנה (אישרה שימוש) ו-`vectors_ci.py` הוא המתאם. פרסום הוקטורים אושר בכתב ע"י י.פל (בעלי אוצריא), בתנאי קרדיט לפרויקט אוצריא (otzaria.org) בהערות ה-release; קובצי המודל עצמם לא מפורסמים. אין עדיין נתיב רשמי להתקנה אצל משתמש (issue `Otzaria/otzaria-semantic-search#35`). `create-zip-release.yml` מוחק כל release שאינו ברשימת ההחרגה, ולכן כל משפחת תגים חדשה חייבת להתווסף שם.
 - `send_update.py` משתמש ב-secrets `USER_NAME` ו-`PASSWORD` ומפרסם בנושא 2518 בפורום `otzaria.org`.
 - אחרי דחיפה בודקים את הריצות: `gh run list -R YairDaniel11/Otzarya-Unofficial-Books --limit 5`, ועוקבים עד סיום.
 

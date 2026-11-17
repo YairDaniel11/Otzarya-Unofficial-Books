@@ -47,7 +47,7 @@ on:
       shards:
         description: 'מספר רסיסים במקביל (מגבלת הרצה במקביל לריפו ציבורי בחשבון חינמי: 20 ג׳ובים)'
         type: string
-        default: '12'
+        default: '6'
       max_rounds:
         description: 'מספר סבבים מרבי (בטיחות; מעבר לכך הריצה נכשלת)'
         type: string
@@ -125,7 +125,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ROUND: ${{ inputs.round || '1' }}
-          NSHARDS: ${{ inputs.shards || '12' }}
+          NSHARDS: ${{ inputs.shards || '6' }}
           FORCE: ${{ inputs.force }}
           IN_OFFICIAL_TAG: ${{ inputs.official_tag }}
         run: |
@@ -522,8 +522,9 @@ jobs:
           TS=$(date -u +%Y%m%d%H%M)
           TAG="vectors-v$TS"
           M="$RUNNER_TEMP/release/vectors-manifest.json"
-          printf '<div dir="rtl">\n\nוקטורי חיפוש לפי משמעות לספרי המאגר, שאינם בסט הרשמי של אוצריא (הוצאה רשמית %s). **אינו רשמי ואין התקנה רשמית שלו באוצריא**; ראו הוראות ב-README.\n\nהווקטורים נבנו במודל של אוצריא (רישיון אישי בלבד).\n\ninput-fingerprint: %s\n\n</div>\n' \
+          printf '<div dir="rtl">\n\nוקטורי חיפוש לפי משמעות לספרי המאגר, שאינם בסט הרשמי של אוצריא (הוצאה רשמית %s). **אינו רשמי ואין התקנה רשמית שלו באוצריא**; ראו הוראות ב-README.\n\nהווקטורים נבנו במודל של אוצריא, בהרשאה מפורשת של הבעלים לפרסום הוקטורים.\n\ninput-fingerprint: %s\n\n</div>\n' \
             "$OFFICIAL_TAG" "$FINGERPRINT" > "$RUNNER_TEMP/notes.md"
+          printf '\n<div dir="rtl">קרדיט: הוקטורים חושבו במודל Meivin-Embed-QA491-native256 של פרויקט אוצריא (otzaria.org), בהרשאה מפורשת של הבעלים. קובצי המודל עצמם אינם מופצים כאן.</div>\n' >> "$RUNNER_TEMP/notes.md"
           gh release create "$TAG" --target "$SRC" --title "וקטורי חיפוש סמנטי - $TS" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
           for f in "$RUNNER_TEMP"/release/*; do
             n=0
