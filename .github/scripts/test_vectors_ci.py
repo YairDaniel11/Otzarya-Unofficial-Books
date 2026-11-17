@@ -57,21 +57,59 @@ class PickOfficial(unittest.TestCase):
             C.pick_official([r])
 
 
+def make_db(path, lib="otzarya-unofficial-books", ver=51, books=((7, "ב"), (3, "א"), (12, "ג"))):
+    import sqlite3
+    con = sqlite3.connect(path)
+    con.executescript("""create table schema_meta(key text primary key, value text);
+        create table category(id integer primary key, parentId integer, title text);
+        create table book(id integer primary key, title text, categoryId integer);
+        create table line(id integer primary key, bookId integer, lineIndex integer, content text);""")
+    con.execute("insert into schema_meta values('library_id', ?)", (lib,))
+    con.execute("insert into schema_meta values('db_version', ?)", (str(ver),))
+    con.execute("insert into category values(1, null, 'ק')")
+    for i, t in books:
+        con.execute("insert into book values(?,?,1)", (i, t))
+        con.execute("insert into line(bookId, lineIndex, content) values(?,0,?)", (i, "שורה"))
+    con.commit()
+    con.close()
+
+
 class Books(unittest.TestCase):
-    def test_list_and_shards(self):
+    def test_shards_stable_and_cover(self):
+        ids = list(range(1, 400))
+        self.assertEqual([C.shard_of(i, 5) for i in ids], [C.shard_of(i, 5) for i in ids])
+        self.assertEqual({C.shard_of(i, 5) for i in ids}, {0, 1, 2, 3, 4})
+        self.assertEqual({C.shard_of(i, 1) for i in ids}, {0})
+
+    def test_slug(self):
+        self.assertEqual(C.sanitize_slug("otzarya-unofficial-books"), "otzarya-unofficial-books")
+        self.assertEqual(C.sanitize_slug("A b/c"), "a-b-c")
+        self.assertEqual(C.sanitize_slug(""), C.DEFAULT_SLUG)
+
+    def test_book_names_are_db_keys(self):
+        names = C.book_names("otzarya-unofficial-books", [3, 12])
+        self.assertEqual(names, ["db:otzarya-unofficial-books:3", "db:otzarya-unofficial-books:12"])
+        self.assertEqual(C.check_names(names, "otzarya-unofficial-books"), (True, 0))
+
+    def test_check_names_rejects_other_namespaces(self):
+        slug = "otzarya-unofficial-books"
+        for bad in ("uid:5", "id:5", "ext:x", f"db:other:5", f"db:{slug}:", f"db:{slug}:5x", f"xdb:{slug}:5"):
+            ok, n = C.check_names([f"db:{slug}:1", bad], slug)
+            self.assertFalse(ok, bad)
+            self.assertEqual(n, 1)
+
+    @unittest.skipUnless(HAVE_Z, "דורש numpy")
+    def test_db_info(self):
+        try:
+            import otzaria_personal_vectors  # noqa: F401
+        except ImportError:
+            self.skipTest("הסקריפט אינו זמין")
         with tempfile.TemporaryDirectory() as d:
-            for p in ("a/x.txt", "a/סדר.txt", "b/y.txt", "b/c/z.txt", "b/c/skip.json", "ב/ג.txt"):
-                f = Path(d) / "ספרים" / p
-                f.parent.mkdir(parents=True, exist_ok=True)
-                f.write_text("x", encoding="utf-8")
-            bs = C.list_books(d, 3)
-            self.assertEqual(len(bs), 4)
-            self.assertNotIn("סדר.txt", [Path(b["rel"]).name for b in bs])
-            self.assertEqual([b["idx"] for b in bs], [0, 1, 2, 3])
-            self.assertEqual([b["rel"] for b in bs], sorted((b["rel"] for b in bs), key=lambda s: s.encode("utf-8")))
-            self.assertTrue(all(0 <= b["shard"] < 3 for b in bs))
-            self.assertEqual([b["shard"] for b in bs], [b["shard"] for b in C.list_books(d, 3)])  # יציב
-            self.assertEqual({b["shard"] for b in C.list_books(d, 1)}, {0})
+            db = Path(d) / "x.db"
+            make_db(db)
+            info = C.db_info(db)
+            self.assertEqual((info["library_id"], info["db_version"], info["slug"]), ("otzarya-unofficial-books", 51, "otzarya-unofficial-books"))
+            self.assertEqual([i for i, _t in info["books"]], [3, 7, 12])
 
 
 # מניפסט החבילה של הבסיס v36 הרשמי (שדות כפי שנקראו מהקובץ של אוצריא) ו-set.json שאוצריא רשמה לו

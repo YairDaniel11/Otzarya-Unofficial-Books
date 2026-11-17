@@ -8,6 +8,11 @@
     (user_books: רשימת הספרים), ופעם נוספת plan_segment (עצירה אחרי ההטמעה, במצב embed).
     החלפת הסקריפט בגרסה מתוקנת = החלפת קובץ אחד. הממשקים שבהם המתאם נוגע (run, Cache, LiveSet,
     publish_generation, write_segment, self_test, CANCEL, Cancelled, recipe_identity) נבדקים בבדיקות.
+  - מקור הקלט: המסד האישי שפורסם בפועל (release db-v<N>), כספרייה מצורפת (attached): הפסקאות נקראות משורות
+    המסד, ושמות הספרים במקטע הם db:<slug>:<book.id> (slug = otzarya-unofficial-books). לא uid:<id> (ספרים אישיים של
+    המשתמש) ולא id:<id> (הרשמי). אזהרה: ה-hint של כל פסקה במקטע הוא מיקום השורה בספר, כפי שהוא במסד; כשהשורות
+    במסד זזות (ספר שנערך) ה-hint מתיישן, ולכן המקטע קשור לגרסת המסד (db.version במניפסט) ו-install מסרב אחרת. ה-anchor הוא
+    מפתח (hash) הפסקה הראשונה של השורה, ולכן יציב לתוכן.
   - אין ספרייה של אוצריא ב-CI: מרכיבים "פריסה מינימלית" (vectors/CURRENT + gen-000001 + המקטע הבסיסי
     הרשמי) מהוצאת הווקטורים הרשמית, והסקריפט רץ עליה כאילו היא ספריית אוצריא.
 
@@ -40,8 +45,7 @@ sys.path.insert(0, str(HERE))
 FAMILY_TAG_RE = re.compile(r"^vectors-qa491-windows-v(\d+)-(\d+)$")
 MANIFEST_RE = re.compile(r"^otzaria-vectors-([0-9a-f]{8})-v(\d+)-base\.manifest\.json$")
 PART_LIMIT = 1900 * 1024 * 1024   # מגבלת נכס ב-GitHub: 2GiB
-BOOKS_DIR = "ספרים"
-ORDER_FILE = "סדר.txt"
+DEFAULT_SLUG = "otzarya-unofficial-books"   # sanitizeSlug(library_id) של מסד המאגר
 
 
 class CiError(Exception):
@@ -99,22 +103,38 @@ def pick_official(releases):
 
 # ------------------------------------------------------------------ ספרים ורסיסים
 
-def shard_of(rel, shards):
-    return int.from_bytes(hashlib.sha1(rel.encode("utf-8")).digest()[:4], "big") % shards
+def shard_of(key, shards):
+    """רסיס של ספר לפי מזהה (מחרוזת). יציב: מזהי הספרים במסד יציבים לפי שם הספר בין בניות."""
+    return int.from_bytes(hashlib.sha1(str(key).encode("utf-8")).digest()[:4], "big") % shards
 
 
-def list_books(repo_root, shards=1):
-    """כל קבצי ה-TXT תחת ספרים (בלי סדר.txt), ממוינים לפי בייטים של הנתיב היחסי.
-    -> [{"idx", "rel", "path", "shard"}]. idx יציב בין הרסיסים (אינדקס בכל הרשימה)."""
-    base = Path(repo_root) / BOOKS_DIR
-    rels = []
-    for d, _dirs, files in os.walk(base):
-        for f in files:
-            if f.endswith(".txt") and f != ORDER_FILE:
-                rels.append(os.path.relpath(os.path.join(d, f), repo_root).replace(os.sep, "/"))
-    rels.sort(key=lambda s: s.encode("utf-8"))
-    return [{"idx": i, "rel": r, "path": str(Path(repo_root) / r), "shard": shard_of(r, shards)}
-            for i, r in enumerate(rels)]
+def sanitize_slug(library_id):
+    """slug של ספרייה מצורפת באוצריא (attached_library_probe.dart: sanitizeSlug, כפי שנמסר): תווים לא חוקיים
+    ל-'-'. עבור otzarya-unofficial-books זה בדיוק אותו ערך."""
+    s = re.sub(r"[^\w.\-]+", "-", str(library_id).strip().lower()).strip("-")
+    return s[:64] or DEFAULT_SLUG
+
+
+def db_info(db_path):
+    """המסד האישי שפורסם (release db-v<N>): {"library_id", "db_version", "slug", "books": [(id, title)]}.
+    נקרא דרך BookDB של הסקריפט (תומך בשורות דחוסות עם מילון)."""
+    opv = load_opv()
+    db = opv.BookDB(db_path)
+    con = db.connect()
+    try:
+        meta = db.meta(con)
+        cat = db.catalog(con)
+    finally:
+        con.close()
+    lib = meta.get("library_id") or DEFAULT_SLUG
+    ver = meta.get("db_version")
+    return {"library_id": lib, "db_version": int(ver) if ver not in (None, "") else None,
+            "slug": sanitize_slug(lib), "books": sorted((int(i), t) for i, (t, _c) in cat.items())}
+
+
+def book_names(slug, ids):
+    """מפתחות הספרים כפי שאוצריא נותנת לספר ממסד מצורף: db:<slug>:<id>."""
+    return [f"db:{slug}:{int(i)}" for i in ids]
 
 
 # ------------------------------------------------------------------ פריסה מינימלית
@@ -301,12 +321,25 @@ def cmd_embed(a):
     layout = Path(a.layout)
     live = opv.LiveSet(layout / "vectors")
     family = live.doc["identity"]["model"]["family_id"]
-    books = list_books(a.repo, a.shards)
-    total = len(books)
-    if a.shard is not None:
-        books = [b for b in books if b["shard"] == a.shard]
-    feed = [{"name": f"uid:{b['idx']}", "title": b["rel"], "path": b["path"]} for b in books]
-    opv.user_books = lambda _databases_dir: (feed, 0)
+    info = db_info(a.db)
+    total = len(info["books"])
+    slug = a.slug or info["slug"]
+    if not opv.SLUG_RE.match(slug):
+        raise CiError(f"slug לא חוקי: {slug}")
+    # מקור הקלט: המסד האישי שפורסם, כספרייה מצורפת: הפסקאות מגיעות משורות המסד (מה שאוצריא מאנדקסת), והשמות הם
+    # db:<slug>:<id>. אין ספרים אישיים (user_books): כך אין התנגשות עם uid:<id> של המשתמש.
+    opv.user_books = lambda _databases_dir: ([], 0)
+    opv.otzaria_settings = lambda _dir: {"custom_folders": [], "attached_folders": [], "error": None,
+                                         "attached": [{"path": str(a.db), "slug": slug, "displayName": info["library_id"]}]}
+    orig_attached = opv.attached_books
+
+    def attached_books(settings):
+        out, report = orig_attached(settings)
+        if a.shard is not None:
+            out = [b for b in out if shard_of(b["book_id"], a.shards) == a.shard]
+        return out, report
+    opv.attached_books = attached_books
+    feed = [i for i, _t in info["books"] if a.shard is None or shard_of(i, a.shards) == a.shard]
 
     cache_root = Path(a.cache_dir)
     fdir = family_dir(cache_root, family)
@@ -329,7 +362,7 @@ def cmd_embed(a):
         timer.start()
     t0 = time.time()
     status = {"mode": mode, "shard": a.shard, "round": a.round, "books": len(feed), "books_total": total,
-              "done": False, "error": None}
+              "db_version": info["db_version"], "slug": slug, "done": False, "error": None}
     code = 0
     try:
         report = opv.run(args)
@@ -390,6 +423,23 @@ def verify_block_crcs(path):
     return struct.pack(f"<{len(got)}I", *got) == want, len(got)
 
 
+def segment_book_names(path):
+    """שמות הספרים שבמקטע (סקציות BOOKS ו-BOOK_NAMES)."""
+    import numpy as np
+    opv = load_opv()
+    h = opv.read_header(path)
+    names = opv.section(path, h, opv.BOOK_NAMES)
+    books = np.frombuffer(opv.section(path, h, opv.BOOKS), opv.BOOK_DT)
+    return [names[int(b["name_off"]):int(b["name_off"]) + int(b["name_len"])].decode("utf-8") for b in books]
+
+
+def check_names(names, slug):
+    """כל שם הוא בדיוק db:<slug>:<id> (לא uid:, id: או ext:, שעלולים להתנגש עם ספרים אחרים באוצריא)."""
+    pat = re.compile(r"^db:" + re.escape(slug) + r":\d+$")
+    bad = [n for n in names if not pat.match(n)]
+    return not bad, len(bad)
+
+
 def cmd_validate(a):
     opv = load_opv()
     p = Path(a.segment)
@@ -398,6 +448,9 @@ def cmd_validate(a):
     ok_self = opv.self_test(p) if a.self_test else None     # כתיבה מחדש מכל הסקציות: זהה בבייטים
     res = {"slots": h["slots"], "books": h["books"], "block_crcs_ok": ok_crc, "blocks": nblocks,
            "rewrite_identical": ok_self, "tag": h["tag"], "id": h["id"].hex()}
+    names = segment_book_names(p)
+    names_ok, nbad = check_names(names, a.slug)
+    res.update({"names_ok": names_ok, "names_bad": nbad, "names": len(names)})
     if a.layout:
         live = opv.LiveSet(Path(a.layout) / "vectors")      # CURRENT -> set.json (sha256) -> כותרות
         ours = [s for s in live.doc["segments"] if opv.is_ours(s)]
@@ -405,7 +458,7 @@ def cmd_validate(a):
         res["ours_in_set"] = len(ours)
         res["set_slots"] = live.doc["stats"]["slots"]
     print(json.dumps(res))
-    bad = not ok_crc or ok_self is False or (a.layout and res["ours_in_set"] != 1)
+    bad = not ok_crc or ok_self is False or not names_ok or (a.layout and res["ours_in_set"] != 1)
     return 1 if bad else 0
 
 
@@ -453,6 +506,7 @@ def cmd_pack(a):
     name = f"otzarya-books-vectors-{h['identity_digest'].hex()[:8]}-{h['id'].hex()[:12]}.oxv"
     files = compress_split(seg, a.out, name, a.part_size)
     entries = [{"file": f.name, "size": f.stat().st_size, "sha256": sha256_file(f)} for f in files]
+    dbi = db_info(a.db) if a.db else {}
     layout_pkg = {}
     if a.official_manifest:
         layout_pkg = json.loads(Path(a.official_manifest).read_text(encoding="utf-8-sig"))
@@ -468,7 +522,10 @@ def cmd_pack(a):
         "segment": {"id": h["id"].hex(), "sha256": sha, "size": seg.stat().st_size, "slots": h["slots"],
                     "books": h["books"], "tag": h["tag"]},
         "compression": "zstd", "parts": len(entries) if len(entries) > 1 else 0, "files": entries,
-        "source": {"repository": a.repository, "commit": a.commit, "booksTree": a.books_tree},
+        # המקטע קשור לגרסת המסד: ה-hint של כל פסקה הוא מיקום השורה בספר במסד (ראו README בתחילת הקובץ)
+        "db": {"version": dbi.get("db_version"), "libraryId": dbi.get("library_id"), "slug": dbi.get("slug"),
+               "sha256": a.db_sha256 or None, "bookKeys": f"db:{dbi.get('slug')}:<book.id>"},
+        "source": {"repository": a.repository, "commit": a.commit},
         "builtBy": {"workflow": "build-vectors", "runId": a.run_id,
                     "scriptSha256": sha256_file(HERE / "otzaria_personal_vectors.py"),
                     "adapterSha256": sha256_file(Path(__file__))},
@@ -482,6 +539,15 @@ def cmd_pack(a):
 
 
 # ------------------------------------------------------------------ התקנה אצל משתמש
+
+def installed_db_version(opv, otzaria_dir, slug):
+    """גרסת המסד המצורף (schema_meta.db_version) שאוצריא רשמה ב-key-attached-libraries תחת ה-slug."""
+    st = opv.otzaria_settings(otzaria_dir)
+    for e in st.get("attached", []):
+        if str(e.get("slug")) == slug and Path(e["path"]).exists():
+            return db_info(e["path"])["db_version"]
+    return None
+
 
 def cmd_install(a):
     opv = load_opv()
@@ -497,6 +563,13 @@ def cmd_install(a):
     if doc["identity_digest"] != man["identityDigest"] or doc["codec_params_sha256"] != man["codecParamsSha256"]:
         raise CiError("הווקטורים נבנו למודל/קודק אחר מסט הווקטורים של אוצריא כאן; ההתקנה נעצרת")
     seg = man["segment"]
+    dbm = man.get("db") or {}
+    have = a.db_version
+    if have is None and a.otzaria_dir:
+        have = installed_db_version(opv, a.otzaria_dir, dbm.get("slug"))
+    if not a.allow_db_mismatch and have != dbm.get("version"):
+        raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. (מספרי השורות במסד זזים בין גרסאות; "
+                      f"עדכן את המסד לגרסה {dbm.get('version')}, או ציין --allow-db-mismatch על אחריותך)")
     if a.dry_run:
         print(f"dry-run: היה מותקן מקטע {seg['id']} ({seg['slots']:,} וקטורים) בדור {doc['generation'] + 1}")
         return 0
@@ -540,10 +613,9 @@ def main(argv=None):
     p = sub.add_parser("pick-official", help="releases.json (gh api repos/Otzaria/SeforimLibrary/releases) -> TSV")
     p.add_argument("releases")
 
-    p = sub.add_parser("books", help="רשימת הספרים ל-JSON (ושיוך רסיסים)")
-    p.add_argument("--repo", default=".")
+    p = sub.add_parser("books", help="ספרי המסד האישי ושיוך לרסיסים")
+    p.add_argument("--db", required=True)
     p.add_argument("--shards", type=int, default=1)
-    p.add_argument("--out")
 
     p = sub.add_parser("prepare-layout")
     p.add_argument("--manifest", required=True)
@@ -552,7 +624,8 @@ def main(argv=None):
     p.add_argument("--delete-zst", action="store_true")
 
     p = sub.add_parser("embed", help="הטמעת רסיס בתקציב זמן, או (--assemble) הרכבת המקטע מכל ה-cache")
-    p.add_argument("--repo", default=".")
+    p.add_argument("--db", required=True, help="המסד האישי (otzarya-unofficial-books-<N>.db)")
+    p.add_argument("--slug", default="", help="ברירת מחדל: sanitizeSlug של schema_meta.library_id")
     p.add_argument("--layout", required=True)
     p.add_argument("--model-dir", required=True)
     p.add_argument("--cache-dir", required=True)
@@ -572,6 +645,7 @@ def main(argv=None):
 
     p = sub.add_parser("validate")
     p.add_argument("segment")
+    p.add_argument("--slug", default=DEFAULT_SLUG)
     p.add_argument("--layout")
     p.add_argument("--self-test", action="store_true")
 
@@ -580,9 +654,10 @@ def main(argv=None):
     p.add_argument("--out", required=True)
     p.add_argument("--official-manifest")
     p.add_argument("--official-tag", default="")
+    p.add_argument("--db", help="המסד שממנו נבנה (לגרסה ול-slug במניפסט)")
+    p.add_argument("--db-sha256", default="")
     p.add_argument("--repository", default="")
     p.add_argument("--commit", default="")
-    p.add_argument("--books-tree", default="")
     p.add_argument("--run-id", default="")
     p.add_argument("--part-size", type=int, default=PART_LIMIT)
 
@@ -592,6 +667,9 @@ def main(argv=None):
     p.add_argument("--vectors-dir", required=True)
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--force", action="store_true")
+    p.add_argument("--otzaria-dir", help="תיקיית ההגדרות של אוצריא (app_preferences.hive): לקריאת גרסת המסד המצורף")
+    p.add_argument("--db-version", type=int, default=None, help="גרסת המסד המותקן, אם לא נקראת מההגדרות")
+    p.add_argument("--allow-db-mismatch", action="store_true")
 
     a = ap.parse_args(argv)
     try:
@@ -600,11 +678,10 @@ def main(argv=None):
             print("\t".join(str(x) for x in pick_official(rel)))
             return 0
         if a.cmd == "books":
-            bs = list_books(a.repo, a.shards)
-            if a.out:
-                Path(a.out).write_text(json.dumps(bs, ensure_ascii=False), encoding="utf-8")
-            per = [sum(1 for b in bs if b["shard"] == i) for i in range(a.shards)]
-            print(json.dumps({"books": len(bs), "per_shard": per}))
+            info = db_info(a.db)
+            per = [sum(1 for i, _t in info["books"] if shard_of(i, a.shards) == k) for k in range(a.shards)]
+            print(json.dumps({"db_version": info["db_version"], "slug": info["slug"], "books": len(info["books"]),
+                              "per_shard": per}))
             return 0
         if a.cmd == "prepare-layout":
             cmd_prepare_layout(a)
