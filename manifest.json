@@ -85,9 +85,9 @@
     "zip": "folder_0058.zip",
     "label": "ספרי מוסר",
     "parent": "",
-    "size": "13.5 MB",
+    "size": "13.4 MB",
     "depth": 0,
-    "hash": "ae959aa9f218af7dacbb29d172e2e48f"
+    "hash": "b3d5a13bed1d8dee9aecc6cbeb5216ec"
   },
   {
     "name": "קבלה",
@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "ecb0a1951f366538cc463dc753d122ec"
+    "hash": "c98cb3ebbbf3534c40ed8c2f89f8619b"
   },
   {
     "name": "שו״ת",
@@ -527,7 +527,7 @@
     "parent": "ספרי מוסר",
     "size": "2.4 MB",
     "depth": 1,
-    "hash": "053f8fc851a8297c3cfa018434e1cfb0"
+    "hash": "25825d81997861c0b2ccbcaa43964c0f"
   },
   {
     "name": "מחברי זמננו",
