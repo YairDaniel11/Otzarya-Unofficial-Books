@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "3a892ce2da63ef1ae7a8084df9daebbf"
+    "hash": "a5bb011dc09ffb3a42e8c1e7b2733054"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "910.6 MB",
+    "size": "910.5 MB",
     "depth": 0,
-    "hash": "dbce58081127033a736d485d18ccd0d5"
+    "hash": "1c13be74a756c59964ef9a19272287d3"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -697,7 +697,7 @@
     "parent": "קבצי קישורים וסדר הדורות",
     "size": "1.3 MB",
     "depth": 1,
-    "hash": "4d127a3be56d94b14be0845f399e6cd2"
+    "hash": "a2b41d32ad31376006d17db02bf544f4"
   },
   {
     "name": "קישורים - קבצי קובץ (גדולים)",
@@ -775,9 +775,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "82.5 MB",
+    "size": "82.4 MB",
     "depth": 1,
-    "hash": "cab72d426c4d2def28af0a57237d6e32"
+    "hash": "0e6b67bff43904899485785ebc7d6ba0"
   },
   {
     "name": "מערכות ועניינים",
@@ -1655,9 +1655,9 @@
     "zip": "folder_0461.zip",
     "label": "09",
     "parent": "קבצי קישורים וסדר הדורות/קישורים",
-    "size": "66 KB",
+    "size": "62 KB",
     "depth": 2,
-    "hash": "8066b59338a2404a3744e34b3c9825da"
+    "hash": "ed6be90a3868b05306e7dc81fc8e382b"
   },
   {
     "name": "10",
@@ -2278,16 +2278,6 @@
     "size": "4.0 MB",
     "depth": 2,
     "hash": "4d9582c4c0ca87b2fce8c0c341294017"
-  },
-  {
-    "name": "שיעורי ר' דוד",
-    "path": "תלמוד בבלי/מחברי זמננו/שיעורי ר' דוד",
-    "zip": "folder_0500.zip",
-    "label": "שיעורי ר' דוד",
-    "parent": "תלמוד בבלי/מחברי זמננו",
-    "size": "72 KB",
-    "depth": 2,
-    "hash": "6c63386c3d5916ad33707e0a3adf2c12"
   },
   {
     "name": "שיעורי ר' שמואל",
