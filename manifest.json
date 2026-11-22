@@ -47,7 +47,7 @@
     "parent": "",
     "size": "10.6 MB",
     "depth": 0,
-    "hash": "8ece10f4a0408914be2bfc319f8a59c1"
+    "hash": "c483a1bab01e0ac26791829c141912b0"
   },
   {
     "name": "משנה",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "910.6 MB",
+    "size": "915.2 MB",
     "depth": 0,
-    "hash": "dbce58081127033a736d485d18ccd0d5"
+    "hash": "69f07ea911ff5e97e805d05a0bb38689"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -367,7 +367,7 @@
     "parent": "מחשבת ישראל",
     "size": "2.4 MB",
     "depth": 1,
-    "hash": "bbdd618c05ddab9919681c26b487ad56"
+    "hash": "e3df7df8d19415457691e4dbe8fe9135"
   },
   {
     "name": "מחברי זמננו",
@@ -775,9 +775,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "82.5 MB",
+    "size": "87.2 MB",
     "depth": 1,
-    "hash": "cab72d426c4d2def28af0a57237d6e32"
+    "hash": "9355cc3a7c6b99eedab2317b0b2483b6"
   },
   {
     "name": "מערכות ועניינים",
