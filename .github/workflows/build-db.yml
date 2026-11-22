@@ -252,6 +252,7 @@ jobs:
           python -X utf8 -m unittest discover -s .github/scripts -p "test_db_release_helpers.py" -v
           python -X utf8 -m unittest discover -s .github/scripts -p "test_post_db_update.py" -v
           (cd "$TOOLS_DIR" && python -X utf8 -m unittest test_release_db)
+          (cd "$TOOLS_DIR" && python -X utf8 -m unittest test_dedup_links)
 
       # ---- מפתח חתימה ----
       - name: Prepare signing key

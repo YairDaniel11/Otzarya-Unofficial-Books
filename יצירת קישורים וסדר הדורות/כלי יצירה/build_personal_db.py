@@ -147,6 +147,43 @@ HEADING = re.compile(r'^<h([1-6])[^>]*>(.*?)</h\1>\s*$')
 TAGS = re.compile(r'<[^>]+>')
 
 
+class LabelDedup:
+    """קישור כפול = אותו ספר מקור, אותה כותרת (נתיב תוכן העניינים של שורת המקור, לפי הטקסט) ואותו יעד.
+    בחלונית המפרשים כל קישור מוצג בשם הכותרת של שורת המקור, ולכן כמה שורות באותה כותרת שמקושרות לאותו יעד
+    מופיעות שוב ושוב באותו שם. משאירים קישור אחד (הראשון לפי סדר השורות)."""
+
+    def __init__(self, db):
+        self.db, self.seen, self._labels = db, set(), {}
+
+    def label(self, bid, line0):
+        row = self.db.execute('SELECT tocEntryId FROM line WHERE bookId=? AND lineIndex=?', (bid, line0)).fetchone()
+        eid = row[0] if row else None
+        if eid is None:
+            return None
+        lab = self._labels.get(eid)
+        if lab is None:
+            parts, cur = [], eid
+            while cur is not None:
+                r = self.db.execute('SELECT t.text, e.parentId FROM tocEntry e JOIN tocText t ON t.id=e.textId '
+                                    'WHERE e.id=?', (cur,)).fetchone()
+                if r is None:
+                    break
+                parts.append(r[0])
+                cur = r[1]
+            lab = self._labels[eid] = tuple(parts)
+        return lab
+
+    def is_dup(self, bid, line0, target, ref, li):
+        lab = self.label(bid, line0)
+        if lab is None:  # שורה בלי כותרת: אין שם להצגה, לא מאחדים
+            return False
+        key = (bid, lab, target, ref, li)
+        if key in self.seen:
+            return True
+        self.seen.add(key)
+        return False
+
+
 def read_lines(path):
     with open(path, encoding='utf-8', errors='replace') as f:
         lines = f.read().replace('\r\n', '\n').split('\n')
@@ -398,7 +435,8 @@ def main():
                 else:
                     stats['dh_not_found_stays_page'] += 1
 
-    for (src, target, loc, kind), items in pending.items():
+    label_dedup = LabelDedup(db)
+    for (src, target, loc, kind), items in sorted(pending.items()):
         items.sort()
         # כתאב אלתאג' (מקרא): שורה אחת לפסוק, גם כשחלוקת הפסוקים בפרק שונה במעט מהרשמי
         taj_text = src.endswith(" (כתאב אלתאג')") and not src.startswith('תרגום')
@@ -415,6 +453,9 @@ def main():
             hit = dh_map.get((src, line0, target, loc))
             if hit:
                 ref, li = hit
+            if label_dedup.is_dup(book_ids[src], line0, target, ref, li):
+                stats['dup_same_label'] += 1
+                continue
             db.execute('INSERT INTO external_link VALUES (?,?,?,?,?,?,?)',
                        (book_ids[src], line0, 'official', target, ref, li, 'SOURCE'))
             stats['links'] += 1
