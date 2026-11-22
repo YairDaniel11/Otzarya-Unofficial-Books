@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "915.2 MB",
+    "size": "910.6 MB",
     "depth": 0,
-    "hash": "69f07ea911ff5e97e805d05a0bb38689"
+    "hash": "dbce58081127033a736d485d18ccd0d5"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -775,9 +775,9 @@
     "zip": "folder_0076.zip",
     "label": "מחברי זמננו",
     "parent": "תלמוד בבלי",
-    "size": "87.2 MB",
+    "size": "82.5 MB",
     "depth": 1,
-    "hash": "9355cc3a7c6b99eedab2317b0b2483b6"
+    "hash": "cab72d426c4d2def28af0a57237d6e32"
   },
   {
     "name": "מערכות ועניינים",
