@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "a5bb011dc09ffb3a42e8c1e7b2733054"
+    "hash": "1cfdfa211cb50d77f67720f2d958bc4e"
   },
   {
     "name": "שו״ת",
@@ -117,7 +117,7 @@
     "parent": "",
     "size": "57.8 MB",
     "depth": 0,
-    "hash": "573736863c3310f86befa5868fe7e5a9"
+    "hash": "28671eddef437724460ef5ed7bddadb8"
   },
   {
     "name": "תלמוד בבלי",
@@ -717,7 +717,7 @@
     "parent": "שו״ת",
     "size": "18.9 MB",
     "depth": 1,
-    "hash": "aa1d6703fb1f5b9c88d1455381ab0bde"
+    "hash": "d0ab999c47e665274dc87275a223ad8f"
   },
   {
     "name": "גאונים",
