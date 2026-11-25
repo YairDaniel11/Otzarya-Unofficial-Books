@@ -124,12 +124,31 @@ def db_info(db_path):
     try:
         meta = db.meta(con)
         cat = db.catalog(con)
+        try:
+            lines = {int(i): int(n) for i, n in con.execute("select id, totalLines from book")}
+        except Exception:
+            lines = {}
     finally:
         con.close()
     lib = meta.get("library_id") or DEFAULT_SLUG
     ver = meta.get("db_version")
     return {"library_id": lib, "db_version": int(ver) if ver not in (None, "") else None,
-            "slug": sanitize_slug(lib), "books": sorted((int(i), t) for i, (t, _c) in cat.items())}
+            "slug": sanitize_slug(lib), "books": sorted((int(i), t) for i, (t, _c) in cat.items()),
+            "book_lines": lines}
+
+
+# סף סבירות להתקנה כשגרסת המסד המותקן שונה מזו שהוקטורים נבנו לה: עד 2% מהספרים שבוקטורים (ולא פחות מ-5 ספרים)
+# רשאים להשתנות (מספר שורות שונה = ה-hint של הספר זז). שאר הספרים תקינים כמות שהם.
+STALE_RATIO = 0.02
+STALE_MIN = 5
+
+
+def layout_compat(want_lines, have_lines):
+    """השוואת פריסת השורות של הספרים שבוקטורים (want_lines: {id: n}) מול המסד המותקן (have_lines).
+    מחזיר (ok, stale_ids). ספר שנעלם מהמסד אינו נחשב (אין לו מה להציג); ספר ששינה מספר שורות = מיושן."""
+    stale = [i for i, n in want_lines.items() if i in have_lines and have_lines[i] != n]
+    limit = max(STALE_MIN, int(len(want_lines) * STALE_RATIO))
+    return len(stale) <= limit, stale
 
 
 def book_names(slug, ids):
@@ -524,7 +543,11 @@ def cmd_pack(a):
         "compression": "zstd", "parts": len(entries) if len(entries) > 1 else 0, "files": entries,
         # המקטע קשור לגרסת המסד: ה-hint של כל פסקה הוא מיקום השורה בספר במסד (ראו README בתחילת הקובץ)
         "db": {"version": dbi.get("db_version"), "libraryId": dbi.get("library_id"), "slug": dbi.get("slug"),
-               "sha256": a.db_sha256 or None, "bookKeys": f"db:{dbi.get('slug')}:<book.id>"},
+               "sha256": a.db_sha256 or None, "bookKeys": f"db:{dbi.get('slug')}:<book.id>",
+               # פריסת השורות בעת הבנייה {book.id: totalLines}. מתקין מקבל גם מסד בגרסה חדשה יותר כל עוד הפריסה של
+               # (כמעט) כל הספרים זהה; ראו layout_compat. מזהי הספרים יציבים בין גרסאות (build_personal_db --stable-from).
+               "bookLines": {str(i): n for i, n in sorted(dbi.get("book_lines", {}).items())},
+               "compat": "book-layout-v1"},
         "source": {"repository": a.repository, "commit": a.commit},
         "builtBy": {"workflow": "build-vectors", "runId": a.run_id,
                     "scriptSha256": sha256_file(HERE / "otzaria_personal_vectors.py"),
@@ -568,8 +591,19 @@ def cmd_install(a):
     if have is None and a.otzaria_dir:
         have = installed_db_version(opv, a.otzaria_dir, dbm.get("slug"))
     if not a.allow_db_mismatch and have != dbm.get("version"):
-        raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. (מספרי השורות במסד זזים בין גרסאות; "
-                      f"עדכן את המסד לגרסה {dbm.get('version')}, או ציין --allow-db-mismatch על אחריותך)")
+        # מסד חדש יותר: מתקינים ומזהירים (רק ספרים ששינו מספר שורות עלולים לפתוח שורה לא מדויקת). מסד ישן יותר: חוסמים.
+        if have is None or have < (dbm.get("version") or 0):
+            raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. עדכן את המסד, "
+                          f"או ציין --allow-db-mismatch על אחריותך")
+        want = {int(k): int(v) for k, v in (dbm.get("bookLines") or {}).items()}
+        path = None
+        if a.otzaria_dir:
+            for e in opv.otzaria_settings(a.otzaria_dir).get("attached", []):
+                if str(e.get("slug")) == dbm.get("slug") and Path(e["path"]).exists():
+                    path = e["path"]
+        stale = layout_compat(want, db_info(path)["book_lines"])[1] if want and path else []
+        print(f"המסד המותקן (גרסה {have}) חדש מזה שהוקטורים נבנו לו ({dbm.get('version')}); מתקינים בכל זאת. "
+              f"{len(stale)} ספרים השתנו (ה-hint שלהם עלול לזוז), ספרים חדשים עדיין לא בחיפוש.")
     if a.dry_run:
         print(f"dry-run: היה מותקן מקטע {seg['id']} ({seg['slots']:,} וקטורים) בדור {doc['generation'] + 1}")
         return 0
