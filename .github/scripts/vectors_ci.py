@@ -22,7 +22,8 @@
   prepare-layout  פריסה מינימלית מהוצאה רשמית (אימות sha256, פענוח zstd)
   embed           הטמעה בתקציב זמן (עצירה מסודרת, שמירת cache) או הרכבת המקטע (assemble)
   validate        אימות מקטע שנוצר (כותרת, CRC לבלוקים, כתיבה מחדש זהה בבייטים)
-  pack            דחיסה, פיצול למקטעי <2GiB ומניפסט
+  pack            דחיסה, פיצול למקטעי <2GiB, דלתא מההוצאה הקודמת (vectors_delta.py) ומניפסט
+  restore-segment מקטע מלא מפוענח ממניפסט וקבצי release (בסיס לדלתא)
   install         התקנה אצל משתמש בסט הווקטורים של אוצריא שלו (לא רשמי; ראו תיעוד בקובץ ה-workflow)
 """
 import argparse
@@ -517,6 +518,50 @@ def compress_split(src, out_dir, base_name, part_size=PART_LIMIT, level=10):
     return parts
 
 
+DELTA_MAX_RATIO = 0.5   # דלתאות שגדולות מחצי מהבסיס אינן נשמרות/נבחרות: בסיס מלא עדיף
+DELTA_MAX_CHAIN = 2     # כמה דלתאות אחרונות המניפסט מכיל (release-ים נשמרים 3: v<N>, v<N-1>, v<N-2>)
+
+
+def make_delta_entry(opv, a, h, seg, out, base_bytes):
+    """דלתא מהמקטע של ההוצאה הקודמת (a.prev_segment, לפי a.prev_manifest) אל seg. -> (deltas, notes):
+    רשימת הרשומות למניפסט החדש (דלתאות קודמות שעדיין ברות-שימוש + החדשה), או [] כשאין דלתא (ונימוק)."""
+    import vectors_delta as D
+    prev = json.loads(Path(a.prev_manifest).read_text(encoding="utf-8-sig"))
+    psha = sha256_file(a.prev_segment)
+    if prev.get("format") != "otzarya-unofficial-books-vectors" or (prev.get("segment") or {}).get("sha256") != psha:
+        return [], "המקטע הקודם אינו תואם למניפסט הקודם: אין דלתא"
+    new_sha = sha256_file(seg)
+    keep = [d for d in (prev.get("deltas") or [])][-(max(a.max_chain, 1) - 1):] if a.max_chain > 1 else []
+    if keep and (keep[-1]["to"]["sha256"] != psha or any(d.get("tag") == a.release_tag for d in keep)):
+        keep = []     # שרשרת שבורה, או קבצים שנמצאים ב-release שנמחק ונוצר מחדש עכשיו
+    if psha == new_sha:
+        return keep, "המקטע לא השתנה מההוצאה הקודמת"
+    name = f"otzarya-books-vectors-{h['identity_digest'].hex()[:8]}-{psha[:12]}-to-{new_sha[:12]}.oxd"
+    path = Path(out) / name
+    try:
+        meta = D.build_delta(opv, a.prev_segment, seg, path)
+    except D.DeltaError as e:
+        return [], f"אין דלתא: {e}"
+    size = path.stat().st_size
+    if size >= DELTA_MAX_RATIO * base_bytes:
+        path.unlink()
+        return [], f"הדלתא ({size:,} בייט) גדולה מ-{int(DELTA_MAX_RATIO * 100)}% מהבסיס: לא נשמרת"
+    if not a.no_verify_delta:
+        tmp = Path(out) / ".verify.oxv"
+        try:
+            D.apply_delta(opv, a.prev_segment, path, tmp)    # זורק DeltaError אם התוצאה אינה זהה בבייטים למקטע החדש
+        except D.DeltaError as e:
+            path.unlink()
+            raise CiError(f"אימות הדלתא נכשל (החלה על המקטע הקודם אינה נותנת את החדש): {e}")
+        finally:
+            tmp.unlink(missing_ok=True)
+    dbv = (prev.get("db") or {}).get("version")
+    entry = {"fromDb": dbv, "tag": a.release_tag, "from": {"segmentId": prev["segment"]["id"], "sha256": psha},
+             "to": {"segmentId": meta["to"]["id"], "sha256": new_sha, "size": meta["to"]["size"]},
+             "files": [{"file": name, "size": size, "sha256": sha256_file(path)}], "counts": meta["counts"]}
+    return keep + [entry], f"דלתא {size:,} בייט ({meta['counts']['newKeys']:,} וקטורים חדשים)"
+
+
 def cmd_pack(a):
     opv = load_opv()
     seg = Path(a.segment)
@@ -529,8 +574,19 @@ def cmd_pack(a):
     layout_pkg = {}
     if a.official_manifest:
         layout_pkg = json.loads(Path(a.official_manifest).read_text(encoding="utf-8-sig"))
+    deltas, delta_note = [], "לא התבקשה דלתא (אין --prev-manifest/--prev-segment)"
+    if a.prev_manifest and a.prev_segment and Path(a.prev_manifest).exists() and Path(a.prev_segment).exists():
+        try:
+            deltas, delta_note = make_delta_entry(opv, a, h, seg, a.out, sum(e["size"] for e in entries))
+        except CiError as e:
+            # כשל באימות הדלתא אינו חוסם הפצה: הבסיס המלא תמיד תקין, והמשתמשים יורידו אותו
+            deltas, delta_note = [], f"::warning::{e}"
+    if deltas and deltas[-1].get("tag") == a.release_tag:
+        deltas[-1]["toDb"] = dbi.get("db_version")
+    print(f"דלתאות: {len(deltas)}; {delta_note}", flush=True)
     manifest = {
         "format": "otzarya-unofficial-books-vectors", "formatVersion": 1, "kind": "supplement",
+        "releaseTag": a.release_tag or None,
         "identityDigest": h["identity_digest"].hex(), "codecParamsSha256": h["params_sha256"].hex(),
         "family": (layout_pkg.get("identity", {}).get("model", {}) or {}).get("family_id"),
         "requires": layout_pkg.get("requires"),
@@ -541,6 +597,9 @@ def cmd_pack(a):
         "segment": {"id": h["id"].hex(), "sha256": sha, "size": seg.stat().st_size, "slots": h["slots"],
                     "books": h["books"], "tag": h["tag"]},
         "compression": "zstd", "parts": len(entries) if len(entries) > 1 else 0, "files": entries,
+        # דלתאות (vectors_delta.py): מקטע ישן -> החדש. מי שהמקטע המותקן אצלו (sha256) הוא ה-from של הראשונה בשרשרת
+        # מוריד רק אותן (ראו vectors_delta.md); כל השאר מוריד את הבסיס המלא שב-files. כל רשומה: tag של ה-release שבו הקבצים.
+        "deltas": deltas,
         # המקטע קשור לגרסת המסד: ה-hint של כל פסקה הוא מיקום השורה בספר במסד (ראו README בתחילת הקובץ)
         "db": {"version": dbi.get("db_version"), "libraryId": dbi.get("library_id"), "slug": dbi.get("slug"),
                "sha256": a.db_sha256 or None, "bookKeys": f"db:{dbi.get('slug')}:<book.id>",
@@ -551,14 +610,29 @@ def cmd_pack(a):
         "source": {"repository": a.repository, "commit": a.commit},
         "builtBy": {"workflow": "build-vectors", "runId": a.run_id,
                     "scriptSha256": sha256_file(HERE / "otzaria_personal_vectors.py"),
-                    "adapterSha256": sha256_file(Path(__file__))},
+                    "adapterSha256": sha256_file(Path(__file__)),
+                    "deltaSha256": sha256_file(HERE / "vectors_delta.py")},
         "createdAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "notice": "וקטורים לספרי המאגר שאינם בסט הרשמי. נבנו במודל של אוצריא (רישיון אישי בלבד); ראו README.",
     }
     mp = Path(a.out) / "vectors-manifest.json"
     mp.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(json.dumps({"manifest": str(mp), "files": [e["file"] for e in entries],
-                      "bytes": sum(e["size"] for e in entries), "segment_bytes": manifest["segment"]["size"]}))
+    print(json.dumps({"manifest": str(mp), "files": [e["file"] for e in entries] + [e["file"] for d in deltas for e in d["files"] if d.get("tag") == a.release_tag],
+                      "bytes": sum(e["size"] for e in entries), "segment_bytes": manifest["segment"]["size"],
+                      "deltas": len(deltas)}))
+
+
+def cmd_restore_segment(a):
+    """מקטע מלא (zst, אולי מפוצל) לפי מניפסט וקבצים בתיקייה -> קובץ .oxv (עם אימות sha256): בסיס לבניית דלתא."""
+    man = json.loads(Path(a.manifest).read_text(encoding="utf-8-sig"))
+    d = Path(a.files_dir)
+    parts = [d / e["file"] for e in man["files"]]
+    for e, p in zip(man["files"], parts):
+        if not p.exists() or p.stat().st_size != e["size"] or sha256_file(p) != e["sha256"]:
+            raise CiError(f"{e['file']}: חסר או אינו תואם למניפסט")
+    seg = man["segment"]
+    decompress_zst(parts, a.out, seg["sha256"], seg["size"])
+    print(f"restored: {a.out} ({seg['slots']:,} slots)")
 
 
 # ------------------------------------------------------------------ התקנה אצל משתמש
@@ -572,14 +646,89 @@ def installed_db_version(opv, otzaria_dir, slug):
     return None
 
 
+def installed_ours(opv, doc):
+    """המקטע האישי המותקן (של הסקריפט הזה או של קרית חנה), רק כשהוא יחיד: אחרת None (ההתקנה תהיה בסיס מלא)."""
+    ours = [s for s in doc["segments"] if opv.is_ours(s)]
+    return ours[0] if len(ours) == 1 else None
+
+
+def _release_files(man):
+    """שם קובץ -> (רשומה, tag של ה-release שבו הוא), לבסיס ולכל הדלתאות."""
+    out = {e["file"]: (e, man.get("releaseTag")) for e in man["files"]}
+    for d in man.get("deltas") or []:
+        for e in d["files"]:
+            out[e["file"]] = (e, d.get("tag"))
+    return out
+
+
+def _check_db_compat(opv, a, man, dbm):
+    have = a.db_version
+    if have is None and a.otzaria_dir:
+        have = installed_db_version(opv, a.otzaria_dir, dbm.get("slug"))
+    if a.allow_db_mismatch or have == dbm.get("version"):
+        return
+    # גרסת מסד שונה (חדשה או ישנה): מתקינים כל עוד לפחות 80% מהספרים שבוקטורים עדיין באותה פריסת שורות
+    # (ראו layout_compat). אם לא ניתן לקרוא את המסד המותקן - מסד חדש יותר מותר עם אזהרה, ישן או לא ידוע נחסם.
+    want = {int(k): int(v) for k, v in (dbm.get("bookLines") or {}).items()}
+    path = None
+    if a.otzaria_dir:
+        for e in opv.otzaria_settings(a.otzaria_dir).get("attached", []):
+            if str(e.get("slug")) == dbm.get("slug") and Path(e["path"]).exists():
+                path = e["path"]
+    if want and path:
+        ok, stale = layout_compat(want, db_info(path)["book_lines"])
+        if not ok:
+            raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. בהם {len(stale)} מתוך "
+                          f"{len(want)} ספרים שינו מספר שורות (מעל {int(STALE_RATIO * 100)}%). עדכן את המסד, "
+                          f"או ציין --allow-db-mismatch על אחריותך")
+    elif have is None or have < (dbm.get("version") or 0):
+        raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. עדכן את המסד, "
+                      f"או ציין --allow-db-mismatch על אחריותך")
+    else:
+        stale = []
+    print(f"גרסת המסד המותקן ({have}) שונה מזו שהוקטורים נבנו לה ({dbm.get('version')}); מתקינים בכל זאת. "
+          f"{len(stale)} ספרים שינו מספר שורות (ה-hint שלהם עלול לזוז), ספרים חדשים עדיין לא בחיפוש.")
+
+
+def _verified_files(d, names, table):
+    """בודק קיום, גודל ו-sha256 של הקבצים; מחזיר את הנתיבים לפי הסדר."""
+    out = []
+    for n in names:
+        e = table[n][0]
+        p = d / n
+        if not p.exists() or p.stat().st_size != e["size"] or sha256_file(p) != e["sha256"]:
+            raise CiError(f"{n}: חסר או אינו תואם למניפסט")
+        out.append(p)
+    return out
+
+
+def _apply_chain(opv, vdir, ours, chain, d):
+    """מחיל את שרשרת הדלתאות על המקטע המותקן. -> נתיב קובץ זמני עם המקטע הסופי (זהה בבייטים לבסיס המלא)."""
+    import vectors_delta as D
+    src, tmps = vdir / ours["file"], []
+    try:
+        for i, dl in enumerate(chain):
+            out = vdir / "segments" / f"personal-vectors.step{i}.oxv.tmp"
+            tmps.append(out)
+            D.apply_delta(opv, src, d / dl["files"][0]["file"], out)
+            if len(tmps) > 1:
+                tmps[-2].unlink(missing_ok=True)
+            src = out
+        final = vdir / "segments" / "personal-vectors.oxv.tmp"
+        os.replace(src, final)
+        return final
+    except BaseException:
+        for t in tmps:
+            t.unlink(missing_ok=True)
+        raise
+
+
 def cmd_install(a):
+    """התקנה אצל משתמש. מצבים: current (כבר מותקן), delta (שרשרת דלתאות על המקטע המותקן), base (בסיס מלא)."""
+    import vectors_delta as D
     opv = load_opv()
     man = json.loads(Path(a.manifest).read_text(encoding="utf-8-sig"))
     d = Path(a.files_dir)
-    parts = [d / e["file"] for e in man["files"]]
-    for e, p in zip(man["files"], parts):
-        if not p.exists() or p.stat().st_size != e["size"] or sha256_file(p) != e["sha256"]:
-            raise CiError(f"{e['file']}: חסר או אינו תואם למניפסט")
     vdir = Path(a.vectors_dir)
     live = opv.LiveSet(vdir)
     doc = live.doc
@@ -587,47 +736,56 @@ def cmd_install(a):
         raise CiError("הווקטורים נבנו למודל/קודק אחר מסט הווקטורים של אוצריא כאן; ההתקנה נעצרת")
     seg = man["segment"]
     dbm = man.get("db") or {}
-    have = a.db_version
-    if have is None and a.otzaria_dir:
-        have = installed_db_version(opv, a.otzaria_dir, dbm.get("slug"))
-    if not a.allow_db_mismatch and have != dbm.get("version"):
-        # גרסת מסד שונה (חדשה או ישנה): מתקינים כל עוד לפחות 80% מהספרים שבוקטורים עדיין באותה פריסת שורות
-        # (ראו layout_compat). אם לא ניתן לקרוא את המסד המותקן - מסד חדש יותר מותר עם אזהרה, ישן או לא ידוע נחסם.
-        want = {int(k): int(v) for k, v in (dbm.get("bookLines") or {}).items()}
-        path = None
-        if a.otzaria_dir:
-            for e in opv.otzaria_settings(a.otzaria_dir).get("attached", []):
-                if str(e.get("slug")) == dbm.get("slug") and Path(e["path"]).exists():
-                    path = e["path"]
-        if want and path:
-            ok, stale = layout_compat(want, db_info(path)["book_lines"])
-            if not ok:
-                raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. בהם {len(stale)} מתוך "
-                              f"{len(want)} ספרים שינו מספר שורות (מעל {int(STALE_RATIO * 100)}%). עדכן את המסד, "
-                              f"או ציין --allow-db-mismatch על אחריותך")
-        elif have is None or have < (dbm.get("version") or 0):
-            raise CiError(f"המקטע נבנה למסד גרסה {dbm.get('version')}, והמותקן אצלך: {have}. עדכן את המסד, "
-                          f"או ציין --allow-db-mismatch על אחריותך")
-        else:
-            stale = []
-        print(f"גרסת המסד המותקן ({have}) שונה מזו שהוקטורים נבנו לה ({dbm.get('version')}); מתקינים בכל זאת. "
-              f"{len(stale)} ספרים שינו מספר שורות (ה-hint שלהם עלול לזוז), ספרים חדשים עדיין לא בחיפוש.")
+    ours = installed_ours(opv, doc)
+    table = _release_files(man)
+    avail = {n for n, (e, _t) in table.items() if (d / n).exists() and (d / n).stat().st_size == e["size"]}
+    plan = D.plan_install(man, ours["sha256"] if ours else None, avail, allow_delta=not a.no_delta,
+                          max_chain=a.max_chain, max_ratio=a.max_ratio)
+    if a.plan:
+        print(json.dumps({"mode": plan["mode"], "reason": plan["reason"],
+                          "need": [{"file": n, "tag": table[n][1], "size": table[n][0]["size"],
+                                    "sha256": table[n][0]["sha256"]} for n in plan["need"]]}, ensure_ascii=False))
+        return 0
+    if plan["mode"] == "current" and not a.force_reinstall:
+        print(f"המקטע האישי המותקן כבר זהה לגרסה במניפסט (db {dbm.get('version')}): אין מה להתקין.")
+        return 0
+    if plan["mode"] == "missing":
+        raise CiError("חסרים קבצים בתיקיית ההורדה: " + ", ".join(n for n in plan["need"] if n not in avail) +
+                      f" ({plan['reason']})")
+    _check_db_compat(opv, a, man, dbm)
+    mode = "base" if plan["mode"] == "current" else plan["mode"]
+    note = f"דלתאות: {plan['reason']}" if mode == "delta" else f"בסיס מלא: {plan['reason']}"
+    base_names = [e["file"] for e in man["files"]]
     if a.dry_run:
-        print(f"dry-run: היה מותקן מקטע {seg['id']} ({seg['slots']:,} וקטורים) בדור {doc['generation'] + 1}")
+        print(f"dry-run: {note}; היה מותקן מקטע {seg['id']} ({seg['slots']:,} וקטורים) בדור {doc['generation'] + 1}")
         return 0
     if not a.force:
         opv.guard(vdir, False)
+    (vdir / "segments").mkdir(exist_ok=True)
     tmp = vdir / "segments" / "personal-vectors.oxv.tmp"
-    tmp.parent.mkdir(exist_ok=True)
-    decompress_zst(parts, tmp, seg["sha256"], seg["size"])
+    tmp.unlink(missing_ok=True)
+    if mode == "delta":
+        try:
+            _verified_files(d, plan["need"], table)
+            tmp = _apply_chain(opv, vdir, ours, plan["chain"], d)
+        except (CiError, D.DeltaError) as e:
+            if not all(n in avail for n in base_names):
+                raise CiError(f"החלת הדלתאות נכשלה ({e}) ואין בתיקייה את הבסיס המלא")
+            print(f"החלת הדלתאות נכשלה ({e}): מתקינים את הבסיס המלא", flush=True)
+            mode, note = "base", f"בסיס מלא: נפילה אחרי כשל בדלתאות ({e})"
+    if mode == "base":
+        parts = _verified_files(d, base_names, table)
+        decompress_zst(parts, tmp, seg["sha256"], seg["size"])
     h = opv.read_header(tmp)
-    if h["id"].hex() != seg["id"] or h["identity_digest"].hex() != doc["identity_digest"] or h["version"] != 3:
+    if h["id"].hex() != seg["id"] or h["identity_digest"].hex() != doc["identity_digest"] or h["version"] != 3 \
+            or sha256_file(tmp) != seg["sha256"]:
         tmp.unlink()
         raise CiError("כותרת המקטע אינה תואמת למניפסט או לסט")
     lock = opv.SetLock(vdir)
     try:
         live2 = opv.LiveSet(vdir)
         if live2.doc["generation"] != doc["generation"]:
+            tmp.unlink(missing_ok=True)
             raise CiError("הסט השתנה במהלך ההתקנה; יש להריץ שוב")
         segs = live2.doc["segments"]
         pv = next((s["to"] for i, s in enumerate(segs) if opv.is_ours(s) and i < len(segs) - 1), doc["library_version"])
@@ -638,7 +796,7 @@ def cmd_install(a):
         gen = opv.publish_generation(live2, w, package, "prebuilt: " + str(man.get("builtBy", {}).get("runId")))
     finally:
         lock.release()
-    print(f"הותקן: דור {gen}, מקטע {seg['id']} ({seg['slots']:,} וקטורים). אוצריא תשתמש בו בהפעלה הבאה.")
+    print(f"הותקן ({note}): דור {gen}, מקטע {seg['id']} ({seg['slots']:,} וקטורים). אוצריא תשתמש בו בהפעלה הבאה.")
     return 0
 
 
@@ -702,6 +860,16 @@ def main(argv=None):
     p.add_argument("--commit", default="")
     p.add_argument("--run-id", default="")
     p.add_argument("--part-size", type=int, default=PART_LIMIT)
+    p.add_argument("--release-tag", default="", help="ה-release שבו יפורסמו קבצי הגרסה הזו (vectors-v<N>)")
+    p.add_argument("--prev-manifest", help="vectors-manifest.json של ההוצאה הקודמת: לבניית דלתא ממנה")
+    p.add_argument("--prev-segment", help="המקטע המלא (.oxv מפוענח) של ההוצאה הקודמת (restore-segment)")
+    p.add_argument("--max-chain", type=int, default=DELTA_MAX_CHAIN, help="כמה דלתאות אחרונות במניפסט")
+    p.add_argument("--no-verify-delta", action="store_true", help="בלי אימות (החלה על הקודם והשוואת sha256)")
+
+    p = sub.add_parser("restore-segment", help="מקטע מלא מפוענח ממניפסט וקבצי release (בסיס לדלתא)")
+    p.add_argument("--manifest", required=True)
+    p.add_argument("--files-dir", required=True)
+    p.add_argument("--out", required=True)
 
     p = sub.add_parser("install")
     p.add_argument("--manifest", required=True)
@@ -712,6 +880,11 @@ def main(argv=None):
     p.add_argument("--otzaria-dir", help="תיקיית ההגדרות של אוצריא (app_preferences.hive): לקריאת גרסת המסד המצורף")
     p.add_argument("--db-version", type=int, default=None, help="גרסת המסד המותקן, אם לא נקראת מההגדרות")
     p.add_argument("--allow-db-mismatch", action="store_true")
+    p.add_argument("--plan", action="store_true", help="רק מדפיס JSON: מצב (current/delta/base/missing) והקבצים הדרושים (עם tag)")
+    p.add_argument("--no-delta", action="store_true", help="בסיס מלא תמיד")
+    p.add_argument("--max-chain", type=int, default=3, help="אורך שרשרת דלתאות מרבי (אחרת בסיס מלא)")
+    p.add_argument("--max-ratio", type=float, default=DELTA_MAX_RATIO, help="דלתאות שגודלן הכולל מעל חלק זה מהבסיס: בסיס מלא")
+    p.add_argument("--force-reinstall", action="store_true", help="התקנה גם כשהמקטע המותקן כבר זהה")
 
     a = ap.parse_args(argv)
     try:
@@ -737,6 +910,9 @@ def main(argv=None):
             return 0
         if a.cmd == "install":
             return cmd_install(a)
+        if a.cmd == "restore-segment":
+            cmd_restore_segment(a)
+            return 0
     except CiError as e:
         print(f"שגיאה: {e}", file=sys.stderr)
         return 2
