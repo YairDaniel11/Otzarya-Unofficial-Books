@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "1cfdfa211cb50d77f67720f2d958bc4e"
+    "hash": "751e886b5e4c3a48ea56d9e47e6f923e"
   },
   {
     "name": "שו״ת",
@@ -115,9 +115,9 @@
     "zip": "folder_0137.zip",
     "label": "שו״ת",
     "parent": "",
-    "size": "57.8 MB",
+    "size": "56.6 MB",
     "depth": 0,
-    "hash": "28671eddef437724460ef5ed7bddadb8"
+    "hash": "c50c75a1909ccf4d7651caaa58e1c7b3"
   },
   {
     "name": "תלמוד בבלי",
@@ -715,9 +715,9 @@
     "zip": "folder_0138.zip",
     "label": "אחרונים",
     "parent": "שו״ת",
-    "size": "18.9 MB",
+    "size": "17.7 MB",
     "depth": 1,
-    "hash": "d0ab999c47e665274dc87275a223ad8f"
+    "hash": "b1b6a323b8bb38d555ec15725cb5bd8e"
   },
   {
     "name": "גאונים",
