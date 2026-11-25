@@ -31,6 +31,10 @@ name: Build Otzaria Vectors
 #             ל-<2GiB, מנפיק מניפסט (עם db.version), מפרסם release 'vectors-v<N>' (נשמרים 3) ו-'vectors' (מניפסט
 #             קבוע של האחרון), ומנקה cache של זהות ישנה.
 #
+# עדכוני דלתא: בסוף ההרכבה, אם יש הוצאה קודמת, נבנית דלתא ממנה (רק פסקאות חדשות + רשימת מה שירד/השתנה ב-hint), מאומתת
+# בהחלה על המקטע הקודם (חייבת לתת בדיוק את המקטע החדש) ונוספת ל-release עם המניפסט (ראו vectors_delta.md). הבסיס המלא
+# מתפרסם תמיד, כך שכשל בדלתא לעולם לא חוסם משתמש.
+#
 # ה-cache ב-release 'vectors-cache' (ולא ב-actions/cache): נשאר בין ריצות שבועיות בלי פינוי (actions/cache: מכסה
 # 10GB לריפו ופינוי אחרי 7 ימים בלי גישה).
 #
@@ -179,7 +183,7 @@ jobs:
           gh release download "db-v$DB_VERSION" -p manifest.json -D "$RUNNER_TEMP/dbm" --clobber
           DB_SHA=$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))["full"]["sha256"])' "$RUNNER_TEMP/dbm/manifest.json")
           echo "גרסת המסד: $DB_VERSION (sha256 $DB_SHA)"
-          FP=$( { echo "$DB_VERSION $DB_SHA"; echo "$OFFICIAL_TAG"; echo "$MODEL_TAG";                   sha256sum .github/scripts/otzaria_personal_vectors.py "$VCI" .github/workflows/build-vectors.yml; }                 | sha256sum | cut -d' ' -f1)
+          FP=$( { echo "$DB_VERSION $DB_SHA"; echo "$OFFICIAL_TAG"; echo "$MODEL_TAG";                   sha256sum .github/scripts/otzaria_personal_vectors.py "$VCI" .github/scripts/vectors_delta.py .github/workflows/build-vectors.yml; }                 | sha256sum | cut -d' ' -f1)
 
           SKIP=false
           if [ "$ROUND" = "1" ] && [ "$FORCE" != "true" ]; then
@@ -261,7 +265,7 @@ jobs:
           set -euo pipefail
           python -m pip install --upgrade pip
           pip install $PIP_DEPS
-          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_ci.py" -v
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_*.py" -v
 
       - name: Personal DB (db-v<N>)
         env:
@@ -464,7 +468,7 @@ jobs:
           set -euo pipefail
           python -m pip install --upgrade pip
           pip install $PIP_DEPS
-          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_ci.py" -v
+          python -X utf8 -m unittest discover -s .github/scripts -p "test_vectors_*.py" -v
 
       - name: Personal DB (db-v<N>)
         env:
@@ -533,12 +537,42 @@ jobs:
           rm -f "$RUNNER_TEMP/layout/vectors/segments/$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1],encoding="utf-8-sig"))["segmentId"])' "$RUNNER_TEMP/official-manifest.json").oxv"
           df -h / | tail -1
 
+      # דלתא מההוצאה הקודמת (vectors_delta.py): מורידים את המניפסט הקבוע ואת הבסיס המלא של ההוצאה הקודמת, ומפענחים
+      # אותו ל-prev.oxv. כל כשל כאן (אין הוצאה קודמת, הורדה, sha256) רק מוותר על הדלתא: הבסיס המלא מתפרסם תמיד.
+      - name: Previous release (for delta)
+        run: |
+          set -uo pipefail
+          P="$RUNNER_TEMP/prev"; mkdir -p "$P/files"
+          prev() {
+            gh release download vectors -p vectors-manifest.json -D "$P" --clobber || { echo "אין הוצאה קודמת: ללא דלתא"; return 1; }
+            PTAG=$(python3 -c 'import json,sys; m=json.load(open(sys.argv[1],encoding="utf-8")); print(m.get("releaseTag") or "vectors-v%s" % (m.get("db") or {}).get("version"))' "$P/vectors-manifest.json") || return 1
+            for f in $(python3 -c 'import json,sys; print(" ".join(e["file"] for e in json.load(open(sys.argv[1],encoding="utf-8"))["files"]))' "$P/vectors-manifest.json"); do
+              gh release download "$PTAG" -p "$f" -D "$P/files" --clobber || return 1
+            done
+            python -X utf8 "$VCI" restore-segment --manifest "$P/vectors-manifest.json" --files-dir "$P/files" --out "$P/prev.oxv" || return 1
+          }
+          if prev; then
+            echo "PREV_MANIFEST=$P/vectors-manifest.json" >> "$GITHUB_ENV"
+            echo "PREV_SEG=$P/prev.oxv" >> "$GITHUB_ENV"
+          else
+            echo "::warning::הדלתא דולגה: מפרסמים בסיס מלא בלבד"
+            rm -f "$P/prev.oxv"
+          fi
+          rm -rf "$P/files"
+          df -h / | tail -1
+
       - name: Pack
         run: |
           set -euo pipefail
+          EXTRA=()
+          if [ -n "${PREV_SEG:-}" ] && [ -f "$PREV_SEG" ]; then
+            EXTRA=(--prev-manifest "$PREV_MANIFEST" --prev-segment "$PREV_SEG")
+          fi
           python -X utf8 "$VCI" pack --segment "$SEG" --out "$RUNNER_TEMP/release" \
             --official-manifest "$RUNNER_TEMP/official-manifest.json" --official-tag "$OFFICIAL_TAG" \
-            --db "$RUNNER_TEMP/books.db" --db-sha256 "$DB_SHA" --repository "$GITHUB_REPOSITORY" --commit "$SRC" --run-id "$GITHUB_RUN_ID"
+            --db "$RUNNER_TEMP/books.db" --db-sha256 "$DB_SHA" --repository "$GITHUB_REPOSITORY" --commit "$SRC" --run-id "$GITHUB_RUN_ID" \
+            --release-tag "vectors-v$DB_VERSION" "${EXTRA[@]}"
+          rm -f "${PREV_SEG:-/nonexistent}"
           ls -l "$RUNNER_TEMP/release"
           df -h / | tail -1
 
@@ -601,6 +635,10 @@ jobs:
 #     (schema_meta.db_version, לפי הנתיב ב-key-attached-libraries) שווה ל-db.version במניפסט; אחרת מסרבת (--db-version N
 #     או --allow-db-mismatch לעקיפה). התוצאה זהה למה שהסקריפט של קרית חנה מפרסם: דור חדש ב-vectors, הקודם נשמר
 #     כ-PREVIOUS. המקטע נבנה מול הוצאת הספרייה שבמניפסט (dedupAgainst); מי שהסט הרשמי שלו ישן יותר ידלג על פסקאות שנוספו.
+#     עדכוני דלתא (vectors_delta.md): vectors-manifest.json מכיל גם "deltas" (עד 2 אחרונות, מקטע ישן -> חדש לפי sha256).
+#     התקנה על מקטע אישי מותקן שהוא ה-from של שרשרת מוריד רק את קובצי ה-.oxd (כל אחד ב-release של ה-tag שברשומה) ומחיל
+#     אותם; התוצאה זהה בבייטים לבסיס המלא (נבדק מול sha256). כל מקרה אחר (מקטע לא מוכר, שרשרת חסרה/ארוכה מ-3,
+#     דלתאות מעל 50% מהבסיס, קובץ חסר או פגום) נופל לבסיס המלא. `install --plan` מדפיס מה להוריד (קובץ + tag), בלי להתקין.
 #     שמירת התאמה בעדכון: כשהמסד מתעדכן ל-N+1 צריך מקטע של N+1 (נבנה מחדש, מהיר בזכות ה-cache), או מסירים את המקטע הישן
 #     (הסקריפט של קרית חנה: --remove). לתוסף/למעדכן הוצע: להתקין את המקטע רק כשגרסת המסד המותקנת שווה ל-db.version.
 #  3. בדיקה מקומית זעירה (עם המודל): הפקודות embed/validate/pack/install רצות על פריסה מזויפת, ראו test_vectors_ci.py
