@@ -107,7 +107,7 @@
     "parent": "",
     "size": "2.4 MB",
     "depth": 0,
-    "hash": "751e886b5e4c3a48ea56d9e47e6f923e"
+    "hash": "e78d124b0759cdabdddbb504ebb377c2"
   },
   {
     "name": "שו״ת",
@@ -125,9 +125,9 @@
     "zip": "folder_0060.zip",
     "label": "תלמוד בבלי",
     "parent": "",
-    "size": "910.5 MB",
+    "size": "925.7 MB",
     "depth": 0,
-    "hash": "1c13be74a756c59964ef9a19272287d3"
+    "hash": "e883ccd03b0fd953dcdeb401ebf594ba"
   },
   {
     "name": "תלמוד ירושלמי",
@@ -815,9 +815,9 @@
     "zip": "folder_0078.zip",
     "label": "שס וגשל",
     "parent": "תלמוד בבלי",
-    "size": "475.1 MB",
+    "size": "490.4 MB",
     "depth": 1,
-    "hash": "fa787e3038bb8d55f3441c6819170fff"
+    "hash": "189b437efa384e7c97d32e13ce6aaf30"
   },
   {
     "name": "מפרשים",
@@ -2527,7 +2527,7 @@
     "parent": "תלמוד בבלי/שס וגשל",
     "size": "134.6 MB",
     "depth": 2,
-    "hash": "139c2aa14beb766363bb1b02ef728c2a"
+    "hash": "00fd5ac128b66038a6dbcccab77e7efa"
   },
   {
     "name": "סדר נזיקין",
@@ -2535,9 +2535,9 @@
     "zip": "folder_0109.zip",
     "label": "סדר נזיקין",
     "parent": "תלמוד בבלי/שס וגשל",
-    "size": "112.9 MB",
+    "size": "114.6 MB",
     "depth": 2,
-    "hash": "7954da9c425e400eb5d518a137e2e143"
+    "hash": "5d0418e4602b62f74f13eda5550c7a3e"
   },
   {
     "name": "סדר נשים",
@@ -2555,9 +2555,9 @@
     "zip": "folder_0111.zip",
     "label": "סדר קדשים",
     "parent": "תלמוד בבלי/שס וגשל",
-    "size": "96.2 MB",
+    "size": "109.7 MB",
     "depth": 2,
-    "hash": "ed9b643eed2e384a5402819d38a4ecad"
+    "hash": "328434dfc47a8aff1b96b85d0d1d8407"
   },
   {
     "name": "ידיד נפש",
